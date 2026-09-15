@@ -1,0 +1,107 @@
+Book.txt
+  s_b96f6d969cd114::t_4c4a8174063f11 1-43
+acquisition-adds-work-first.md
+  s_b96f6d969cd114::t_ea89fec3f94913 1-157
+ai-strategy-three-questions.md
+  s_b96f6d969cd114::t_0931842c005df1 1-134
+announcement-is-not-a-budget.md
+  s_b96f6d969cd114::t_53013f944bf222 1-175
+bibliography.md
+  s_b96f6d969cd114::t_7d3bde13e96cd7 1-723
+book-title.md
+  s_b96f6d969cd114::t_430e337224ca4e 1-19
+can-the-team-deliver.md
+  s_b96f6d969cd114::t_4bbeaaf9b90901 1-140
+cannot-fund-everything.md
+  s_b96f6d969cd114::t_959b3017b3aad0 1-141
+cheaper-cloud-bill.md
+  s_b96f6d969cd114::t_8ea985f7a9c282 1-174
+customers-lenders-investors.md
+  s_b96f6d969cd114::t_9515c9c05474ec 1-132
+decide-who-decides.md
+  s_b96f6d969cd114::t_415d69720503a2 1-158
+different-bets.md
+  s_b96f6d969cd114::t_b18869ed1eed1f 1-144
+diligence-corrects-the-plan.md
+  s_b96f6d969cd114::t_98b5ffeaa9bd32 1-148
+export-manifest.json
+  s_b96f6d969cd114::t_773343cf978f99 1-1066
+first-hundred-days.md
+  s_b96f6d969cd114::t_f77e69f7b28e6c 1-139
+fix-decisions-before-hiring.md
+  s_b96f6d969cd114::t_11fb130593dd90 1-148
+fund-economics.md
+  s_b96f6d969cd114::t_d3d155d39fb53e 1-78
+glossary.md
+  s_b96f6d969cd114::t_9434b10d03065d 1-364
+growth-into-design.md
+  s_b96f6d969cd114::t_602c23706e876d 1-155
+handover-of-obligations.md
+  s_b96f6d969cd114::t_ba3fbb0fd17667 1-151
+help-that-changes-capability.md
+  s_b96f6d969cd114::t_775b03286898e2 1-156
+hilton-and-skype.md
+  s_b96f6d969cd114::t_efb15be69abaa1 1-149
+investor-under-pressure.md
+  s_b96f6d969cd114::t_554c32af790cca 1-144
+investors-adviser.md
+  s_b96f6d969cd114::t_56330c225b501b 1-131
+obligations-before-budget.md
+  s_b96f6d969cd114::t_e5edb091297a3e 1-175
+part-1.md
+  s_b96f6d969cd114::t_4406e00ea41d1f 1-32
+part-2.md
+  s_b96f6d969cd114::t_23b100e6dd49a8 1-25
+part-3.md
+  s_b96f6d969cd114::t_8d1b2b69dc07d8 1-39
+part-4.md
+  s_b96f6d969cd114::t_16e63bb35291e2 1-27
+part-5.md
+  s_b96f6d969cd114::t_a5551c190c3bc8 1-28
+part-6.md
+  s_b96f6d969cd114::t_183d455cedc8c0 1-29
+prove-you-can-restore.md
+  s_b96f6d969cd114::t_557198d92117ea 1-138
+raise-what-you-need.md
+  s_b96f6d969cd114::t_83e3b65f744793 1-137
+reading-guide.md
+  s_b96f6d969cd114::t_0f79804e66b4da 1-163
+roadmap-to-revenue.md
+  s_b96f6d969cd114::t_77f7edbd9a805e 1-163
+section-08.md
+  s_b96f6d969cd114::t_fb217b66823c30 1-6
+success-for-whom.md
+  s_b96f6d969cd114::t_ee1d0f4e88cae8 1-156
+teamsystem.md
+  s_b96f6d969cd114::t_0e74fbc58b166b 1-172
+the-financing-slipped.md
+  s_b96f6d969cd114::t_d9bd86d2b95b04 1-135
+three-different-returns.md
+  s_b96f6d969cd114::t_65ca397ee4c105 1-174
+toolkit.md
+  s_b96f6d969cd114::t_d42537b5316497 1-377
+toys-r-us.md
+  s_b96f6d969cd114::t_a69886f7b99c61 1-160
+useful-engagement.md
+  s_b96f6d969cd114::t_b5a98bc6b2570f 1-158
+valuation-is-an-estimate.md
+  s_b96f6d969cd114::t_7a8d0823ac2406 1-206
+visma.md
+  s_b96f6d969cd114::t_f700c78facf7d7 1-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9cd6796e5a37f41e0cd5c753819db906a8b74d02",
+  "prompts": {},
+  "sessions": {
+    "s_b96f6d969cd114": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a4a5-0e58-77f3-9242-ec7e1b48a77b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
