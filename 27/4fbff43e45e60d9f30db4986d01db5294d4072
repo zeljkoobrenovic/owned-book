@@ -1,0 +1,19 @@
+manuscript/export-manifest.json
+  s_b96f6d969cd114::t_125d210362009f 920-933,935-936,938-951,1054,1056-1064
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "274fbff43e45e60d9f30db4986d01db5294d4072",
+  "prompts": {},
+  "sessions": {
+    "s_b96f6d969cd114": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a4a5-0e58-77f3-9242-ec7e1b48a77b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
