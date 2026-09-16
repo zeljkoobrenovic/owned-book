@@ -1,5 +1,5 @@
 {id: ai-strategy-three-questions}
-# 17. An AI Strategy Hides Three Investment Questions
+# 18. An AI Strategy Hides Three Investment Questions
 
 ![An AI Strategy Hides Three Investment Questions — logo](private-techuity/posts/12-ai-strategy-three-questions/assets/images/12-ai-strategy-three-questions/logo.jpeg)
 

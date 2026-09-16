@@ -1,5 +1,5 @@
 {id: can-the-team-deliver}
-# 12. Can the Software and the Team Deliver What Was Promised?
+# 13. Can the Software and the Team Deliver What Was Promised?
 
 ![Can the Software and the Team Deliver What Was Promised? — logo](private-techuity/posts/09-can-the-team-deliver/assets/images/09-can-the-team-deliver/logo.jpeg)
 

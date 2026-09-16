@@ -4,35 +4,32 @@
   "journal": "private-techuity",
   "title": "OWNED: Product & Engineering Leadership Under Investors",
   "authors": [
-    "Željko Obrenović"
+    "Željko Obrenović",
+    "Owned working manuscript"
   ],
-  "frontmatter_posts": [
-    "reading-guide"
-  ],
-  "backmatter_sections": [
-    "Reference Material"
-  ],
+  "frontmatter_posts": [],
+  "backmatter_sections": [],
   "site_url": "",
   "image_optimization": {
     "jpeg_quality": 85,
     "backend": "sips"
   },
   "source_hashes": {
-    "config.yaml": "2695705f2c6e8ef8755be9048aaf7182bead879de2366914ad3171cdc4df5082",
-    "posts/reading-guide/index.md": "9b15afc660544e1035e91605194d1ab8770fe3028978a904e58fe8aa9eb7295c",
+    "config.yaml": "03c26a46e061c166e7ea303b5e4b4383b554a6a6e8a5013deb34329a29fa02c8",
+    "posts/introduction/index.md": "1fcbaf1c4fdafcadd6a5b2f4b72bb9a3d321a2c5b32428c5dd5daa1813212243",
     "posts/part-1-intro/index.md": "0d4fee2b58dd3e83ade980861734d003137d8d75d08031148c0f0ddff75147e8",
     "posts/00-customers-lenders-investors/index.md": "7f8deaf00b47f7ac5fde9abc9ac12c1d18cc7579a1ef6dc0fe86283e0e2e0247",
     "posts/01-announcement-is-not-a-budget/index.md": "83d715e1ba0c20c98b9ccaa15eb62795917c1f69bd6e3b9e5ad6528b97b36f11",
     "posts/26-valuation-is-an-estimate/index.md": "a1fee794f0a1cd0e1aa1afd40d7594310481733415ce9396d6054fa0e0c37a15",
     "posts/02-three-different-returns/index.md": "008a9a1332155b452e199a391a4a41dbe84adc226ded5233f55ebdc367e250fa",
-    "posts/03-raise-what-you-need/index.md": "def41f588542ae0a97674f78bafb0dd681d91e3c20fc341fe12f08781ac78514",
+    "posts/03-raise-what-you-need/index.md": "f48568ccb642e708c5b9e39896357eb128254039a50f35c8bdc4947ac1a5a05c",
     "posts/04-obligations-before-budget/index.md": "5b4d21f61c53663efa234c6b3005df4463d9132f1bd2253d25d3045a374d0844",
     "posts/part-2-intro/index.md": "41d5795334df6c3d28666a5bf9cc284076d69f128182d184f62243f256269794",
     "posts/05-decide-who-decides/index.md": "e9a3500cd7039cf8dd358c7ab46bbbbca5553e0a626c0dde52672d93ddd85e2f",
     "posts/06-different-bets/index.md": "f2ee67b194167fc02d944f6a0736b895e8762817ac9fd29cfeb3f7d5ff0d2928",
     "posts/07-investor-under-pressure/index.md": "9cceb0e2d9e456ea2d65c7e1a544438e5e2b3b09cb14ad258098d0e2a83132c5",
     "posts/part-3-intro/index.md": "49484f6d8f77764b72fe40049818a03ca496d3b8fa199da8c7b74e30328b593e",
-    "posts/28-cannot-fund-everything/index.md": "7c190d917f3d7af3e2066feceb69b09f37d30be9704e9cd932a0bceb587d8fd9",
+    "posts/28-cannot-fund-everything/index.md": "2dcc10a0bdb63e0e85bd9d01837e6ea15f18ba81d1329955dd5ea866eebc1d1f",
     "posts/08-roadmap-to-revenue/index.md": "a5d6b3e29064a3f9b9e245921dd33d58919c09b602356244a4cde1fa199095a3",
     "posts/09-can-the-team-deliver/index.md": "5b1560622777248ea9dce0fe053d2a1bb4f350cc18b8a9fabd49ee92d93abf5b",
     "posts/13-fix-decisions-before-hiring/index.md": "0d5c5393cb452a7c469ce5979ecdb9a30cf864e91fad579e5aa9a49707e2d076",
@@ -63,11 +60,11 @@
   },
   "articles": [
     {
-      "source": "posts/reading-guide/index.md",
-      "file": "reading-guide.md",
-      "id": "reading-guide",
-      "title": "OWNED — Reading Guide",
-      "kind": "frontmatter"
+      "source": "posts/introduction/index.md",
+      "file": "introduction.md",
+      "id": "introduction",
+      "title": "Introduction & Reading Guide",
+      "kind": "chapter"
     },
     {
       "source": "posts/part-1-intro/index.md",
@@ -326,33 +323,33 @@
       "file": "toolkit.md",
       "id": "toolkit",
       "title": "Practical Tools for Ownership and Technology Decisions",
-      "kind": "backmatter"
+      "kind": "chapter"
     },
     {
       "source": "posts/fund-economics/index.md",
       "file": "fund-economics.md",
       "id": "fund-economics",
       "title": "Fund Economics: Fees, Distributions and Performance Reports",
-      "kind": "backmatter"
+      "kind": "chapter"
     },
     {
       "source": "posts/glossary/index.md",
       "file": "glossary.md",
       "id": "glossary",
       "title": "Glossary",
-      "kind": "backmatter"
+      "kind": "chapter"
     },
     {
       "source": "posts/bibliography/index.md",
       "file": "bibliography.md",
       "id": "bibliography",
       "title": "Bibliography and Evidence Guide",
-      "kind": "backmatter"
+      "kind": "chapter"
     }
   ],
   "book_files": [
     "book-title.md",
-    "reading-guide.md",
+    "introduction.md",
     "part-1.md",
     "customers-lenders-investors.md",
     "announcement-is-not-a-budget.md",
@@ -396,33 +393,33 @@
     "bibliography.md"
   ],
   "resources": {
-    "private-techuity/assets/images/owned-journal-logo.jpeg": {
-      "source": "assets/images/owned-journal-logo.jpeg",
-      "source_sha256": "1bf6f56bbc3cd7a884eadd97d923b9f004b2a617d6498a85557e423445b559db",
-      "source_bytes": 200716,
-      "sha256": "a5cd0f73e6abee331c11340402bdd717e407a3c0e52294cf57381c36a0dc19e3",
-      "bytes": 187154
+    "private-techuity/assets/pexels-chairs-2181916.jpg": {
+      "source": "assets/pexels-chairs-2181916.jpg",
+      "source_sha256": "4559f7c7eceb355d17cd2d3847e984a6ad7b2609634b1d4d12401cb3a5c6d095",
+      "source_bytes": 1760300,
+      "sha256": "4559f7c7eceb355d17cd2d3847e984a6ad7b2609634b1d4d12401cb3a5c6d095",
+      "bytes": 1760300
     },
-    "private-techuity/posts/reading-guide/assets/images/reading-guide/logo.jpeg": {
-      "source": "posts/reading-guide/assets/images/reading-guide/logo.jpeg",
+    "private-techuity/posts/introduction/assets/images/introduction/logo.jpeg": {
+      "source": "posts/introduction/assets/images/introduction/logo.jpeg",
       "source_sha256": "22dfa7b71215be231478582c19f979ce910aaa5d7e0a3474d11201df53298542",
       "source_bytes": 356791,
       "sha256": "e5d65a06a9e9c370ba84ae429a0d4e3d0d21a1827546e3f25cb208123b31289f",
       "bytes": 106037
     },
-    "private-techuity/posts/reading-guide/assets/images/reading-guide/four-questions-before-a-commitment.jpeg": {
-      "source": "posts/reading-guide/assets/images/reading-guide/four-questions-before-a-commitment.jpeg",
-      "source_sha256": "77c5346401053277a0b114bc00b83887daef21b1e4470fde37eec8e874ee67c5",
-      "source_bytes": 718267,
-      "sha256": "1b7648b3c12832b62b494a71928112ed576d4a9398ec42887f07a7cb56940585",
-      "bytes": 331972
+    "private-techuity/posts/introduction/assets/images/introduction/four-questions-before-a-commitment.jpeg": {
+      "source": "posts/introduction/assets/images/introduction/four-questions-before-a-commitment.jpeg",
+      "source_sha256": "5921b5c02d81ca3a79b55c9508003ff25d0c541e0f9e45973bf810b0603bb6a8",
+      "source_bytes": 514153,
+      "sha256": "6aad3ec51009dda786a830d92163de5ea02365dfc75deb982554ce0c641366f8",
+      "bytes": 212535
     },
-    "private-techuity/posts/reading-guide/assets/images/reading-guide/owned-reading-journey.jpeg": {
-      "source": "posts/reading-guide/assets/images/reading-guide/owned-reading-journey.jpeg",
-      "source_sha256": "0c20ba1fa5e0d8dee4f330c4670bb55a43391aec71373c2c8d2fb71b9a2dbf17",
-      "source_bytes": 497619,
-      "sha256": "5e1384caac878efe4bcb3f1cc8586f6dacb5335bb494565e80cfb5bca258cf27",
-      "bytes": 189943
+    "private-techuity/posts/introduction/assets/images/introduction/owned-reading-journey.jpeg": {
+      "source": "posts/introduction/assets/images/introduction/owned-reading-journey.jpeg",
+      "source_sha256": "bde518b728ff949ce559e307fc8054d73cb3238bb282d8edb3ca267aff6222f5",
+      "source_bytes": 600688,
+      "sha256": "58d9499cd0e64ba070f05a7ae127b9affbf75caf81b83eae30d25911a5e6f373",
+      "bytes": 257262
     },
     "private-techuity/posts/part-1-intro/assets/images/part-1-intro/logo.jpeg": {
       "source": "posts/part-1-intro/assets/images/part-1-intro/logo.jpeg",
@@ -1120,54 +1117,54 @@
   },
   "counts": {
     "articles": 41,
-    "chapters": 30,
+    "chapters": 35,
     "parts": 6,
     "resources": 103,
-    "crosslinks": 905,
+    "crosslinks": 907,
     "mermaid_diagrams": 2,
-    "source_resource_bytes": 55532428,
-    "resource_bytes": 21234092,
-    "manuscript_bytes": 22203105
+    "source_resource_bytes": 56990967,
+    "resource_bytes": 22755120,
+    "manuscript_bytes": 23727008
   },
   "skipped_config_entries": [],
   "warnings": [
     "No source logo is declared for: fund-economics"
   ],
   "generated_files": {
-    "Book.txt": "4496087c466756a2fefccb181120258050928f24e48c1827bc1ab3541d9ca407",
-    "acquisition-adds-work-first.md": "8a82936407b98f9bbede06ff1bf6270d666695c8b15ba764a6948b197fe09be6",
-    "ai-strategy-three-questions.md": "2ddf8cd2dc8c028924243dc0ab404f5313dadcbfb200d02c0ac62937c117fd49",
-    "announcement-is-not-a-budget.md": "006cf38d207a93cb0f569419ec82b056c7289bffa7c03927850b49d32c5f7a8c",
-    "bibliography.md": "be3524332b1cb90a9396c50f1a27d082c65e8ae2638419c80b69715e887693f8",
-    "book-title.md": "3f3eb6c6ceffce512c83d0fd976342cb8f6b407fa8584e143e8aa7ba5093e9b2",
-    "can-the-team-deliver.md": "2d0fd42daa7249d540d9adad4a8e3681a642c6094c2c01ae370c0e3fc4a3561b",
-    "cannot-fund-everything.md": "3fd41936d4ca96107f0994f629d564d82cc3352a2b708fb7f9e17bb9240f9321",
-    "cheaper-cloud-bill.md": "774594b5129ecb95b0669655fc9f297c7303ca4af884df7956f04aa60d4795a6",
-    "customers-lenders-investors.md": "057cee6e1593abd650fa34ae24bb94a1a494bfa6c80d392e67d8e9091d46fab7",
-    "decide-who-decides.md": "089c320de2db9b62b918b591e9a68dd22f280f0e21b740bdf31b9f9bd4874925",
-    "different-bets.md": "2e032b399a466450e6943182444c7909075b6d618fb39b3cc96cfa7f2489706e",
-    "diligence-corrects-the-plan.md": "0235a3a410682bfcedc082c378008f5758edd116ac74fcab78b5f45b50139bf2",
-    "first-hundred-days.md": "0809b50d9127c20628df73201c2eaf6b47a135a15fc5b62a6416f360fd873db2",
-    "fix-decisions-before-hiring.md": "0c694785844a5389e9653cb3e615fc42bdca00e96fcdf77efc51a1e9b078e10a",
-    "fund-economics.md": "f5b24e0bf6e11247bcbca60a44443ff14180f9d943d69e33efe3d6cce7aad66c",
-    "glossary.md": "325ba43b590d8bb281a8493ce67335abbab4157291f1f1fc97e8a2f3cad1d862",
-    "growth-into-design.md": "aa7ee79951bf67d0d937a205c04f47779e738c28ef00b35dbc1fc9dbbfdcdc72",
-    "handover-of-obligations.md": "78efc312c5f1a530af2ae3ec4da64222491b0b65887b126c73a2a82f62e0d521",
-    "help-that-changes-capability.md": "4ea3c6642e4bb87b78eeac1da072d36285b206141853311435d46c6b455004a3",
-    "hilton-and-skype.md": "2d039910e0537b84d9c7cbc316fe6e298856318cd8c0fd3bbda05bee769379ee",
-    "investor-under-pressure.md": "284d96d4ed6f35f87e38c9a87c357c65bbfd8447d989cd7ed51684dc9ae3f497",
-    "investors-adviser.md": "e5177ef4656b65cd1ab0cdb3cedc43a76de550c9247c8885d8721050571f73ad",
-    "obligations-before-budget.md": "4a810c82433f9546c568577d9bba1b37f7181e4326256b122ab893d396354d25",
-    "part-1.md": "88432c553e1a99c645acf190cb29fdc7eb4302ae97cd7ab1237e75bb94e4e1a8",
+    "Book.txt": "f147ed5c791d910c8bab94c7c1de3d50b99391a0fa89b1b9828165828374b47d",
+    "acquisition-adds-work-first.md": "7eea4e88c7079035f79b7917262fc765060a6f133f0b88ace4cdfcf48b14465d",
+    "ai-strategy-three-questions.md": "136c569b8791d1d5b5d65f8041f3b7423e17ad05484b7ccf9aeef0082172b311",
+    "announcement-is-not-a-budget.md": "3d9b2a57ed77a6df41216bd6e279056bbee4a626376225bbfd09ce99a943b8d7",
+    "bibliography.md": "2e144bdcb025d01b06b820e55b9eb5126137ac05797431f5df2ad02111e359ee",
+    "book-title.md": "aaa192fba1bcb82b08761ec72fcefb78e21eb9f29bef301c50ca3e015b7f33ec",
+    "can-the-team-deliver.md": "f0ec2454eb0f7b8ae8b3f32d1b5e51eb0f138058f956dedf68b548f9707e76f8",
+    "cannot-fund-everything.md": "e847cbe79574e6263a2bffa2b71027809fc130d4a4cd5565f83535554a154050",
+    "cheaper-cloud-bill.md": "0850f97f71cbb88afb41659d096a7a6911412c3c39933ed939613b7376d48fcc",
+    "customers-lenders-investors.md": "0f79ea8fbdb290c8b3e7eaf92dbe33dd4c662e2eb6cd764ef6fcde831caca3ea",
+    "decide-who-decides.md": "2818cd2fe1dc199b46ae52e0f7bcd309c7e3720a9369b1487a836f4c958ab80b",
+    "different-bets.md": "ff78fc99d7e1fca3f1be1ca34f097a9001a853e07bfdcbdc9e6534fbc49cbaeb",
+    "diligence-corrects-the-plan.md": "d9f5168d7e46dc5f0c48ec746d61dd1c60615863e9ba223e4aafdfcf3c6a43a7",
+    "first-hundred-days.md": "3f9b0844408e291d987ce41529de5345e5fa5b10b12684d3b4ab12245faa8d8e",
+    "fix-decisions-before-hiring.md": "7b95b12ae53e9a4210ef7aa2b07a75083efd2a36bc89719048293de849a71452",
+    "fund-economics.md": "7b32bb047ac9b5a692c4ad449d07ab618e3be0ee402ca54b800c0a8535b474be",
+    "glossary.md": "fb66e4666f1f54b30faa792ed59595849c9abe5c7698c2de70c4affa77dd61b4",
+    "growth-into-design.md": "2a56ac96cea6efc008b2959a70ae97257f6b44c18cbb3b81414024791589f8f9",
+    "handover-of-obligations.md": "ae0889532990b16326c0fdb2f740f4138903921b28df95ca985c250d969cf96b",
+    "help-that-changes-capability.md": "129401984b91a6f59195e368bfe072d3fa5f8ea21adde5fff481f60b3720399a",
+    "hilton-and-skype.md": "6da02eac8a2ffb0d4401069c0b503d8576a647a95c94f22da0c3053661c398bf",
+    "introduction.md": "13e585c18b15f29155a36ac49e144e326281c2bced874e844f116c20c68d882e",
+    "investor-under-pressure.md": "6110001369e22bd956f1d9feaa21fd2c3a69fa17150057266372bb9c99807323",
+    "investors-adviser.md": "3e7c1a3261e78874894370db7341c8526d8934ecca595c54368e11af275a62d1",
+    "obligations-before-budget.md": "aab2d6f457b7d2d7b85e7768c5d1f58a473252d5810a3d071fabd5050610dfd6",
+    "part-1.md": "fc6d81c477c1ffe734e481953f703e409532252c95190c5b7f2f25782910755a",
     "part-2.md": "76158c8baada5362eedd8ea7964cb5916e4efca61cdae20648297bb93b190073",
     "part-3.md": "be8c66b6bb0fcc9b8a9a305b934ea7f2f9e7189156cfc2bd5c36d79decbbbfa0",
     "part-4.md": "0daf158891a652c01bac6c24c796120b5462ed4b22be8b52ac9abd50485391c9",
     "part-5.md": "e240ac1f1e4c2e0c54aaad83a0779aa905010de94e5c5be85009d130087c7f99",
     "part-6.md": "2b0f0a2d2c29136aa883bf0f954fe09d31427b247823f4ff567bfebb834c5012",
-    "prove-you-can-restore.md": "c1c0589714a6db80e793067da3c0c26f1c951f6733fa6fa0e6332a92ad3a3a78",
-    "raise-what-you-need.md": "3ea7c8aadbe814f9d8c89c18d2f71224279fb42959271f9d64cdb1cc2ba97a42",
-    "reading-guide.md": "057112f6830a61d50eb67e978002453563ac020426272cac1ec439125de90df4",
-    "resources/private-techuity/assets/images/owned-journal-logo.jpeg": "a5cd0f73e6abee331c11340402bdd717e407a3c0e52294cf57381c36a0dc19e3",
+    "prove-you-can-restore.md": "c4354add2fc908e270fd135c8300e77e717d5a49945f79b7bbccb6e55f5d2c47",
+    "raise-what-you-need.md": "1d6015d3bdbd8bce8b76ce2033cfa67ac12e9e9cbb1a6b016ad0cab1dc6034cf",
+    "resources/private-techuity/assets/pexels-chairs-2181916.jpg": "4559f7c7eceb355d17cd2d3847e984a6ad7b2609634b1d4d12401cb3a5c6d095",
     "resources/private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/cash-arrives-with-obligations.jpeg": "23708b4f469bedb956f73303de2dcec3d4bfdaf96a6113f231ac31b219e025be",
     "resources/private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/logo.jpeg": "bc16d80818c1177a60d8e9a29d0ae1db6d65459517c0162606d1b17c42ca551b",
     "resources/private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/new-shares-versus-existing-shares.jpeg": "1f14db260290338f87b16927039bb13041e9eaf0e9ea72e3b702fb3770fd66d8",
@@ -1258,28 +1255,28 @@
     "resources/private-techuity/posts/31-handover-of-obligations/assets/images/31-handover-of-obligations/logo.jpeg": "0b2fc792dd949667b500d2c4f471f5655c4aee88cba61da2ec48bbc6a7b4c1e9",
     "resources/private-techuity/posts/bibliography/assets/images/bibliography/logo.jpeg": "7ca88bcba43f849eac70576abf668244962818dd9e4d58efef84d1e74674b471",
     "resources/private-techuity/posts/glossary/assets/images/glossary/logo.jpeg": "52b0cb1e675bd5740bab025e158271336bcebaa112afdd58b5dbde903f0c05c4",
+    "resources/private-techuity/posts/introduction/assets/images/introduction/four-questions-before-a-commitment.jpeg": "6aad3ec51009dda786a830d92163de5ea02365dfc75deb982554ce0c641366f8",
+    "resources/private-techuity/posts/introduction/assets/images/introduction/logo.jpeg": "e5d65a06a9e9c370ba84ae429a0d4e3d0d21a1827546e3f25cb208123b31289f",
+    "resources/private-techuity/posts/introduction/assets/images/introduction/owned-reading-journey.jpeg": "58d9499cd0e64ba070f05a7ae127b9affbf75caf81b83eae30d25911a5e6f373",
     "resources/private-techuity/posts/part-1-intro/assets/images/part-1-intro/logo.jpeg": "81f26e139378e896224ee154244d63c664ea90340a8a5cd08b692af728bc8612",
     "resources/private-techuity/posts/part-2-intro/assets/images/part-2-intro/logo.jpeg": "100847297970d1db54937ce76cfb40ea19a216e114a154519f994d19887ab294",
     "resources/private-techuity/posts/part-3-intro/assets/images/part-3-intro/logo.jpeg": "424a74c7e64f68d9e02d3a4a13a072d07c914ebe4a5076e865416fb24c5fc6e8",
     "resources/private-techuity/posts/part-4-intro/assets/images/part-4-intro/logo.jpeg": "c1c2c013ef6ea9bec4ba3a2afa8072530c0a438c23085071b28d67dc2667bd29",
     "resources/private-techuity/posts/part-5-intro/assets/images/part-5-intro/logo.jpeg": "cab2aab5a8b38b2e58cf5720d1acabaed66dccc3917a6c884a3b74d4fb295afe",
     "resources/private-techuity/posts/part-6-intro/assets/images/part-6-intro/logo.jpeg": "07396d2ddfdce178cbe2de67541e650a813e6d3fc48ba9c09267b5786ff4ba9f",
-    "resources/private-techuity/posts/reading-guide/assets/images/reading-guide/four-questions-before-a-commitment.jpeg": "1b7648b3c12832b62b494a71928112ed576d4a9398ec42887f07a7cb56940585",
-    "resources/private-techuity/posts/reading-guide/assets/images/reading-guide/logo.jpeg": "e5d65a06a9e9c370ba84ae429a0d4e3d0d21a1827546e3f25cb208123b31289f",
-    "resources/private-techuity/posts/reading-guide/assets/images/reading-guide/owned-reading-journey.jpeg": "5e1384caac878efe4bcb3f1cc8586f6dacb5335bb494565e80cfb5bca258cf27",
     "resources/private-techuity/posts/toolkit/assets/images/toolkit/decision-record-to-funded-work.jpeg": "ff0088310c4df587720ddc0f98d344450072de76f5dc2a933c046f29fbd2ab76",
     "resources/private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg": "6f64515c91dc7b9608bdfab62f316e7d4cc3bce9d5c04910862329351ed117b8",
     "resources/private-techuity/posts/toolkit/assets/images/toolkit/records-form-a-decision-loop.jpeg": "07cdd4ccb06a8bfd15e9973df04ac1f8bdb1b90558c52672c199bca27e1d235c",
-    "roadmap-to-revenue.md": "363e9855ebea70f4bfe35031d9f47dc6159ab08469ac7a74c1c0e1617f6a5413",
-    "section-08.md": "d71c41c15be1d89a6ae7c4d1677e77a9f5a9bba989d984bf7360e27a2ee1db1a",
-    "success-for-whom.md": "192e6a9df358fa7495b088a68e6d6a0270de6713faa95bef8c2a96764df4e8eb",
-    "teamsystem.md": "d8d83dfcd6300bd539252b9633c97c0a5e0a5b1f2513f64de95a42c00669cc02",
-    "the-financing-slipped.md": "60c902e200fa8d6e3302d213b652dcd895824368e7cc513274b5792f8e5bfed1",
-    "three-different-returns.md": "0136de05f619b7df175812efd92730b2462978d3ada02943d25c3a0ad42278b0",
-    "toolkit.md": "d07b3cc101bcee0b5afddcdf8c7d5cf93a7479fe23c9b81448686243e68b20d1",
-    "toys-r-us.md": "067dd57d8c80f428d8604c744889c5212d0fd0acacf35181214bafb297921e22",
-    "useful-engagement.md": "c596d861d36a3626a427bca9ff74dcf6c34cd64f91a883572f1ab353c7fe8abc",
-    "valuation-is-an-estimate.md": "603919f60e93e5541f70f896bdeb4ae79f978df10fdc8efb599af0b650ced323",
-    "visma.md": "6d5e0a3f38f0c96a7105b6f2ca3d10cb530b61281873e0f22904c8ecf7523bf8"
+    "roadmap-to-revenue.md": "2e467775eb6b055c42788070a90253416ee3d6922cdb5c65c42640eb0006f3d1",
+    "section-08.md": "1e96c83ef59c87795befa20693f9e7f25973d9f4fb8437143f258b57d78cf891",
+    "success-for-whom.md": "f42e44b0db3614cd9d152a899ea6b2100cc4a0c896276bed64e7b2870f3a6fc3",
+    "teamsystem.md": "2deca235ce7264132452061845b24f10d5f4f370a64b71c72882cda23f4b8454",
+    "the-financing-slipped.md": "610423569366bd87353adfda734dcaf0dbd0fd8be7be3745a4f0c9f88217c8ba",
+    "three-different-returns.md": "919101465e24647046826fd9e187a732051d87083183f3e1b1087ac3db19d059",
+    "toolkit.md": "944be2a806e78766d1d9799d211d7efc7e35fff100e1d9fbbe03ec95d65d4cf7",
+    "toys-r-us.md": "2da2f4ae0abfed3f1011e877c2108ca7dcaba42cf4288646a94cf99bfe48c537",
+    "useful-engagement.md": "b65c8874cbc813f623f7dfafbd7cf68570cee546b34e32a31da2007782f5c546",
+    "valuation-is-an-estimate.md": "96bdc79b89eee05cd3f303f9ab84ea028ecb62678a6ef8db0004a09040d4c35b",
+    "visma.md": "c9130ad730a44fac42eea244d34a80956293150ad6d8ca15738624cec8ecf256"
   }
 }

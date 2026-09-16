@@ -1,5 +1,5 @@
 {id: help-that-changes-capability}
-# 20. Find the Help That Changes What Your Team Can Do
+# 21. Find the Help That Changes What Your Team Can Do
 
 ![Find the Help That Changes What Your Team Can Do — logo](private-techuity/posts/29-help-that-changes-capability/assets/images/29-help-that-changes-capability/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: obligations-before-budget}
-# 6. Find the Cash Behind Your Technology Budget
+# 7. Find the Cash Behind Your Technology Budget
 
 ![Find the Cash Behind Your Technology Budget — logo](private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/logo.jpeg)
 

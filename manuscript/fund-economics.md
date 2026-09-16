@@ -1,5 +1,5 @@
 {id: fund-economics}
-# Fund Economics: Fees, Distributions and Performance Reports
+# 33. Fund Economics: Fees, Distributions and Performance Reports
 
 > **IN THIS SECTION, YOU WILL:** Learn how a fund’s manager and investors are paid, how a fund performance report separates what has been distributed from estimated value still held, and what that means for the requests a company receives.
 

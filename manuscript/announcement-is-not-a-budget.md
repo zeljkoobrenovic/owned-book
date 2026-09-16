@@ -1,5 +1,5 @@
 {id: announcement-is-not-a-budget}
-# 2. An Investment Announcement Is Not a Budget
+# 3. An Investment Announcement Is Not a Budget
 
 ![An Investment Announcement Is Not a Budget — logo](private-techuity/posts/01-announcement-is-not-a-budget/assets/images/01-announcement-is-not-a-budget/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: cannot-fund-everything}
-# 10. You Cannot Fund Every Good Project at Once
+# 11. You Cannot Fund Every Good Project at Once
 
 ![You Cannot Fund Every Good Project at Once — logo](private-techuity/posts/28-cannot-fund-everything/assets/images/28-cannot-fund-everything/logo.jpeg)
 
@@ -55,7 +55,7 @@ Before choosing among the rows, establish what each one depends on. The table gi
 {id: cannot-fund-everything--the-condition-that-applies-here}
 ## The Condition That Applies Here
 
-This arrangement changes the conditions of the decision. Establish the actual funding, authority and deadline before committing. In this exercise the condition is specific: Larkspur’s growth funding was agreed on a plan that assumes onboarding volume can rise substantially without proportional growth in the implementation team. That gives the setup row a priority the company’s own view might not, and it makes the pilot’s evidence a condition of the next expansion step. Other funding arrangements set other conditions; [Match the Funding to the Work](#raise-what-you-need) compares them, and the [OWNED — Reading Guide](#reading-guide) explains how the book’s alternative scenarios relate to each other.
+This arrangement changes the conditions of the decision. Establish the actual funding, authority and deadline before committing. In this exercise the condition is specific: Larkspur’s growth funding was agreed on a plan that assumes onboarding volume can rise substantially without proportional growth in the implementation team. That gives the setup row a priority the company’s own view might not, and it makes the pilot’s evidence a condition of the next expansion step. Other funding arrangements set other conditions; [Match the Funding to the Work](#raise-what-you-need) compares them, and the [Introduction & Reading Guide](#introduction) explains how the book’s alternative scenarios relate to each other.
 
 A board that wants the expansion date without funding the necessary capacity has an unresolved choice. **Present the feasible combinations.** Don’t turn the gap into an unrecorded demand for the team to work harder. A plan chosen by team preference or the loudest request has a specific weakness: it leaves out the constraint that will actually bind, the money and capacity available and the result the funding was agreed on, so it can’t say what it displaces or what evidence would change it.
 

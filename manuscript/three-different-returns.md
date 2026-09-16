@@ -1,5 +1,5 @@
 {id: three-different-returns}
-# 4. Same Company, Same Performance, Three Different Returns
+# 5. Same Company, Same Performance, Three Different Returns
 
 ![Same Company, Same Performance, Three Different Returns — logo](private-techuity/posts/02-three-different-returns/assets/images/02-three-different-returns/logo.jpeg)
 

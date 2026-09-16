@@ -1,5 +1,5 @@
 {id: toys-r-us}
-# 28. Toys R Us: Positive Operating Earnings, Too Little Cash
+# 29. Toys R Us: Positive Operating Earnings, Too Little Cash
 
 ![Toys R Us: Positive Operating Earnings, Too Little Cash — logo](private-techuity/posts/23-toys-r-us/assets/images/23-toys-r-us/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: prove-you-can-restore}
-# 16. Prove You Can Restore, Not Just That You Back Up
+# 17. Prove You Can Restore, Not Just That You Back Up
 
 ![Prove You Can Restore, Not Just That You Back Up — logo](private-techuity/posts/11-prove-you-can-restore/assets/images/11-prove-you-can-restore/logo.jpeg)
 

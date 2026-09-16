@@ -1,5 +1,5 @@
 {id: decide-who-decides}
-# 7. Decide Who Decides, Before You Disagree
+# 8. Decide Who Decides, Before You Disagree
 
 ![Decide Who Decides, Before You Disagree — logo](private-techuity/posts/05-decide-who-decides/assets/images/05-decide-who-decides/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: raise-what-you-need}
-# 5. Match the Funding to the Work
+# 6. Match the Funding to the Work
 
 ![Match the Funding to the Work — logo](private-techuity/posts/03-raise-what-you-need/assets/images/03-raise-what-you-need/logo.jpeg)
 
@@ -28,7 +28,7 @@ There is no required journey from one investor type to the next. The arrangement
 
 **Investor type** describes who supplies ownership capital and what they seek. **Control** concerns the rights to decide. **Financing** concerns the money and its obligations. **Transaction context** describes an event such as a funding round, acquisition or separation. These dimensions interact, but none replaces the others. A founder might need personal cash from selling shares while the company needs no new funding; a large transaction can leave the company with no new money at all.
 
-[Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors) and the [OWNED — Reading Guide](#reading-guide) introduce the arrangements. The recap below keeps only the question each one raises about the work; the operating consequences are conditional judgments, not evidence that all investors in a category behave alike.
+[Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors) and the [Introduction & Reading Guide](#introduction) introduce the arrangements. The recap below keeps only the question each one raises about the work; the operating consequences are conditional judgments, not evidence that all investors in a category behave alike.
 
 | Arrangement | The question to test against the work |
 | --- | --- |

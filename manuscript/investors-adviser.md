@@ -1,5 +1,5 @@
 {id: investors-adviser}
-# 19. Is the Investor’s Adviser Helping, Assessing or Deciding?
+# 20. Is the Investor’s Adviser Helping, Assessing or Deciding?
 
 ![Is the Investor’s Adviser Helping, Assessing or Deciding? — logo](private-techuity/posts/15-investors-adviser/assets/images/15-investors-adviser/logo.jpeg)
 

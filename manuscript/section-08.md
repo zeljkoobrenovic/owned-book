@@ -1,5 +1,3 @@
-{backmatter}
-
 {class: part, id: book-section-8-reference-material}
 # Reference Material
 

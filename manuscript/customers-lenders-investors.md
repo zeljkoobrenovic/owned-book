@@ -1,5 +1,5 @@
 {id: customers-lenders-investors}
-# 1. Customers, Lenders and Investors: What Each Expects in Return
+# 2. Customers, Lenders and Investors: What Each Expects in Return
 
 ![Customers, Lenders and Investors: What Each Expects in Return — logo](private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: useful-engagement}
-# 21. Turn an Offer of Help Into a Useful Engagement
+# 22. Turn an Offer of Help Into a Useful Engagement
 
 ![Turn an Offer of Help Into a Useful Engagement — logo](private-techuity/posts/30-useful-engagement/assets/images/30-useful-engagement/logo.jpeg)
 

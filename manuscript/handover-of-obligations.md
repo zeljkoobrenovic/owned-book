@@ -1,5 +1,5 @@
 {id: handover-of-obligations}
-# 25. Hand Over the Obligations, Not Just the Company
+# 26. Hand Over the Obligations, Not Just the Company
 
 ![Hand Over the Obligations, Not Just the Company — logo](private-techuity/posts/31-handover-of-obligations/assets/images/31-handover-of-obligations/logo.jpeg)
 

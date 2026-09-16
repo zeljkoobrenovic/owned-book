@@ -1,5 +1,5 @@
 {id: cheaper-cloud-bill}
-# 15. Why a Cheaper Cloud Bill Can Be Bad News
+# 16. Why a Cheaper Cloud Bill Can Be Bad News
 
 ![Why a Cheaper Cloud Bill Can Be Bad News — logo](private-techuity/posts/10-cheaper-cloud-bill/assets/images/10-cheaper-cloud-bill/logo.jpeg)
 

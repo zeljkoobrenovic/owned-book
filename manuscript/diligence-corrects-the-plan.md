@@ -1,5 +1,5 @@
 {id: diligence-corrects-the-plan}
-# 22. Diligence Is Your Chance to Correct the Plan Before It Is Signed
+# 23. Diligence Is Your Chance to Correct the Plan Before It Is Signed
 
 ![Diligence Is Your Chance to Correct the Plan Before It Is Signed — logo](private-techuity/posts/16-diligence-corrects-the-plan/assets/images/16-diligence-corrects-the-plan/logo.jpeg)
 

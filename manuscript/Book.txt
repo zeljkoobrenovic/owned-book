@@ -1,5 +1,5 @@
 book-title.md
-reading-guide.md
+introduction.md
 part-1.md
 customers-lenders-investors.md
 announcement-is-not-a-budget.md

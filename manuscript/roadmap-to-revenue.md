@@ -1,5 +1,5 @@
 {id: roadmap-to-revenue}
-# 11. The Chain From Roadmap to Revenue Breaks Easily
+# 12. The Chain From Roadmap to Revenue Breaks Easily
 
 ![The Chain From Roadmap to Revenue Breaks Easily — logo](private-techuity/posts/08-roadmap-to-revenue/assets/images/08-roadmap-to-revenue/logo.jpeg)
 

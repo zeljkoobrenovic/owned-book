@@ -1,5 +1,5 @@
 {id: fix-decisions-before-hiring}
-# 13. Fix the Decision Problem Before Adding People
+# 14. Fix the Decision Problem Before Adding People
 
 ![Fix the Decision Problem Before Adding People — logo](private-techuity/posts/13-fix-decisions-before-hiring/assets/images/13-fix-decisions-before-hiring/logo.jpeg)
 

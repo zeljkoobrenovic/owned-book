@@ -1,5 +1,5 @@
 {id: acquisition-adds-work-first}
-# 18. An Acquisition Adds Work Before It Adds Value
+# 19. An Acquisition Adds Work Before It Adds Value
 
 ![An Acquisition Adds Work Before It Adds Value — logo](private-techuity/posts/14-acquisition-adds-work-first/assets/images/14-acquisition-adds-work-first/logo.jpeg)
 

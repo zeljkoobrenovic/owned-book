@@ -1,5 +1,5 @@
 {id: the-financing-slipped}
-# 24. The Roadmap Did Not Slip, the Financing Did
+# 25. The Roadmap Did Not Slip, the Financing Did
 
 ![The Roadmap Did Not Slip, the Financing Did — logo](private-techuity/posts/18-the-financing-slipped/assets/images/18-the-financing-slipped/logo.jpeg)
 
