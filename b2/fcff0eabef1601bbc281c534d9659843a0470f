@@ -1,0 +1,105 @@
+manuscript_DELETE/Book.txt
+  s_b96f6d969cd114::t_093f49eb382d27 1-43
+manuscript_DELETE/acquisition-adds-work-first.md
+  s_b96f6d969cd114::t_f15b87e91d524b 1-155
+manuscript_DELETE/ai-strategy-three-questions.md
+  s_b96f6d969cd114::t_48abcf85f982fb 1-132
+manuscript_DELETE/announcement-is-not-a-budget.md
+  s_b96f6d969cd114::t_9245d8898c181c 1-173
+manuscript_DELETE/bibliography.md
+  s_b96f6d969cd114::t_b3cbf393030a88 1-768
+manuscript_DELETE/book-title.md
+  s_b96f6d969cd114::t_274fd06742f29b 1-17
+manuscript_DELETE/can-the-team-deliver.md
+  s_b96f6d969cd114::t_42d6a349ee7656 1-138
+manuscript_DELETE/cannot-fund-everything.md
+  s_b96f6d969cd114::t_587d278c5cd280 1-139
+manuscript_DELETE/cheaper-cloud-bill.md
+  s_b96f6d969cd114::t_4c6b5253f39286 1-172
+manuscript_DELETE/customers-lenders-investors.md
+  s_b96f6d969cd114::t_de9474df0f59f0 1-130
+manuscript_DELETE/decide-who-decides.md
+  s_b96f6d969cd114::t_5a6005fee70a0a 1-156
+manuscript_DELETE/different-bets.md
+  s_b96f6d969cd114::t_fde0ba099ce61e 1-142
+manuscript_DELETE/diligence-corrects-the-plan.md
+  s_b96f6d969cd114::t_3748ce0193f781 1-146
+manuscript_DELETE/export-manifest.json
+  s_b96f6d969cd114::t_d2d5ff1aba561c 1-1285
+manuscript_DELETE/first-hundred-days.md
+  s_b96f6d969cd114::t_32d744e5b57a9f 1-137
+manuscript_DELETE/fix-decisions-before-hiring.md
+  s_b96f6d969cd114::t_46e4aa4daae666 1-146
+manuscript_DELETE/fund-economics.md
+  s_b96f6d969cd114::t_82c23a855d132f 1-78
+manuscript_DELETE/glossary.md
+  s_b96f6d969cd114::t_99eea2fb00dee0 1-362
+manuscript_DELETE/growth-into-design.md
+  s_b96f6d969cd114::t_88c848d7aad433 1-153
+manuscript_DELETE/handover-of-obligations.md
+  s_b96f6d969cd114::t_aab45e2af77a9b 1-153
+manuscript_DELETE/help-that-changes-capability.md
+  s_b96f6d969cd114::t_d6a86a25ce30d7 1-154
+manuscript_DELETE/hilton-and-skype.md
+  s_b96f6d969cd114::t_d62991f400e22c 1-147
+manuscript_DELETE/investor-under-pressure.md
+  s_b96f6d969cd114::t_0568aa2619e42f 1-142
+manuscript_DELETE/investors-adviser.md
+  s_b96f6d969cd114::t_272a3b122a4f65 1-129
+manuscript_DELETE/obligations-before-budget.md
+  s_b96f6d969cd114::t_49ad5054532963 1-173
+manuscript_DELETE/part-1.md
+  s_b96f6d969cd114::t_a473bdfbb5fc41 1-30
+manuscript_DELETE/part-2.md
+  s_b96f6d969cd114::t_87f5e95de8683b 1-23
+manuscript_DELETE/part-3.md
+  s_b96f6d969cd114::t_687cfca2954479 1-37
+manuscript_DELETE/part-4.md
+  s_b96f6d969cd114::t_785555bc66eac7 1-25
+manuscript_DELETE/part-5.md
+  s_b96f6d969cd114::t_16b7f9a9f9d249 1-26
+manuscript_DELETE/part-6.md
+  s_b96f6d969cd114::t_eb8c68da4f9486 1-27
+manuscript_DELETE/prove-you-can-restore.md
+  s_b96f6d969cd114::t_da46981d09e230 1-136
+manuscript_DELETE/raise-what-you-need.md
+  s_b96f6d969cd114::t_8e69bc44a18359 1-135
+manuscript_DELETE/roadmap-to-revenue.md
+  s_b96f6d969cd114::t_21f9c01d4add6e 1-161
+manuscript_DELETE/section-08.md
+  s_b96f6d969cd114::t_e5f17cde1fcaf8 1-6
+manuscript_DELETE/success-for-whom.md
+  s_b96f6d969cd114::t_931cc1b3365572 1-154
+manuscript_DELETE/teamsystem.md
+  s_b96f6d969cd114::t_8e1f1cc64187aa 1-170
+manuscript_DELETE/the-financing-slipped.md
+  s_b96f6d969cd114::t_c182a4e02b215b 1-133
+manuscript_DELETE/three-different-returns.md
+  s_b96f6d969cd114::t_c17fb1111cc782 1-172
+manuscript_DELETE/toolkit.md
+  s_b96f6d969cd114::t_26d9b734457813 1-386
+manuscript_DELETE/toys-r-us.md
+  s_b96f6d969cd114::t_c93b5c2aab5778 1-158
+manuscript_DELETE/useful-engagement.md
+  s_b96f6d969cd114::t_642b558c4270a0 1-156
+manuscript_DELETE/valuation-is-an-estimate.md
+  s_b96f6d969cd114::t_e897655c6c189a 1-204
+manuscript_DELETE/visma.md
+  s_b96f6d969cd114::t_586cbb18fa316e 1-127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b2fcff0eabef1601bbc281c534d9659843a0470f",
+  "prompts": {},
+  "sessions": {
+    "s_b96f6d969cd114": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a4a5-0e58-77f3-9242-ec7e1b48a77b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
