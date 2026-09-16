@@ -29,10 +29,10 @@ The six parts are ordered for learning, and the complete sequence is the default
 | Investor help is on offer | [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser) → [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) → [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) |
 | A transaction or ownership change is imminent | [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) → [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days) → [Hand Over the Obligations, Not Just the Company](#handover-of-obligations) |
 | Owners want more growth or earnings than the team can support | [Match the Funding to the Work](#raise-what-you-need) → [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) → [Fix the Decision Problem Before Adding People](#fix-decisions-before-hiring) |
-| Investor requests compete with customer needs | [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue) → [Decide Who Decides, Before You Disagree](#decide-who-decides) → [Judge an Investor by Their Behavior Under Pressure](#investor-under-pressure) |
+| Investor requests compete with customer needs | [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue) → [Decide Who Decides, Before You Disagree](#decide-who-decides) → [Judge an Investor by Their Behavior Under Pressure](#investor-under-pressure) → [Success for Whom, and for How Long?](#success-for-whom) |
 | A corporate investor wants integration or access to data | [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first) → [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore) → [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) |
 
-The first decision most readers bring is the first one in the table: an announced investment that someone expects to become a hiring plan. If that is yours, read [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) now and the rest in order later.
+If your decision is the first one in the table — an announced investment that someone expects to become a hiring plan — read [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) now and the rest in order later.
 
 {id: reading-guide--owners-rights-funding-and-change}
 ## Owners, Rights, Funding, and Change
@@ -54,7 +54,7 @@ The practical impact of any investment therefore depends on its actual terms, **
 {id: reading-guide--how-the-parts-build-on-each-other}
 ## How the Parts Build on Each Other
 
-Part I supplies the financial tools to understand your owners and your available cash. Part II establishes authority, incentives and working relationships. Part III turns expectations into choices about product, engineering and people; it is the center of the book. Part IV helps you obtain useful help, from the investor or elsewhere. Part V follows one finding through diligence, a funded early plan, a delayed financing and a handover. Part VI examines historical cases and closes with the book’s standard for success.
+Part I supplies the financial tools to understand your owners and your available cash. Part II establishes authority, incentives and working relationships. Part III turns expectations into choices about product, engineering and people; it is the center of the book. Part IV helps you obtain useful help, from the investor or elsewhere. Part V follows one finding from diligence into a funded early plan, its review and a handover; its delayed-financing chapter is a separate illustration of how a dated cash forecast changes commitments. Part VI examines historical cases and closes with the book’s standard for success.
 
 Each part introduction explains its chapters and the order. On a first pass, read in order, since each chapter builds on terms introduced earlier: [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) teaches financial valuation, and [Turn “We Expect Growth” Into a Design Decision](#growth-into-design) later applies those concepts to a design choice once the product and engineering foundations are in place.
 
@@ -69,14 +69,16 @@ Each part introduction explains its chapters and the order. On a first pass, rea
 
 Ines is the **chief executive officer (CEO)**, leading the company. Alex is the **chief technology officer (CTO)**, leading technology. Sam is the **chief financial officer (CFO)**, leading finance. Priya leads product. Morgan is the investor’s technology adviser in fund-backed scenarios.
 
-The chapters place Larkspur in alternative situations: learning with limited cash, expanding with growth funding, operating after a buyout, or working with a corporate owner. These are fictional decision exercises, not a single company history. Each example states its own assumptions; its figures do not combine into one set of accounts. One exception is deliberate: Part V and the toolkit follow a single onboarding finding from diligence through a funded plan, a review and a handover, so that you can see one decision carried all the way through. “€m” means millions of euros.
+The chapters place Larkspur in alternative situations: learning with limited cash, expanding with growth funding, operating after a buyout, or working with a corporate owner. These are fictional decision exercises, not a single company history. Each example states its own assumptions; its figures do not combine into one set of accounts.
+
+One chain is a deliberate exception, and it is the only one. A single onboarding finding — that setting up a new customer depends on one specialist’s manual work — is carried from the investigation before the investment ([Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan)) into the funded early plan and its day-100 review ([The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days)) and on into the handover ([Hand Over the Obligations, Not Just the Company](#handover-of-obligations)). The same initiative and the recovery test funded beside it also appear earlier, in the restore chapter of Part III ([Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore)) and in the support chapters of Part IV ([Find the Help That Changes What Your Team Can Do](#help-that-changes-capability), [Turn an Offer of Help Into a Useful Engagement](#useful-engagement)); the [Practical Tools for Ownership and Technology Decisions](#toolkit) shows the record those chapters write, stage by stage, with the same identifiers. Follow that chain if you want to see one decision carried all the way through, from evidence to money to what was left undone. The delayed-financing chapter ([The Roadmap Did Not Slip, the Financing Did](#the-financing-slipped)) is a separate illustration: it shows how a dated cash forecast changes commitments when expected money arrives late, and its cash, burn, hires and dates are its own and do not add to the chain’s figures. “€m” means millions of euros.
 
 {id: reading-guide--choose-a-reading-format}
 ## Choose a Reading Format
 
-Each main chapter provides an **Article** and a 300–500-word **TL;DR** summary. TL;DR means “too long; didn’t read.” Twenty-nine of the thirty main chapters also have a six-panel **Comic**, illustrated, with captions and dialogue transcripts; the handover chapter added in the September 2026 revision does not yet have one. The six part introductions and the reference pages have no TL;DR or comic.
+Each main chapter provides an **Article** and a 300–500-word **TL;DR** summary. TL;DR means “too long; didn’t read.” All thirty main chapters also have a six-panel **Comic**, illustrated, with captions and dialogue transcripts. The six part introductions and the reference pages have no TL;DR or comic.
 
-For a shorter first pass, read the part introductions and the summaries. The three formats share one argument; the article carries the qualifications and the worked figures.
+For a shorter first pass, read the part introductions and the summaries. The formats are companions rather than substitutes. Each one is written to reach the same decision and to keep the conditions that decide whether that decision holds; what varies is depth, because only the article carries the worked figures, the sources and the cases where the conclusion would change. The summaries and comics of this September 2026 revision are still being reconciled chapter by chapter, so where a short format and the article disagree, the article is the one to trust.
 
 {id: reading-guide--read-the-evidence-with-its-limits}
 ## Read the Evidence With Its Limits
@@ -85,7 +87,7 @@ This living manuscript was first drafted in September 2026 and revised the same 
 
 Institutional funding guides support descriptions of other arrangements. The comparative Larkspur exercises are the author’s illustrations of decisions under stated assumptions. Company filings, investor accounts and research answer different questions; none makes an unobserved customer or employee outcome known.
 
-The [Bibliography and Evidence Guide](#bibliography) records consultation scope and evidence limits; the chapter-end “To Probe Further” lists are optional reading, not consulted evidence.
+The [Bibliography and Evidence Guide](#bibliography) records consultation scope and evidence limits. The chapter-end “To Probe Further” lists are optional reading for going deeper; the bibliography identifies which resources were also used as evidence, since a few appear in both places. A chapter’s argument rests only on the sources cited inline.
 
 {id: reading-guide--contents}
 ## Contents

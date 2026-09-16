@@ -1,6 +1,8 @@
 {id: handover-of-obligations}
 # 25. Hand Over the Obligations, Not Just the Company
 
+![Hand Over the Obligations, Not Just the Company — logo](private-techuity/posts/31-handover-of-obligations/assets/images/31-handover-of-obligations/logo.jpeg)
+
 > **IN THIS SECTION, YOU WILL:** Learn to keep the evidence during the work, follow who receives cash and who keeps an interest in each transaction form, and hand over the unfinished obligations with the company.
 
 > **WHY INVESTORS CARE:** Most of an investor’s value is realized at a later transaction, some of it through distributions during continued ownership; in either case a handover with the evidence and obligations attached supports the price and the disclosure, while surprises found afterward come back as claims and reputation.

@@ -9,11 +9,11 @@
 >
 > * **Sources are listed because they were consulted.** Each entry identifies the document, the version and date consulted, the evidence type, the material limits on the reading and the chapters that cite it.
 > * **Source interests and evidence strength matter.** Company announcements, investor accounts, guidance documents and original research answer different questions and need different qualifications.
-> * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are the author’s proposals, and no source validates them.
+> * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are the author’s proposals.
 
-This page lists the sources consulted for the book. Sources were consulted on September 12–13, 2026. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where an individual date affects how a figure or a claim should be read, the entry gives it.
+This page lists the sources consulted for the book. Sources were consulted between September 12 and September 15, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where an individual date affects how a figure or a claim should be read, the entry gives it.
 
-Source identifiers are stable. **S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. Private inputs are described without publishing their contents or file details.
+Source identifiers are stable. **S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register currently runs to S76. Private inputs are described without publishing their contents or file details.
 
 {id: bibliography--topic-index}
 ## Topic Index
@@ -22,15 +22,15 @@ Use this table to find evidence by question. A source can appear under more than
 
 | Topic | Identifiers | Start with |
 | --- | --- | --- |
-| Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53 | [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate), [Same Company, Same Performance, Three Different Returns](#three-different-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
-| Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61 | [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors), [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Find the Cash Behind Your Technology Budget](#obligations-before-budget) |
-| Governance, rights and incentives | S01, S02, S04, S61 | [Decide Who Decides, Before You Disagree](#decide-who-decides), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) |
-| Delivery, architecture and cloud cost | S13, S14, S15, S16, S53 | [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver), [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue), [Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill) |
+| Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate), [Same Company, Same Performance, Three Different Returns](#three-different-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
+| Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors), [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Find the Cash Behind Your Technology Budget](#obligations-before-budget) |
+| Governance, rights and incentives | S01, S02, S04, S61, S76 | [Decide Who Decides, Before You Disagree](#decide-who-decides), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) |
+| Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75 | [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver), [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue), [Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill) |
 | Security and resilience | S17 | [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore) |
-| AI evidence | S18, S19, S20, S21 | [An AI Strategy Hides Three Investment Questions](#ai-strategy-three-questions) |
+| AI evidence | S18, S19, S20, S21, S63 | [An AI Strategy Hides Three Investment Questions](#ai-strategy-three-questions) |
 | Investor support and advisers | S22, P01, P02 | [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser), [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) |
 | Case: Hilton and Skype | S23, S24, S25, S26, S27, S28, S29, S64, S65 | [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) |
-| Case: Visma | S30, S31, S32, S33, S43, S44 | [Visma: Continuity of Manager Is Not Continuity of Money](#visma) |
+| Case: Visma | S30, S31, S32, S33, S43, S44, S62 | [Visma: Continuity of Manager Is Not Continuity of Money](#visma) |
 | Case: Toys R Us | S34, S35, S36, S37, S40, S41, S50, S51 | [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us) |
 | Case: TeamSystem | S45, S46, S47, S48, S49, S66, S67, S68, S69, S70, S71 | [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) |
 | Wider research on ownership outcomes | S08, S09, S10, S11, S12, S39, S42 | [Success for Whom, and for How Long?](#success-for-whom) |
@@ -59,7 +59,9 @@ The book contains two kinds of material, and this register supports them differe
 {id: bibliography--evidence-used-versus-further-reading}
 ## Evidence Used Versus Further Reading
 
-Every chapter ends with a “To Probe Further” list. Those lists are optional reading, chosen to help a reader go deeper on the chapter’s subject. Their one-sentence annotations were checked for scope, meaning that the description stays within what the resource covers. They are not part of this consulted-evidence register unless the same resource also carries an S identifier, and a chapter’s argument does not rest on them. Listing a resource there does not mean the author consulted it for the book’s claims. Where a chapter’s claim depends on a source, that source is cited inline with an S or P identifier and appears below.
+The main chapters end with a “To Probe Further” list; the reading guide, the part introductions and the reference pages do not. Those lists are optional reading, chosen to help a reader go deeper on the chapter’s subject. Their one-sentence annotations were checked for scope, meaning that the description stays within what the resource covers. They are not part of this consulted-evidence register unless the same resource also carries an S identifier, and a chapter’s argument does not rest on them. Listing a resource there does not mean the author consulted it for the book’s claims. Where a chapter’s claim depends on a source, that source is cited inline with an S or P identifier and appears below.
+
+One annotation carries a figure precise enough to need its version stated. [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) cites Gornall and Strebulaev on unicorn valuations and says reported post-money valuations averaged “about 50%” above the authors’ modeled fair values. That is the figure in the [2017 NBER working paper](https://www.nber.org/papers/w23895), which reports an average of 50% above fair value with 15 of the 135 US unicorns more than 100% above. The version published in the *Journal of Financial Economics* 135(1), 2020, pp. 120–143 reports 48%, with 14 more than 100% above. The chapter links the working paper and names the journal version, and “about 50%” covers both estimates; the direction is the source’s own. Reported values average roughly half again above modeled fair value, which is not the same statement as fair values being 50% below reported values, and an average ratio cannot be inverted to obtain the average of the reverse ratio.
 
 {id: bibliography--public-evidence}
 ## Public Evidence
@@ -80,7 +82,7 @@ Institutional Limited Partners Association (ILPA). [ILPA Principles 3.0: Fosteri
 
 **Evidence type:** LP industry guidance. **Consulted scope:** Selected sections on alignment, economics, governance, transparency, and continuation transactions. An LP perspective and voluntary principles, not law or proof of universal practice.
 
-**Used in:** [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets), [Glossary](#glossary), [Hand Over the Obligations, Not Just the Company](#handover-of-obligations).
+**Used in:** [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets), [Judge an Investor by Their Behavior Under Pressure](#investor-under-pressure), [Hand Over the Obligations, Not Just the Company](#handover-of-obligations), [Glossary](#glossary).
 
 {id: bibliography--s03-kaplan-and-stromberg}
 ### S03 — Kaplan and Strömberg
@@ -278,7 +280,7 @@ The Blackstone Group L.P. [Second Quarter 2018 Earnings Investor Call](https://i
 
 **Evidence type:** Interested investor account. **Consulted scope:** Hilton realization discussion consulted for sponsor-reported 3.1× multiple and $14 billion profit. Not an independently reconstructed net LP cash-flow series.
 
-**Used in:** [Hand Over the Obligations, Not Just the Company](#handover-of-obligations), [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype), [Hand Over the Obligations, Not Just the Company](#handover-of-obligations).
 
 {id: bibliography--s25-pei-hilton-retrospective}
 ### S25 — PEI Hilton retrospective
@@ -305,7 +307,7 @@ Skype S.à r.l., to be converted into Skype S.A. [Amendment No. 3 to Form S-1 Re
 
 **Evidence type:** Company regulatory filing. **Consulted scope:** Prospectus summary pp. 1–4, recent developments, intellectual-property settlement, selected financial data and financing discussion consulted. Pro forma periods, adjusted EBITDA, and management claims require care.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype), [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first), [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan).
+**Used in:** [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first), [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan), [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
 
 {id: bibliography--s28-microsoft-skype-completion}
 ### S28 — Microsoft Skype completion
@@ -332,7 +334,7 @@ Visma. [Visma Attracts New Investors for Further International Expansion in a Tr
 
 **Evidence type:** Company transaction announcement. **Consulted scope:** Transaction valuation, investors, and ownership narrative consulted. Valuation is not proof of cash realized by a particular fund.
 
-**Used in:** [Hand Over the Obligations, Not Just the Company](#handover-of-obligations), [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma), [Hand Over the Obligations, Not Just the Company](#handover-of-obligations).
 
 {id: bibliography--s31-visma-q4-2024-report}
 ### S31 — Visma Q4 2024 report
@@ -377,7 +379,7 @@ Toys R Us, Inc. [Toys R Us, Inc. Reports Results for the Full Year and Fourth Qu
 
 **Evidence type:** Company financial disclosure. **Consulted scope:** Release and financial tables consulted, including operating earnings, interest, cash flow, capex, sales, and e-commerce discussion. Fiscal year ended January 28, 2017; table units are USD millions.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us), [Find the Cash Behind Your Technology Budget](#obligations-before-budget).
+**Used in:** [Find the Cash Behind Your Technology Budget](#obligations-before-budget), [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
 
 {id: bibliography--s36-toys-r-us-bankruptcy-note}
 ### S36 — Toys R Us bankruptcy note
@@ -492,7 +494,7 @@ HgCapital Trust plc / HgCapital. [2015 Full Year Results Presentation](https://w
 
 TeamSystem Holding S.p.A. and subsidiaries. [Consolidated Financial Statements as at and for the year ended 31 December 2017 of TeamSystem Group](https://www.teamsystem.com/media/files/865_Consolidated%20Financial%20Statements%20as%20at%20and%20for%20the%20year%20ended%2031%20December%202017%20of%20TeamSystem%20Group.pdf). February 28, 2018, directors’ signature; reporting year ended December 31, 2017.
 
-**Evidence type:** Company consolidated financial statements and directors’ report. **Consulted scope:** Full 87-page PDF obtained and text extracted; selected directors’ report, 2016 comparability explanation, statements, earnings reconciliation, development spending, acquisitions and financing notes read. Cited page numbers use PDF display pages: 9–15, 23 and 45. Scanned auditor-opinion page 84 visually inspected: Deloitte opines on the consolidated statements under EU-adopted IFRS, not on causal sponsor contribution or every management claim. Statutory 2016 operations cover March–December; pro forma income comparisons also adjust acquisition scope. Capitalized-development comparative is ten months and must not be described as matched annual growth.
+**Evidence type:** Company consolidated financial statements and directors’ report. **Consulted scope:** Full 87-page PDF obtained and text extracted; selected directors’ report, 2016 comparability explanation, statements, earnings reconciliation, development spending, acquisitions and financing notes read. Cited page numbers use PDF display pages: 9–15, 23, 26, 45 and 48–49. The consolidated statement of cash flows (p. 26) and Notes 7, 8 and 10 (pp. 48–49) were read for the distinction between the accounting charge and the cash paid: Note 8 reports finance costs of €79.674 million and Note 7 finance income of €7.618 million, while Note 10 states that €52.1 million of finance costs was paid during 2017, including €49.8 million of interest on the notes (€13.5 million on the €150 million senior notes and €36.3 million on the €570 million senior secured notes) and €1.9 million mainly of other interest and bank charges. Interest paid is not shown on the face of the cash-flow statement; its financing line nets those payments against new borrowing, which is why Note 10 is required. Scanned auditor-opinion page 84 visually inspected: Deloitte opines on the consolidated statements under EU-adopted IFRS, not on causal sponsor contribution or every management claim. Statutory 2016 operations cover March–December; pro forma income comparisons also adjust acquisition scope. Capitalized-development comparative is ten months and must not be described as matched annual growth.
 
 **Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
 
@@ -609,7 +611,7 @@ National Venture Capital Association. [Model Legal Documents — overview](https
 
 Hg. [Hg leads $5.3bn buyout of Visma](https://hgcapital.com/insights/hg-leads-usd5-3bn-buyout-of-visma). June 26, 2017; accessed September 14, 2026.
 
-**Evidence type:** Investment manager's transaction announcement. **Consulted scope:** The announcement was read in full for the funds named for the 2006 and 2014 investments, the 2017 buyout value, KKR's realization of its stake and the stated post-transaction ownership shares. An interested account of announced terms, not an audited record; it does not state who sold in each round or how much money reached the operating company.
+**Evidence type:** Investment manager's transaction announcement. **Consulted scope:** The announcement was read in full for the funds named for the 2006 and 2014 investments, the 2017 buyout value, KKR's realization of its stake and the stated post-transaction ownership shares. The announcement states that completion is subject to regulatory approval. An interested account of announced terms, not an audited record; it does not state who sold in each round or how much money reached the operating company.
 
 **Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
 
@@ -693,6 +695,51 @@ HgCapital Trust plc. [Annual Report & Accounts 2024](https://www.hgcapitaltrust.
 **Evidence type:** Listed investment trust annual report. **Consulted scope:** PDF pp. 9 and 46–47: TeamSystem listed among full realisations made during 2024 with GBP 34.189 million of gross proceeds (secondary sale) and "GBP 34.2m returned to HgT"; the narrative repeats the July 2024 agreed-sale wording; the table footnote states that the figures are gross realisations before performance-fee and facility deductions and timing differences between company realisations and fund distributions, and that a full exit can coexist with a stake retained through another Hg fund. The report does not reconcile the gross figure with the announced GBP 24.3 million or say whether it includes the 2023 partial-sale proceeds; not a net distribution to the Trust's shareholders.
 
 **Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+
+{id: bibliography--s72-investor-gov-bonds-page}
+### S72 — Investor.gov bonds page
+
+U.S. Securities and Exchange Commission, Investor.gov. [Bonds](https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds). Undated educational page; accessed September 15, 2026.
+
+**Evidence type:** Regulator education. **Consulted scope:** The description of a bond as a loan to the issuer, which promises a stated rate of interest over the life of the bond and repayment of the principal, also called face or par value, at maturity. Used for the introductory point that a lender is an investor of a different kind; not a guide to any particular bond or loan agreement.
+
+**Used in:** [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors).
+
+{id: bibliography--s73-ilpa-whole-of-fund-model-lpa}
+### S73 — ILPA whole-of-fund model LPA
+
+Institutional Limited Partners Association (ILPA). [ILPA Model Limited Partnership Agreement (whole-of-fund waterfall)](https://ilpa.org/wp-content/uploads/2019/10/ILPA-Model-Limited-Partnership-Agreement-October-2019.pdf). October 2019.
+
+**Evidence type:** LP industry model document. **Consulted scope:** The distribution waterfall at sections 14.3.3 and 14.3.4, read for a partial general-partner catch-up that keeps the same end condition, and section 14.4.1 on distributions in kind and the treatment of remaining value. A voluntary model drafted under Delaware law from the LP side; it is not the agreement any particular fund signed and not evidence of prevailing market terms.
+
+**Used in:** [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics).
+
+{id: bibliography--s74-ilpa-deal-by-deal-model-lpa}
+### S74 — ILPA deal-by-deal model LPA
+
+Institutional Limited Partners Association (ILPA). [ILPA Model Limited Partnership Agreement — Deal By Deal](https://ilpa.org/resources-tools/resource-library/deal-by-deal-model-limited-partnership-agreement-pdf/). July 1, 2020.
+
+**Evidence type:** LP industry model document. **Consulted scope:** The resource page was consulted to establish that ILPA publishes model agreements for both a whole-of-fund and a deal-by-deal distribution waterfall, which is the point the chapter rests on. The deal-by-deal document itself was not read clause by clause. Publishing two models does not make either the rule for any fund.
+
+**Used in:** [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics).
+
+{id: bibliography--s75-fastly-fourth-quarter-2020-shareholder-letter}
+### S75 — Fastly fourth-quarter 2020 shareholder letter
+
+Fastly, Inc. [Fourth Quarter and Fiscal Year 2020 Shareholder Letter](https://www.sec.gov/Archives/edgar/data/1517413/000151741321000007/ex991-shareholderletter123.htm). February 2021; quarter and fiscal year ended December 31, 2020; filed as an exhibit.
+
+**Evidence type:** Company financial communication filed with the SEC. **Consulted scope:** The definitions of the two retention measures: a dollar-based net expansion rate computed from customers who remained customers on the last day of the current period, and a separate net retention rate that reflects contraction and churn. Consulted as one filed example of a public software company defining these ratios its own way, which is why a plan should write its own definition down. One company's definitions, not a standard; no claim about Fastly's results or about the ratios' behavior anywhere else.
+
+**Used in:** [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets).
+
+{id: bibliography--s76-avalyn-pharma-investors-rights-agreement}
+### S76 — Avalyn Pharma investors' rights agreement
+
+Avalyn Pharma Inc. [Amended and Restated Investors' Rights Agreement, section 3.2 (Inspection Rights)](https://www.sec.gov/Archives/edgar/data/1540171/000119312526147573/ck0001540171-ex4_2.htm). April 25, 2025; filed as an exhibit.
+
+**Evidence type:** Filed contract between a company and its investors. **Consulted scope:** Section 3.2 only, read for a right granted to each major investor and its authorized representatives to visit and inspect the company's properties, examine its corporate and financial records and discuss its affairs, finances and accounts with its officers, during normal business hours, with carve-outs for trade secrets, confidential information and material whose disclosure would affect attorney-client privilege, and excluding investors the board has determined to be competitors. One filed example showing that such rights are commonly written down in advance; it does not establish what any other company's agreement grants.
+
+**Used in:** [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser).
 
 {id: bibliography--supplied-private-inputs}
 ## Supplied Private Inputs

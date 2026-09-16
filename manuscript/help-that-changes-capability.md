@@ -72,7 +72,7 @@ In the week after closing, Priya, accountable for the onboarding pilot, and Alex
 | --- | --- | --- | --- | --- |
 | Peer conversation with a portfolio CTO who made setup repeatable | One hour within two weeks | Half a day of preparation | Similar problem, larger customers; context needs checking | Take it first, as a check on the approach |
 | Investor’s specialist, introduced by Morgan | Ten days over six weeks; can start on day 21, three weeks after closing, and end about day 63 | About six days of one engineer plus two customer-team sessions | Said to have done this at two comparable companies; references not yet checked; not with Larkspur’s customer data | Chosen first step, provisional on the start date and references |
-| Independent specialist found by the company | Procurement and reference checks take seven to nine weeks from the request, four to six weeks longer than the investor’s specialist; a six-week assignment would end around day 91 to 105 | Same engineering effort, plus selection time | Unknown until references are checked | Fallback if the investor’s specialist is unavailable or a poor fit |
+| Independent specialist found by the company | Procurement and reference checks take seven to nine weeks from the request on about day 7, so a start on about day 56 to 70, five to seven weeks later than the investor’s specialist; a six-week assignment would end around day 98 to 112 | Same engineering effort, plus selection time | Unknown until references are checked | Fallback if the investor’s specialist is unavailable or a poor fit |
 | Permanent implementation specialist | Three to four months to start | Onboarding and management | Depends on the candidate | Deferred, pending pilot evidence |
 
 The costs are fictional caps, not quotes, and the same table appears in [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) so that the charter can be checked against the choice:
@@ -100,7 +100,7 @@ The calendar the two chapters share, with days counted from closing:
 | 90 | Priya measures the cohort of eight |
 | 100 | Board review reads the cohort; about €90,000 of ONB-1’s €180,000 incurred, the €15,000 among it |
 
-That last possibility is not idle; [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) shows what happens when it turns out to be true.
+The last of those possibilities — that data intake, not the setup step, is what decides the outcome — is not idle; [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) shows what happens when it turns out to be true.
 
 {id: help-that-changes-capability--use-connections-with-care}
 ## Use Connections With Care
