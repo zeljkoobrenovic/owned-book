@@ -23,7 +23,7 @@
     "posts/26-valuation-is-an-estimate/index.md": "4e2f6b94c4df094353fa4edc37beec9dbd3f74127a9da6e5bbac80b78953e25d",
     "posts/02-three-different-returns/index.md": "21c6a6474eff7d41f0b7a92ae3cfd8ccbb1f8d6caa87ecdae9474a017ed76754",
     "posts/03-raise-what-you-need/index.md": "6c6234692654207913d9f8e38b4d3646b37d2f53424322b827b62eadda516488",
-    "posts/04-obligations-before-budget/index.md": "edd862fe29349305ae35696b2ebeeb2693bb2df204ea95bb14372e5d8cc4867d",
+    "posts/04-obligations-before-budget/index.md": "a5c3a43533a9eb14374997f54b60582d0e81099b867aecb1436bd70565475ff3",
     "posts/part-2-intro/index.md": "41d5795334df6c3d28666a5bf9cc284076d69f128182d184f62243f256269794",
     "posts/05-decide-who-decides/index.md": "89fe1da13479a207285a12172a65601ca3eb5d7f910bb503511a7fee5ac4df0e",
     "posts/06-different-bets/index.md": "5e1ea33600989e21115989e788abd3cd307674bdb904cf3ed3261f9e4fe4eaec",
@@ -551,10 +551,10 @@
     },
     "private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/earnings-to-dated-cash-plan.jpeg": {
       "source": "posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/earnings-to-dated-cash-plan.jpeg",
-      "source_sha256": "efd0dd6b39a0fc8092bc21b99cf5ff70cc4cdfc6e4bc492a6137400a15d9dda1",
-      "source_bytes": 699884,
-      "sha256": "dd53c32d91357959b49c42bb893be0fd13ea856292762b6ffbf312c84e0301d2",
-      "bytes": 256929
+      "source_sha256": "3f8a1684584e6369eeba97716f3dbd6a788cd92b92d1a5e60a4c36a93ce3e224",
+      "source_bytes": 471687,
+      "sha256": "00f37ba2f6320e553d420b150163936bd6d94fb4cba1e840bca53a2c14dbfc39",
+      "bytes": 188912
     },
     "private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/runway-and-funding-decision.jpeg": {
       "source": "posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/runway-and-funding-decision.jpeg",
@@ -1178,11 +1178,11 @@
     "chapters": 36,
     "parts": 6,
     "resources": 110,
-    "crosslinks": 996,
+    "crosslinks": 998,
     "mermaid_diagrams": 2,
-    "source_resource_bytes": 60725322,
-    "resource_bytes": 24161977,
-    "manuscript_bytes": 25237176
+    "source_resource_bytes": 60497125,
+    "resource_bytes": 24093960,
+    "manuscript_bytes": 25187756
   },
   "skipped_config_entries": [],
   "warnings": [],
@@ -1212,7 +1212,7 @@
     "introduction.md": "a607107b2b79e57fe047025d8687b5162aa309f6e38a74066fb8e00517370d5f",
     "investor-under-pressure.md": "6110001369e22bd956f1d9feaa21fd2c3a69fa17150057266372bb9c99807323",
     "investors-adviser.md": "3e7c1a3261e78874894370db7341c8526d8934ecca595c54368e11af275a62d1",
-    "obligations-before-budget.md": "06ac92a7b507919185dd054a28dc3920c7f7298a248af188aaccf5cdb407db09",
+    "obligations-before-budget.md": "81f5ed0973ec365baabd72b8953da71b624bc3a55604e915e068b64be75d73c4",
     "part-1.md": "913ae310a262d71f950de9f6d12a2c496167fd63e34896ba2adc0ed96852cf4f",
     "part-2.md": "76158c8baada5362eedd8ea7964cb5916e4efca61cdae20648297bb93b190073",
     "part-3.md": "407202297fe9952675d35dc03a23dd3624a8011a37ff0b31904dab6aeeacb216",
@@ -1234,7 +1234,7 @@
     "resources/private-techuity/posts/03-raise-what-you-need/assets/images/03-raise-what-you-need/investment-fit-review-loop.jpeg": "da7730c05d231801bb1a71312e0d4f3fb1e8bc4e753d70493b61f8d8c8be2da0",
     "resources/private-techuity/posts/03-raise-what-you-need/assets/images/03-raise-what-you-need/logo.jpeg": "af123356c5d176f4273a93cf329e48b969ea02cc5e017457c7c7ce73a4c465f4",
     "resources/private-techuity/posts/03-raise-what-you-need/assets/images/03-raise-what-you-need/one-product-different-funding-plans.jpeg": "c7ea06f1e88ce1e425022aa74ebb545a5b5dffec8e5abb12cc741539deb98c4f",
-    "resources/private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/earnings-to-dated-cash-plan.jpeg": "dd53c32d91357959b49c42bb893be0fd13ea856292762b6ffbf312c84e0301d2",
+    "resources/private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/earnings-to-dated-cash-plan.jpeg": "00f37ba2f6320e553d420b150163936bd6d94fb4cba1e840bca53a2c14dbfc39",
     "resources/private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/logo.jpeg": "eebb9f7174f4d0e01c20492396c3d3d0247afc52f9c1e926218497af0ecb27c6",
     "resources/private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/runway-and-funding-decision.jpeg": "cf57b4c0771d1cb415657c244ba40df791aff5f74d5b70657eb1d02714307ace",
     "resources/private-techuity/posts/05-decide-who-decides/assets/images/05-decide-who-decides/conditional-commitment-gates.jpeg": "cfa6aa5cea907f3cbbc4799266772a07a57c98d44ed7a7e67a9ea2981001b13e",
