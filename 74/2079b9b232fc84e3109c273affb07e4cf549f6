@@ -1,0 +1,19 @@
+scripts/leanpub_build.py
+  s_e5791de76f3c31::t_96ce6b06f2972e 1-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "742079b9b232fc84e3109c273affb07e4cf549f6",
+  "prompts": {},
+  "sessions": {
+    "s_e5791de76f3c31": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "93df7ce4-9746-4f40-ae88-7a99a5b4a356",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
