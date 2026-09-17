@@ -1,0 +1,80 @@
+manuscript/Book.txt
+  h_32d60cd4daf66e 32
+manuscript/acquisition-adds-work-first.md
+  h_32d60cd4daf66e 41
+manuscript/anatomy-of-a-layoff.md
+  h_32d60cd4daf66e 1-184
+manuscript/announcement-is-not-a-budget.md
+  h_32d60cd4daf66e 6,8,10,16,18,20,22-26,31,35-36,39,41,43,52-53,57,61,63-65,67,69-70,73,77,79,81,83,85,90-92,94,98,100-103,109,111,113,115,120-124,126,133,135,140,145-149,152-164,166,171,173,180,189,191,193,195
+manuscript/bibliography.md
+  h_32d60cd4daf66e 2,14,16,26-28,122,131,158,203,383,739,741,743-761
+manuscript/can-the-team-deliver.md
+  h_32d60cd4daf66e 24,68,88,116
+manuscript/cheaper-cloud-bill.md
+  h_32d60cd4daf66e 26
+manuscript/customers-lenders-investors.md
+  h_32d60cd4daf66e 8,18,20,25-27,29-31,36,38,55,63-134,138-140,144,149,153,155-156,158,160,165,167,172-173,184-185
+manuscript/decide-who-decides.md
+  h_32d60cd4daf66e 61,76-78,97,101-102,106
+manuscript/different-bets.md
+  h_32d60cd4daf66e 107,118
+manuscript/export-manifest.json
+  h_32d60cd4daf66e 18-19,21-26,28-29,31,35,40,43,45,48-50,57-60,116,179,270-277,390,449-452,470-473,477-480,533-536,965-985,1133-1160,1177-1178,1180-1181,1183-1185,1188,1190-1191,1193-1195,1197,1199-1202,1204-1212,1215-1216,1218,1220,1223,1225,1228-1229,1236,1313-1315,1317-1320,1334,1336-1341,1343-1344
+manuscript/first-hundred-days.md
+  h_32d60cd4daf66e 115
+manuscript/fix-decisions-before-hiring.md
+  h_32d60cd4daf66e 2,4,22,79-108
+manuscript/fund-economics.md
+  h_32d60cd4daf66e 2-4,50-53,75-78,88-91
+manuscript/glossary.md
+  h_32d60cd4daf66e 2,22-25,27-34,36-37,73,90-92,94-98,103,150-152,166,191,269,295-306,327-328
+manuscript/growth-into-design.md
+  h_32d60cd4daf66e 22,77
+manuscript/handover-of-obligations.md
+  h_32d60cd4daf66e 2,20,138
+manuscript/help-that-changes-capability.md
+  h_32d60cd4daf66e 112
+manuscript/hilton-and-skype.md
+  h_32d60cd4daf66e 2
+manuscript/introduction.md
+  h_32d60cd4daf66e 40,44,47-48,72,100,105,132,149,170-172,178-182
+manuscript/obligations-before-budget.md
+  h_32d60cd4daf66e 2,4,96,144
+manuscript/part-1.md
+  h_32d60cd4daf66e 22
+manuscript/part-3.md
+  h_32d60cd4daf66e 25
+manuscript/part-5.md
+  h_32d60cd4daf66e 6,17,21-22,25
+manuscript/raise-what-you-need.md
+  h_32d60cd4daf66e 8,14,16,18,20,22,29,31,33-40,42,44,46-48,53,59-64,67,72,74,76,78,85-110,112,114,116,118,120,122,124,129,134,136,142,156,158,160,162
+manuscript/roadmap-to-revenue.md
+  h_32d60cd4daf66e 81,139
+manuscript/success-for-whom.md
+  h_32d60cd4daf66e 2,72
+manuscript/teamsystem.md
+  h_32d60cd4daf66e 2,122
+manuscript/the-financing-slipped.md
+  h_32d60cd4daf66e 2,4,87,106,114,116
+manuscript/three-different-returns.md
+  h_32d60cd4daf66e 8,14-15,27-31,46-50,54,56,58,60,64,77-79,94-96,98,105,116,120,122,124,136,138,140,151,153,160-162,180,182,185
+manuscript/toolkit.md
+  h_32d60cd4daf66e 2,19,37-38,49,164,328,378-399,403
+manuscript/toys-r-us.md
+  h_32d60cd4daf66e 2,24,131-132
+manuscript/valuation-is-an-estimate.md
+  h_32d60cd4daf66e 8,10,16,18,20,30,41,43,45,50,62,64,73,75-77,79,89,93,95,97,110,123,130,132,136,138,147,156,167,171-173,196,198,204
+manuscript/visma.md
+  h_32d60cd4daf66e 2,81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "04f1e2b3e06da013b736dd0c387c65c04e0f3161",
+  "prompts": {},
+  "humans": {
+    "h_32d60cd4daf66e": {
+      "author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
