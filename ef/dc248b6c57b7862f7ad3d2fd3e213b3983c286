@@ -1,0 +1,20 @@
+manuscript/export-manifest.json
+  h_32d60cd4daf66e 23-25,1185,1223,1339,1343
+manuscript/raise-what-you-need.md
+  h_32d60cd4daf66e 35,42,44,46,48,53,60-62,64,72,93,95,97,101,104,106-108,110,112,116,129-131,136,140,142,144,164
+manuscript/three-different-returns.md
+  h_32d60cd4daf66e 20,128,155-156
+manuscript/valuation-is-an-estimate.md
+  h_32d60cd4daf66e 22,34-35,45,75,102,180,204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "efdc248b6c57b7862f7ad3d2fd3e213b3983c286",
+  "prompts": {},
+  "humans": {
+    "h_32d60cd4daf66e": {
+      "author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
