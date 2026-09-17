@@ -17,7 +17,7 @@
 
 A company grows its earnings, yet its investor earns less than expected. Another company becomes more fragile while an investor receives a profit. To understand either result, we need to follow the investment as well as the business.
 
-An **investment return** compares what an investor receives, or still holds, with what it invested. Return measures answer different questions about amount and timing. Until an investment is sold, part of a reported return can depend on an estimate of its value.
+An **investment return** compares what an investor gets back — in cash received or in the value of what it still holds — with what it put in. There is no single way to measure it: some measures ask only how much came back, others also ask how long it took. And until an investment is sold, the value of what is still held is an estimate, so part of any reported return rests on a judgement rather than on cash in hand.
 
 Leaders inside the company judge progress by customers served, products shipped and earnings. An investor judges the same company by the return on its holding, which also depends on the price it paid, the money it borrowed and when it sells. That is why an investor can press for a change that a product or engineering leader can’t justify from the business alone: the request often follows from the mechanics of the investment rather than from the product. Understanding those mechanics makes such requests easier to anticipate and to question.
 
@@ -125,7 +125,7 @@ The shortcut behind all this, enterprise value = EBITDA × multiple, is a negoti
 
 ![Earnings, the price multiple and debt reduction can each affect the equity proceeds from a sale.](private-techuity/posts/02-three-different-returns/assets/images/02-three-different-returns/sources-of-investor-return.jpeg)
 
-**Figure 1:** *Explain operating, valuation and financing effects separately before attributing an investment gain to technology.*
+**Figure 1:** *Explain operating, valuation and financing effects separately before attributing an investment gain to product and technology.*
 
 {id: three-different-returns--two-extensions-dilution-and-a-corporate-owner}
 ## Two Extensions: Dilution and a Corporate Owner
@@ -152,8 +152,8 @@ In a fictional strategic acquisition, the buyer wants Larkspur’s scheduling pr
 
 A group-wide benefit isn’t automatically a local product budget. Ask the corporate owner to name the business unit accountable for the expected benefit and to fund the work and continuing obligations. Keep direct shareholder returns, expected group benefits and the company’s own operating results visible separately. The proposed mechanism must be tested; a strategic rationale doesn’t prove it works. A corporate parent’s internal investment review can also use different measures from a fund, and it need not involve any payment to outside investors or a planned sale.
 
-{id: three-different-returns--what-technology-can-and-cannot-claim-credit-for}
-## What Technology Can and Cannot Claim Credit For
+{id: three-different-returns--what-product-and-technology-can-and-cannot-claim-credit-for}
+## What Product and Technology Can and Cannot Claim Credit For
 
 Start with the observable change, not the sale price. Which customer task improved? What costs changed? What investment was required? A **chief financial officer**, or **CFO**, leads the financial work and can help connect those observations to company earnings and cash. The investment team can then examine their possible valuation implications. [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue) develops that chain in Part III.
 

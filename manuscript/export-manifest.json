@@ -20,9 +20,9 @@
     "posts/part-1-intro/index.md": "0d4fee2b58dd3e83ade980861734d003137d8d75d08031148c0f0ddff75147e8",
     "posts/00-customers-lenders-investors/index.md": "3285db7d0a58221e2ca6a1a7176b23419107e3879d2c7ec1b865623cf4177e89",
     "posts/01-announcement-is-not-a-budget/index.md": "d99b6a16e4351ecde0319ff7258ac536b324f9af534d9755f6a5d340562f9ebe",
-    "posts/26-valuation-is-an-estimate/index.md": "8bdf248aff131793d03e9c3d2a7525d5f2a36e5c34b570bbbdaaab2177d70206",
-    "posts/02-three-different-returns/index.md": "15e3563e527367ff69d49ae5f4fcc7bc4b33187754c3fe7ac86aba54e14a7bcb",
-    "posts/03-raise-what-you-need/index.md": "57a1320f8d840f370ec58a0bb2f5c8c4b77afefe4ab74acc4defb78ca8ddc951",
+    "posts/26-valuation-is-an-estimate/index.md": "4e2f6b94c4df094353fa4edc37beec9dbd3f74127a9da6e5bbac80b78953e25d",
+    "posts/02-three-different-returns/index.md": "21c6a6474eff7d41f0b7a92ae3cfd8ccbb1f8d6caa87ecdae9474a017ed76754",
+    "posts/03-raise-what-you-need/index.md": "6c6234692654207913d9f8e38b4d3646b37d2f53424322b827b62eadda516488",
     "posts/04-obligations-before-budget/index.md": "edd862fe29349305ae35696b2ebeeb2693bb2df204ea95bb14372e5d8cc4867d",
     "posts/part-2-intro/index.md": "41d5795334df6c3d28666a5bf9cc284076d69f128182d184f62243f256269794",
     "posts/05-decide-who-decides/index.md": "89fe1da13479a207285a12172a65601ca3eb5d7f910bb503511a7fee5ac4df0e",
@@ -1182,7 +1182,7 @@
     "mermaid_diagrams": 2,
     "source_resource_bytes": 60725322,
     "resource_bytes": 24161977,
-    "manuscript_bytes": 25234027
+    "manuscript_bytes": 25237176
   },
   "skipped_config_entries": [],
   "warnings": [],
@@ -1220,7 +1220,7 @@
     "part-5.md": "9bbd32f1f9c1b304cf1a11203272f35ff9e5d38469aafd165f4554329fc86a26",
     "part-6.md": "2b0f0a2d2c29136aa883bf0f954fe09d31427b247823f4ff567bfebb834c5012",
     "prove-you-can-restore.md": "c4354add2fc908e270fd135c8300e77e717d5a49945f79b7bbccb6e55f5d2c47",
-    "raise-what-you-need.md": "845e7d3e77462e8e9181d19f75d72ea92c19aae3b858a161b5609847e244739a",
+    "raise-what-you-need.md": "cf4f864a81a481cfd8531f1749bedd6859c11d7a3fd3f4ffcfcc13531b494e57",
     "resources/private-techuity/assets/pexels-chairs-2181916.jpg": "4559f7c7eceb355d17cd2d3847e984a6ad7b2609634b1d4d12401cb3a5c6d095",
     "resources/private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/cash-arrives-with-obligations.jpeg": "74be84568c84c682562756c599fe846aa3654a855ba3196488d93c482d59c2ef",
     "resources/private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/logo.jpeg": "bc16d80818c1177a60d8e9a29d0ae1db6d65459517c0162606d1b17c42ca551b",
@@ -1336,11 +1336,11 @@
     "success-for-whom.md": "05879f5fb4a6ff76bf43145768613029f96ff19777407986c08bf63222b42a48",
     "teamsystem.md": "35351e493fe4cd7e7926ee9700e9c7aeaa8e1ff2489d9ed84fba158033abe01e",
     "the-financing-slipped.md": "b75949164f926583c183b6b906cb12f14e61ac3b5eea4dadd62b2764c6a1c136",
-    "three-different-returns.md": "a2d0482496a3ab5e5e89911376321df58528ecd4ffee78386fe143524460848b",
+    "three-different-returns.md": "79838803427c67465d31d4d6d40096bb0c21914bb79869424ecad2a664d58fa9",
     "toolkit.md": "cb9e617e94cb1d13229addb266948f291a8e59730858bbce45283391c14b305a",
     "toys-r-us.md": "1c4f4a50bdcbedf86eb150c52760bc9592f9d7db58a6c81ebd0dbbc41698c0ed",
     "useful-engagement.md": "b65c8874cbc813f623f7dfafbd7cf68570cee546b34e32a31da2007782f5c546",
-    "valuation-is-an-estimate.md": "d08fd32de16a4f96f3d1beb2049667e21d738c34f8d12c8dc099ff3a12fd7b31",
+    "valuation-is-an-estimate.md": "43e57abe39c7dae431ccf02722894e49db64bb5c9d74fd0f6357b52654135b0c",
     "visma.md": "6d612f5423795f798238216cb782a0b9f11d8a6d0b9776c17c73be343d91a306"
   }
 }
