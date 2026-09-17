@@ -1,5 +1,5 @@
 {id: toys-r-us}
-# 29. Toys R Us: Positive Operating Earnings, Too Little Cash
+# 30. Toys R Us: Positive Operating Earnings, Too Little Cash
 
 ![Toys R Us: Positive Operating Earnings, Too Little Cash — logo](private-techuity/posts/23-toys-r-us/assets/images/23-toys-r-us/logo.jpeg)
 
@@ -21,7 +21,7 @@ The documents consulted describe technology gaps and proposed investment alongsi
 
 The end of the story is worth previewing, because it is the clearest lesson. In September 2017, management told the bankruptcy court that news of a possible filing had led nearly 40% of vendors to tighten payment terms, some demanding payment in advance or on delivery. The same inventory then needed cash sooner. A multi-year technology program could not help with that week's payments. Keep that sequence in mind while reading the earlier evidence.
 
-Three terms matter throughout: **debt service** is the cash needed to meet financing obligations; **liquidity** is the ability to meet payments when they fall due; and **EBITDA** is earnings before interest, taxes, depreciation and amortization. An earnings measure can be positive while liquidity is inadequate. [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) introduces the financial measures; [Find the Cash Behind Your Technology Budget](#obligations-before-budget) shows how to find the cash behind a technology budget. This case applies both.
+Three terms matter throughout: **debt service** is the cash needed to meet financing obligations; **liquidity** is the ability to meet payments when they fall due; and **EBITDA** is earnings before interest, taxes, depreciation and amortization. An earnings measure can be positive while liquidity is inadequate. [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) introduces the financial measures; [Confirm the Cash Before You Commit](#obligations-before-budget) shows how to find the cash behind a technology budget. This case applies both.
 
 The previous cases examined successful exits and a continuing software group. This one examines a failure, beginning with the purchase, then the technology plans, the reported financial position, the supplier shock and the consequences of the US shutdown.
 
@@ -128,8 +128,8 @@ This is the history of a retailer under a particular buyout and financing struct
 
 Four practices follow from the mechanism, not from a claim that they would have saved this company.
 
-- **Ask for the cash and financing context before committing to a transformation timetable.** Use the bridge from earnings to available cash in [Find the Cash Behind Your Technology Budget](#obligations-before-budget): operating cash flow, its treatment of interest and working capital, then capital expenditure and debt payments. A technically feasible plan may be financially infeasible during its transition.
-- **Test the plan against a change in payment terms.** Suppliers and customers can move cash needs by months without any change in the product. [The Roadmap Did Not Slip, the Financing Did](#the-financing-slipped) works through a dated cash plan when expected money arrives late; the same method applies when cash is demanded early.
+- **Ask for the cash and financing context before committing to a transformation timetable.** Use the bridge from earnings to available cash in [Confirm the Cash Before You Commit](#obligations-before-budget): operating cash flow, its treatment of interest and working capital, then capital expenditure and debt payments. A technically feasible plan may be financially infeasible during its transition.
+- **Test the plan against a change in payment terms.** Suppliers and customers can move cash needs by months without any change in the product. [Planning on Money That Hasn't Arrived](#the-financing-slipped) works through a dated cash plan when expected money arrives late; the same method applies when cash is demanded early.
 - **Define the full customer outcome.** Digital sales growth isn't the same as a competitive, profitable business whose stores and online services work together. Measure financial contribution and operating dependencies rather than treating a new channel as a sufficient answer.
 - **Distinguish a necessary intervention from a sufficient rescue.** A platform improvement may be worth doing while still unable to solve the company's wider economics. Leaders should say where that boundary lies, and keep the consequences of failure for employees and suppliers visible in the decision record.
 

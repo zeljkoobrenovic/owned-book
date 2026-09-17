@@ -1,5 +1,5 @@
 {id: bibliography}
-# 35. Bibliography and Evidence Guide
+# 36. Bibliography and Evidence Guide
 
 ![Bibliography and Evidence Guide — logo](private-techuity/posts/bibliography/assets/images/bibliography/logo.jpeg)
 
@@ -11,9 +11,9 @@
 > * **Source interests and evidence strength matter.** Company announcements, investor accounts, guidance documents and original research answer different questions and need different qualifications.
 > * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are the author’s proposals.
 
-This page lists the sources consulted for the book. Sources were consulted between September 12 and September 15, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where an individual date affects how a figure or a claim should be read, the entry gives it.
+This page lists the sources consulted for the book. Sources were consulted between September 12 and September 16, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where an individual date affects how a figure or a claim should be read, the entry gives it.
 
-Source identifiers are stable. **S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register currently runs to S76. Private inputs are described without publishing their contents or file details.
+Source identifiers are stable. **S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register currently runs to S78. Private inputs are described without publishing their contents or file details.
 
 {id: bibliography--topic-index}
 ## Topic Index
@@ -23,8 +23,9 @@ Use this table to find evidence by question. A source can appear under more than
 | Topic | Identifiers | Start with |
 | --- | --- | --- |
 | Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate), [Same Company, Same Performance, Three Different Returns](#three-different-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
-| Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors), [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Find the Cash Behind Your Technology Budget](#obligations-before-budget) |
-| Governance, rights and incentives | S01, S02, S04, S61, S76 | [Decide Who Decides, Before You Disagree](#decide-who-decides), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) |
+| Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors), [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Confirm the Cash Before You Commit](#obligations-before-budget) |
+| Governance, rights and incentives | S01, S02, S04, S61, S76 | [Decide Who Decides, Before You Disagree](#decide-who-decides), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets), [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) |
+| Workforce reductions and employment process | S77, S78 | [Anatomy of a Layoff](#anatomy-of-a-layoff) |
 | Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75 | [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver), [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue), [Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill) |
 | Security and resilience | S17 | [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore) |
 | AI evidence | S18, S19, S20, S21, S63 | [An AI Strategy Hides Three Investment Questions](#ai-strategy-three-questions) |
@@ -118,7 +119,7 @@ U.S. Securities and Exchange Commission, Division of Corporation Finance. [Non-G
 
 **Evidence type:** Regulator staff guidance. **Consulted scope:** Relevant EBITDA and adjusted-measure interpretations consulted. US disclosure context; not a universal accounting definition for every private company.
 
-**Used in:** [Find the Cash Behind Your Technology Budget](#obligations-before-budget), [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate), [Glossary](#glossary).
+**Used in:** [Confirm the Cash Before You Commit](#obligations-before-budget), [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate), [Glossary](#glossary).
 
 {id: bibliography--s07-ias-38-overview}
 ### S07 — IAS 38 overview
@@ -127,7 +128,7 @@ IFRS Foundation. [IAS 38: Intangible Assets](https://www.ifrs.org/issued-standar
 
 **Evidence type:** Accounting standard issuer. **Consulted scope:** Public overview consulted for research expense and development recognition criteria. The overview was rechecked on September 13, 2026 to clarify that recognition criteria determine the treatment. The complete standard and any particular company's application were not audited.
 
-**Used in:** [Find the Cash Behind Your Technology Budget](#obligations-before-budget), [Glossary](#glossary).
+**Used in:** [Confirm the Cash Before You Commit](#obligations-before-budget), [Glossary](#glossary).
 
 {id: bibliography--s08-davis-et-al-2024-revision}
 ### S08 — Davis et al., 2024 revision
@@ -154,7 +155,7 @@ Shai Bernstein, Josh Lerner, and Filippo Mezzanotti. [Private Equity and Financi
 
 **Evidence type:** Original empirical research. **Consulted scope:** PDF abstract, introduction, sample and selected mechanism discussion consulted. UK financial-crisis setting and matched observational design limit generalization. Journal version appeared in 2019. DOI: 10.3386/w23626.
 
-**Used in:** [Find the Cash Behind Your Technology Budget](#obligations-before-budget), [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Confirm the Cash Before You Commit](#obligations-before-budget), [Success for Whom, and for How Long?](#success-for-whom).
 
 {id: bibliography--s11-gupta-et-al-nursing-homes}
 ### S11 — Gupta et al., nursing homes
@@ -199,7 +200,7 @@ DORA / Google Cloud. [2024 Accelerate State of DevOps Report](https://dora.dev/r
 
 **Evidence type:** Original industry survey. **Consulted scope:** Report landing page, findings summary, and errata consulted; no independent reanalysis of the full survey. Associations support questions about operating conditions, not automatic causal or financial claims.
 
-**Used in:** [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue), [Fix the Decision Problem Before Adding People](#fix-decisions-before-hiring).
+**Used in:** [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue), [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring).
 
 {id: bibliography--s16-finops-unit-economics}
 ### S16 — FinOps unit economics
@@ -379,7 +380,7 @@ Toys R Us, Inc. [Toys R Us, Inc. Reports Results for the Full Year and Fourth Qu
 
 **Evidence type:** Company financial disclosure. **Consulted scope:** Release and financial tables consulted, including operating earnings, interest, cash flow, capex, sales, and e-commerce discussion. Fiscal year ended January 28, 2017; table units are USD millions.
 
-**Used in:** [Find the Cash Behind Your Technology Budget](#obligations-before-budget), [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Confirm the Cash Before You Commit](#obligations-before-budget), [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
 
 {id: bibliography--s36-toys-r-us-bankruptcy-note}
 ### S36 — Toys R Us bankruptcy note
@@ -735,11 +736,29 @@ Fastly, Inc. [Fourth Quarter and Fiscal Year 2020 Shareholder Letter](https://ww
 {id: bibliography--s76-avalyn-pharma-investors-rights-agreement}
 ### S76 — Avalyn Pharma investors' rights agreement
 
-Avalyn Pharma Inc. [Amended and Restated Investors' Rights Agreement, section 3.2 (Inspection Rights)](https://www.sec.gov/Archives/edgar/data/1540171/000119312526147573/ck0001540171-ex4_2.htm). April 25, 2025; filed as an exhibit.
+Avalyn Pharma Inc. [Amended and Restated Investors' Rights Agreement, sections 3.2 (Inspection Rights) and 5.4 (Board Matters Requiring Approval of Preferred Directors)](https://www.sec.gov/Archives/edgar/data/1540171/000119312526147573/ck0001540171-ex4_2.htm). April 25, 2025; filed as an exhibit.
 
-**Evidence type:** Filed contract between a company and its investors. **Consulted scope:** Section 3.2 only, read for a right granted to each major investor and its authorized representatives to visit and inspect the company's properties, examine its corporate and financial records and discuss its affairs, finances and accounts with its officers, during normal business hours, with carve-outs for trade secrets, confidential information and material whose disclosure would affect attorney-client privilege, and excluding investors the board has determined to be competitors. One filed example showing that such rights are commonly written down in advance; it does not establish what any other company's agreement grants.
+**Evidence type:** Filed contract between a company and its investors. **Consulted scope:** Section 3.2, read for a right granted to each major investor and its authorized representatives to visit and inspect the company's properties, examine its corporate and financial records and discuss its affairs, finances and accounts with its officers, during normal business hours, with carve-outs for trade secrets, confidential information and material whose disclosure would affect attorney-client privilege, and excluding investors the board has determined to be competitors. Section 5.4(g), read on September 16, 2026, which lists among the board matters requiring the preferred directors' approval the decision to "hire, terminate, or change the compensation of the executive officers, including approving any option grants or stock awards to executive officers". One filed example showing that such rights are commonly written down in advance; it does not establish what any other company's agreement grants.
 
-**Used in:** [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser).
+**Used in:** [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser), [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring).
+
+{id: bibliography--s77-council-directive-98-59-ec}
+### S77 — Council Directive 98/59/EC
+
+Council of the European Union. [Council Directive 98/59/EC of 20 July 1998 on the approximation of the laws of the Member States relating to collective redundancies](https://www.legislation.gov.uk/eudr/1998/59). 20 July 1998; consulted September 16, 2026 in the UK statute-book copy on legislation.gov.uk, because EUR-Lex (CELEX 31998L0059) refused automated access during the session.
+
+**Evidence type:** Union legislation. **Consulted scope:** Article 1(1)(a), the definition (dismissals for reasons not related to the individual workers) and the two alternative tests member states choose between (over 30 days: at least 10 dismissals in establishments normally employing more than 20 and fewer than 100 workers, at least 10% in those employing at least 100 and fewer than 300, at least 30 in those employing 300 or more; or over 90 days: at least 20 whatever the establishment’s size); the second subparagraph of Article 1(1), under which other terminations on the employer’s initiative for reasons unrelated to the individual are assimilated to redundancies provided there are at least five redundancies; Article 2(1) and (2), consultation of workers’ representatives in good time with a view to reaching an agreement, covering ways of avoiding or reducing the redundancies and mitigating their consequences; Article 3(1), written notification of the competent public authority; Article 4(1), the 30-day period after notification before the redundancies take effect, without prejudice to individual notice rights; and Article 5, member states’ freedom to apply more favourable provisions. Rechecked September 16, 2026 for the band boundaries. Minimum requirements that member states transpose and may exceed; not the law of any particular country, and the book does not say which law governs the fictional company. Later amendments were not reviewed.
+
+**Used in:** [Anatomy of a Layoff](#anatomy-of-a-layoff).
+
+{id: bibliography--s78-us-warn-act-29-u-s-c-21012102}
+### S78 — US WARN Act, 29 U.S.C. §§ 2101–2102
+
+United States Code, Title 29, Chapter 23. [§ 2101, Definitions; exclusions from definition of loss of employment](https://www.law.cornell.edu/uscode/text/29/2101) and [§ 2102, Notice required before plant closings and mass layoffs](https://www.law.cornell.edu/uscode/text/29/2102) (the Worker Adjustment and Retraining Notification Act). Consulted September 16, 2026 in the Legal Information Institute’s copy of the US Code.
+
+**Evidence type:** Federal statute. **Consulted scope:** § 2101(a)(1), employer (100 or more employees excluding part-time employees, or 100 or more who in aggregate work at least 4,000 hours a week exclusive of overtime); (a)(2), plant closing (a shutdown of a single site, or of facilities or operating units within it, causing an employment loss for 50 or more employees excluding part-time employees within any 30-day period); (a)(3), mass layoff (a reduction in force not resulting from a plant closing that causes an employment loss at a single site within any 30-day period for at least 33 percent of the employees and at least 50 employees, or for at least 500, excluding part-time employees); (a)(8), part-time employee; § 2102(a), the 60-day written notice and its recipients (the employees’ representatives or the employees, the state’s rapid-response entity and the chief elected local official); § 2102(b), the reduced-notice exceptions (faltering company, unforeseeable business circumstances, natural disaster); and § 2102(d), aggregation of smaller employment losses within any 90-day period unless they arise from separate and distinct actions and causes. Rechecked September 16, 2026. The implementing regulations at 20 CFR Part 639 and state notice laws were not reviewed.
+
+**Used in:** [Anatomy of a Layoff](#anatomy-of-a-layoff).
 
 {id: bibliography--supplied-private-inputs}
 ## Supplied Private Inputs

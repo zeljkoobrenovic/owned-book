@@ -29,6 +29,7 @@ part-5.md
 diligence-corrects-the-plan.md
 first-hundred-days.md
 the-financing-slipped.md
+anatomy-of-a-layoff.md
 handover-of-obligations.md
 part-6.md
 hilton-and-skype.md

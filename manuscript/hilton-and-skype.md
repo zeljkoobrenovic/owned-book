@@ -1,5 +1,5 @@
 {id: hilton-and-skype}
-# 27. Hilton and Skype: A Successful Exit Still Needs Explaining
+# 28. Hilton and Skype: A Successful Exit Still Needs Explaining
 
 ![Hilton and Skype: A Successful Exit Still Needs Explaining — logo](private-techuity/posts/21-hilton-and-skype/assets/images/21-hilton-and-skype/logo.jpeg)
 

@@ -22,7 +22,7 @@ This is the center of the book, and its nine chapters follow three moves. Throug
 **Then assess and change the delivery system.**
 
 - [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver) assesses what the software and the team can support, producing a finding the next two chapters use.
-- [Fix the Decision Problem Before Adding People](#fix-decisions-before-hiring) changes decision-making and responsibilities before adding people, and decides whether hiring still proceeds.
+- [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) changes decision-making and responsibilities before adding people, decides whether hiring still proceeds, and tests whether an investor-proposed appointment is the right response.
 - [Turn “We Expect Growth” Into a Design Decision](#growth-into-design) chooses one implementation from the assessed constraint, with its funded transition.
 
 **Finally, apply the same reasoning to major operating choices.**

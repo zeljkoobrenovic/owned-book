@@ -1,5 +1,7 @@
 {id: fund-economics}
-# 33. Fund Economics: Fees, Distributions and Performance Reports
+# 34. Fund Economics: Fees, Distributions and Performance Reports
+
+![Fund Economics: Fees, Distributions and Performance Reports — logo](private-techuity/posts/fund-economics/assets/images/fund-economics/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn how a fund’s manager and investors are paid, how a fund performance report separates what has been distributed from estimated value still held, and what that means for the requests a company receives.
 
@@ -45,6 +47,10 @@ Suppose the agreement gives the LPs an 8% **preferred return**. On €100 contri
 | 8% preferred return, 100% catch-up | €148.00 | €12.00 | 20% |
 | 8% preferred return, 80% catch-up | €148.00 | €12.00 | 20% |
 
+![Two waterfall pipelines, one plain and one with a hurdle and catch-up basin, both ending at the same LP and GP cups.](private-techuity/posts/fund-economics/assets/images/fund-economics/waterfall-routes-same-split.jpeg)
+
+**Figure 1:** *A preferred return and a catch-up change the route the proceeds take; a catch-up that completes ends at the same final split as the plain arrangement.*
+
 Keep apart the **rate during the catch-up** and the **final entitlement**: the rate sets how quickly the GP reaches its share; the end condition sets what that share is. Two things do change the final split: no catch-up at all, as in the second row, or a catch-up that never completes because proceeds run out inside the band. Had the company sold for €109, the LPs would take €108 and the €1 left would go entirely to the GP under a full catch-up: 11% of the €9 profit, not 20%, because there was not enough profit to finish catching up.
 
 **Clawback.** Under a **deal-by-deal** waterfall the steps above are applied to each investment as it is sold, so the GP can receive carry years before the fund's overall result is known; under a **whole-fund** waterfall the GP's share is measured against the fund's cumulative result. ILPA publishes model agreements for both; neither is the rule for every fund. [S74: ILPA deal-by-deal model LPA](https://ilpa.org/resources-tools/resource-library/deal-by-deal-model-limited-partnership-agreement-pdf/) Where carry is paid deal by deal, later losses can show that early interim carry exceeded 20% of the fund's total profit. A clawback obliges the GP to return the excess at the point the agreement specifies, often the end of the fund, reconciling interim carry with the whole-fund entitlement. How it is secured and whether it is calculated before or after tax are terms to read, not assume.
@@ -66,6 +72,10 @@ Take an investor who has put in €100, has received €60 back in cash, and who
 
 **DPI measures distributions relative to paid-in capital; in this example all distributions are cash. RVPI measures remaining net value.** A fund may also distribute securities, so ask what a reported distribution consisted of; residual value is the fund's remaining net asset value, not only a price put on unsold holdings. [S73: ILPA whole-of-fund model LPA, §14.4.1](https://ilpa.org/wp-content/uploads/2019/10/ILPA-Model-Limited-Partnership-Agreement-October-2019.pdf) All three figures are ratios, and the €90 estimate may rise or fall before sale. A high total alongside little distributed therefore contains more unrealized value; it doesn't demonstrate the same outcome as a completed sale.
 
+![Three jars: a solid jar of distributed coins, a dashed-outline jar of estimated value, and a total jar combining both.](private-techuity/posts/fund-economics/assets/images/fund-economics/distributed-versus-estimated.jpeg)
+
+**Figure 2:** *A fund report adds two different kinds of value: distributions that were received and remaining value that is still an estimate.*
+
 A **gross return** is measured before specified fees and other deductions; a **net return** after them. State which investor receives the return and which deductions apply, and identify the currency, valuation date and treatment of borrowing. A **subscription line**, or subscription facility, is a loan to the fund that can cover the period before its investors supply cash. The Institutional Limited Partners Association (ILPA) provides performance guidance that separates the effects of this borrowing. [S05: ILPA performance guidance](https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/ilpa-performance-template/) The loan delays cash calls, and a higher measured **IRR**, the internal rate of return calculated from the amounts and dates of payments, can result from that changed timing without establishing additional company value. [Same Company, Same Performance, Three Different Returns](#three-different-returns) explains IRR and the multiple on invested capital for a single investment.
 
 {id: fund-economics--what-this-means-for-the-company-leader}
@@ -74,5 +84,9 @@ A **gross return** is measured before specified fees and other deductions; a **n
 **Fund incentives can shape the timing and kind of requests.** A fund near the end of its term, or a manager whose carry depends on a realization that has not yet cleared the hurdle, has reasons to prefer work that shows up in a sale price soon, such as earnings improvements, over longer-dated capability work. A fund early in its investment period may accept spending that raises the estimated value of a holding before any cash returns. Which applies is a matter of fact, not of label: ask which fund owns the company, where it is in its life and what its agreements say. [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) compares the incentives of different investors; [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) gives the one-page record for locating the payer and the approver.
 
 **A higher valuation is not itself a cash distribution.** The year-three row in the announcement chapter's capital-call timeline and the RVPI ratio here are the same fact seen from two sides: an estimate can rise without anyone receiving money. When told that the investment "is performing well", ask whether the statement rests on distributions or on residual value. Keep three states apart: a term sheet sets out proposed terms and does not by itself establish an unconditional commitment to fund (which provisions bind depends on the document); a signed sale or investment agreement is a contractual commitment, usually with conditions, until completion and payment; only then is the value received. Never describe an announced or agreed figure as received.
+
+![Three stations from term sheet to signed agreement with open conditions to cash received, with only the last marked as able to fund a commitment.](private-techuity/posts/fund-economics/assets/images/fund-economics/term-sheet-to-received.jpeg)
+
+**Figure 3:** *A term sheet, a signed agreement with open conditions and cash received are three different states; only the last can fund a commitment now.*
 
 **Received value and estimated value in your own plans.** A plan that depends on an expected exit, a future funding round or an announced valuation is financed by an estimate; what can fund a commitment now is the cash the company holds and the facilities it is authorized to draw. State which commitments rest on received cash or authorized facilities, which on a contractual commitment with conditions, and which on an expectation, and revisit the plan when one of those states changes. [Same Company, Same Performance, Three Different Returns](#three-different-returns) shows why the same company performance produces different investor returns, one more reason to keep the company's evidence of what it can do separate from the fund's report of what it is worth.

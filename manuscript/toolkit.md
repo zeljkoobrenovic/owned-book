@@ -1,5 +1,5 @@
 {id: toolkit}
-# 32. Practical Tools for Ownership and Technology Decisions
+# 33. Practical Tools for Ownership and Technology Decisions
 
 ![Practical Tools for Ownership and Technology Decisions — logo](private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg)
 
@@ -16,7 +16,7 @@ These are **proposed working tools** for company leaders applying the book’s f
 {id: toolkit--minimum-use}
 ## Minimum Use
 
-You don’t need twelve documents. The smallest adequate record answers five questions in one place: what we know and how we know it; which options were compared; what was committed (cash by period, team time, the accountable company leader, the review date and who can decide); what was observed against the baseline; and what remains open. A small company can keep all of that on **one evolving page** per finding or initiative, adding a section at each stage. The tools below describe the fields each stage needs; they are not separate forms to copy into. Use the same finding or initiative identifier (D-3, ONB-1) throughout, so a reader can trace a number back to its evidence.
+You don’t need thirteen documents. The smallest adequate record answers five questions in one place: what we know and how we know it; which options were compared; what was committed (cash by period, team time, the accountable company leader, the review date and who can decide); what was observed against the baseline; and what remains open. A small company can keep all of that on **one evolving page** per finding or initiative, adding a section at each stage. The tools below describe the fields each stage needs; they are not separate forms to copy into. Use the same finding or initiative identifier (D-3, ONB-1) throughout, so a reader can trace a number back to its evidence.
 
 {id: toolkit--find-the-record-for-your-decision-stage}
 ## Find the Record for Your Decision Stage
@@ -34,7 +34,8 @@ The tools keep their original numbers because chapters and earlier readers cite 
 | **Obtain help** | Should we work with this investor at all? | Investor-fit interview — [Tool 8](#toolkit--tool-8) | [Judge an Investor by Their Behavior Under Pressure](#investor-under-pressure) |
 | **Measure** | Did the work help, and is the benefit capacity or cash? | Outcome and contribution ledger — [Tool 6](#toolkit--tool-6); small scorecard — [Tool 7](#toolkit--tool-7) | [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue), [Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill) |
 | **Revise or hand over** | We are combining or separating businesses; what must continue? | Integration or separation plan — [Tool 9](#toolkit--tool-9) | [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first) |
-| **Revise or hand over** | Funding or ownership is changing; what evidence and obligations must travel with the work? | Funding or ownership handover — [Tool 10](#toolkit--tool-10) | [Hand Over the Obligations, Not Just the Company](#handover-of-obligations), [The Roadmap Did Not Slip, the Financing Did](#the-financing-slipped) |
+| **Revise or hand over** | Funding or ownership is changing; what evidence and obligations must travel with the work? | Funding or ownership handover — [Tool 10](#toolkit--tool-10) | [Hand Over the Obligations, Not Just the Company](#handover-of-obligations), [Planning on Money That Hasn't Arrived](#the-financing-slipped) |
+| **Revise or hand over** | The headcount plan has to shrink, or an investor proposes an appointment; who decides, what stops, and what are the people owed? | Workforce decision — [Tool 13](#toolkit--tool-13) | [Anatomy of a Layoff](#anatomy-of-a-layoff), [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) |
 
 Tool 12 (choose the combination) comes before Tool 5 (commit to one initiative) in this order: each initiative can be feasible on its own while the combination is not.
 
@@ -45,7 +46,7 @@ Restrict distribution according to the engagement and company permissions. A fil
 {id: toolkit--followed-through}
 ## One Finding, Followed Through
 
-Everything in this section is **fictional**. Larkspur, its people and every figure are teaching examples shared with [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan), [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days), [You Cannot Fund Every Good Project at Once](#cannot-fund-everything), [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore), [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) and [Hand Over the Obligations, Not Just the Company](#handover-of-obligations); the figures below are the same ledger those chapters use, so a number here should match the number there. The scenario states its own assumptions and does not reconcile with the annual cash bridge in [Find the Cash Behind Your Technology Budget](#obligations-before-budget), and [The Roadmap Did Not Slip, the Financing Did](#the-financing-slipped) is a separate illustration with its own cash and dates. The chain uses the existing tools only. Read it once to see what each stage adds; then use only the stage you need.
+Everything in this section is **fictional**. Larkspur, its people and every figure are teaching examples shared with [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan), [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days), [You Cannot Fund Every Good Project at Once](#cannot-fund-everything), [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore), [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) and [Hand Over the Obligations, Not Just the Company](#handover-of-obligations); the figures below are the same ledger those chapters use, so a number here should match the number there. The scenario states its own assumptions and does not reconcile with the annual cash bridge in [Confirm the Cash Before You Commit](#obligations-before-budget), and [Planning on Money That Hasn't Arrived](#the-financing-slipped) is a separate illustration with its own cash and dates. The chain uses the existing tools only. Read it once to see what each stage adds; then use only the stage you need.
 
 The scenario: a growth investment whose investment thesis is that Larkspur can double onboarding volume without proportional growth in implementation staff. Morgan, the investor’s technology adviser, records the finding below during diligence. On the one-page thesis (Tool 2), the “main constraint” line points at this finding rather than repeating it.
 
@@ -160,7 +161,7 @@ Each stage added information to one underlying record; the tables above show its
 {id: toolkit--tool-1}
 ## 1. Map the Shareholders, Funding and Decision
 
-Use before translating an ownership announcement into an operating promise. See [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Find the Cash Behind Your Technology Budget](#obligations-before-budget) and [Decide Who Decides, Before You Disagree](#decide-who-decides). Complete this for the actual arrangement, rather than assuming every investor has a fund or controls the company.
+Use before translating an ownership announcement into an operating promise. See [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Confirm the Cash Before You Commit](#obligations-before-budget) and [Decide Who Decides, Before You Disagree](#decide-who-decides). Complete this for the actual arrangement, rather than assuming every investor has a fund or controls the company.
 
 | Field | Record |
 | --- | --- |
@@ -324,7 +325,7 @@ Sequence changes around customer continuity and scarce expertise. Show dual-runn
 {id: toolkit--tool-10}
 ## 10. Prepare a Funding or Ownership Handover
 
-Use for another round, a sale, corporate integration or a material change in authority. See [Hand Over the Obligations, Not Just the Company](#handover-of-obligations) for what must travel with the work, and [The Roadmap Did Not Slip, the Financing Did](#the-financing-slipped) for the delayed-event plan; [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) shows what the next investor will look for. A new fundraise and an investor selling existing shares need different cash explanations. The [D-3/ONB-1 entry in Stage 6](#toolkit--stage-6) is a completed row.
+Use for another round, a sale, corporate integration or a material change in authority. See [Hand Over the Obligations, Not Just the Company](#handover-of-obligations) for what must travel with the work, and [Planning on Money That Hasn't Arrived](#the-financing-slipped) for the delayed-event plan; [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) shows what the next investor will look for. A new fundraise and an investor selling existing shares need different cash explanations. The [D-3/ONB-1 entry in Stage 6](#toolkit--stage-6) is a completed row.
 
 | Field | Record |
 | --- | --- |
@@ -374,10 +375,32 @@ Calculate cash and team time separately. Identify overlapping benefits and costs
 
 Record the reason for the selected combination in ordinary language. A score can organize estimates, but the accountable decision-maker must still explain the trade-off and what evidence would change it.
 
+{id: toolkit--tool-13}
+## 13. Record a Workforce Decision
+
+Use when an investor’s request, a funding condition or the company’s own cash forecast means the headcount plan has to change: a reduction, a freeze that becomes permanent, or a consolidation after an acquisition. See [Anatomy of a Layoff](#anatomy-of-a-layoff) for the worked reduction and [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) for the knowledge-transfer test and for an investor-proposed appointment, which uses the first three rows and the role-design fields of Tool 5 rather than a separate form. Reuse Tool 1’s Authority row and Tool 12’s option comparison rather than copying them.
+
+| Field | Record |
+| --- | --- |
+| Investor request | Who asked and in what form: a formal approval right (which clause or seat), a funding condition (which money, which date), or influence (whose view, which benchmark); the response each requires |
+| Decision required and authority | The decision the authorized body can take, which body it is (the board, a reserved matter, the CEO within the plan), the latest useful date and the consequence of delay |
+| Target and reason | The cash date, margin or synergy behind the request, translated into a monthly number; what meeting it protects |
+| Baseline | Headcount and fully loaded cost by function, contractors, non-payroll spending, collected revenue, and the work each team is doing |
+| Alternatives | Freeze, contractor reduction, redeployment, pay measures, reduced hours and reduction levels, each with its recurring saving, one-off cost, first full month of saving and what it removes |
+| Roles and capabilities affected | Roles chosen by the work that stops; the knowledge each holder has; the transfer test and its date; what the remaining team can still do |
+| Cash timing | Notice periods, severance and other one-off costs by month; savings by month; cash by month under the chosen plan and without the money it depends on |
+| Work stopped and commitments revised | The stopped list; customer commitments renegotiated, by whom and before whom is told; forecast entries removed |
+| Jurisdiction check | Which thresholds, consultation and notification rules apply, confirmed before the date is fixed; the assumption the calendar rests on |
+| Employee consequences | Leavers: notice, severance, accrued leave, equity treatment, references and support. Remaining: on-call, what is no longer expected, what would restore the plan |
+| Communication | The order of the day, who tells whom, and one dated cash table behind the board paper, the investor update and the team briefing |
+| Review and reversing evidence | Review dates; what a later round does and does not reverse; what triggers the next reduction or a different question altogether |
+
+For fictional Larkspur, the record shows a reduction meeting a bridge condition with cash of €505,000 at 30 June, savings that arrive in February after one-off costs paid from November, and the same reduction failing to save January if the bridge does not arrive. A record that stops at the monthly saving has not yet made the decision.
+
 {id: toolkit--combining-and-revising-records}
 ## Combining and Revising Records
 
-The records overlap by design, and that is the reason not to copy fields between them. Tools 2, 3 and 5 all mention evidence, resources and responsibility: the thesis links findings, a finding holds the evidence, and the initiative holds the commitment. Reference the finding by its identifier from the other two. Tools 6 and 7 both define outcomes: the ledger explains one initiative’s result, the scorecard chooses the few measures the board watches. Tool 10 reuses the map’s Authority, Money and Time rows and the ledger’s evidence; update those and point to them.
+The records overlap by design, and that is the reason not to copy fields between them. Tools 2, 3 and 5 all mention evidence, resources and responsibility: the thesis links findings, a finding holds the evidence, and the initiative holds the commitment. Reference the finding by its identifier from the other two. Tools 6 and 7 both define outcomes: the ledger explains one initiative’s result, the scorecard chooses the few measures the board watches. Tool 10 reuses the map’s Authority, Money and Time rows and the ledger’s evidence; update those and point to them. Tool 13 reuses the same Authority row and Tool 12’s option comparison for a workforce decision.
 
 A small company can keep a finding, its initiative and its outcome on one evolving page. Revise the page when evidence arrives, keeping the earlier state visible: the pending version, the authorized version, the observed result and the revised decision are the history a later reader — or a later shareholder — needs. What matters is not the number of documents but whether the next decision can see the last one’s evidence.
 

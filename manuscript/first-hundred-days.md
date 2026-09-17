@@ -112,7 +112,7 @@ The review changed the plan, on the decision rule agreed in advance: below 60 ho
 
 Completing every planned task is not success if the tasks addressed the wrong constraint. Revising a major assumption is a valuable outcome even when it reduces the original growth forecast, and the review should reward that judgment rather than the preservation of the transaction story. The early period should leave a plan whose accountable leaders understand the work, whose funding and capacity are credible, and whose assumptions can be reviewed.
 
-The plan above assumes the money it was built on arrives when expected. The next chapter takes the same kind of dated plan and asks what changes when financing slips: [The Roadmap Did Not Slip, the Financing Did](#the-financing-slipped). The continuing obligations this plan creates, including D-3 with its baseline and open work, are handed to the next owner in [Hand Over the Obligations, Not Just the Company](#handover-of-obligations).
+The plan above assumes the money it was built on arrives when expected. The next chapter takes the same kind of dated plan and asks what changes when financing slips: [Planning on Money That Hasn't Arrived](#the-financing-slipped). The continuing obligations this plan creates, including D-3 with its baseline and open work, are handed to the next owner in [Hand Over the Obligations, Not Just the Company](#handover-of-obligations).
 
 {id: first-hundred-days--questions-to-consider}
 ## Questions to Consider

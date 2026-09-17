@@ -19,7 +19,7 @@ The chapters compare arrangements side by side. Fund-backed buyouts receive the 
 - [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) introduces sales, profit, cash and estimates of business value, in two stages a beginner can follow.
 - [Same Company, Same Performance, Three Different Returns](#three-different-returns) shows how the same operating performance can produce three different investor returns, and what that means for claims about engineering’s contribution.
 - [Match the Funding to the Work](#raise-what-you-need) matches funding and ownership terms to the work the company actually needs to do, including how much to raise.
-- [Find the Cash Behind Your Technology Budget](#obligations-before-budget) finds the cash behind a technology budget once taxes, financing payments and working capital are accounted for.
+- [Confirm the Cash Before You Commit](#obligations-before-budget) finds the cash behind a technology budget once taxes, financing payments and working capital are accounted for.
 
 Fund-side mechanics that go beyond a company leader’s day-to-day needs, such as distribution waterfalls and fund performance ratios, sit in the optional [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) reference.
 

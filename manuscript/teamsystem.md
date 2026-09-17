@@ -1,5 +1,5 @@
 {id: teamsystem}
-# 30. TeamSystem: Each New Owner Inherits Progress and Unfinished Work
+# 31. TeamSystem: Each New Owner Inherits Progress and Unfinished Work
 
 ![TeamSystem: Each New Owner Inherits Progress and Unfinished Work — logo](private-techuity/posts/25-teamsystem/assets/images/25-teamsystem/logo.jpeg)
 
@@ -119,7 +119,7 @@ Adjusted EBITDA and the statutory loss therefore count different things, and eac
 
 The capital expenditure above includes about €13.4 million of capitalized development in 2017, split between personnel and service costs. The report also describes an additional €80 million **secured-note issue**, borrowing through debt securities backed by specified security, part of whose proceeds repaid a €20 million parent loan. These are evidence of investment and financing activity, not measurements of the resulting customer benefit. [S49: TeamSystem 2017 report, PDF pp. 9, 14–15 and 26](https://www.teamsystem.com/media/files/865_Consolidated%20Financial%20Statements%20as%20at%20and%20for%20the%20year%20ended%2031%20December%202017%20of%20TeamSystem%20Group.pdf)
 
-Capitalizing qualifying development records it as an asset to be charged over time rather than expensing all of it immediately. Capitalization does not eliminate the underlying cash cost; it changes when the cost reaches profit, not whether it is paid, so the cash plan should use the payment dates, which contracts and accruals can move across a period end. The accounting distinction is explained in [Find the Cash Behind Your Technology Budget](#obligations-before-budget); the disclosed capitalized amount isn't a measure of all research and development effort.
+Capitalizing qualifying development records it as an asset to be charged over time rather than expensing all of it immediately. Capitalization does not eliminate the underlying cash cost; it changes when the cost reaches profit, not whether it is paid, so the cash plan should use the payment dates, which contracts and accruals can move across a period end. The accounting distinction is explained in [Confirm the Cash Before You Commit](#obligations-before-budget); the disclosed capitalized amount isn't a measure of all research and development effort.
 
 The reconciliation also shows €1.9 million of IT integration and transformation costs and €1.3 million of acquisition and merger costs treated as non-core in 2017, after €13.6 million of acquisition costs in the 2016 statutory period. Whether such costs are exceptional or a recurring requirement of a strategy that keeps buying companies is the question [Visma: Continuity of Manager Is Not Continuity of Money](#visma) examines with a precisely reconciled example; that chapter owns the lesson. Here the narrower point is that an integration cost excluded from an adjusted measure is still work the operating team must do and cash the company must find.
 

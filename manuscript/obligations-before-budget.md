@@ -1,7 +1,7 @@
 {id: obligations-before-budget}
-# 7. Find the Cash Behind Your Technology Budget
+# 7. Confirm the Cash Before You Commit
 
-![Find the Cash Behind Your Technology Budget — logo](private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/logo.jpeg)
+![Confirm the Cash Before You Commit — logo](private-techuity/posts/04-obligations-before-budget/assets/images/04-obligations-before-budget/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to reconcile positive earnings with the cash actually available, separate obligations from choices, and price the options for an initiative the company can fund.
 
@@ -93,7 +93,7 @@ Alex proposes hires that raise monthly cash spending by €100,000, with no imme
 
 Real cash forecasts need payment dates, taxes, one-off costs, restricted cash, revenue uncertainty and a minimum operating reserve. A company should act before the bank balance reaches zero. This calculation isolates the choice; it isn’t a recommendation to hold a particular reserve or fundraising schedule.
 
-The leadership response is to agree what evidence the hires would produce, stage commitments where possible and decide when to change course if funding stays uncertain. Sam and Alex should put the next decision date ahead of the point where notice periods, customer obligations or fixed contracts make the plan expensive to reverse. An investor’s intention to join another round is an expression of interest, not a contractual commitment with understood conditions and not cash received. [The Roadmap Did Not Slip, the Financing Did](#the-financing-slipped) works through a dated version of this decision when the expected round moves.
+The leadership response is to agree what evidence the hires would produce, stage commitments where possible and decide when to change course if funding stays uncertain. Sam and Alex should put the next decision date ahead of the point where notice periods, customer obligations or fixed contracts make the plan expensive to reverse. An investor’s intention to join another round is an expression of interest, not a contractual commitment with understood conditions and not cash received. [Planning on Money That Hasn't Arrived](#the-financing-slipped) works through a dated version of this decision when the expected round moves.
 
 Under corporate ownership, replace the hoped-for round with the relevant parent-company allocation and approval. Under profitable growth, include the timing of customer receipts and the spending needed to serve them. In each case, the proposal needs a funded path through the next important decision.
 
@@ -141,7 +141,7 @@ Debt can make an attractive acquisition possible and sharpen attention to cash. 
 
 The historical Toys R Us case in [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us) shows the same gap in reported figures: its fiscal 2016 release reports positive adjusted EBITDA alongside negative operating cash flow and substantial capital expenditure. [S35: Toys R Us fiscal 2016 results](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000010/truq4-16earningsreleaseexh.htm) That combination doesn’t identify the cause of failure, but it rules out using the earnings headline as the available reinvention budget.
 
-What to do when expected funding does not arrive on time, and on which date each commitment stops being reversible, is the subject of [The Roadmap Did Not Slip, the Financing Did](#the-financing-slipped). Choosing help that changes what the team can do, and naming the continuing dependence it leaves behind, is the subject of [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability).
+What to do when expected funding does not arrive on time, and on which date each commitment stops being reversible, is the subject of [Planning on Money That Hasn't Arrived](#the-financing-slipped). Choosing help that changes what the team can do, and naming the continuing dependence it leaves behind, is the subject of [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability).
 
 {id: obligations-before-budget--which-plan-can-the-company-actually-carry}
 ## Which Plan Can the Company Actually Carry?
