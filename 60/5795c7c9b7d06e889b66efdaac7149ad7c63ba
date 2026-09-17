@@ -1,0 +1,14 @@
+publish.sh
+  h_32d60cd4daf66e 3-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "605795c7c9b7d06e889b66efdaac7149ad7c63ba",
+  "prompts": {},
+  "humans": {
+    "h_32d60cd4daf66e": {
+      "author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
