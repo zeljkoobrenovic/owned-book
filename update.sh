@@ -10,3 +10,4 @@ cp -r /Users/zeljkoobrenovic/PycharmProjects/spec-driven-journals/manuscripts/ow
 git add .
 git commit -m "latest update"
 git push
+

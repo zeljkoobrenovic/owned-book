@@ -1,0 +1,3 @@
+# export LEANPUB_API_KEY=...
+
+python3 scripts/leanpub_build.py
