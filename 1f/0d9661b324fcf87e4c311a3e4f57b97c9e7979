@@ -1,0 +1,21 @@
+manuscript/export-manifest.json
+  s_2285964b144776::t_cdbea0bf9e1917 26,554-557,1181,1183-1185,1215,1237
+manuscript/obligations-before-budget.md
+  s_2285964b144776::t_d9020a1126747b 6,8,10,14-16,18,20,22,24,26,31,40,44,46,51-52,55,57,66,68-99,101-107,109-113,115,117-169,176,178,185,200-204,210,217,221,230,235-239,241,267,270,272
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1f0d9661b324fcf87e4c311a3e4f57b97c9e7979",
+  "prompts": {},
+  "sessions": {
+    "s_2285964b144776": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bac16339-703c-4846-a335-a59301a3264e",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
