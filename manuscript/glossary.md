@@ -43,7 +43,7 @@ Look up a term or abbreviation in the alphabetical index below; each entry links
 {id: glossary--funding}
 ## Basic Funding and Ownership
 
-Start with [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors). The stock and public-company definitions use Investor.gov’s educational material; the capital-structure definition follows Damodaran’s finance teaching. [S54: Stock basics](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks) [S55: Public companies](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/public-companies) [S57: Capital structure](https://people.stern.nyu.edu/adamodar/pdfiles/cf2E/capstru.pdf)
+Start with the chapter [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors). The stock and public-company definitions use Investor.gov’s educational material; the capital-structure definition follows Damodaran’s finance teaching. [S54: Stock basics](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks) [S55: Public companies](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/public-companies) [S57: Capital structure](https://people.stern.nyu.edu/adamodar/pdfiles/cf2E/capstru.pdf)
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -70,7 +70,7 @@ Start with [Customers, Lenders and Investors: What Each Expects in Return](#cust
 {id: glossary--arrangements}
 ## Comparing Ownership and Funding Arrangements
 
-These definitions support the comparisons in [Match the Funding to the Work](#raise-what-you-need); they do not replace the terms of a particular arrangement. The last five rows describe the funding states the book uses from [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) onward: expression of interest → approval pending → contractual commitment with conditions → cash received. Record each planned commitment against the state its money has reached. A commitment can be funded from cash the company holds, from a facility it is authorized to draw or from forecast operating receipts in a dated cash plan; an expected round, or a commitment whose conditions are unmet, is not yet any of those. Before an irreversible commitment, establish when usable funds will be available, which conditions remain and which fallback is authorized ([Confirm the Cash Before You Commit](#obligations-before-budget), [Planning on Money That Hasn't Arrived](#the-financing-slipped)).
+These definitions support the comparisons in the chapter [Match the Funding to the Work](#raise-what-you-need); they do not replace the terms of a particular arrangement. The last five rows describe the funding states the book uses from the chapter [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) onward: expression of interest → approval pending → contractual commitment with conditions → cash received. Record each planned commitment against the state its money has reached. A commitment can be funded from cash the company holds, from a facility it is authorized to draw or from forecast operating receipts in a dated cash plan; an expected round, or a commitment whose conditions are unmet, is not yet any of those. Before an irreversible commitment, establish when usable funds will be available, which conditions remain and which fallback is authorized (see the chapters [Confirm the Cash Before You Commit](#obligations-before-budget) and [Planning on Money That Hasn't Arrived](#the-financing-slipped)).
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -107,7 +107,7 @@ Carve-outs, turnarounds, acquisitions and refinancing describe changes or condit
 {id: glossary--organizations}
 ## The Investment Organizations and Their Payments
 
-For the money-flow example, read [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget). Fund terms depend on the agreement. The waterfall, preferred-return, catch-up, clawback and subscription-line rows are explained with a worked report in [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics), which is optional depth for company leaders. [S01: SEC private equity guide](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity) [S02: ILPA principles](https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf)
+For the money-flow example, read the chapter [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget). Fund terms depend on the agreement. The waterfall, preferred-return, catch-up, clawback and subscription-line rows are explained with a worked report in [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics), which is optional depth for company leaders. [S01: SEC private equity guide](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity) [S02: ILPA principles](https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf)
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -134,7 +134,7 @@ For the money-flow example, read [An Investment Announcement Is Not a Budget](#a
 {id: glossary--roles}
 ## Roles, Authority and Sponsors
 
-The chapters keep three questions separate: who owns shares, who is accountable for a result, and who is authorized to approve it. See [Decide Who Decides, Before You Disagree](#decide-who-decides) for authority, [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser) for the adviser role and [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) for sponsors of support work.
+The chapters keep three questions separate: who owns shares, who is accountable for a result, and who is authorized to approve it. See the chapter [Decide Who Decides, Before You Disagree](#decide-who-decides) for authority, [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser) for the adviser role and [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) for sponsors of support work.
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -163,7 +163,7 @@ The chapters keep three questions separate: who owns shares, who is accountable 
 {id: glossary--earnings}
 ## Sales, Earnings and Cash
 
-[A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) introduces the earnings calculation; [Confirm the Cash Before You Commit](#obligations-before-budget) follows the payments it leaves out and builds the cash bridge. Accounting and reported adjustments need their own definitions. Whenever a chapter names a profit or cash figure, it names the measure, the scope (the consolidated group or the part attributable to particular shareholders) and the period. [S06: SEC non-GAAP guidance](https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures) [S07: IAS 38 overview](https://www.ifrs.org/issued-standards/list-of-standards/ias-38-intangible-assets/)
+The chapter [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) introduces the earnings calculation; the chapter [Confirm the Cash Before You Commit](#obligations-before-budget) follows the payments it leaves out and builds the cash bridge. Accounting and reported adjustments need their own definitions. Whenever a chapter names a profit or cash figure, it names the measure, the scope (the consolidated group or the part attributable to particular shareholders) and the period. [S06: SEC non-GAAP guidance](https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures) [S07: IAS 38 overview](https://www.ifrs.org/issued-standards/list-of-standards/ias-38-intangible-assets/)
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -209,7 +209,7 @@ The chapters keep three questions separate: who owns shares, who is accountable 
 {id: glossary--returns}
 ## Value and Investment Returns
 
-Read [Same Company, Same Performance, Three Different Returns](#three-different-returns) for the worked investment and [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) for valuation techniques. The fund performance ratios (DPI, RVPI, TVPI) and gross versus net returns are worked through in [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics). [S03: Buyout overview](https://www.nber.org/system/files/working_papers/w14207/w14207.pdf) [S05: ILPA performance guidance](https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/ilpa-performance-template/) [S52: IPEV valuation guidelines](https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/2025%20IPEV%20Valuation%20Guidelines.pdf)
+Read the chapter [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns) for the worked investment and [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) for valuation techniques. The fund performance ratios (DPI, RVPI, TVPI) and gross versus net returns are worked through in [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics). [S03: Buyout overview](https://www.nber.org/system/files/working_papers/w14207/w14207.pdf) [S05: ILPA performance guidance](https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/ilpa-performance-template/) [S52: IPEV valuation guidelines](https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/2025%20IPEV%20Valuation%20Guidelines.pdf)
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -239,7 +239,7 @@ Read [Same Company, Same Performance, Three Different Returns](#three-different-
 {id: glossary--transactions}
 ## Transactions and Incentives
 
-For examples, use [Match the Funding to the Work](#raise-what-you-need), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) and [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first); [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) shows a thesis being revised.
+For examples, use the chapters [Match the Funding to the Work](#raise-what-you-need), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) and [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first); the chapter [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) shows a thesis being revised.
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -276,7 +276,7 @@ For examples, use [Match the Funding to the Work](#raise-what-you-need), [Manage
 {id: glossary--choosing}
 ## Choosing and Supporting Company Work
 
-See [You Cannot Fund Every Good Project at Once](#cannot-fund-everything), [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) and [Turn an Offer of Help Into a Useful Engagement](#useful-engagement). These terms describe the proposed working methods used in the main narrative.
+See the chapters [You Cannot Fund Every Good Project at Once](#cannot-fund-everything), [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) and [Turn an Offer of Help Into a Useful Engagement](#useful-engagement). These terms describe the proposed working methods used in the main narrative.
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -308,7 +308,7 @@ See [You Cannot Fund Every Good Project at Once](#cannot-fund-everything), [Find
 {id: glossary--technology}
 ## Technology and Company Work
 
-The company-investment sequence begins at [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) and [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue); delivery measures are discussed in [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver), recovery in [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore) and AI in [An AI Strategy Hides Three Investment Questions](#ai-strategy-three-questions). Sources for the frameworks named below: [S13: SPACE](https://www.microsoft.com/en-us/research/publication/the-space-of-developer-productivity-theres-more-to-it-than-you-think/) [S14: DORA metrics](https://dora.dev/guides/dora-metrics/) [S16: FinOps unit economics](https://www.finops.org/framework/capabilities/unit-economics/) [S17: NIST framework](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) and, for the AI definition, [S63: OECD AI-system definition memorandum](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf).
+The company-investment sequence begins at the chapters [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) and [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue); delivery measures are discussed in the chapter [Can the Team Deliver What the Plan Promises?](#can-the-team-deliver), recovery in [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore) and AI in [An AI Strategy Hides Three Investment Questions](#ai-strategy-three-questions). Sources for the frameworks named below: [S13: SPACE](https://www.microsoft.com/en-us/research/publication/the-space-of-developer-productivity-theres-more-to-it-than-you-think/) [S14: DORA metrics](https://dora.dev/guides/dora-metrics/) [S16: FinOps unit economics](https://www.finops.org/framework/capabilities/unit-economics/) [S17: NIST framework](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) and, for the AI definition, [S63: OECD AI-system definition memorandum](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf).
 
 | Term | Plain-language meaning |
 | --- | --- |
@@ -356,7 +356,7 @@ The company-investment sequence begins at [You Cannot Fund Every Good Project at
 {id: glossary--evidence}
 ## Evidence and Lasting Outcomes
 
-For application, read [Success for Whom, and for How Long?](#success-for-whom) or use [Practical Tools for Ownership and Technology Decisions](#toolkit); [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) shows the observed / reported / inferred split in use.
+For application, read the chapter [Success for Whom, and for How Long?](#success-for-whom) or use [Practical Tools for Ownership and Technology Decisions](#toolkit); the chapter [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) shows the observed / reported / inferred split in use.
 
 | Term | Plain-language meaning |
 | --- | --- |

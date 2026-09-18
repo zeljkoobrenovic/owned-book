@@ -1,7 +1,7 @@
 {id: handover-of-obligations}
 # 27. Hand Over the Obligations, Not Just the Company
 
-![Hand Over the Obligations, Not Just the Company — logo](private-techuity/posts/31-handover-of-obligations/assets/images/31-handover-of-obligations/logo.jpeg)
+![Hand Over the Obligations, Not Just the Company — logo](private-techuity/posts/25-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to keep the evidence during the work, follow who receives cash and who keeps an interest in each transaction form, and hand over the unfinished obligations with the company.
 
@@ -17,7 +17,7 @@
 
 On the morning after an ownership event, the customer contracts, the agreed recovery requirement, the half-finished migration and the deferred hire are still there. A round adds an investor; a secondary sale gives one shareholder liquidity; a continuation transaction moves the holding to a new vehicle under the same manager; a sale of control changes who holds authority over the plan; a listing may or may not. None of these events changes the work. This chapter is about handing that work over, not only the shares.
 
-[Planning on Money That Hasn't Arrived](#the-financing-slipped) and [Anatomy of a Layoff](#anatomy-of-a-layoff) ended with dated decision records. This chapter follows such records into an ownership event, whichever form it takes. A sale is one possible event, not the inevitable next stage; the same record has to serve continued ownership, another round and a change of controlling shareholder. The Larkspur figures in this chapter are fictional and belong to the chain that runs from [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) through [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days) to this handover. The delayed-financing and reduction chapters work a deliberately separate scenario with its own cash, burn, people and dates; their figures are not part of this record.
+The chapters [Planning on Money That Hasn't Arrived](#the-financing-slipped) and [Anatomy of a Layoff](#anatomy-of-a-layoff) ended with dated decision records. This chapter follows such records into an ownership event, whichever form it takes. A sale is one possible event, not the inevitable next stage; the same record has to serve continued ownership, another round and a change of controlling shareholder. The Larkspur figures in this chapter are fictional and belong to the chain that runs from the chapter [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) through the chapter [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days) to this handover. The delayed-financing and reduction chapters work a deliberately separate scenario with its own cash, burn, people and dates; their figures are not part of this record.
 
 {id: handover-of-obligations--keep-the-evidence-during-the-work}
 ## Keep the Evidence During the Work
@@ -26,13 +26,13 @@ Exit preparation is easy to describe and hard to do late. If the decision and ou
 
 The company should be able to explain its product position, architecture constraints, operating reliability, leadership capacity, material risks, intellectual property and acquisition history, and to reconcile the economic claims attached to its technology work. The evidence differs by initiative:
 
-- For a cloud initiative: the baseline, the implemented changes, the demand adjustment, net costs and service outcomes ([Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill)).
+- For a cloud initiative: the baseline, the implemented changes, the demand adjustment, net costs and service outcomes (see the chapter [Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill)).
 - For a platform transition: migration cohorts, customers lost, dual-running costs and unfinished obligations.
-- For AI work: the evaluation versions and the actual workflow economics ([An AI Strategy Hides Three Investment Questions](#ai-strategy-three-questions)).
+- For AI work: the evaluation versions and the actual workflow economics (see the chapter [An AI Strategy Hides Three Investment Questions](#ai-strategy-three-questions)).
 
 These are stronger materials than a list of projects because they show the limits of what is known. A coherent story is useful only when its supporting evidence is available and its uncertainties stay visible.
 
-![A record of baselines, costs, results, uncertainty and unfinished work supports successive funding and ownership decisions.](private-techuity/posts/18-the-financing-slipped/assets/images/18-the-financing-slipped/evidence-carried-through-ownership.jpeg)
+![A record of baselines, costs, results, uncertainty and unfinished work supports successive funding and ownership decisions.](private-techuity/posts/23-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg)
 
 **Figure 1:** *Keep the evidence during the work so the next decision can examine what actually changed.*
 
@@ -61,7 +61,7 @@ This is what Priya hands to whoever decides next: the reconstituted board and it
 
 A company can flatter a short-period earnings presentation by delaying investment or classifying recurring work as exceptional. It can make a roadmap look orderly by leaving out difficult customer commitments. Each choice increases what the next owner inherits without knowing it.
 
-Test whether the sale account describes a business the next owner can maintain. What spending is required to sustain current performance? What would a new owner discover after the reporting date? Which results depend on temporary incentives, unpaid work or people who may leave? [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) shows how much depends on the reporting period chosen and on what each owner inherited from the last.
+Test whether the sale account describes a business the next owner can maintain. What spending is required to sustain current performance? What would a new owner discover after the reporting date? Which results depend on temporary incentives, unpaid work or people who may leave? The chapter [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) shows how much depends on the reporting period chosen and on what each owner inherited from the last.
 
 This does not mean all work must be complete before a transaction. Buyers can accept and price unfinished transitions. The requirement is that material obligations and assumptions are represented accurately through the proper disclosure process.
 
@@ -81,14 +81,14 @@ Transactions that look alike in a headline move money and authority differently.
 
 Two forms deserve care. “Secondary sale” is used both for a sale of company shares and for a sale of a fund interest. The first can bring a new shareholder with rights over the company; the second leaves the company’s direct shareholder, the fund, unchanged. What may change is the patience and the priorities of the investors behind that fund, which is why “nothing changes” is a stronger claim than the fact supports. Ask which is meant. A **continuation transaction** moves an investment into a new vehicle associated with the same manager; it needs attention to price and to possible conflicts between the manager, the investors leaving and the investors rolling over. The Institutional Limited Partners Association (ILPA) treats these manager-led transfers as a governance issue in its principles. [S02: ILPA principles](https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf)
 
-Do not infer realized fund performance from a transaction announcement. Follow the actual proceeds, retained interests, costs and distribution dates. The return mechanics in [Same Company, Same Performance, Three Different Returns](#three-different-returns) still apply when a company is described as an exit success. The cases show why. Hilton’s financial sponsor described its final stake sale in 2018, while Visma’s 2023 announcement described another transaction within a continuing ownership relationship. [S24: Blackstone 2018 investor call](https://ir.blackstone.com/files/doc_events/BLACKSTONE-Second-Quarter-2018-Earnings-Investor-Call.pdf) [S30: Visma 2023 transaction](https://www.visma.com/newsroom/visma-attracts-new-investors-for-further-international-expansion-in-a-transaction-valuing-the-company-at-eur-19-billion-59703d9f) These are different realization contexts. Reconstruct the relevant vehicle and cash flows before calling either a complete fund outcome; see [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) and [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+Do not infer realized fund performance from a transaction announcement. Follow the actual proceeds, retained interests, costs and distribution dates. The return mechanics in the chapter [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns) still apply when a company is described as an exit success. The cases show why. Hilton’s financial sponsor described its final stake sale in 2018, while Visma’s 2023 announcement described another transaction within a continuing ownership relationship. [S24: Blackstone 2018 investor call](https://ir.blackstone.com/files/doc_events/BLACKSTONE-Second-Quarter-2018-Earnings-Investor-Call.pdf) [S30: Visma 2023 transaction](https://www.visma.com/newsroom/visma-attracts-new-investors-for-further-international-expansion-in-a-transaction-valuing-the-company-at-eur-19-billion-59703d9f) These are different realization contexts. Reconstruct the relevant vehicle and cash flows before calling either a complete fund outcome; see the chapters [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) and [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
 
 {id: handover-of-obligations--authority-changes-even-when-the-name-does-not}
 ## Authority Changes Even When the Name Does Not
 
 A funding round can add an investor and new rights while management continues. A secondary sale of company shares can give one investor liquidity without adding a euro to the company. A corporate acquisition can leave the brand and product in place while changing the authority behind them. An IPO can raise cash and change the reporting setting while leaving a majority of the votes with the founders or the existing investor; it needs preparation beyond this book’s scope.
 
-For each transition, map the next holder of authority over the plan, the money actually available to the company, the services it depends on and the customer commitments still open. Redo the approval map from [Decide Who Decides, Before You Disagree](#decide-who-decides) for the new arrangement rather than assuming the old one survives. Carry forward the original baselines and actual results. Do not reset the history because a new owner prefers a different reporting format.
+For each transition, map the next holder of authority over the plan, the money actually available to the company, the services it depends on and the customer commitments still open. Redo the approval map from the chapter [Decide Who Decides, Before You Disagree](#decide-who-decides) for the new arrangement rather than assuming the old one survives. Carry forward the original baselines and actual results. Do not reset the history because a new owner prefers a different reporting format.
 
 {id: handover-of-obligations--unfinished-obligations-travel-with-the-company}
 ## Unfinished Obligations Travel With the Company
@@ -100,7 +100,7 @@ Obligations do not close at the transaction, but they are not all of one kind, a
 - **Accepted risks**, where an authorized person has decided to carry a known exposure. REC-1’s residual after the day-85 retest: a regional outage is not covered, rehearsals run on weekdays only and two people are still required. Ines accepted it on the board’s behalf with a quarterly retest.
 - **Options awaiting evidence**. The second-country expansion and the two specialist hires. Nothing is owed here; what travels is the decision date and the evidence that will decide it.
 
-Only the first kind is a debt in the ordinary sense. The other three are decisions, and the record carries them as decisions with reasons so that the receiving side can revisit them knowingly rather than discover them. [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first) shows the same point from the buyer’s side: an acquisition adds integration or separation work before it adds anything else.
+Only the first kind is a debt in the ordinary sense. The other three are decisions, and the record carries them as decisions with reasons so that the receiving side can revisit them knowingly rather than discover them. The chapter [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first) shows the same point from the buyer’s side: an acquisition adds integration or separation work before it adds anything else.
 
 The company leader’s success in a transition is a working handover with understood obligations. A sale price, a round valuation or an internal integration milestone can matter to the shareholders without establishing that the company’s work is complete.
 

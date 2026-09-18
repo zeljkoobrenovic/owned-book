@@ -17,7 +17,7 @@ The chapters compare arrangements side by side. Fund-backed buyouts receive the 
 - [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors) explains the main ways money reaches a company, what each source expects in return and what an ownership share represents.
 - [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) maps the money and responsibilities behind a transaction and completes one funding-and-authority record for a proposed hire.
 - [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) introduces sales, profit, cash and estimates of business value, in two stages a beginner can follow.
-- [Same Company, Same Performance, Three Different Returns](#three-different-returns) shows how the same operating performance can produce three different investor returns, and what that means for claims about engineering’s contribution.
+- [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns) shows how the same operating performance can produce three different investor returns, and what that means for claims about engineering’s contribution.
 - [Match the Funding to the Work](#raise-what-you-need) matches funding and ownership terms to the work the company actually needs to do, including how much to raise.
 - [Confirm the Cash Before You Commit](#obligations-before-budget) finds the cash behind a technology budget once taxes, financing payments and working capital are accounted for.
 
@@ -25,4 +25,4 @@ Fund-side mechanics that go beyond a company leader’s day-to-day needs, such a
 
 By the end, you should be able to distinguish money paid to a selling shareholder from money available for company work, question a financial assumption and ask **what would fund a proposed change**.
 
-Begin with [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors). Part II then examines who can authorize the work once you know where the cash sits.
+Begin with the chapter [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors). Part II then examines who can authorize the work once you know where the cash sits.

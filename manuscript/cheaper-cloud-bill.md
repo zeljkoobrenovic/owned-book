@@ -1,7 +1,7 @@
 {id: cheaper-cloud-bill}
 # 16. Why a Cheaper Cloud Bill Can Be Bad News
 
-![Why a Cheaper Cloud Bill Can Be Bad News — logo](private-techuity/posts/10-cheaper-cloud-bill/assets/images/10-cheaper-cloud-bill/logo.jpeg)
+![Why a Cheaper Cloud Bill Can Be Bad News — logo](private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to put cloud bills on one comparable basis, separate why they changed, and decide how much to commit before calling a lower bill an improvement.
 
@@ -23,7 +23,7 @@ In the fictional Larkspur scenario used in this chapter, the operating plan the 
 
 The previous chapter compared the earnings, cash and design views of one proposal. Here we apply that approach to cloud spending: first choose a meaningful unit of service and a comparable cost basis, then separate the reasons costs change, then decide how much to commit, and finally check the saving alongside service quality.
 
-**Unit economics** means examining revenue or cost for a meaningful unit of activity, such as a completed transaction or customer account. FinOps is the practice of managing technology’s financial value through collaboration among engineering, finance and business teams. The FinOps Foundation’s unit-economics guidance connects technology costs to organizational outcomes and distinguishes resource efficiency from business unit measures. [S16: FinOps unit economics](https://www.finops.org/framework/capabilities/unit-economics/) For a company leader, it bridges infrastructure work and the cash and margin questions discussed in [Confirm the Cash Before You Commit](#obligations-before-budget).
+**Unit economics** means examining revenue or cost for a meaningful unit of activity, such as a completed transaction or customer account. FinOps is the practice of managing technology’s financial value through collaboration among engineering, finance and business teams. The FinOps Foundation’s unit-economics guidance connects technology costs to organizational outcomes and distinguishes resource efficiency from business unit measures. [S16: FinOps unit economics](https://www.finops.org/framework/capabilities/unit-economics/) For a company leader, it bridges infrastructure work and the cash and margin questions discussed in the chapter [Confirm the Cash Before You Commit](#obligations-before-budget).
 
 {id: cheaper-cloud-bill--choose-a-unit-that-explains-the-business}
 ## Choose a Unit That Explains the Business
@@ -69,7 +69,7 @@ Removing unused resources can yield fairly direct savings. **Rightsizing**, matc
 
 **Do not count the same saving twice**. If rightsizing reduces the volume eligible for a discounted commitment, the two headline opportunities aren’t necessarily additive. A model should apply changes in a stated order and calculate the combined result.
 
-![Demand, unit prices and resource usage can each change the cloud bill.](private-techuity/posts/10-cheaper-cloud-bill/assets/images/10-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg)
+![Demand, unit prices and resource usage can each change the cloud bill.](private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg)
 
 **Figure 1:** *Separate why the bill changed before deciding whether the service became more efficient.*
 
@@ -82,7 +82,7 @@ Assume a fixed monthly commitment of €35,000 replaces the €50,000 flexible b
 
 A discount on unused capacity is still an expense. A contract that makes switching expensive can be reasonable, but the loss of flexibility should be visible when it’s approved.
 
-![A fixed cloud commitment can cost less at stable demand and more when flexible demand falls below the commitment.](private-techuity/posts/10-cheaper-cloud-bill/assets/images/10-cheaper-cloud-bill/fixed-commitment-changing-demand.jpeg)
+![A fixed cloud commitment can cost less at stable demand and more when flexible demand falls below the commitment.](private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/fixed-commitment-changing-demand.jpeg)
 
 **Figure 2:** *Test the commitment against lower demand as well as the forecast that makes it attractive.*
 
@@ -120,7 +120,7 @@ Contract terms that change the invoice without changing the resources consumed b
 
 **Minimum spend and the signing entity.** An investor may introduce a provider, or a corporate parent may offer a group discount. Ask which entity signs, whether a minimum spend applies, and who benefits from the price reduction and who bears unused capacity. The help can be useful while also creating a commitment the company must carry after the relationship changes. The investor’s procurement access is an input to the decision, not its conclusion.
 
-**Ownership change.** A commitment that can’t transfer on a carve-out can become a **stranded cost**: one the company still owes but no longer benefits from. Check renewal terms and what happens if ownership changes or the product moves to another provider before signing, not during the transaction. After an acquisition, applying the group’s negotiated discount to an acquired company’s bill and calling the result a **synergy** skips the cost of moving it onto the common platform; [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first) treats that comparison.
+**Ownership change.** A commitment that can’t transfer on a carve-out can become a **stranded cost**: one the company still owes but no longer benefits from. Check renewal terms and what happens if ownership changes or the product moves to another provider before signing, not during the transaction. After an acquisition, applying the group’s negotiated discount to an acquired company’s bill and calling the result a **synergy** skips the cost of moving it onto the common platform; the chapter [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first) treats that comparison.
 
 None of these terms is a problem in itself. The test is whether the company can see the continuing cost behind the invoice, and whether the service is still the one the customer bought.
 
@@ -144,7 +144,7 @@ A **run-rate projection**, such as “€9,000 a month, so €108,000 a year,”
 
 A capacity reduction may avoid a forecast increase rather than reduce this month’s bill. That can be valuable, but the forecast and its uncertainty should stay visible. Similarly, reducing internal support effort doesn’t automatically reduce payroll.
 
-An initiative record should include implementation labor, specialist fees, tooling, the cost of running old and new services together, and ongoing maintenance. A payback calculation must include **the work required to capture savings**. Comparable services and people who have faced the same decision, including through an investor’s network, are covered in [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability).
+An initiative record should include implementation labor, specialist fees, tooling, the cost of running old and new services together, and ongoing maintenance. A payback calculation must include **the work required to capture savings**. Comparable services and people who have faced the same decision, including through an investor’s network, are covered in the chapter [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability).
 
 A useful cost improvement has an explanation the company can check: what changed, on what basis it was measured, how demand affected the comparison, what the transition cost and whether service remained acceptable. Larkspur’s answer to Morgan’s question is not “the bill went up 20%” or “we found €15,000 a month.” It has two parts that must stay separate. Unit cost per successful transaction fell 20% against the prior year, so the service became more efficient. The flat-spend plan was still missed: spending is €20,000 a month above the approved envelope, and unit cost is 20% above what the plan implied. The one-year commitment on the scheduling service closes €9,000 of that gap at every point in the approved demand range, would cost €1,000 more in the stress case, and is revisited if usage or ownership changes. Alex still owes the board an explanation of the remaining €11,000 a month of cost drivers, and either further changes or a revised envelope. That is a contractual choice beside an honest plan comparison, not a savings announcement.
 

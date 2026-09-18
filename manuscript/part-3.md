@@ -17,11 +17,11 @@ This is the center of the book, and its nine chapters follow three moves. Throug
 **First, choose and justify the work.**
 
 - [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) chooses a combination of work that fits both the cash and the team time available, then revises it when a test fails.
-- [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue) follows one chosen change through customer behavior to a business result, and finishes the pilot decision.
+- [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue) follows one chosen change through customer behavior to a business result, and finishes the pilot decision.
 
 **Then assess and change the delivery system.**
 
-- [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver) assesses what the software and the team can support, producing a finding the next two chapters use.
+- [Can the Team Deliver What the Plan Promises?](#can-the-team-deliver) assesses what the software and the team can support, producing a finding the next two chapters use.
 - [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) changes decision-making and responsibilities before adding people, decides whether hiring still proceeds, and tests whether an investor-proposed appointment is the right response.
 - [Turn “We Expect Growth” Into a Design Decision](#growth-into-design) chooses one implementation from the assessed constraint, with its funded transition.
 
@@ -34,4 +34,4 @@ This is the center of the book, and its nine chapters follow three moves. Throug
 
 By the end, you should be able to explain why one combination of work deserves resources, how its benefits would arise and what evidence would change the plan. Value here means customer outcomes and continued capability as well as financial results.
 
-Begin with [You Cannot Fund Every Good Project at Once](#cannot-fund-everything). Part IV then considers how help from the investor or another source can close the gaps the plan exposes.
+Begin with the chapter [You Cannot Fund Every Good Project at Once](#cannot-fund-everything). Part IV then considers how help from the investor or another source can close the gaps the plan exposes.

@@ -22,11 +22,11 @@ Use this table to find evidence by question. A source can appear under more than
 
 | Topic | Identifiers | Start with |
 | --- | --- | --- |
-| Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate), [Same Company, Same Performance, Three Different Returns](#three-different-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
+| Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate), [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
 | Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors), [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Confirm the Cash Before You Commit](#obligations-before-budget) |
 | Governance, rights and incentives | S01, S02, S04, S61, S76 | [Decide Who Decides, Before You Disagree](#decide-who-decides), [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets), [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) |
 | Workforce reductions and employment process | S77, S78 | [Anatomy of a Layoff](#anatomy-of-a-layoff) |
-| Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75 | [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver), [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue), [Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill) |
+| Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75 | [Can the Team Deliver What the Plan Promises?](#can-the-team-deliver), [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue), [Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill) |
 | Security and resilience | S17 | [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore) |
 | AI evidence | S18, S19, S20, S21, S63 | [An AI Strategy Hides Three Investment Questions](#ai-strategy-three-questions) |
 | Investor support and advisers | S22, P01, P02 | [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser), [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) |
@@ -62,7 +62,7 @@ The book contains two kinds of material, and this register supports them differe
 
 The main chapters end with a “To Probe Further” list; the reading guide, the part introductions and the reference pages do not. Those lists are optional reading, chosen to help a reader go deeper on the chapter’s subject. Their one-sentence annotations were checked for scope, meaning that the description stays within what the resource covers. They are not part of this consulted-evidence register unless the same resource also carries an S identifier, and a chapter’s argument does not rest on them. Listing a resource there does not mean the author consulted it for the book’s claims. Where a chapter’s claim depends on a source, that source is cited inline with an S or P identifier and appears below.
 
-One annotation carries a figure precise enough to need its version stated. [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) cites Gornall and Strebulaev on unicorn valuations and says reported post-money valuations averaged “about 50%” above the authors’ modeled fair values. That is the figure in the [2017 NBER working paper](https://www.nber.org/papers/w23895), which reports an average of 50% above fair value with 15 of the 135 US unicorns more than 100% above. The version published in the *Journal of Financial Economics* 135(1), 2020, pp. 120–143 reports 48%, with 14 more than 100% above. The chapter links the working paper and names the journal version, and “about 50%” covers both estimates; the direction is the source’s own. Reported values average roughly half again above modeled fair value, which is not the same statement as fair values being 50% below reported values, and an average ratio cannot be inverted to obtain the average of the reverse ratio.
+One annotation carries a figure precise enough to need its version stated. The chapter [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) cites Gornall and Strebulaev on unicorn valuations and says reported post-money valuations averaged “about 50%” above the authors’ modeled fair values. That is the figure in the [2017 NBER working paper](https://www.nber.org/papers/w23895), which reports an average of 50% above fair value with 15 of the 135 US unicorns more than 100% above. The version published in the *Journal of Financial Economics* 135(1), 2020, pp. 120–143 reports 48%, with 14 more than 100% above. The chapter links the working paper and names the journal version, and “about 50%” covers both estimates; the direction is the source’s own. Reported values average roughly half again above modeled fair value, which is not the same statement as fair values being 50% below reported values, and an average ratio cannot be inverted to obtain the average of the reverse ratio.
 
 {id: bibliography--public-evidence}
 ## Public Evidence
@@ -92,7 +92,7 @@ Steven N. Kaplan and Per Strömberg. [Leveraged Buyouts and Private Equity](http
 
 **Evidence type:** Academic synthesis. **Consulted scope:** Abstract, introduction, and selected discussion of mechanisms consulted. Cite this working-paper version; a journal version appeared in 2009. DOI: 10.3386/w14207. Historical evidence does not establish current market averages.
 
-**Used in:** [Same Company, Same Performance, Three Different Returns](#three-different-returns), [Glossary](#glossary).
+**Used in:** [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns), [Glossary](#glossary).
 
 {id: bibliography--s04-pe-practitioner-survey}
 ### S04 — PE practitioner survey
@@ -182,7 +182,7 @@ Nicole Forsgren, Margaret-Anne Storey, Chandra Maddila, Tom Zimmermann, Brian Ho
 
 **Evidence type:** Original research framework. **Consulted scope:** Author-hosted publication page and abstract consulted; ACM page was inaccessible. Supports a multidimensional productivity frame, not a formula assigning economic value to each dimension.
 
-**Used in:** [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver), [Glossary](#glossary).
+**Used in:** [Can the Team Deliver What the Plan Promises?](#can-the-team-deliver), [Glossary](#glossary).
 
 {id: bibliography--s14-dora-metrics-guide}
 ### S14 — DORA metrics guide
@@ -191,7 +191,7 @@ DORA. [DORA's Software Delivery Performance Metrics](https://dora.dev/guides/dor
 
 **Evidence type:** Original practitioner research guidance. **Consulted scope:** Current guide consulted. Metric definitions have evolved; this draft notes five current delivery-performance metrics rather than treating the historical four as timeless.
 
-**Used in:** [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver), [Glossary](#glossary).
+**Used in:** [Can the Team Deliver What the Plan Promises?](#can-the-team-deliver), [Glossary](#glossary).
 
 {id: bibliography--s15-dora-2024-report}
 ### S15 — DORA 2024 report
@@ -200,7 +200,7 @@ DORA / Google Cloud. [2024 Accelerate State of DevOps Report](https://dora.dev/r
 
 **Evidence type:** Original industry survey. **Consulted scope:** Report landing page, findings summary, and errata consulted; no independent reanalysis of the full survey. Associations support questions about operating conditions, not automatic causal or financial claims.
 
-**Used in:** [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue), [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring).
+**Used in:** [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue), [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring).
 
 {id: bibliography--s16-finops-unit-economics}
 ### S16 — FinOps unit economics

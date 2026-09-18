@@ -22,4 +22,4 @@ The three chapters have distinct jobs.
 
 By the end, you should be able to name the capability you need, compare plausible sources of help and agree how both sides will judge whether the engagement worked. You should also know which accountable company leader carries the work once the initial help ends.
 
-Begin with [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser). Part V then follows your responsibilities through funding and ownership events, building on the financial, decision and support foundations already established.
+Begin with the chapter [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser). Part V then follows your responsibilities through funding and ownership events, building on the financial, decision and support foundations already established.

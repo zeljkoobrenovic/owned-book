@@ -38,16 +38,16 @@ The six parts are ordered for learning, and the complete sequence is the default
 | Your immediate need | Suggested route |
 | --- | --- |
 | A promised investment must become a budget | [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) → [Confirm the Cash Before You Commit](#obligations-before-budget) → [Decide Who Decides, Before You Disagree](#decide-who-decides) → [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) → [Planning on Money That Hasn't Arrived](#the-financing-slipped) |
-| An operating improvement needs a credible case | [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) → [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue) → [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver) → the relevant domain chapter in Part III → the [Practical Tools for Ownership and Technology Decisions](#toolkit) initiative and outcome records |
+| An operating improvement needs a credible case | [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) → [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue) → [Can the Team Deliver What the Plan Promises?](#can-the-team-deliver) → the relevant domain chapter in Part III → the [Practical Tools for Ownership and Technology Decisions](#toolkit) initiative and outcome records |
 | Investor help is on offer | [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser) → [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) → [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) |
 | A transaction or ownership change is imminent | [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) → [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days) → [Hand Over the Obligations, Not Just the Company](#handover-of-obligations) |
 | Owners want more growth or earnings than the team can support | [Match the Funding to the Work](#raise-what-you-need) → [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) → [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) |
-| Investor requests compete with customer needs | [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue) → [Decide Who Decides, Before You Disagree](#decide-who-decides) → [Judge an Investor by Their Behavior Under Pressure](#investor-under-pressure) → [Success for Whom, and for How Long?](#success-for-whom) |
+| Investor requests compete with customer needs | [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue) → [Decide Who Decides, Before You Disagree](#decide-who-decides) → [Judge an Investor by Their Behavior Under Pressure](#investor-under-pressure) → [Success for Whom, and for How Long?](#success-for-whom) |
 | A corporate investor wants integration or access to data | [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first) → [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore) → [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) |
 | The investor wants a leadership change | [Decide Who Decides, Before You Disagree](#decide-who-decides) → [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) → [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) → [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser) |
 | We must reduce headcount | [Planning on Money That Hasn't Arrived](#the-financing-slipped) → [Anatomy of a Layoff](#anatomy-of-a-layoff) → [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) → the [Practical Tools for Ownership and Technology Decisions](#toolkit) workforce-decision record |
 
-If your decision is the first one in the table — an announced investment that someone expects to become a hiring plan — read [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) now and the rest in order later.
+If your decision is the first one in the table — an announced investment that someone expects to become a hiring plan — read the chapter [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) now and the rest in order later.
 
 {id: introduction--owners-rights-funding-and-change}
 ## Owners, Rights, Funding, and Change
@@ -71,7 +71,7 @@ The practical impact of any investment therefore depends on its actual terms, **
 
 Part I supplies the financial tools to understand your owners and your available cash. Part II establishes authority, incentives and working relationships. Part III turns expectations into choices about product, engineering and people; it is the center of the book. Part IV helps you obtain useful help, from the investor or elsewhere. Part V follows one finding from diligence into a funded early plan, its review and a handover; its delayed-financing chapter, and the reduction chapter that continues it, are a separate illustration of how a dated cash forecast changes commitments and, when the money is late enough, the team. Part VI examines historical cases and closes with the book’s standard for success.
 
-Each part introduction explains its chapters and the order. On a first pass, read in order, since each chapter builds on terms introduced earlier: [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) teaches financial valuation, and [Turn “We Expect Growth” Into a Design Decision](#growth-into-design) later applies those concepts to a design choice once the product and engineering foundations are in place.
+Each part introduction explains its chapters and the order. On a first pass, read in order, since each chapter builds on terms introduced earlier: the chapter [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) teaches financial valuation, and the chapter [Turn “We Expect Growth” Into a Design Decision](#growth-into-design) later applies those concepts to a design choice once the product and engineering foundations are in place.
 
 ![The book moves from money and decisions through company work, support, ownership changes and field lessons.](private-techuity/posts/introduction/assets/images/introduction/owned-reading-journey.jpeg)
 
@@ -92,7 +92,7 @@ One chain is a deliberate exception, and it is the only one. A single onboarding
 2. the funded early plan, [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days), which allocates one envelope, and [You Cannot Fund Every Good Project at Once](#cannot-fund-everything), which chooses within it and revises the choice when a test fails;
 3. the recovery test funded beside the pilot, [Prove You Can Restore, Not Just That You Back Up](#prove-you-can-restore);
 4. the investor’s support for the pilot, [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) and [Turn an Offer of Help Into a Useful Engagement](#useful-engagement);
-5. the pilot’s measured outcome and the decision it supports, [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue);
+5. the pilot’s measured outcome and the decision it supports, [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue);
 6. the handover of what was paid, owed and left undone, [Hand Over the Obligations, Not Just the Company](#handover-of-obligations).
 
 The [Practical Tools for Ownership and Technology Decisions](#toolkit) shows the record those chapters write, stage by stage. Follow that chain to see one decision carried all the way through, from evidence to money to what was left undone.
@@ -127,7 +127,7 @@ The site navigation lists the same chapters; this list is here for lookup.
 - **1.** [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors)
 - **2.** [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget)
 - **3.** [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate)
-- **4.** [Same Company, Same Performance, Three Different Returns](#three-different-returns)
+- **4.** [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns)
 - **5.** [Match the Funding to the Work](#raise-what-you-need)
 - **6.** [Confirm the Cash Before You Commit](#obligations-before-budget)
 
@@ -144,8 +144,8 @@ The site navigation lists the same chapters; this list is here for lookup.
 
 - [PART III — Turning Investor Expectations Into Commitments](#part-3) — part introduction
 - **10.** [You Cannot Fund Every Good Project at Once](#cannot-fund-everything)
-- **11.** [The Chain From Roadmap to Revenue Breaks Easily](#roadmap-to-revenue)
-- **12.** [Can the Software and the Team Deliver What Was Promised?](#can-the-team-deliver)
+- **11.** [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue)
+- **12.** [Can the Team Deliver What the Plan Promises?](#can-the-team-deliver)
 - **13.** [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring)
 - **14.** [Turn “We Expect Growth” Into a Design Decision](#growth-into-design)
 - **15.** [Why a Cheaper Cloud Bill Can Be Bad News](#cheaper-cloud-bill)
