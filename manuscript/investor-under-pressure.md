@@ -1,7 +1,7 @@
 {id: investor-under-pressure}
-# 10. Judge an Investor by Their Behavior Under Pressure
+# 10. Assess Investor Fit: Behavior Under Pressure
 
-![Judge an Investor by Their Behavior Under Pressure — logo](private-techuity/posts/08-investor-under-pressure/assets/images/08-investor-under-pressure/logo.jpeg)
+![Assess Investor Fit: Behavior Under Pressure — logo](private-techuity/posts/08-investor-under-pressure/assets/images/08-investor-under-pressure/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to judge an investor by evidence of how it behaved when a company fell short of its plan, compare two offers on that evidence, and change one dependency when the investor is already in place.
 
@@ -73,7 +73,7 @@ Suppose an investor promises help with **artificial intelligence (AI)**, softwar
 
 Ask what the first *engagement*, a defined piece of outside help, would involve. Who is available, and for how many days? What relevant work is behind them? Who pays for specialists and implementation? Who has authority to decide, and what would stop the engagement? A reasonable answer can be modest. One experienced *operator*, someone who has run this kind of business or function, with a trusted specialist network can be more useful than an extensive catalogue without available capacity.
 
-Don’t confuse advice with funding. A recommendation to rebuild ageing software is incomplete until the company has the capacity and money to do it. Here, the support offer is evidence about the investor. Once a company need is agreed, finding suitable help and writing the engagement charter, the short document that records the engagement’s scope, responsibilities and limits, are Part IV’s work: the chapters [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability) and [Turn an Offer of Help Into a Useful Engagement](#useful-engagement).
+Don’t confuse advice with funding. A recommendation to rebuild ageing software is incomplete until the company has the capacity and money to do it. Here, the support offer is evidence about the investor. Once a company need is agreed, finding suitable help and writing the engagement charter, the short document that records the engagement’s scope, responsibilities and limits, are Part IV’s work: the chapters [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) and [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement).
 
 {id: investor-under-pressure--test-the-funding-horizon}
 ## Test the Funding Horizon
@@ -88,7 +88,7 @@ A fund near its scheduled end may be under pressure to sell its companies, and i
 
 Ask, too, whether money the investor describes as “reserved” for follow-ons is a commitment to this company or an earmark inside the fund that its committee can redirect. Don’t ask for an absolute promise that the company will never be sold early or that more money will always be available. Ask how those decisions will be made and which conditions matter.
 
-The chapter [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns) changes one assumption at a time and watches what happens to the result. The same test can structure this conversation. An investor’s *return* is its gain or loss on the investment. Suppose the plan reaches the promised return only if profit grows unusually fast and a future buyer also pays more for each euro of profit (a higher *exit multiple*). Ask how the plan performs without the higher price.
+The chapter [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) changes one assumption at a time and watches what happens to the result. The same test can structure this conversation. An investor’s *return* is its gain or loss on the investment. Suppose the plan reaches the promised return only if profit grows unusually fast and a future buyer also pays more for each euro of profit (a higher *exit multiple*). Ask how the plan performs without the higher price.
 
 ![One time arrow runs left to right under two lanes. In the company’s lane, the pilot comes first. A shared checkpoint leads from the pilot down to the funding lane, where three separate steps follow in order: review, approval and payment. The company’s lane stays empty while they happen. An arrow labeled Money received rises from payment to wider use of what the pilot tested, which sits after the payment and is followed by ongoing operations.](private-techuity/posts/08-investor-under-pressure/assets/images/08-investor-under-pressure/company-and-investor-calendars.jpeg)
 
@@ -125,9 +125,9 @@ Both investors would buy newly issued shares, so neither offer is a loan to repa
 | How long the right lasts | Fifteen months from *closing*, the day the deal completes and the first money and shares change hands. After that the right expires. A request made in time stays valid after the date. |
 | When B’s fund must pay | Within thirty days of a valid request. |
 
-The 65-hour bar is deliberately easier than the board’s own pilot rule. Under that rule, a group average below 60 hours would justify requesting the pilot’s next stage and bringing the expansion decision forward (see the chapters [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue) and [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days)).
+The 65-hour bar is deliberately easier than the board’s own pilot rule. Under that rule, a group average below 60 hours would justify requesting the pilot’s next stage and bringing the expansion decision forward (see the chapters [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) and [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)).
 
-The clause tests only whether the pilot reaches an agreed level of observed improvement. That is enough for this funding condition. It does not prove that the automation caused the improvement: as the chapter [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue) explains, the choice of pilot customers and staff getting faster with practice could also have cut the hours. On its own it does not justify expanding either.
+The clause tests only whether the pilot reaches an agreed level of observed improvement. That is enough for this funding condition. It does not prove that the automation caused the improvement: as the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) explains, the choice of pilot customers and staff getting faster with practice could also have cut the hours. On its own it does not justify expanding either.
 
 Both rules test the group’s average, not each customer. Suppose eight setups took 55, 57, 59, 61, 63, 65, 67 and 69 hours. The total is 496 hours and the average is 62. The group meets the funding condition, even though two setups took more than 65 hours.
 
@@ -207,9 +207,9 @@ Some practices that feel uncomfortable at first can be productive. A new shareho
 
 Fit is not settled at signing. People change, the company changes, and the original reasoning for the investment may fail. A periodic partnership review asks what support created value, what burden it imposed and which expectations need revision.
 
-When a problem emerges, start with a concrete decision rather than a general complaint: document the competing objectives and the evidence, offer feasible options, take them to the forum authorized to decide (see the chapter [Decide Who Decides, Before You Disagree](#decide-who-decides)), and record the decision and its consequences. If the disagreement concerns an important obligation or a right under a contract, involve the relevant qualified advisers. The investor’s technology adviser can help translate these conversations but can’t make every conflict disappear. Sometimes honest disagreement reveals that a role or partnership should change.
+When a problem emerges, start with a concrete decision rather than a general complaint: document the competing objectives and the evidence, offer feasible options, take them to the forum authorized to decide (see the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides)), and record the decision and its consequences. If the disagreement concerns an important obligation or a right under a contract, involve the relevant qualified advisers. The investor’s technology adviser can help translate these conversations but can’t make every conflict disappear. Sometimes honest disagreement reveals that a role or partnership should change.
 
-Part II has connected changed authority, incentives and the working relationship. Suppose the agreement with Investor B is signed, the deal has closed and the first €4.5 million has arrived in Larkspur’s account. Larkspur then has that money, ten operator days a quarter, and a right to €1.5 million that is not yet money. The next question is which of Larkspur’s own initiatives the money actually received, and that capacity, can fund at once: [PART III — Turning Investor Expectations Into Commitments](#part-3) and [You Cannot Fund Every Good Project at Once](#cannot-fund-everything).
+Part II has connected changed authority, incentives and the working relationship. Suppose the agreement with Investor B is signed, the deal has closed and the first €4.5 million has arrived in Larkspur’s account. Larkspur then has that money, ten operator days a quarter, and a right to €1.5 million that is not yet money. The next question is which of Larkspur’s own initiatives the money actually received, and that capacity, can fund at once: [COMMIT: Turn Expectations Into Work You Can Deliver](#part-3) and [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything).
 
 {id: investor-under-pressure--questions-to-consider}
 ## Questions to Consider

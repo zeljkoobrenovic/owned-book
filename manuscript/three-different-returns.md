@@ -1,7 +1,7 @@
 {id: three-different-returns}
-# 5. Same Company, Same Performance, Three Different Investor Returns
+# 5. Understand Investor Returns: Same Performance, Different Outcomes
 
-![Same Company, Same Performance, Three Different Investor Returns — logo](private-techuity/posts/03-three-different-returns/assets/images/03-three-different-returns/logo.jpeg)
+![Understand Investor Returns: Same Performance, Different Outcomes — logo](private-techuity/posts/03-three-different-returns/assets/images/03-three-different-returns/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** See how the same company performance produces three different investor returns, and learn what engineering can and cannot claim credit for in a sale gain.
 
@@ -36,14 +36,14 @@ Everything about the company’s performance is now fixed. The only thing that v
 | 10× | €110m | 2.75× |
 | 12× | €140m | 3.5× |
 
-Same engineering team, same customers, same earnings growth, and a result that ranges from a modest gain to more than triple the money. The rest of the chapter teaches the arithmetic behind those three rows, then uses it to show what a product or engineering leader can and can’t claim credit for. The chapter [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) introduced the measures; this chapter follows the investment from purchase to sale.
+Same engineering team, same customers, same earnings growth, and a result that ranges from a modest gain to more than triple the money. The rest of the chapter teaches the arithmetic behind those three rows, then uses it to show what a product or engineering leader can and can’t claim credit for. The chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate) introduced the measures; this chapter follows the investment from purchase to sale.
 
 In the calculations, “earnings growth” means an increase in the specified earnings measure. It doesn’t by itself establish better products or customer service. Postponing maintenance, for example, can raise current earnings while creating problems later.
 
 {id: three-different-returns--the-base-buyout-measures-and-arithmetic}
 ## The Base Buyout: Measures and Arithmetic
 
-Three definitions from the chapter [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate) carry the calculation. **EBITDA** is earnings before interest, taxes, depreciation and amortization. Interest is the cost of borrowing, and taxes here means income taxes. Depreciation and amortization are accounting charges that spread the cost of a long-lived asset over the years it is used: depreciation for physical items such as equipment or vehicles, amortization for intangible ones such as acquired software or customer contracts. EBITDA leaves all four out so that the operating business can be compared before differences in financing, tax and asset history.
+Three definitions from the chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate) carry the calculation. **EBITDA** is earnings before interest, taxes, depreciation and amortization. Interest is the cost of borrowing, and taxes here means income taxes. Depreciation and amortization are accounting charges that spread the cost of a long-lived asset over the years it is used: depreciation for physical items such as equipment or vehicles, amortization for intangible ones such as acquired software or customer contracts. EBITDA leaves all four out so that the operating business can be compared before differences in financing, tax and asset history.
 
 EBITDA is an earnings subtotal, not money in the bank. A company with €15 million of EBITDA still has to pay its interest and taxes, replace equipment and fund growth before any cash is left to repay debt. The €20 million repayment in this example is therefore a separate assumption about the cash left after that spending, not a consequence of the EBITDA figure.
 
@@ -57,7 +57,7 @@ Now the base case in full. The fictional company has annual EBITDA of **€10 mi
 
 Five years pass. EBITDA reaches €15 million: earnings improved by half, and for now we take no view on whether the company itself got better. It also repays €20 million of debt from the cash left after its own spending, as assumed above. The fund sells at the same 10× multiple.
 
-Assume no cash is available to offset debt at entry or exit. Ignore fees, taxes on the sale, changes in the fund’s ownership percentage and payments to owners before the sale; the chapter [Confirm the Cash Before You Commit](#obligations-before-budget) follows the cash step by step from operating earnings to what is left for lenders and owners.
+Assume no cash is available to offset debt at entry or exit. Ignore fees, taxes on the sale, changes in the fund’s ownership percentage and payments to owners before the sale; the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget) follows the cash step by step from operating earnings to what is left for lenders and owners.
 
 | Item | Entry | Calculation | Exit | Calculation |
 | --- | ---: | --- | ---: | --- |
@@ -155,7 +155,7 @@ A group-wide benefit isn’t automatically a local product budget. Ask the corpo
 {id: three-different-returns--what-product-and-technology-can-and-cannot-claim-credit-for}
 ## What Product and Technology Can and Cannot Claim Credit For
 
-Start with the observable change, not the sale price. Which customer task improved? What costs changed? What investment was required? A **chief financial officer**, or **CFO**, leads the financial work and can help connect those observations to company earnings and cash. The investment team can then examine their possible valuation implications. The chapter [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue) develops that chain in Part III.
+Start with the observable change, not the sale price. Which customer task improved? What costs changed? What investment was required? A **chief financial officer**, or **CFO**, leads the financial work and can help connect those observations to company earnings and cash. The investment team can then examine their possible valuation implications. The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) develops that chain in Part III.
 
 One distinction from the investor’s side helps in reading the pressure you receive. Where the owner is a fund, its manager reports to the fund’s investors, often called limited partners. The report shows both the cash it has already returned to them and its estimate of the value of holdings it hasn’t yet sold. The estimate can still move, and pressure on a company often comes from the gap between the two. A corporate owner or an individual shareholder has no such report, though each has its own reasons to watch the same gap.
 
@@ -163,7 +163,7 @@ For optional depth, [Fund Economics: Fees, Distributions and Performance Reports
 
 The worked example gives a useful test for a proposed improvement: does its business case still hold if the sale price is lower or the owner holds the company longer? The answer separates a sustainable operating benefit from a result that depends heavily on the exit price.
 
-If the return depends this much on price, borrowing and timing, the next question is how much borrowing, and which kind of investor, a company should take on for the work it actually has to do. That is the subject of the chapter [Match the Funding to the Work](#raise-what-you-need).
+If the return depends this much on price, borrowing and timing, the next question is how much borrowing, and which kind of investor, a company should take on for the work it actually has to do. That is the subject of the chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need).
 
 {id: three-different-returns--questions-to-consider}
 ## Questions to Consider

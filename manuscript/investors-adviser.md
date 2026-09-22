@@ -1,7 +1,7 @@
 {id: investors-adviser}
-# 20. Is the Investor’s Adviser Helping, Assessing or Deciding?
+# 23. Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?
 
-![Is the Investor’s Adviser Helping, Assessing or Deciding? — logo](private-techuity/posts/18-investors-adviser/assets/images/18-investors-adviser/logo.jpeg)
+![Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding? — logo](private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to establish the investor adviser’s assignment and reporting relationship, separate influence from authority, and handle a change of role before sharing sensitive information.
 
@@ -21,7 +21,7 @@ An **investor’s technology adviser** is a person the investment firm employs o
 
 What distinguishes this adviser from other outside experts is not privileged access or multiple responsibilities; a board-appointed consultant can have both. This adviser reports to the investment firm, so the company needs to understand both the operating assignment and how findings may inform the investor’s decisions. Working that out is the company technology leader’s job, and it starts before sensitive information is shared.
 
-Part III examined the investments and capabilities your company needs. Part IV begins with the person who may connect those needs to the investor’s resources. This chapter establishes the adviser’s assignment, separates influence from authority, works through what happens when the role changes and ends by returning to the planning meeting. Sourcing help is the subject of the chapter [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability); the mechanics of an engagement belong to the chapter [Turn an Offer of Help Into a Useful Engagement](#useful-engagement).
+The earlier Part IV chapters established the working arrangement, the choice of help and the engagement charter. We now examine the person who may connect those needs to the investor’s resources. This chapter establishes the adviser’s assignment, separates influence from authority, works through what happens when the role changes and ends by returning to the planning meeting. Sourcing help is the subject of the chapter [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability); the mechanics of an engagement belong to the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement).
 
 {id: investors-adviser--establish-the-assignment-and-the-reporting-relationship}
 ## Establish the Assignment and the Reporting Relationship
@@ -50,16 +50,16 @@ These purposes can overlap, but everyone involved should know which apply. The l
 | Formal oversight | Review of results and risks on behalf of the board or the investor | The scope of the review, whether it rests on existing information rights or a new assignment, and where findings go | An **assessment finding**, reported to whoever commissioned the review; an instruction only where a decision has been explicitly delegated |
 | Interim leadership | Temporary direction of a team or a delivery | The explicit assignment, the decisions it delegates, its duration, resources and the route for escalation | An **authorized instruction**, announced by the company, for the delegated decisions; everything else still comes from the accountable leader |
 
-Ask the adviser to explain their responsibilities to both the company and the investment firm. Their role may include prospective investments and other companies, which affects availability; treat that as a planning input for the chapter [Turn an Offer of Help Into a Useful Engagement](#useful-engagement), not as a judgment about the relationship.
+Ask the adviser to explain their responsibilities to both the company and the investment firm. Their role may include prospective investments and other companies, which affects availability; treat that as a planning input for the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement), not as a judgment about the relationship.
 
-![Investigation, coaching and delivery help require different scopes and working agreements.](private-techuity/posts/18-investors-adviser/assets/images/18-investors-adviser/three-adviser-jobs.jpeg)
+![Investigation, coaching and delivery help require different scopes and working agreements.](private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/three-adviser-jobs.jpeg)
 
 **Figure 1:** *Identify the job before agreeing access, authority and the result the company expects.*
 
 {id: investors-adviser--separate-influence-from-authority}
 ## Separate Influence From Authority
 
-**Authority** is permission to make a particular decision. It comes from an executive role, board responsibilities, rights the shareholders have agreed or an explicit assignment; the sources and the map that records them are the subject of the chapter [Decide Who Decides, Before You Disagree](#decide-who-decides). A job title and proximity to the owner don’t settle any decision boundary, and neither does an advisory assignment: the adviser holds exactly the authority those sources grant, which is usually none.
+**Authority** is permission to make a particular decision. It comes from an executive role, board responsibilities, rights the shareholders have agreed or an explicit assignment; the sources and the map that records them are the subject of the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides). A job title and proximity to the owner don’t settle any decision boundary, and neither does an advisory assignment: the adviser holds exactly the authority those sources grant, which is usually none.
 
 The investor’s adviser can carry substantial influence even when the service is described as optional. Direct access to engineers is useful during diligence or a scoped support assignment. It becomes destructive when engineers receive competing priorities from the adviser, the CTO and the investment team: a parallel reporting line then exists without a mandate or accountability. The team stops asking “what should we build?” and starts asking “whose instruction wins?”
 
@@ -67,7 +67,7 @@ The remedy is the decision map from that chapter, applied to the adviser by name
 
 Hands-on work isn’t the same as taking over. Morgan might help diagnose a release failure alongside engineers and then return the improvement plan to Alex. The test is whether company capability strengthens and responsibility stays understandable after the intervention ends.
 
-![Adviser input and agreed information access cross a boundary while the company’s formal decision responsibility remains explicit.](private-techuity/posts/18-investors-adviser/assets/images/18-investors-adviser/advice-and-accountability-boundary.jpeg)
+![Adviser input and agreed information access cross a boundary while the company’s formal decision responsibility remains explicit.](private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/advice-and-accountability-boundary.jpeg)
 
 **Figure 2:** *Influence, access and formal decision authority need separate agreements.*
 
@@ -95,7 +95,7 @@ Alex does not need to like the assessment. He needs to know it is happening, wha
 
 A productive relationship needs consistent facts. Explain customer commitments, existing constraints and why the team made earlier choices. Ask the adviser which investment assumptions depend on those capabilities and what evidence could change their view.
 
-Disagreement improves that account when both sides state what would overturn their position. In the diligence example developed in the chapter [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan), Morgan reads Larkspur’s onboarding dependency as structural, and Alex attributes much of the effort to poor customer data. Neither is asked to concede. Both explanations are recorded, and the pilot cohort’s measured effort split is named as the evidence that will resolve them. An adviser should be able to revise an assessment, and a company leader should be able to reconsider a familiar practice, without either treating the revision as a personal defeat.
+Disagreement improves that account when both sides state what would overturn their position. In the diligence example developed in the chapter [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan), Morgan reads Larkspur’s onboarding dependency as structural, and Alex attributes much of the effort to poor customer data. Neither is asked to concede. Both explanations are recorded, and the pilot cohort’s measured effort split is named as the evidence that will resolve them. An adviser should be able to revise an assessment, and a company leader should be able to reconsider a familiar practice, without either treating the revision as a personal defeat.
 
 The company shouldn’t need one confident story for the investor and another account of the real constraints for engineers. **Preserve the same facts** and adjust only the level of detail to the audience.
 
@@ -106,7 +106,7 @@ The opening scene resolves with two sentences agreed before the roadmap discussi
 
 Alex says this to the engineers before the meeting, not after. Morgan confirms it in the room. From then on, an idea from Morgan is weighed on its merits, which is what makes the ideas useful.
 
-The adviser is one possible source of help. The next chapter compares that source with the others the company could use for the same need, including those outside the investor’s network: [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability).
+The adviser is one person within a wider operating function. The next chapter examines how that function supports companies, how it works with product and technology leaders, and what hiring and AI add to its responsibilities: [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
 
 {id: investors-adviser--questions-to-consider}
 ## Questions to Consider

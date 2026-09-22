@@ -1,7 +1,7 @@
 {id: useful-engagement}
-# 22. Turn an Offer of Help Into a Useful Engagement
+# 22. Set the Terms of Help: Agree the Work, Authority and Handover
 
-![Turn an Offer of Help Into a Useful Engagement — logo](private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/logo.jpeg)
+![Set the Terms of Help: Agree the Work, Authority and Handover — logo](private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to turn a request for help into a charter with resources, authority, evidence and a review date, then carry it through a scope change to a tested handover.
 
@@ -21,7 +21,7 @@ The offer named a person but left the work undefined. An **engagement** is an ag
 
 The specialist also reports to the investor. Before work starts, agree how that responsibility relates to the company’s priorities and who can direct the assignment. Company-sponsored work can suffer from conflicting executive sponsors and unclear authority too; the investor relationship adds a particular reporting line and the weight its suggestions carry. That is why the charter names who directs the work and what the specialist’s findings are for.
 
-The input is the written request from the chapter [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability): “Help our customer team make one setup path repeatable, using a specialist who can work alongside our engineer for six weeks; Priya will assess customer outcomes.” This chapter completes the charter for that engagement, carries it through a scope change in engagement week three and ends at the week-six review. Two clocks run through it. Days count from closing, the board meeting that adopted the plan and committed €180,000 and 12 engineer-weeks to the onboarding pilot ONB-1; engagement weeks count from day 21, when the specialist starts. Each date below is given on both. The example is fictional and uses the figures from the shared Larkspur chain; the method is a proposal.
+The input is the written request from the chapter [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability): “Help our customer team make one setup path repeatable, using a specialist who can work alongside our engineer for six weeks; Priya will assess customer outcomes.” This chapter completes the charter for that engagement, carries it through a scope change in engagement week three and ends at the week-six review. Two clocks run through it. Days count from closing, the board meeting that adopted the plan and committed €180,000 and 12 engineer-weeks to the onboarding pilot ONB-1; engagement weeks count from day 21, when the specialist starts. Each date below is given on both. The example is fictional and uses the figures from the shared Larkspur chain; the method is a proposal.
 
 {id: useful-engagement--start-from-the-request}
 ## Start From the Request
@@ -63,14 +63,14 @@ This is the agreement that would have prevented the repeated interviews. The spe
 
 **External expertise consumes internal time.** People need to explain the situation, provide evidence, review options and take responsibility for what changes. The six engineer-days in the charter come from somewhere: Alex takes them from the customer-portal research, which the first-hundred-days plan had already limited to research. If those days can’t be found, the specialist’s availability doesn’t make the engagement feasible.
 
-Agree specialist fees and implementation funding separately where they differ. “The specialist is included” doesn’t establish who pays for a supplier, new software or the company’s additional work. Larkspur’s charter charges the days to the company so that the cost is visible against the pilot budget and comparable with the independent-specialist fallback. The costs are the fictional caps from the sourcing comparison in the chapter [Find the Help That Changes What Your Team Can Do](#help-that-changes-capability), repeated here so the charter can be checked against the choice:
+Agree specialist fees and implementation funding separately where they differ. “The specialist is included” doesn’t establish who pays for a supplier, new software or the company’s additional work. Larkspur’s charter charges the days to the company so that the cost is visible against the pilot budget and comparable with the independent-specialist fallback. The costs are the fictional caps from the sourcing comparison in the chapter [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability), repeated here so the charter can be checked against the choice:
 
 | Route | Fictional cost | Charged to | Company effort |
 | --- | --- | --- | --- |
 | Peer conversation | None beyond time | — | Half a day of preparation |
 | Investor’s specialist | Capped at €1,500 a day; ten days = €15,000 at most | ONB-1 (€180,000 committed); sits inside the roughly €90,000 the pilot incurs by day 100 | Six engineer-days (about €3,600 of existing payroll at €75 an hour: capacity, not cash) and two customer-team sessions |
 | Independent specialist | Day rate unverified until references are checked; compared at the same cap, €15,000 for ten days, plus selection time | ONB-1 | The same, plus selection |
-| Permanent implementation specialist | About €150,000 a year recurring per specialist, on the cost basis in [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue); the diligence response costed two such hires at €300,000 a year | The operating budget, not ONB-1 | Onboarding and management |
+| Permanent implementation specialist | About €150,000 a year recurring per specialist, on the cost basis in [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue); the diligence response costed two such hires at €300,000 a year | The operating budget, not ONB-1 | Onboarding and management |
 
 The fee is the smaller number. Six engineer-days and two customer sessions are the part the company can fail to provide, and the €180,000 pilot they sit inside is what the fee must not quietly grow.
 
@@ -91,18 +91,18 @@ Continuing to template the setup step would preserve the assignment while missin
 
 **Alternatives rejected.** Continuing as chartered, because it would leave waiting time unchanged. Extending by four weeks and eight specialist days to build a full data-quality step, because there is no evidence yet that the intake check works and the extension would need the board’s reserve. Stopping and hiring, because the board deferred hiring until the pilot reports.
 
-**Evidence that would change it.** If the intake check shows that data defects are concentrated in a few customers rather than spread across the cohort, the remaining days go back to the setup templates. A funded data-quality step is a board decision for the day-100 review, taken on the effort split Priya measures across the full cohort at day 90 (see the chapter [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days)).
+**Evidence that would change it.** If the intake check shows that data defects are concentrated in a few customers rather than spread across the cohort, the remaining days go back to the setup templates. A funded data-quality step is a board decision for the day-100 review, taken on the effort split Priya measures across the full cohort at day 90 (see the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)).
 
 {id: useful-engagement--keep-the-assignment-inside-the-companys-plan}
 ## Keep the Assignment Inside the Company’s Plan
 
 Three boundaries from earlier chapters apply to this charter: who directs the work, what the specialist’s information is for, and what the measurements can show.
 
-**Governance.** Direct access to engineers helps during diligence or a scoped assignment. It becomes destructive when engineers receive competing priorities from the specialist, the CTO and the investment team, because a parallel reporting line then exists without a mandate. The charter’s governance purpose is to name the accountable company leader, the specialist’s role and the decision boundaries, and to say who revisits them if the role changes. Two helpful relationships, such as advisers from two investors, shouldn’t create two operating backlogs; define the company’s question once. Where the company can’t end a required group service, record the authority and use the agreed route for performance, cost or access problems. The decision map is in the chapter [Decide Who Decides, Before You Disagree](#decide-who-decides).
+**Governance.** Direct access to engineers helps during diligence or a scoped assignment. It becomes destructive when engineers receive competing priorities from the specialist, the CTO and the investment team, because a parallel reporting line then exists without a mandate. The charter’s governance purpose is to name the accountable company leader, the specialist’s role and the decision boundaries, and to say who revisits them if the role changes. Two helpful relationships, such as advisers from two investors, shouldn’t create two operating backlogs; define the company’s question once. Where the company can’t end a required group service, record the authority and use the agreed route for performance, cost or access problems. The decision map is in the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides).
 
-**Role and information use.** The specialist interviews engineers and sees customer records. The charter says those conversations are pilot evidence, not assessments of anyone. At Larkspur, the charter records where the line falls. The firm may form its own view of the engineering team from what its reporting and information rights under the investment agreement already give it, without asking. What it cannot take from this engagement is new access for that purpose: a company-sponsored assessment, with interviews arranged for it or the use of the specialist’s pilot material, is a separate request, agreed with Ines and announced by the company. That is Larkspur’s agreed arrangement, not a rule every investor is bound by. The chapter [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser) sets out how to read those rights. People explain weaknesses more clearly when they know what the conversation is for.
+**Role and information use.** The specialist interviews engineers and sees customer records. The charter says those conversations are pilot evidence, not assessments of anyone. At Larkspur, the charter records where the line falls. The firm may form its own view of the engineering team from what its reporting and information rights under the investment agreement already give it, without asking. What it cannot take from this engagement is new access for that purpose: a company-sponsored assessment, with interviews arranged for it or the use of the specialist’s pilot material, is a separate request, agreed with Ines and announced by the company. That is Larkspur’s agreed arrangement, not a rule every investor is bound by. The chapter [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser) sets out how to read those rights. People explain weaknesses more clearly when they know what the conversation is for.
 
-**Measurement.** Fewer hours per setup is effort released, not cash saved; the implementation specialist’s payroll doesn’t change. The pilot cohort is eight customers in one country, so its result doesn’t establish the effect across all customer types, and an observed improvement doesn’t isolate the specialist’s contribution from the engineer’s work or from simpler contracts in the cohort. The charter therefore records waiting time and errors alongside hours, and the day-100 board review reads the day-90 cohort against the baseline rather than against the plan’s assumption. The reasoning is in the chapter [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue).
+**Measurement.** Fewer hours per setup is effort released, not cash saved; the implementation specialist’s payroll doesn’t change. The pilot cohort is eight customers in one country, so its result doesn’t establish the effect across all customer types, and an observed improvement doesn’t isolate the specialist’s contribution from the engineer’s work or from simpler contracts in the cohort. The charter therefore records waiting time and errors alongside hours, and the day-100 board review reads the day-90 cohort against the baseline rather than against the plan’s assumption. The reasoning is in the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue).
 
 {id: useful-engagement--week-six-review-then-leave-a-capability-a-decision-or-an-understood-service}
 ## Week Six: Review, Then Leave a Capability, a Decision or an Understood Service
@@ -116,7 +116,7 @@ The calendar the two chapters share, with days counted from closing:
 | Day | Event |
 | --- | --- |
 | 0 | Board adopts the plan; ONB-1 committed: €180,000 and 12 engineer-weeks |
-| About 7 | Priya and Alex compare the four routes; Priya writes the request ([Find the Help That Changes What Your Team Can Do](#help-that-changes-capability)) |
+| About 7 | Priya and Alex compare the four routes; Priya writes the request ([Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability)) |
 | By 14 | Peer conversation |
 | 20 | Baseline measured from actual records: the twelve implementations of the previous two quarters, about 80 hours each |
 | 21 | Specialist starts; engagement week one |
@@ -133,7 +133,7 @@ Not every engagement ends this way, and it doesn’t need to. Three outcomes are
 
 **Figure 2:** *Agree what remains useful after the initial assignment and who will sustain it.*
 
-Part IV has shown how to understand the adviser, find the help you need and agree a useful engagement. The finding this engagement worked on came from investor diligence before the deal closed. Part V starts there: how a diligence finding becomes a company decision, how it is funded in the first hundred days and what happens when the financing or the owner changes: [PART V — Leading Through Funding and Ownership Changes](#part-5) and [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan).
+The charter makes the work, resources and handover explicit. The relationship with the person providing help needs the same care, especially when that person also reports to the investor. The next chapter examines the adviser’s assignment, influence and reporting relationship, and what changes when coaching becomes assessment: [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser).
 
 {id: useful-engagement--questions-to-consider}
 ## Questions to Consider

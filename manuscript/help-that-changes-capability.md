@@ -1,7 +1,7 @@
 {id: help-that-changes-capability}
-# 21. Find the Help That Changes What Your Team Can Do
+# 21. Choose the Right Help: Compare Investor Support With Other Options
 
-![Find the Help That Changes What Your Team Can Do — logo](private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/logo.jpeg)
+![Choose the Right Help: Compare Investor Support With Other Options — logo](private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to name a capability gap, compare the investor’s people and networks with the help available elsewhere, and write the request for a first step.
 
@@ -19,14 +19,14 @@ Larkspur has money to improve customer onboarding, the setup required before a n
 
 An investor may give Larkspur faster access to relevant people and experience. Compare that access with the help the company could obtain elsewhere, including the time and obligations each route brings. Investors offer support for mixed reasons: a stronger company raises the value of the holding, but the economics of a shared operating service, relationships across the portfolio and the firm’s reputation with founders also play a part. The offer is real and not free of interest; neither fact makes it the best route.
 
-The previous chapter established the adviser’s assignment and authority. This chapter is about sourcing: the company’s need first, the four kinds of request, then a choice among credible sources for the same need, including sources outside the investor’s network. It ends with a written request, which the chapter [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) turns into a charter.
+The previous chapter connected the investor–company working arrangement with the company’s own organization, authority and resources. This chapter is about sourcing: the company’s need first, the four kinds of request, then a choice among credible sources for the same need, including sources outside the investor’s network. It ends with a written request, which the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) turns into a charter.
 
 {id: help-that-changes-capability--name-the-capability-you-need}
 ## Name the Capability You Need
 
 A **capability** is something the company can reliably do, such as understanding a customer need, releasing software safely or hiring for a specialist role. Describe the gap through the work that currently fails or takes too long.
 
-“We need help with onboarding” is hard to act on. The diligence finding from the chapter [Diligence Is Your Chance to Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) is not: in three of five sampled implementations, configuration needed the same implementation specialist’s manual work, at about 80 hours per implementation. The useful help might teach the customer team to run one standard setup path, remove a repeated manual step or change how customer data is taken in. An introduction to a large outsourcing provider addresses none of those.
+“We need help with onboarding” is hard to act on. The diligence finding from the chapter [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) is not: in three of five sampled implementations, configuration needed the same implementation specialist’s manual work, at about 80 hours per implementation. The useful help might teach the customer team to run one standard setup path, remove a repeated manual step or change how customer data is taken in. An introduction to a large outsourcing provider addresses none of those.
 
 Distinguish four possible requests: help to understand the problem, help to make a decision, people to carry out work and help developing the company’s own skills. One engagement can involve several, but agreeing which are needed stops advice being mistaken for delivery capacity. Larkspur’s request is mostly the third and fourth: someone to work alongside its engineer on one setup path and leave the team able to repeat it.
 
@@ -45,7 +45,7 @@ Use the map as possibilities to investigate, not a promised service catalogue:
 | Start a capability the company lacks | A temporary specialist, a peer example and practical training | Who in the company will learn the work and be accountable for it afterward? |
 | Improve engineering delivery | Experienced engineering leaders, focused assessments or reusable tools | Which constraint should change, and what company effort is needed? |
 | Hire for a critical role | Recruiting support, candidate introductions and help defining the job | Who selects the candidate, pays the costs and manages the person? |
-| Develop leaders and teams | Coaching, training, mentoring and peer learning | Which capability should improve, and how are coaching and assessment kept apart ([Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser))? |
+| Develop leaders and teams | Coaching, training, mentoring and peer learning | Which capability should improve, and how are coaching and assessment kept apart ([Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser))? |
 | Make a supplier or expansion decision | Procurement expertise, commercial introductions or experience in another market | Are the terms and experience relevant to this company’s actual needs? |
 | Use a group shared service or channel (corporate investor) | Platform, security or sales capability the parent already runs | Who else sees the data, what the service costs to leave, and what continues after an ownership change |
 | Combine or separate businesses | People with experience of the particular transition | Can they help the company operate through the change, within agreed responsibilities? |
@@ -75,16 +75,16 @@ In the week after closing, Priya, accountable for the onboarding pilot, and Alex
 | Independent specialist found by the company | Procurement and reference checks take seven to nine weeks from the request on about day 7, so a start on about day 56 to 70, five to seven weeks later than the investor’s specialist; a six-week assignment would end around day 98 to 112 | Same engineering effort, plus selection time | Unknown until references are checked | Fallback if the investor’s specialist is unavailable or a poor fit |
 | Permanent implementation specialist | Three to four months to start | Onboarding and management | Depends on the candidate | Deferred, pending pilot evidence |
 
-The costs are fictional caps, not quotes, and the same table appears in the chapter [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) so that the charter can be checked against the choice:
+The costs are fictional caps, not quotes, and the same table appears in the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) so that the charter can be checked against the choice:
 
 | Route | Fictional cost | Charged to | Company effort |
 | --- | --- | --- | --- |
 | Peer conversation | None beyond time | — | Half a day of preparation |
 | Investor’s specialist | Capped at €1,500 a day; ten days = €15,000 at most | ONB-1 (€180,000 committed); sits inside the roughly €90,000 the pilot incurs by day 100 | Six engineer-days (about €3,600 of existing payroll at €75 an hour: capacity, not cash) and two customer-team sessions |
 | Independent specialist | Day rate unverified until references are checked; compared at the same cap, €15,000 for ten days, plus selection time | ONB-1 | The same, plus selection |
-| Permanent implementation specialist | About €150,000 a year recurring per specialist, on the cost basis in [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue); the diligence response costed two such hires at €300,000 a year | The operating budget, not ONB-1 | Onboarding and management |
+| Permanent implementation specialist | About €150,000 a year recurring per specialist, on the cost basis in [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue); the diligence response costed two such hires at €300,000 a year | The operating budget, not ONB-1 | Onboarding and management |
 
-**Chosen:** the investor’s specialist for a bounded six-week assignment alongside a Larkspur engineer, preceded by the peer conversation. **Rejected for now:** the independent specialist, because its seven-to-nine-week lead time would end a six-week assignment after the day-90 cohort measurement, leaving the day-100 board review without a tested path; it stays the fallback. The permanent hire, because the board deferred hiring until the pilot shows how much effort the setup step removes. **Funding:** up to €15,000 of the €180,000 ONB-1 commitment made in the chapter [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days); Sam confirms the cap fits inside the pilot’s spending and touches no reserve. **Scarce capacity:** six engineer-days that Alex takes from portal research, which was already research-only. **Authorized by:** Priya, within the pilot’s approved budget; Alex commits the engineer; no new board decision is needed. **Evidence that would change it:** the specialist’s start slipping beyond day 21, references showing experience only with much larger customers, or the peer conversation revealing that data intake, not the setup step, decided the outcome elsewhere.
+**Chosen:** the investor’s specialist for a bounded six-week assignment alongside a Larkspur engineer, preceded by the peer conversation. **Rejected for now:** the independent specialist, because its seven-to-nine-week lead time would end a six-week assignment after the day-90 cohort measurement, leaving the day-100 board review without a tested path; it stays the fallback. The permanent hire, because the board deferred hiring until the pilot shows how much effort the setup step removes. **Funding:** up to €15,000 of the €180,000 ONB-1 commitment made in the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days); Sam confirms the cap fits inside the pilot’s spending and touches no reserve. **Scarce capacity:** six engineer-days that Alex takes from portal research, which was already research-only. **Authorized by:** Priya, within the pilot’s approved budget; Alex commits the engineer; no new board decision is needed. **Evidence that would change it:** the specialist’s start slipping beyond day 21, references showing experience only with much larger customers, or the peer conversation revealing that data intake, not the setup step, decided the outcome elsewhere.
 
 The calendar the two chapters share, with days counted from closing:
 
@@ -100,7 +100,7 @@ The calendar the two chapters share, with days counted from closing:
 | 90 | Priya measures the cohort of eight |
 | 100 | Board review reads the cohort; about €90,000 of ONB-1’s €180,000 incurred, the €15,000 among it |
 
-The last of those possibilities — that data intake, not the setup step, is what decides the outcome — is not idle; the chapter [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) shows what happens when it turns out to be true.
+The last of those possibilities — that data intake, not the setup step, is what decides the outcome — is not idle; the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) shows what happens when it turns out to be true.
 
 {id: help-that-changes-capability--use-connections-with-care}
 ## Use Connections With Care
@@ -109,7 +109,7 @@ An introduction can give a product team access it would otherwise struggle to ge
 
 Investors tend to introduce people from companies they already know, who may differ from the customers the product intends to serve. Interviews with larger portfolio companies might reveal useful scheduling needs that don’t match Larkspur’s smaller maintenance-business customers. Priya should compare the insights with evidence from the intended market before changing the roadmap, and a commercial introduction needs an accountable relationship owner and a view of the delivery work a sale would create. More opportunities can worsen the onboarding constraint the company is trying to fix.
 
-The same applies to people. An investor’s network may help identify candidates or someone who can assess a role. Begin with the work the company needs; a prestigious introduction isn’t evidence of fit. Hiring is also only one way to develop capability: coaching an existing leader or helping several teams practice a skill can be more appropriate than adding a senior role. When the investor’s help is recruiting, three things stay with the company. The candidates, from whatever network, are assessed against the company’s own role design, with references the company takes itself. A conflict of interest, such as a candidate the investor has worked with before or a search firm the investor pays, is declared and recorded. And the company appoints, manages and answers for the appointment; an introduction does not transfer that accountability. The chapter [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring) works an investor-proposed chief product officer through that test.
+The same applies to people. An investor’s network may help identify candidates or someone who can assess a role. Begin with the work the company needs; a prestigious introduction isn’t evidence of fit. Hiring is also only one way to develop capability: coaching an existing leader or helping several teams practice a skill can be more appropriate than adding a senior role. When the investor’s help is recruiting, three things stay with the company. The candidates, from whatever network, are assessed against the company’s own role design, with references the company takes itself. A conflict of interest, such as a candidate the investor has worked with before or a search firm the investor pays, is declared and recorded. And the company appoints, manages and answers for the appointment; an introduction does not transfer that accountability. The chapter [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring) works an investor-proposed chief product officer through that test.
 
 {id: help-that-changes-capability--borrow-experience-with-its-context-attached}
 ## Borrow Experience With Its Context Attached
@@ -118,7 +118,7 @@ Ask what assumptions travel with a reused practice. A tool developed for a much 
 
 Starting a new capability can combine temporary expertise with internal accountability. Judge the result through actual customer setups and **the team’s ability to repeat the work**; a presentation of what an improved process could look like is a different deliverable.
 
-Temporary help doesn’t always need to end in complete independence. A company may sensibly keep buying a scarce specialist service. It should understand the continuing cost, availability and responsibilities rather than discover the dependence when the first assignment finishes. The engagement review in the chapter [Turn an Offer of Help Into a Useful Engagement](#useful-engagement) is where that choice is made explicit.
+Temporary help doesn’t always need to end in complete independence. A company may sensibly keep buying a scarce specialist service. It should understand the continuing cost, availability and responsibilities rather than discover the dependence when the first assignment finishes. The engagement review in the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) is where that choice is made explicit.
 
 ![A small joint assignment gives the company a method it can repeat, with any continuing external dependence made explicit.](private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/support-builds-internal-capability.jpeg)
 
@@ -131,7 +131,7 @@ The search ends with a request short enough to be agreed in one conversation. La
 
 > Help our customer team make one setup path repeatable, using a specialist who can work alongside our engineer for six weeks; Priya will assess customer outcomes.
 
-Behind the sentence sit the decisions made above: the result (one repeatable path, tested on actual customer setups), the source (the investor’s specialist from day 21, with an independent specialist as fallback), the company effort (six engineer-days and two customer-team sessions), the funding (up to €15,000 from the ONB-1 budget) and the accountable leader (Priya). What the sentence leaves open, on purpose, is the specialist’s exact days, the information they may see, who directs their work and how the engagement ends. The next chapter negotiates those commitments: [Turn an Offer of Help Into a Useful Engagement](#useful-engagement).
+Behind the sentence sit the decisions made above: the result (one repeatable path, tested on actual customer setups), the source (the investor’s specialist from day 21, with an independent specialist as fallback), the company effort (six engineer-days and two customer-team sessions), the funding (up to €15,000 from the ONB-1 budget) and the accountable leader (Priya). What the sentence leaves open, on purpose, is the specialist’s exact days, the information they may see, who directs their work and how the engagement ends. The next chapter negotiates those commitments: [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement).
 
 {id: help-that-changes-capability--questions-to-consider}
 ## Questions to Consider

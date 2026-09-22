@@ -1,7 +1,7 @@
 {id: customers-lenders-investors}
-# 2. Customers, Lenders and Investors: What Each Expects in Return
+# 2. Understand Expectations: Customers, Lenders and Investors
 
-![Customers, Lenders and Investors: What Each Expects in Return — logo](private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/logo.jpeg)
+![Understand Expectations: Customers, Lenders and Investors — logo](private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn what customers, lenders and shareholders each expect in return for their money, and follow one €100,000 need through all three routes to a decision.
 
@@ -99,7 +99,7 @@ A discount would change that. Had the customers demanded 10% off for paying earl
 
 **The choice.** Ines, Sam and Alex choose the customer prepayment. The feature fits before 1 March with two weeks to spare, the customers' cash covers the €100,000 of new spending, and the refund clause is limited to one month's service.
 
-**Who decides.** Authority follows the financing arrangement. Under Larkspur's articles, the company's rulebook, borrowing and issuing new shares are board decisions, and a share issue also needs the existing shareholders' consent. Ordinary customer contracts of up to a year sit within the permission the board has given Ines, so she could sign the three contracts alone. Because they turn a delivery date into a refund obligation, and because the two alternatives would have needed the board anyway, she takes the comparison to the board on 15 January. The board records its support in its minutes, the written record of the meeting, and Ines signs on her own authority the next day. (the chapter [Decide Who Decides, Before You Disagree](#decide-who-decides) shows the same permission with a fictional spending threshold at a later stage of the company.)
+**Who decides.** Authority follows the financing arrangement. Under Larkspur's articles, the company's rulebook, borrowing and issuing new shares are board decisions, and a share issue also needs the existing shareholders' consent. Ordinary customer contracts of up to a year sit within the permission the board has given Ines, so she could sign the three contracts alone. Because they turn a delivery date into a refund obligation, and because the two alternatives would have needed the board anyway, she takes the comparison to the board on 15 January. The board records its support in its minutes, the written record of the meeting, and Ines signs on her own authority the next day. (the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) shows the same permission with a fictional spending threshold at a later stage of the company.)
 
 **Why not the loan: the payment gap.** Not because the sums cannot work, but because of what they would rest on. Its repayments, about €3,040 a month, are twice the €1,500 a month that Larkspur's existing subscriptions leave after running costs, so each one would take about €1,540 from somewhere else. The first falls due at the end of February. The second falls due on 31 March, the customers' payment deadline, and Sam's forecast provides for it before counting on their money. Those two shortfalls would come out of the €10,000 reserve and leave about €6,900 in it; the customers' money would then carry the rest.
 
@@ -157,14 +157,14 @@ External investors, those from outside the company's current owners, can supply 
 
 The British Business Bank describes the venture, expansion and corporate arrangements; the US Securities and Exchange Commission (SEC), the federal regulator for investing, includes both controlling and minority investments under private equity. [S58: Venture capital](https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/venture-capital) [S59: Expansion capital](https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/expansion-capital) [S60: Corporate venture capital](https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/corporate-venture-capital) [S01: SEC private equity guide](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity)
 
-Whichever label applies, the leadership consequence is a question to investigate, not a conclusion to assume from the label. The chapter [Match the Funding to the Work](#raise-what-you-need) compares these arrangements against the work a company actually needs to fund.
+Whichever label applies, the leadership consequence is a question to investigate, not a conclusion to assume from the label. The chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need) compares these arrangements against the work a company actually needs to fund.
 
 {id: customers-lenders-investors--carry-the-funding-question-into-the-next-chapter}
 ## Carry the Funding Question Into the Next Chapter
 
 A product or technology proposal needs both a useful outcome and a way to pay for the work. Understanding financing helps you discuss the timing, obligations and decisions behind that funding.
 
-Larkspur's €100,000 was small enough for three people to trace in an afternoon. The next chapter starts from a €100 million investment announcement and asks the same two questions at that scale: who actually receives the money, and which body can authorize its use? The chapter [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) follows those questions through the organizations a larger transaction involves.
+Larkspur's €100,000 was small enough for three people to trace in an afternoon. The next chapter starts from a €100 million investment announcement and asks the same two questions at that scale: who actually receives the money, and which body can authorize its use? The chapter [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) follows those questions through the organizations a larger transaction involves.
 
 {id: customers-lenders-investors--questions-to-consider}
 ## Questions to Consider

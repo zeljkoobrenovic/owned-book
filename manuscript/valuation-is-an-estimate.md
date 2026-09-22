@@ -1,7 +1,7 @@
 {id: valuation-is-an-estimate}
-# 4. A Valuation Is an Estimate, Not a Fact
+# 4. Understand Valuation: An Estimate, Not a Fact
 
-![A Valuation Is an Estimate, Not a Fact — logo](private-techuity/posts/02-valuation-is-an-estimate/assets/images/02-valuation-is-an-estimate/logo.jpeg)
+![Understand Valuation: An Estimate, Not a Fact — logo](private-techuity/posts/02-valuation-is-an-estimate/assets/images/02-valuation-is-an-estimate/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to read a business’s sales, profit and cash, then interpret a valuation: what is being valued, how the estimate was built and which of its assumptions your plan is being asked to support.
 
@@ -59,7 +59,7 @@ Consider this deliberately simplified, fictional annual income statement. All fi
 
 The **EBITDA margin** is EBITDA divided by revenue: €4 million / €20 million = 20%. It describes an earnings relationship, not a bank balance.
 
-**Cash flow** is money moving into or out of the business during a period. To understand it, look at when customers and suppliers are paid, spending recorded as assets, debt repayments and other actual receipts and payments. Spending €1 million on equipment consumes cash even if only part becomes a depreciation expense this year. Recording development that meets the accounting conditions as an asset, rather than as an expense, can change the timing of earnings charges while leaving the cash payment in place. The chapter [Confirm the Cash Before You Commit](#obligations-before-budget) develops that distinction.
+**Cash flow** is money moving into or out of the business during a period. To understand it, look at when customers and suppliers are paid, spending recorded as assets, debt repayments and other actual receipts and payments. Spending €1 million on equipment consumes cash even if only part becomes a depreciation expense this year. Recording development that meets the accounting conditions as an asset, rather than as an expense, can change the timing of earnings charges while leaving the cash payment in place. The chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget) develops that distinction.
 
 An **adjusted EBITDA** measure adds further specified exclusions to an earnings calculation. Some may improve comparability; others may remove costs the business will keep incurring. Ask for a **reconciliation**: a line-by-line calculation showing how one reported number becomes another. Ask what each excluded cost is and whether the business will incur it again. Two later company case studies show why the adjective “adjusted” matters: the chapter [Visma: Continuity of Manager Is Not Continuity of Money](#visma) traces how one year’s EBITDA became a higher adjusted figure by adding back acquisition costs, and the chapter [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) shows a positive adjusted EBITDA reconciling to a reported loss.
 
@@ -92,7 +92,7 @@ If the answers are unclear, you cannot yet tell what the number is claiming. Sta
 
 **Net debt** is borrowings minus the cash included in the valuation bridge. If €25 million of borrowing and €5 million of cash are included, net debt is €20 million. The debt may remain in place, be repaid or be refinanced (replaced with a new loan) at a sale; its treatment must be reflected in the calculation. Cash needed to run the business or restricted from use may be treated differently from surplus cash.
 
-So the opening €60 million can be either figure. If it is enterprise value and net debt is €20 million, equity value is €40 million, before other claims and deal-specific adjustments (for example, an agreed correction for the working cash left in the business at completion). If €60 million is instead the equity value, adding back the same €20 million of net debt gives €80 million of enterprise value, before those other adjustments. Neither figure is money the company has received; the chapter [An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) follows where the cash in a transaction actually goes.
+So the opening €60 million can be either figure. If it is enterprise value and net debt is €20 million, equity value is €40 million, before other claims and deal-specific adjustments (for example, an agreed correction for the working cash left in the business at completion). If €60 million is instead the equity value, adding back the same €20 million of net debt gives €80 million of enterprise value, before those other adjustments. Neither figure is money the company has received; the chapter [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) follows where the cash in a transaction actually goes.
 
 Valuation methods organize evidence and assumptions; they don’t eliminate judgment. The December 2025 IPEV guidelines distinguish the purpose of the valuation, the method used and inputs such as EBITDA. They guide the reporting of estimated values for private investments, meaning stakes in companies whose shares are not traded on a stock exchange; they don’t prescribe a company’s strategy or determine its negotiated sale price. [S52: IPEV valuation guidelines, introduction and section 3](https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/2025%20IPEV%20Valuation%20Guidelines.pdf)
 
@@ -144,7 +144,7 @@ An asset-based approach examines the value of assets and relevant **liabilities*
 
 For a software company, adding up historical development expenditure isn’t a sufficient valuation. Code written at great cost may have little use; a relatively inexpensive product may support valuable customer relationships. The cost of building an asset and what someone would pay for it answer different questions.
 
-The technology implications concern separability and continuity. Who controls the product rights? Can the service operate without the larger company that currently owns it, its parent? Which shared systems, people and contracts would need replacing? These questions become especially concrete in a carve-out, where a business is separated from a larger organization. The chapter [An Acquisition Adds Work Before It Adds Value](#acquisition-adds-work-first) examines that work.
+The technology implications concern separability and continuity. Who controls the product rights? Can the service operate without the larger company that currently owns it, its parent? Which shared systems, people and contracts would need replacing? These questions become especially concrete in a carve-out, where a business is separated from a larger organization. The chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first) examines that work.
 
 ![Comparable businesses, expected future cash and assets less liabilities offer different lenses on an estimated value.](private-techuity/posts/02-valuation-is-an-estimate/assets/images/02-valuation-is-an-estimate/valuation-lenses-and-assumptions.jpeg)
 
@@ -164,7 +164,7 @@ An early business with losses can’t sensibly use a positive EBITDA multiple as
 {id: valuation-is-an-estimate--one-assumption-to-challenge-cost-to-serve-falls-as-sales-grow}
 ### One Assumption to Challenge: Cost to Serve Falls as Sales Grow
 
-Take the €60 million one last time, now as a model rather than a headline. Suppose, in a separate fictional assumption, the buyer’s model reaches that figure by expecting revenue to double over four years while the cost of **onboarding** each new customer, setting the customer up to use the product, falls by a third, on the reasoning that the work will spread across more customers. That is an operating assumption, and it lands on product and engineering. In the Larkspur onboarding example that the chapter [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue) costs out, each **implementation**, the configuration work that makes the product usable for one new customer, takes about 80 hours, much of it one specialist’s manual configuration. Nothing in “more sales” makes those hours fall. Only a specific change does.
+Take the €60 million one last time, now as a model rather than a headline. Suppose, in a separate fictional assumption, the buyer’s model reaches that figure by expecting revenue to double over four years while the cost of **onboarding** each new customer, setting the customer up to use the product, falls by a third, on the reasoning that the work will spread across more customers. That is an operating assumption, and it lands on product and engineering. In the Larkspur onboarding example that the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) costs out, each **implementation**, the configuration work that makes the product usable for one new customer, takes about 80 hours, much of it one specialist’s manual configuration. Nothing in “more sales” makes those hours fall. Only a specific change does.
 
 Three questions turn the assumption into something testable:
 
@@ -172,14 +172,14 @@ Three questions turn the assumption into something testable:
 - **When does it become usable?** If the setup step needs two quarters (six months) to build and a first group of customers to prove that it works, the model cannot assume a full year of savings; phase the benefit from the expected validation date and check what that does to the early margins.
 - **Who funds the transition?** Building the change consumes cash and weeks of engineers’ time before it saves a single hour. That spending has to sit in an approved plan, not be assumed by the valuation.
 
-If the answers are “nothing specific,” “not yet” and “nobody,” the assumption is a hope, and the target derived from it needs revising before the plan does. The chapter [Turn “We Expect Growth” Into a Design Decision](#growth-into-design) works through choosing the system change that makes such an assumption true, and the chapter [The Path From Roadmap to Revenue Is Fragile](#roadmap-to-revenue) shows how to measure whether it did.
+If the answers are “nothing specific,” “not yet” and “nobody,” the assumption is a hope, and the target derived from it needs revising before the plan does. The chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#growth-into-design) works through choosing the system change that makes such an assumption true, and the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) shows how to measure whether it did.
 
 {id: valuation-is-an-estimate--what-to-carry-forward}
 ## What to Carry Forward
 
 Stage 1 gave you three measures that describe different events: revenue records sales, profit deducts a specified set of costs, and cash flow follows actual payments. Stage 2 gave you the bridge from business value to share value, three ways to estimate value, together with the check on which of those two values each method produces, and the habit of reading a valuation as a bundle of assumptions to be tested rather than a fact to be met.
 
-You can now ask which value is being quoted and which assumptions need testing. The next question is what the investor expects to get back from it, and why two investors holding the same company through the same performance can report very different results: the chapter [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns).
+You can now ask which value is being quoted and which assumptions need testing. The next question is what the investor expects to get back from it, and why two investors holding the same company through the same performance can report very different results: the chapter [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns).
 
 {id: valuation-is-an-estimate--questions-to-consider}
 ## Questions to Consider

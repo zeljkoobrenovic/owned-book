@@ -1,7 +1,7 @@
 {class: part, id: part-2}
-# PART II — How Investor Ownership Changes Decisions
+# ALIGN: Clarify Who Decides and What Is at Stake
 
-![PART II — How Investor Ownership Changes Decisions — logo](private-techuity/posts/part-2-intro/assets/images/part-2-intro/logo.jpeg)
+![ALIGN: Clarify Who Decides and What Is at Stake — logo](private-techuity/posts/part-2-intro/assets/images/part-2-intro/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Get an introduction to Part II, How Investor Ownership Changes Decisions, and an overview of its three chapters: who can authorize the work, what each party stands to gain or lose, and how to judge an investor when a plan comes under pressure.
 
@@ -14,10 +14,14 @@ Influence takes different forms. Shares, a board seat, a lending condition and a
 {id: part-2--the-learning-path}
 ## The Learning Path
 
-- [Decide Who Decides, Before You Disagree](#decide-who-decides) shows how to establish decision rights around one filled decision record, and what to do when the approval does not arrive in time.
-- [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) examines how equity, fund carry and employee jobs expose people differently, through one consolidation decision in which those interests pull apart.
-- [Judge an Investor by Their Behavior Under Pressure](#investor-under-pressure) helps you assess the partnership, whether you are comparing two offers or already working with an investor, and shows how evidence changes one commitment.
+![Authority establishes who decides; incentives reveal what each party gains or risks; investor fit tests behavior under pressure. All three support accountable decisions, with a return arrow to revisit the arrangements.](private-techuity/posts/part-2-intro/assets/images/part-2-intro/chapter-overview.jpeg)
+
+**Figure 1:** *Authority establishes who decides; incentives explain the competing stakes; investor fit tests the working relationship. Evidence under pressure can send you back to the decision arrangements.*
+
+- [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) shows how to establish decision rights around one filled decision record, and what to do when the approval does not arrive in time.
+- [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets) examines how equity, fund carry and employee jobs expose people differently, through one consolidation decision in which those interests pull apart.
+- [Assess Investor Fit: Behavior Under Pressure](#investor-under-pressure) helps you assess the partnership, whether you are comparing two offers or already working with an investor, and shows how evidence changes one commitment.
 
 By the end, you should be able to explain how a consequential decision gets made, who is accountable and what you would do if the original expectations prove unrealistic.
 
-Begin with the chapter [Decide Who Decides, Before You Disagree](#decide-who-decides). Part III then uses these decision arrangements to choose and deliver product and technology investments.
+Begin with the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides). Part III then uses these decision arrangements to choose and deliver product and technology investments.

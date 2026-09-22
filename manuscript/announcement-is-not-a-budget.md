@@ -1,7 +1,7 @@
 {id: announcement-is-not-a-budget}
-# 3. An Investment Announcement Is Not a Budget
+# 3. Understand Funding and Control: An Investment Announcement Is Not a Budget
 
-![An Investment Announcement Is Not a Budget — logo](private-techuity/posts/01-announcement-is-not-a-budget/assets/images/01-announcement-is-not-a-budget/logo.jpeg)
+![Understand Funding and Control: An Investment Announcement Is Not a Budget — logo](private-techuity/posts/01-announcement-is-not-a-budget/assets/images/01-announcement-is-not-a-budget/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to trace who owns the company, who supplies its money and who can approve spending it.
 
@@ -23,7 +23,7 @@ In this chapter's examples, the money arrives at **closing**, the day the transa
 
 An announcement describes a transaction, an agreed exchange between the parties. To turn it into a hiring plan, establish how much cash reaches the business, when it arrives and who can authorize its use. These questions matter under every ownership arrangement; a transaction changes the conditions of the answer, because the amount that reaches the business depends on how the deal was structured and on the conditions attached to it.
 
-In the chapter [Customers, Lenders and Investors: What Each Expects in Return](#customers-lenders-investors) we traced €100,000 through a prepayment (money paid before the service is delivered), a loan and a share issue — one payment at a time. This chapter zooms out from single payments to whole deals: arrangements that change who owns or controls the company. It compares three: a **minority funding round**, one occasion on which the company raises money by selling less than half its shares to investors; a **buyout**, the purchase of control of the company, here paid for by an **investment fund**, a pool of investors' money managed under agreed rules; and ownership by a larger operating company, a **corporate group**. It explains the fund structure behind the buyout, and ends with the one-page record that turns Alex's hiring assumption into an authorized plan.
+In the chapter [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors) we traced €100,000 through a prepayment (money paid before the service is delivered), a loan and a share issue — one payment at a time. This chapter zooms out from single payments to whole deals: arrangements that change who owns or controls the company. It compares three: a **minority funding round**, one occasion on which the company raises money by selling less than half its shares to investors; a **buyout**, the purchase of control of the company, here paid for by an **investment fund**, a pool of investors' money managed under agreed rules; and ownership by a larger operating company, a **corporate group**. It explains the fund structure behind the buyout, and ends with the one-page record that turns Alex's hiring assumption into an authorized plan.
 
 {id: announcement-is-not-a-budget--map-the-arrangement-before-relying-on-the-money}
 ## Map the Arrangement Before Relying on the Money
@@ -121,7 +121,7 @@ The manager is paid through a **management fee**, a regular payment for managing
 
 These terms shape which requests a company receives and when. A fund near the end of its term, or a manager whose profit share depends on a sale that turns estimated value into cash, has reasons to prefer some kinds of work over others.
 
-The chapter [Management Equity, Fund Carry and Employee Jobs Are Different Bets](#different-bets) examines those incentives, and [Same Company, Same Performance, Three Different Investor Returns](#three-different-returns) the ways an investment's gain is measured. The optional reference [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) works through the sharing rules and the terms that fine-tune them, for readers who want the mechanics.
+The chapter [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets) examines those incentives, and [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) the ways an investment's gain is measured. The optional reference [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) works through the sharing rules and the terms that fine-tune them, for readers who want the mechanics.
 
 Fees, the way shared costs are split between the manager, its funds and their companies, and services bought from organizations connected to the manager also create conflicts. The US Securities and Exchange Commission (SEC), the federal regulator for investing, explicitly discusses in its guide the possibility that the manager's interests differ from those of its funds. [S01: SEC investor guide](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity) A company leader should therefore ask who funds an operating intervention and whether the provider has a financial interest in the recommendation. Useful support can still involve a conflict that needs to be understood.
 
@@ -132,7 +132,7 @@ An owner’s influence over the company and an executive’s authority to act fo
 
 An **investment committee** is the body authorized to approve investments for the fund under its arrangements. A company’s **board** oversees the business within its own authority, while executives manage day-to-day work. Buying a company, approving its annual plan and signing a customer contract are different decisions. Share ownership alone doesn't give every shareholder authority to sign contracts for the company. Loan agreements may also require the lender's approval for particular actions. When someone says "the investor wants X," the useful reply is: which body, exercising which right, and can they actually require it?
 
-Some investment firms employ an investor's technology adviser who may contribute to both investment and company discussions; this book's example of such a role is the Technology Principal, Morgan. The role's authority must be established in each forum; neither a venture investor nor a corporate owner necessarily provides an equivalent role. The chapter [Is the Investor’s Adviser Helping, Assessing or Deciding?](#investors-adviser) develops the role; the chapter [Decide Who Decides, Before You Disagree](#decide-who-decides) works through the decision rights in detail.
+Some investment firms employ an investor's technology adviser who may contribute to both investment and company discussions; this book's example of such a role is the Technology Principal, Morgan. The role's authority must be established in each forum; neither a venture investor nor a corporate owner necessarily provides an equivalent role. The chapter [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser) develops the role; the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) works through the decision rights in detail.
 
 {id: announcement-is-not-a-budget--alex-s-hire-the-completed-funding-and-authority-record}
 ## Alex's Hire: The Completed Funding-and-Authority Record
@@ -170,7 +170,7 @@ Had the second announcement been the real one, the record would look different i
 
 Customer payments sustain the operating business. Investors, lenders and future buyers can also bring cash into the wider arrangement. Keeping those sources separate explains why an investor with plenty of money and a company short of cash can coexist.
 
-You can now trace who supplies cash, who receives it and which body makes a decision, and you have seen the record that turns an announcement into an authorized hire. One question from the opening remains: what the €100 million meant. A headline may name the purchase price, new funding or a valuation, and the three can differ. The next chapter explains how to identify and interpret the valuation. That needs three basic financial ideas, sales, profit and cash, which we develop in the chapter [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate).
+You can now trace who supplies cash, who receives it and which body makes a decision, and you have seen the record that turns an announcement into an authorized hire. One question from the opening remains: what the €100 million meant. A headline may name the purchase price, new funding or a valuation, and the three can differ. The next chapter explains how to identify and interpret the valuation. That needs three basic financial ideas, sales, profit and cash, which we develop in the chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate).
 
 {id: announcement-is-not-a-budget--questions-to-consider}
 ## Questions to Consider

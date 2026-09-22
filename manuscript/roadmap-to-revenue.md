@@ -1,7 +1,7 @@
 {id: roadmap-to-revenue}
-# 12. The Path From Roadmap to Revenue Is Fragile
+# 12. Test Revenue Assumptions: Do Customers Respond as Expected?
 
-![The Path From Roadmap to Revenue Is Fragile — logo](private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/logo.jpeg)
+![Test Revenue Assumptions: Do Customers Respond as Expected? — logo](private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to trace a product change from customer need through customer behavior to a business result, and let the measured result revise the next commitment.
 
@@ -28,7 +28,7 @@ A product leader normally has to show that a change is useful. An investor, some
 
 The investor’s target might be faster revenue growth, a higher margin or better retention. Make that expectation explicit, then test whether the benefit and its timing are credible. The chain from work to result is the part an investor’s adviser will examine, so it is the part the proposal must demonstrate rather than assume.
 
-**The example.** Larkspur is a fictional company selling scheduling software. **Onboarding** is the setup and help a customer needs before using that software successfully. One customer’s setup is called an **implementation**. The chapter [You Cannot Fund Every Good Project at Once](#cannot-fund-everything) chose a smaller setup change over a full customer portal because customer evidence supported it. Here we look at that one change: how could it produce a useful customer and business result, and did it?
+**The example.** Larkspur is a fictional company selling scheduling software. **Onboarding** is the setup and help a customer needs before using that software successfully. One customer’s setup is called an **implementation**. The chapter [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything) chose a smaller setup change over a full customer portal because customer evidence supported it. Here we look at that one change: how could it produce a useful customer and business result, and did it?
 
 **The people.** Priya leads product and is accountable for the setup change. Alex leads engineering. Sam leads finance. Morgan advises the investor on technology. The **board**, the directors who oversee the company’s major decisions, approves the money. Days are counted from **day zero**, the board meeting, held when the investment was completed, that adopted the company’s operating plan.
 
@@ -54,7 +54,7 @@ If the investor wants a different priority, **make the displaced work** and the 
 {id: roadmap-to-revenue--follow-the-steps-from-change-to-outcome}
 ## Follow the Steps From Change to Outcome
 
-An **investment thesis** is the investor’s explanation of why the investment should succeed. It is a prediction that can be revised, not an instruction, and it identifies which result matters most. A thesis built on growth needs evidence that the product can win and serve more customers at acceptable cost. A thesis built on existing profit needs evidence that the profit survives once the company pays to maintain the product and puts money back into developing it (see the chapter [A Valuation Is an Estimate, Not a Fact](#valuation-is-an-estimate)). Both depend on a product that works.
+An **investment thesis** is the investor’s explanation of why the investment should succeed. It is a prediction that can be revised, not an instruction, and it identifies which result matters most. A thesis built on growth needs evidence that the product can win and serve more customers at acceptable cost. A thesis built on existing profit needs evidence that the profit survives once the company pays to maintain the product and puts money back into developing it (see the chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate)). Both depend on a product that works.
 
 **Reusable configuration** means settings and setup steps that can serve several customers, reducing the custom work each time. A **hypothesis** is an expectation stated so that it can be tested. Here the hypothesis is that one reusable setup step will shorten implementation, reduce effort and let more customers start useful work.
 
@@ -93,7 +93,7 @@ These benefits overlap, but **their financial effects should not simply be added
 {id: roadmap-to-revenue--the-arithmetic-worked-through}
 ## The Arithmetic, Worked Through
 
-This is a **separate, smaller pilot example**. A **pilot** is a limited trial run before a wider commitment. We are testing the benefit of one reusable setup step, not costing the €1 million onboarding program in the chapter [Confirm the Cash Before You Commit](#obligations-before-budget).
+This is a **separate, smaller pilot example**. A **pilot** is a limited trial run before a wider commitment. We are testing the benefit of one reusable setup step, not costing the €1 million onboarding program in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget).
 
 **The assumptions.** Larkspur performs 100 customer implementations a year. That is a round planning assumption for this model, not Larkspur’s measured workload; the measured records used later cover twelve implementations in two quarters. Each implementation uses 80 hours of Larkspur staff time. The hours count everyone’s work on that customer’s setup, not only the specialist’s. The specialist’s manual configuration is only part of them, but it is the part that holds the queue, because only one person can do it.
 
@@ -148,7 +148,7 @@ For each major change, choose a few measures that could reveal damage. This chap
 {id: roadmap-to-revenue--what-the-pilot-showed-and-what-changed}
 ## What the Pilot Showed, and What Changed
 
-The same pilot is the funded first-hundred-days commitment ONB-1 in the chapter [The First Hundred Days: Turn Expectations Into a Funded Plan](#first-hundred-days). Priya measured the first cohort at day 90; the board decided at its day-100 review. All figures are fictional.
+The same pilot is the funded first-hundred-days commitment ONB-1 in the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days). Priya measured the first cohort at day 90; the board decided at its day-100 review. All figures are fictional.
 
 **Observed.** The cohort was eight customers. Average effort per implementation fell from 80 hours to 62, not to the 50 the proposal assumed. About 40% of the remaining hours traced to poor customer data rather than to the product, which partly supports Alex’s explanation of where the effort goes. The guardrail indicators did not move: error rates and requests for help were not up.
 
@@ -161,7 +161,7 @@ Against the conversion plan:
 - **Serving waiting customers:** no. The team spent 18 fewer hours on each setup, but customers still waited for their own data to be ready, so the queue moved no faster. The bottleneck is somewhere else.
 - **Avoiding a supplier’s invoice or a hire:** not yet. No contract spending had been cancelled by day 100. Larkspur has engaged a contract implementation specialist, an outside person who works through the queue for twelve months while the step is built and proved. The saving the plan puts a date on is not extending that contract after month twelve, and only if the queue is moving by then. At day 100 it wasn’t, so the specialist was still needed. Ending the work earlier would not by itself avoid a payment: that depends on the contract’s notice and payment terms, which this scenario does not set. The hire of two specialists was already deferred, which is spending avoided, not spending reduced.
 
-**Where the contract specialist’s cost sits.** The contract specialist is an extra person who works alongside Larkspur’s own implementation specialist. The twelve months cost €150,000, one full-time year at the planning rate. The figure is imported from the chapter [Match the Funding to the Work](#raise-what-you-need), which prices the same engagement inside its own, separate financing example. Here the engagement was agreed before day zero and is paid from the **operating budget**, the money for the company’s ordinary running costs. It is not part of the pilot’s €180,000 and takes nothing from the board’s first-hundred-days money described below. So the costs quoted for the pilot leave it out.
+**Where the contract specialist’s cost sits.** The contract specialist is an extra person who works alongside Larkspur’s own implementation specialist. The twelve months cost €150,000, one full-time year at the planning rate. The figure is imported from the chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need), which prices the same engagement inside its own, separate financing example. Here the engagement was agreed before day zero and is paid from the **operating budget**, the money for the company’s ordinary running costs. It is not part of the pilot’s €180,000 and takes nothing from the board’s first-hundred-days money described below. So the costs quoted for the pilot leave it out.
 
 That does not tip the day-100 choice, because the engagement runs to month twelve under every option the board weighed. It matters afterwards: extending it would cost a further €150,000 a year, and not extending it is the first real reduction in spending the pilot could produce.
 
@@ -176,11 +176,11 @@ That does not tip the day-100 choice, because the engagement runs to month twelv
 
 - **Under 60 hours** supports requesting the second stage, the next priced piece of onboarding work, which would still need its own approval, and bringing the expansion decision forward at the next review.
 - **From 60 to 70 hours** funds the data-quality step and keeps expansion and hiring deferred.
-- **Above 70 hours, or no reduction,** reopens hiring, a narrower target, or the financing conversation: how the work is paid for (see the chapter [Match the Funding to the Work](#raise-what-you-need)).
+- **Above 70 hours, or no reduction,** reopens hiring, a narrower target, or the financing conversation: how the work is paid for (see the chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need)).
 
 Sixty-two hours is the middle band.
 
-**Chosen.** Fund a data-quality step: checking and correcting each customer’s data before setup begins. It costs €40,000 and four engineer-weeks, drawn from the **reserve**. The reserve is the part of the board’s **envelope** that was held back for later decisions. The envelope is the overall limit the board set at day zero for the first hundred days: €500,000 of additional cash and 24 engineer-weeks (see the chapter [You Cannot Fund Every Good Project at Once](#cannot-fund-everything)). Before this decision the reserve held €200,000 and four engineer-weeks, so the step uses the last engineer-weeks available.
+**Chosen.** Fund a data-quality step: checking and correcting each customer’s data before setup begins. It costs €40,000 and four engineer-weeks, drawn from the **reserve**. The reserve is the part of the board’s **envelope** that was held back for later decisions. The envelope is the overall limit the board set at day zero for the first hundred days: €500,000 of additional cash and 24 engineer-weeks (see the chapter [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything)). Before this decision the reserve held €200,000 and four engineer-weeks, so the step uses the last engineer-weeks available.
 
 **Who pays for what.** Each cost in this example has one budget, and none is counted twice:
 
@@ -200,7 +200,7 @@ The case for the step looks forward. The €90,000 already incurred cannot be re
 - **Effort:** an average of 50 hours or less per setup. The hours are counted end to end, and they count whoever works them. They include all time spent checking and correcting customer data, before or during setup: by Larkspur’s staff, by the contract specialist, or by bought-in help.
 - **Waiting time:** a median wait of eight weeks or less, against about ten weeks now. It is the same measure as the ten weeks above. The board uses the median, not the average, because in a group of eight one very slow customer would drag an average a long way. Two weeks is the smallest improvement the board judged worth a further stage.
 
-**Bought-in work.** In the chapter [Match the Funding to the Work](#raise-what-you-need) the €40,000 buys an outside data-checking service and temporary data-entry help. Paying someone else to do the same work buys capacity; it does not reduce effort. So the helpers’ hours go into the 50: fifty staff hours plus 20 bought-in hours per customer is 70, and fails. Checking that the service does by machine has no hours, so it is counted as money. Priya reports what keeping the service and any help would cost per customer and per year. A request for a further stage must carry that cost, beside the €30,000 of upkeep.
+**Bought-in work.** In the chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need) the €40,000 buys an outside data-checking service and temporary data-entry help. Paying someone else to do the same work buys capacity; it does not reduce effort. So the helpers’ hours go into the 50: fifty staff hours plus 20 bought-in hours per customer is 70, and fails. Checking that the service does by machine has no hours, so it is counted as money. Priya reports what keeping the service and any help would cost per customer and per year. A request for a further stage must carry that cost, beside the €30,000 of upkeep.
 
 **Who is in the group.** The second cohort is the first eight customers whose setup starts after the data-quality step is in service, taken in the order they signed. Nobody is removed later. A customer who has not finished by the review stays in the count at the hours and weeks reached so far, and both can only grow. If the unfinished customers could still change either result, the board waits for them. It does not decide on the customers who happened to finish first.
 
@@ -215,7 +215,7 @@ The rest of the decision record:
 
 That is the chain breaking in the ordinary way. The link from setup step to effort held as far as the comparison can show: the reduction can’t be credited to the product change alone, but the evidence supports it. The link from released effort to customers served did not hold. The measurement did its job, because it changed the next commitment instead of decorating the last one. The [Practical Tools for Ownership and Technology Decisions](#toolkit)’s outcome and contribution ledger (Tool 6) is where the baseline, the committed and incurred cost, the observed result, the projection and the open work are recorded so the next review starts from them.
 
-The pilot’s result raises the next constraint. The remaining hours sit with customer data and with one specialist’s knowledge, and the plan still assumes onboarding volume grows. Whether the software and the team can deliver repeatable setup at that volume is the question of the chapter [Can the Team Deliver What the Plan Promises?](#can-the-team-deliver); the organizational response, the chapter [Headcount Is Not Capacity: Trace the Work Before You Hire](#fix-decisions-before-hiring), now follows it directly in Part III.
+The pilot’s result raises the next constraint. The remaining hours sit with customer data and with one specialist’s knowledge, and the plan still assumes onboarding volume grows. Whether the software and the team can deliver repeatable setup at that volume is the question of the chapter [Assess Capability: Can the Team Deliver?](#can-the-team-deliver); the organizational response, the chapter [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring), now follows it directly in Part III.
 
 {id: roadmap-to-revenue--questions-to-consider}
 ## Questions to Consider

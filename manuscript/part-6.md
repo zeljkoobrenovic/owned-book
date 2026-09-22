@@ -1,7 +1,7 @@
 {class: part, id: part-6}
-# PART VI — Lessons from the Field
+# LEARN: Lessons From the Field
 
-![PART VI — Lessons from the Field — logo](private-techuity/posts/part-6-intro/assets/images/part-6-intro/logo.jpeg)
+![LEARN: Lessons From the Field — logo](private-techuity/posts/part-6-intro/assets/images/part-6-intro/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Get an introduction to Part VI, Lessons from the Field, and an overview of its five case chapters: the decision each one illuminates and the three-step method for reading them with the evidence kept in scope.
 
@@ -11,6 +11,10 @@ Read each case in three steps: **establish what the sources show**, identify the
 
 {id: part-6--the-learning-path}
 ## The Learning Path
+
+![Four independent case chapters—Hilton and Skype, Visma, Toys R Us and TeamSystem—feed an evidence-to-mechanism-to-decision method. Their lessons reach the closing chapter, Success for Whom and for How Long, which compares gains, costs and continuing capability.](private-techuity/posts/part-6-intro/assets/images/part-6-intro/chapter-overview.jpeg)
+
+**Figure 1:** *Four independent case chapters feed a shared reading method and the closing chapter's test of durable success. The case table below keeps each lesson within its historical window.*
 
 Each case illuminates a different decision.
 
