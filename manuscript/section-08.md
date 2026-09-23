@@ -1,4 +1,4 @@
-{class: part, id: book-section-8-reference-material}
-# Reference Material
+{class: part, id: book-section-8-appendix}
+# Appendix
 
-Practical records, optional fund-economics depth, plain-language definitions and consulted sources.
+Optional depth on the author’s Grounded Architecture framework: technology oversight across an investment portfolio, and the data foundations that make alignment with investors productive.

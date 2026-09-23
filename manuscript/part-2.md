@@ -3,25 +3,26 @@
 
 ![ALIGN: Clarify Who Decides and What Is at Stake — logo](private-techuity/posts/part-2-intro/assets/images/part-2-intro/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Get an introduction to Part II, How Investor Ownership Changes Decisions, and an overview of its three chapters: who can authorize the work, what each party stands to gain or lose, and how to judge an investor when a plan comes under pressure.
+> **IN THIS SECTION, YOU WILL:** Establish who can authorize a decision, what each party stands to gain or lose, and which evidence everyone should use.
 
-Everyone agrees the company should grow. One investor wants growth metrics that will support a higher valuation at the next funding round, another wants spending cut, and the founder wants to keep control of the product. Part I established whose money is involved. This part establishes who decides, what each party stands to gain or lose, and how the relationship behaves when the plan comes under pressure.
+Everyone wants growth. One investor wants proof of fast growth so the company is valued higher when it next raises money; another wants spending cut; the founder wants to keep control. Part I established whose money is involved. This part establishes who decides when the plan is under pressure.
 
-Three ideas organize it. **Governance** is the arrangements for deciding and overseeing work. **Incentives** are the rewards and consequences that steer people towards particular choices. **Investor fit** is the relationship that determines whether disagreement becomes useful or corrosive.
+Decision rights come from shares (units of ownership), a seat on the board overseeing the company, or loan conditions limiting what the company may do. An advisory role may bring access and influence without a decision right. Behind each right sits an agreement, a rule or permission someone authorized has passed on; a job title settles nothing.
 
-Influence takes different forms. Shares, a board seat, a lending condition and an advisory role can carry different rights or influence, and an adviser may have access and weight without any decision right. For each, identify the agreement, delegation or applicable rule that establishes the right, and establish what authority, if any, accompanies the role; a job title settles nothing. A minority investor, a controlling sponsor and a corporate parent each require a different map of who decides what. Your practical task is to identify the decisions you are authorized to make, **the approvals you need** and the person who can resolve incompatible demands. You may inherit the investor relationship rather than choose it, but you can still bring evidence, request a decision and **make the cost of a chosen course explicit**.
+A **minority investor** holds under half the shares but may have negotiated approval rights. A **controlling sponsor** is an investment firm controlling the company through a **fund**, money pooled from investors and run by the firm as **fund manager**. A **corporate parent** is another company owning this one. Identify what you may decide, **which approvals you need** and who resolves incompatible demands; even with an investor in place, request a decision and **make its cost explicit**.
+
+**Shared evidence**, data whose meaning and source everyone knows, lets options be assessed. Without it, authority can outweigh a reasoned assessment; with it, whoever is authorized still chooses between competing interests.
 
 {id: part-2--the-learning-path}
 ## The Learning Path
 
-![Authority establishes who decides; incentives reveal what each party gains or risks; investor fit tests behavior under pressure. All three support accountable decisions, with a return arrow to revisit the arrangements.](private-techuity/posts/part-2-intro/assets/images/part-2-intro/chapter-overview.jpeg)
+![Four chapters stacked in one column under the heading ALIGN. Clarify authority (Who can decide and deliver?) leads to Compare incentives and stakes (What does each party gain or risk?), then to Assess investor fit (How does the relationship handle pressure?). A return arrow labelled Revisit the arrangements runs from the third chapter back to the first. Beneath them, Build shared evidence (Which facts are we using?) is drawn as a foundation used by all three. A final banner reads Accountable decisions with competing demands explicit.](private-techuity/posts/part-2-intro/assets/images/part-2-intro/chapter-overview.jpeg)
 
-**Figure 1:** *Authority establishes who decides; incentives explain the competing stakes; investor fit tests the working relationship. Evidence under pressure can send you back to the decision arrangements.*
+**Figure 1:** *Three chapters rest on shared evidence and lead to accountable decisions; pressure can reopen the arrangements.* [Open diagram at full size](private-techuity/posts/part-2-intro/assets/images/part-2-intro/chapter-overview.jpeg)
 
-- [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) shows how to establish decision rights around one filled decision record, and what to do when the approval does not arrive in time.
-- [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets) examines how equity, fund carry and employee jobs expose people differently, through one consolidation decision in which those interests pull apart.
-- [Assess Investor Fit: Behavior Under Pressure](#investor-under-pressure) helps you assess the partnership, whether you are comparing two offers or already working with an investor, and shows how evidence changes one commitment.
+- [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) asks who can decide and deliver: who proposes, approves, funds and delivers one piece of work.
+- [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets) asks what each party gains or risks: leaders through shares (equity), the fund manager through its share of investment profits (carry, short for carried interest), employees through jobs.
+- [Assess Investor Fit: Behavior Under Pressure](#investor-under-pressure) asks how the relationship handles pressure, judged by the investor's behavior when results fell short of the plan.
+- The appendix chapter [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment) asks which facts these three chapters use: existing sources, defined once, kept accurate by a named person, with forecasts (what may happen) never read as results (what actually happened).
 
-By the end, you should be able to explain how a consequential decision gets made, who is accountable and what you would do if the original expectations prove unrealistic.
-
-Begin with the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides). Part III then uses these decision arrangements to choose and deliver product and technology investments.
+Begin with [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides). Part III then uses these arrangements to choose and deliver product and technology investments.

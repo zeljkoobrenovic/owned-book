@@ -1,5 +1,5 @@
 {id: toolkit}
-# 35. Practical Tools for Ownership and Technology Decisions
+# 38. Practical Tools for Ownership and Technology Decisions
 
 ![Practical Tools for Ownership and Technology Decisions — logo](private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg)
 
@@ -16,7 +16,7 @@ These are **proposed working tools** for company leaders applying the book’s f
 {id: toolkit--minimum-use}
 ## Minimum Use
 
-You don’t need thirteen documents. The smallest adequate record answers five questions in one place: what we know and how we know it; which options were compared; what was committed (cash by period, team time, the accountable company leader, the review date and who can decide); what was observed against the baseline; and what remains open. A small company can keep all of that on **one evolving page** per finding or initiative, adding a section at each stage. The tools below describe the fields each stage needs; they are not separate forms to copy into. Use the same finding or initiative identifier (D-3, ONB-1) throughout, so a reader can trace a number back to its evidence.
+You don’t need fifteen documents. The smallest adequate record answers five questions in one place: what we know and how we know it; which options were compared; what was committed (cash by period, team time, the accountable company leader, the review date and who can decide); what was observed against the baseline; and what remains open. A small company can keep all of that on **one evolving page** per finding or initiative, adding a section at each stage. The tools below describe the fields each stage needs; they are not separate forms to copy into. Use the same finding or initiative identifier (D-3, ONB-1) throughout, so a reader can trace a number back to its evidence.
 
 {id: toolkit--find-the-record-for-your-decision-stage}
 ## Find the Record for Your Decision Stage
@@ -32,6 +32,8 @@ The tools keep their original numbers because chapters and earlier readers cite 
 | **Commit** | Can we fund and deliver this one improvement, and who is accountable? | Funded initiative record — [Tool 5](#toolkit--tool-5) | [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) |
 | **Obtain help** | What exactly will the adviser or specialist help us do, at what cost, for how long? | Support engagement — [Tool 4](#toolkit--tool-4) | [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement), [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) |
 | **Obtain help** | Should we work with this investor at all? | Investor-fit interview — [Tool 8](#toolkit--tool-8) | [Assess Investor Fit: Behavior Under Pressure](#investor-under-pressure) |
+| **Learn and explore** | What can we learn through the investor’s network, and what should we revisit afterward? | Learning brief — [Tool 14](#toolkit--tool-14) | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) |
+| **Define the evidence** | We keep arguing about what a number means; how do we define, own and label it before it reaches the board? | Measure record — [Tool 15](#toolkit--tool-15) | [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment) |
 | **Measure** | Did the work help, and is the benefit capacity or cash? | Outcome and contribution ledger — [Tool 6](#toolkit--tool-6); small scorecard — [Tool 7](#toolkit--tool-7) | [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#cheaper-cloud-bill) |
 | **Revise or hand over** | We are combining or separating businesses; what must continue? | Integration or separation plan — [Tool 9](#toolkit--tool-9) | [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first) |
 | **Revise or hand over** | Funding or ownership is changing; what evidence and obligations must travel with the work? | Funding or ownership handover — [Tool 10](#toolkit--tool-10) | [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations), [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped) |
@@ -396,6 +398,47 @@ Use when an investor’s request, a funding condition or the company’s own cas
 | Review and reversing evidence | Review dates; what a later round does and does not reverse; what triggers the next reduction or a different question altogether |
 
 For fictional Larkspur, the record shows a reduction meeting a bridge condition with cash of €505,000 at 30 June, savings that arrive in February after one-off costs paid from November, and the same reduction failing to save January if the bridge does not arrive. A record that stops at the monthly saving has not yet made the decision.
+
+{id: toolkit--tool-14}
+## 14. Carry Learning Back Into the Company
+
+Use a few lines before and after a seminar, summit, conference, peer conversation or study visit. [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) shows a completed decision in the independent fictional Northline example. Scale the brief to the commitment: a useful conversation may need only a note and a follow-up date.
+
+| Field | Record |
+| --- | --- |
+| Purpose and questions | What we want to understand; whether the main purpose is a current decision, exploration or continuing relationships; room for unexpected questions |
+| People and access | Who should participate, whom we hope to learn from, the access offered and an alternative if it falls through |
+| Time, cost and approval | Who pays; travel, attendance, preparation and follow-through; work displaced; approval through the company’s ordinary process |
+| Sharing expectations | Who may hear, record, attribute or reuse contributions; what stays within the conversation |
+| Observations and explanations | What we saw, what others reported and what we inferred, kept distinguishable |
+| Local relevance | Which conditions made the practice possible elsewhere; similarities, differences and unanswered questions here |
+| Follow-through | What to share with colleagues, whom to keep in contact with, who will take the next step and what to revisit when |
+
+Better questions and continuing relationships can be worthwhile results. Record later effects when evidence arrives, including a decision to leave an idea alone. If learning leads to an assignment or implementation, link the relevant support or initiative record, using Tool 4 or Tool 5 for the additional commitment. A learning brief does not itself authorize delivery work.
+
+{id: toolkit--tool-15}
+## 15. Define a Measure Before You Report It
+
+Use before a measure enters a board pack, an investor update or a funding decision. [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment) explains the labelling rule and the internal/shared boundary. One short record per measure; if a measure cannot be given an owner or a decision, it probably should not be reported.
+
+| Field | Record |
+| --- | --- |
+| Definition | What exactly is counted, in one sentence, including who or what is in scope |
+| Source | Where the figure comes from, specifically enough that a doubtful reader can trace it |
+| Owner | The named person answerable for the figure being right, and for saying so when it is not |
+| Refresh | How often it is recalculated, by what repeatable process, and when it was last refreshed |
+| Boundaries | What the measure deliberately excludes, and where that excluded cost or effort is carried instead |
+
+Then, for each figure reported from the measure:
+
+| Field | Record |
+| --- | --- |
+| Kind | Actual, target, forecast or assumption — one word, on every figure that describes a result or a future; a resource authorized for the work is labelled committed, and the part already consumed is reported as an actual |
+| Baseline | What it was before, on the same definition, and how many observations it rests on |
+| Comparison | What it was expected to be, and the agreed thresholds for acting on the difference |
+| Decision | Which decision this figure informs, and when that decision is due |
+
+A forecast keeps its inputs visible: the assumed volume, rate and conversion that produce it, and the assumption that an observed difference will continue. Released capacity is not cash until a payment is actually avoided (a contract not extended, a planned hire's salaries never paid) or additional customer receipts exceed the cash cost of serving them, so record that conversion, with its date, separately when it happens. When a definition must change, restate the history on the new basis or state plainly that the series breaks.
 
 {id: toolkit--combining-and-revising-records}
 ## Combining and Revising Records

@@ -1,5 +1,5 @@
 {id: bibliography}
-# 38. Bibliography and Evidence Guide
+# 41. Bibliography and Evidence Guide
 
 ![Bibliography and Evidence Guide — logo](private-techuity/posts/bibliography/assets/images/bibliography/logo.jpeg)
 
@@ -11,9 +11,9 @@
 > * **Source interests and evidence strength matter.** Company announcements, investor accounts, guidance documents and original research answer different questions and need different qualifications.
 > * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are the author’s proposals.
 
-This page lists the sources consulted for the book. Sources were consulted between September 12 and September 21, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where an individual date affects how a figure or a claim should be read, the entry gives it.
+This page lists the sources consulted for the book. Sources were consulted between September 12 and September 23, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where an individual date affects how a figure or a claim should be read, the entry gives it.
 
-Source identifiers are stable. **S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register currently runs to S100. Private inputs are described without publishing their contents or file details.
+Source identifiers are stable. **S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register currently runs to S118. Private inputs are described without publishing their contents or file details.
 
 {id: bibliography--topic-index}
 ## Topic Index
@@ -30,11 +30,14 @@ Use this table to find evidence by question. A source can appear under more than
 | Security and resilience | S17 | [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore) |
 | AI evidence | S18, S19, S20, S21, S63 | [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions) |
 | Investor support and advisers | S22, P01, P02 | [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser), [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) |
+| Investor-organized learning, peer communities and shared resources | S101–S105 | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) |
+| Data foundations, analytics practice and shared evidence | S106–S109 | [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment) |
+| Grounded Architecture applied across a portfolio | S106, S110–S115 | [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio) |
 | Technology operating partners, leadership roles and AI support | S79–S90 | [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner) |
 | Operating-model blueprints and investor–company working arrangements | S01, S91–S100 | [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints) |
-| Case: Hilton and Skype | S23, S24, S25, S26, S27, S28, S29, S64, S65 | [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) |
+| Case: Hilton and Skype | S23, S24, S25, S26, S27, S28, S29, S64, S65, S116, S117 | [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) |
 | Case: Visma | S30, S31, S32, S33, S43, S44, S62 | [Visma: Continuity of Manager Is Not Continuity of Money](#visma) |
-| Case: Toys R Us | S34, S35, S36, S37, S40, S41, S50, S51 | [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us) |
+| Case: Toys R Us | S34, S35, S36, S37, S40, S41, S50, S51, S118 | [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us) |
 | Case: TeamSystem | S45, S46, S47, S48, S49, S66, S67, S68, S69, S70, S71 | [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) |
 | Wider research on ownership outcomes | S08, S09, S10, S11, S12, S39, S42 | [Success for Whom, and for How Long?](#success-for-whom) |
 
@@ -389,7 +392,7 @@ Toys R Us, Inc. [Toys R Us, Inc. Reports Results for the Full Year and Fourth Qu
 
 Toys R Us, Inc. [Bankruptcy Filing: Note to Interim Financial Statements](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000047/R9.htm). 2017 filing for period ended October 28, 2017.
 
-**Evidence type:** Company regulatory disclosure. **Consulted scope:** Note consulted for the September 2017 filings and entity/jurisdiction scope. This is the company's financial-statement account, not a review of the complete court docket.
+**Evidence type:** Company regulatory disclosure. **Consulted scope:** Note consulted for the September 18, 2017 filings, the court-authorized financing facility of up to $3,125 million for the bankruptcy period (interim order September 19 and final order October 24, 2017), the authorized but not required payments of pre-filing claims, continued operation as debtor in possession, and entity/jurisdiction scope including the Canadian parallel process. This is the company's financial-statement account, not a review of the complete court docket.
 
 **Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
 
@@ -960,6 +963,168 @@ Emily Amdurer, Jason Baumgarten and Jason Hancock; Spencer Stuart. [Private Equi
 
 **Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
 
+{id: bibliography--s101-prosuss-china-learning-visit}
+### S101 — Prosus’s China learning visit
+
+Prosus. [A Window on China. A Mirror on Ourselves.](https://www.prosus.com/news-insights/2026/a-window-on-china-a-mirror-on-ourselves). 2026 account of an April visit; accessed 2026-09-22.
+
+**Evidence type:** Organizer’s account. **Consulted scope:** Trip description and reported participant reflections. Supports the 20-founder, five-day, three-city example; subsequent company outcomes and general claims about China’s AI industry are not established here.
+
+**Used in:** [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network).
+
+{id: bibliography--s102-baldertons-peer-forum-and-cto-summit}
+### S102 — Balderton’s peer forum and CTO summit
+
+Balderton Capital. [The Balderton Collective CTO Summit: Bringing 100 CTOs together online](https://www.balderton.com/news/the-balderton-collective-cto-summit-bringing-100-ctos-together-online/). 2020-05-29; accessed 2026-09-22.
+
+**Evidence type:** Organizer’s account. **Consulted scope:** Forum discussion leading to the May 2020 summit and its small-group sessions. The body reports 99 participants; the rounded headline is retained only in the source title. No measured company outcomes are inferred.
+
+**Used in:** [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network).
+
+{id: bibliography--s103-insight-partners-recurring-learning-offer}
+### S103 — Insight Partners’ recurring learning offer
+
+Insight Partners. [Onsite Hour](https://info.insightpartners.com/onsitehour.html). Living programme page; FAQ consulted 2026-09-22.
+
+**Evidence type:** Provider description. **Consulted scope:** Weekly format, eligibility of portfolio-company employees and availability of recordings. Establishes the described offer and access conditions, not participation or effectiveness at a particular company.
+
+**Used in:** [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network).
+
+{id: bibliography--s104-communities-of-practice}
+### S104 — Communities of practice
+
+Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introduction](https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf). Version dated 2015-04-15; accessed 2026-09-22.
+
+**Evidence type:** Authors’ conceptual introduction. **Consulted scope:** Selected definition passages on domain, community, practice and sustained interaction. Used to explain the concept; not an evaluation of investor programmes or evidence for the chapter’s proposed learning brief.
+
+**Used in:** [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network).
+
+{id: bibliography--s105-cto-starter-kit}
+### S105 — CTO Starter Kit
+
+Željko Obrenović. [CTO Starter Kit start page](https://ctostarter.com/start/index.html) and [GitHub repository](https://github.com/zeljkoobrenovic/cto-starter-kit). Living project; consulted 2026-09-22.
+
+**Evidence type:** Author’s own public resource project. **Consulted scope:** Start-page HTML, repository README and first-90-days configuration. Documents the resource collection, communities directory and controls dashboards. An investor community’s use of this approach is proposed; adoption and effectiveness are not claimed. The chapter explicitly identifies the author’s involvement.
+
+**Used in:** [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network).
+
+{id: bibliography--s106-lightweight-architectural-analytics}
+### S106 — Lightweight Architectural Analytics
+
+Željko Obrenović. [Lightweight Architectural Analytics](https://grounded-architecture.io/analytics), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-22.
+
+**Evidence type:** Author’s own practitioner method, stated as practice rather than study. **Consulted scope:** The chapter page, covering the data sources it curates (source-code repositories and commit history, public-cloud billing, incident reports, business and finance data) and its stated requirements that analytics be curated, current, credible, actionable and accessible. Documents a described practice for the technology landscape; it does not establish measured outcomes, and its extension to the investor relationship is this book’s proposal. The chapter explicitly identifies the author’s involvement.
+
+**Used in:** [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment), [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+
+{id: bibliography--s107-building-lightweight-architectural-analytics}
+### S107 — Building Lightweight Architectural Analytics
+
+Željko Obrenović. [Building Lightweight Architectural Analytics](https://grounded-architecture.io/data-website), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-22.
+
+**Evidence type:** Author’s own implementation account. **Consulted scope:** Implementation principles and lean techniques — structured data in version control, generation scripts, static pages, collaborative editing, maintainability by a small team. Read for the claim that the method requires curation rather than platform purchase; no deployment results or comparative tooling evidence are established.
+
+**Used in:** [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment).
+
+{id: bibliography--s108-grounded-architecture}
+### S108 — Grounded Architecture
+
+Željko Obrenović. [Grounded Architecture: Redefining IT Architecture Practice](https://grounded-architecture.io/). Living book site; consulted 2026-09-22.
+
+**Evidence type:** Author’s own book, consulted for framing. **Consulted scope:** The site’s structure and the placement of Lightweight Architectural Analytics within the framework’s foundations. Recorded so readers can locate the practice in its original context; the present book restates the parts it uses.
+
+**Used in:** [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment).
+
+{id: bibliography--s109-product-operations}
+### S109 — Product Operations
+
+Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies Build Better Products at Scale*. 2023. [Author's book page](https://melissaperri.com/book); pillar summaries also consulted via [a published secondary account](https://imanageproducts.com/producthead-the-3-pillars-of-product-ops/). Consulted 2026-09-22.
+
+**Evidence type:** Practitioner framework from two product-operations practitioners, drawing on named company examples. **Consulted scope:** The three pillars — business data and insights, customer and market insights, process and governance — as described on the authors' book page and in a published secondary summary; the full book text was not read for this chapter. Documents a described discipline and its stated purpose; it does not establish comparative outcomes, and the mapping onto this book's three evidence areas, and its application to the investor relationship, are this book's own.
+
+**Used in:** [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment).
+
+{id: bibliography--s110-grounded-architecture-framework-foundations}
+### S110 — Grounded Architecture framework foundations
+
+Željko Obrenović. [Grounded Architecture Framework: Foundations](https://grounded-architecture.io/grounded-architecture), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
+
+**Evidence type:** Author’s own practitioner framework, stated as practice rather than study. **Consulted scope:** The framework overview: its definition, the problem it addresses (architecture disconnected from the organization becoming process theater, document production or central bottlenecking) and its three elements — Lightweight Architectural Analytics, Collaborative Networks and the Operating Model. Describes the framework; establishes no measured outcomes. The appendix that cites it identifies the author’s involvement.
+
+**Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+
+{id: bibliography--s111-grounded-architecture-collaborative-networks}
+### S111 — Grounded Architecture collaborative networks
+
+Željko Obrenović. [People Foundations: Collaborative Networks](https://grounded-architecture.io/people), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
+
+**Evidence type:** Author’s own practitioner method. **Consulted scope:** The people foundation: the claim that architecture scales through people rather than organization charts, the scarcity of architects, the centralized, federated and hybrid models with the hybrid recommended, the responsibilities of a small central team and a distributed network, community formats (regular forums, an annual summit, ad hoc workshops) and the practical principles, including identifying people already doing architecture work regardless of title. A described practice inside one organization; its extension to a portfolio is this book’s proposal.
+
+**Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+
+{id: bibliography--s112-grounded-architecture-operating-model}
+### S112 — Grounded Architecture operating model
+
+Željko Obrenović. [Operating Model: Introduction](https://grounded-architecture.io/operating-model), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
+
+**Evidence type:** Author’s own practitioner framework. **Consulted scope:** The introduction to the operating model: its purpose of turning insight and relationships into repeatable decisions, coordinated action and visible impact; its parts (general principles, governance, transformation support, generative AI); and the statement that people and data come first and process second. Read for the framework’s own ordering of its elements; establishes no outcomes.
+
+**Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+
+{id: bibliography--s113-grounded-architecture-operating-model-principles}
+### S113 — Grounded Architecture operating-model principles
+
+Željko Obrenović. [Operating Model: General Principles](https://grounded-architecture.io/operating-model-principles), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
+
+**Evidence type:** Author’s own practitioner principles. **Consulted scope:** The general principles: engagement mindset, data-informed contributions, distributed decision authority, the general decision policy of deciding in the organization’s best interests, and clear rules of engagement. Read for the mapping of these principles onto the investor–company setting, which is this book’s adaptation, including the change it requires to the decision policy.
+
+**Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+
+{id: bibliography--s114-grounded-architecture-governance-principles}
+### S114 — Grounded Architecture governance principles
+
+Željko Obrenović. [Governance Principles: Nudges, Taxation, Mandates](https://grounded-architecture.io/governance), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
+
+**Evidence type:** Author’s own practitioner framework. **Consulted scope:** The three governance instruments — nudges, taxation (economic incentives) and mandates and bans — with their examples (principles and golden paths, cloud cost cross-charging, compliance-driven restrictions), the argument for a balanced hybrid and the rejection of a one-size-fits-all model. The portfolio table that reassigns each instrument to its source of authority and cost is this book’s adaptation.
+
+**Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+
+{id: bibliography--s115-transforming-organizations-with-grounded-architecture}
+### S115 — Transforming organizations with Grounded Architecture
+
+Željko Obrenović. [Putting Everything Together: Transforming Organizations with Grounded Architecture](https://grounded-architecture.io/transforming), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
+
+**Evidence type:** Author’s own practitioner framework. **Consulted scope:** The five stated impact areas (executing at scale, adaptability, evidence-based decision-making, organizational alignment, continuous learning), including the transparency claim that shared access to the same data reduces misunderstanding and increases trust. Stated as the framework’s intended effects inside an organization, not measured results; reading them as potential benefits between a company and its investor is this book’s proposal.
+
+**Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+
+{id: bibliography--s116-hilton-amended-registration-filing}
+### S116 — Hilton amended registration filing
+
+Hilton Worldwide Holdings Inc. [Amendment No. 1 to Form S-1 Registration Statement](https://www.sec.gov/Archives/edgar/data/1585689/000119312513435529/d593452ds1a.htm). November 8, 2013.
+
+**Evidence type:** Company regulatory filing. **Consulted scope:** Prospectus cover and use-of-proceeds statements consulted for who sold shares in the 2013 initial public offering: Hilton and one selling stockholder, with the statement that no Blackstone-sponsored fund was selling shares or receiving cash in lieu of selling. Not a record of Blackstone's later sales.
+
+**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+
+{id: bibliography--s117-hilton-june-2014-secondary-offering}
+### S117 — Hilton June 2014 secondary offering
+
+Hilton Worldwide Holdings Inc. [Hilton Worldwide Completes $2.3 Billion Secondary Offering](https://ir.hilton.com/news-events/investor-news/detail/394/hilton-worldwide-completes-2-3-billion-secondary-offering). Press release, June 27, 2014.
+
+**Evidence type:** Company announcement. **Consulted scope:** Consulted for the sale by Blackstone-affiliated selling stockholders of 103,500,000 shares at $22.50, gross proceeds over $2.3 billion, with Hilton offering no shares and receiving no proceeds. One dated sale; it does not by itself establish the full sequence of Blackstone's disposals.
+
+**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+
+{id: bibliography--s118-toys-r-us-bankruptcy-financing-note}
+### S118 — Toys R Us bankruptcy financing note
+
+Toys R Us, Inc. [Debtor-in-Possession Financing: Note to Interim Financial Statements](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000047/R10.htm). 2017 filing for period ended October 28, 2017.
+
+**Evidence type:** Company regulatory disclosure. **Consulted scope:** Financing note consulted for the composition of the combined $3,125 million post-petition financing approved by the final order of October 24, 2017: a $1,850 million revolving and $450 million first-in-last-out facility for the US and Canadian trading companies, whose borrowings repaid the pre-petition ABL facility and Tranche A-1 loan in full; a $450 million term facility; and $375 million of notes issued by another group company, with staged releases. Security consisted of superpriority claims and priming liens whose ranking differed by facility and by asset. Consulted for package composition, repayment uses and security priority only; not a review of the loan agreements or court orders themselves.
+
+**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+
 {id: bibliography--supplied-private-inputs}
 ## Supplied Private Inputs
 
@@ -983,6 +1148,10 @@ Both domain overviews, technology-capability input and audit, structured record 
 
 {id: bibliography--remaining-research-limits}
 ## Remaining Research Limits
+
+The analytics sources are the author’s own account of a practice he developed for the technology landscape. They describe a method and its requirements; they do not measure its effects, and no source establishes that shared definitions improve investor relationships. Extending the practice to investor alignment is this book’s proposal. The same limit applies to the Grounded Architecture framework pages (S110–S115): they describe a practice inside one organization, and applying it across an investment portfolio is the appendix’s proposal, illustrated by a fictional example rather than tested against one. The product-operations source describes a discipline and its pillars; it does not measure their effect, and the mapping of those pillars onto this book’s three evidence areas is the author’s.
+
+The investor-learning examples document activities and available resources. They do not establish later company results, causal investment returns or investor adoption of CTO Starter Kit. The learning brief and Northline example are the author’s proposals.
 
 The operating-model sources document selected practices, practitioner advice and stated leadership preferences. They do not establish a superior blueprint, a current distribution of operating models or the outcomes of the book’s fictional example.
 
