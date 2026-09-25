@@ -1,8 +1,8 @@
 git pull
 
 rm -rf manuscript
-mdkir manuscript
-mdkir manuscript/resources
+mkdir manuscript
+mkdir manuscript/resources
 cp title_page.jpg manuscript/resources
 
 cp -r /Users/zeljkoobrenovic/PycharmProjects/spec-driven-journals/manuscripts/owned manuscript
