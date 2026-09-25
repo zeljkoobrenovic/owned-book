@@ -1,27 +1,32 @@
 {id: help-that-changes-capability}
-# 22. Choose the Right Help: Compare Investor Support With Other Options
+# 13. Choose the Right Help: Compare Investor Support With Other Options
 
-![Choose the Right Help: Compare Investor Support With Other Options — logo](private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/logo.jpeg)
+![Choose the Right Help: Compare Investor Support With Other Options — logo](private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to name a capability gap, compare the investor’s people and networks with the help available elsewhere, and write the request for a first step.
 
-> **WHY INVESTORS CARE:** A **fund manager** — the firm that pools other people’s money into a fund and decides where to invest it — often promises help with running the business, both to the people whose money it manages and to the founders it hopes to back. That help earns its cost only when it changes what the company can do, so the investor needs the request to be specific.
+> **WHY INVESTORS CARE:** A **fund manager**, the firm that pools other people’s money into a fund and decides where to invest it, often promises practical help to the companies it invests in. It makes that promise both to the people whose money it manages and to the founders it hopes to back. That help earns its cost only when it changes what the company can do, so the investor needs the request to be specific.
 
-> **WHY YOU SHOULD CARE:** Accepting the help on offer rather than the help the gap needs consumes scarce team time and can leave a dependence nobody planned; comparing routes is what makes the help useful.
+> **WHY YOU SHOULD CARE:** Accepting the help that is on offer, rather than the help the gap needs, consumes scarce team time and can leave a dependence nobody planned. Comparing routes is what makes the help useful.
 
 > **KEY POINTS:**
 >
-> * Ask for the help a **specific company problem** requires. Name the capability through the work that fails or takes too long, and say which kind of request you are making.
-> * **Compare the investor’s access with the alternatives.** An investor may reach relevant people faster; a peer, an independent specialist or a hire may fit better. Judge each route by availability, company effort, cost and relevant experience.
+> * Ask for the help a **specific company problem** requires. Describe the missing capability through the work that fails or takes too long, and say which kind of request you are making.
+> * **Compare the investor’s access with the alternatives.** An investor may reach relevant people faster. A peer, an independent specialist or a hire may fit better. Judge each route by availability, company effort, cost and relevant experience.
 > * **Borrow experience with its context attached**, and make any continuing dependence explicit. Finish with a written request that names the result, the source and the accountable company leader.
 
-Larkspur has money to improve customer onboarding, the setup required before a new customer can use its software. It lacks experience designing a repeatable process. Hiring a permanent leader would take months, while asking the same engineers to invent the process alongside their existing work could delay it further.
+Sooner or later, many companies find a gap they cannot close alone: work that fails or takes too long because nobody inside has done it well before. Many investors offer help with such gaps, through their own specialists, the other companies they have invested in and their wider contacts. That help can be fast and relevant. It can also be the help that happens to be available rather than the help the gap needs, and accepting it still costs scarce team time. The useful question is therefore not whether to accept the investor’s help, but which source of help, inside or outside the investor’s network, will leave the company able to do the work itself.
 
-An investor may give Larkspur faster access to relevant people and experience. Compare that access with the help the company could obtain elsewhere, including the time and obligations each route brings.
+A **stronger company is worth more**, which raises the value of the investor’s holding: the ownership stake it bought and will one day sell. But a firm that runs a shared team of advisers also wants three other things: that team busy enough to **justify its cost**, the goodwill of the other companies it has invested in, and a reputation that attracts the next founder. Its offer of help is genuine, but it is not disinterested, and neither fact makes it the best route.
 
-Investors offer support for mixed reasons. A stronger company is worth more, which raises the value of the investor’s **holding** — the ownership stake it bought and will one day sell. But a firm that runs a shared team of advisers also wants that team busy enough to justify its cost, wants the goodwill of the other companies it has invested in, and wants a reputation that attracts the next founder. The offer is real and not free of interest; neither fact makes it the best route.
+The earlier chapter [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints) connected the investor–company working arrangement with the company’s own organization, authority and resources. The previous chapter, [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network), explored learning that can reveal new possibilities and needs. This chapter is about sourcing help. It starts with the company’s need, sets out four kinds of request, then compares credible sources for the same need, including sources outside the investor’s network. It ends with a written request, which the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) turns into a **charter**: the short written agreement that fixes what the helper will do, for how long, at what cost and under whose direction.
 
-The earlier chapter [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints) connected the investor–company working arrangement with the company’s own organization, authority and resources. The previous chapter, [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network), explored learning that can reveal new possibilities and needs. This chapter is about sourcing: the company’s need first, the four kinds of request, then a choice among credible sources for the same need, including sources outside the investor’s network. It ends with a written request, which the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) turns into a **charter**: the short written agreement that fixes what the helper will do, for how long, at what cost and under whose direction.
+{id: help-that-changes-capability--setting-up-the-example-larkspurs-onboarding-gap}
+## Setting Up the Example: Larkspur’s Onboarding Gap
+
+Larkspur, the fictional scheduling-software company this book follows, has money to improve customer onboarding: the setup required before a new customer can use its software. It **lacks experience** in designing a repeatable process for that setup. Hiring a permanent leader would take months. Asking the same engineers to invent the process alongside their existing work could delay it further. Two later chapters, [Assess Capability: Can the Team Deliver?](#can-the-team-deliver) and [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring), show how to find such a gap by tracing the setup work through the company. Here the gap is taken as given.
+
+An investor may give Larkspur **faster access to relevant people and experience**. To judge whether that access is worth having, Larkspur has to compare it with the help it could obtain elsewhere, including the time and obligations each route brings. The first step is to name the capability it actually lacks.
 
 {id: help-that-changes-capability--name-the-capability-you-need}
 ## Name the Capability You Need
@@ -59,7 +64,7 @@ Use the map as possibilities to investigate, not a promised service catalogue:
 
 The best route may be outside the investor’s network. Assess the support against the same company need whoever introduced it.
 
-![A company need can be matched to investor specialists, peers, customer contacts or external providers after checking fit and availability.](private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/need-before-support-source.jpeg)
+![A company need can be matched to investor specialists, peers, customer contacts or external providers after checking fit and availability.](private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/need-before-support-source.jpeg)
 
 **Figure 1:** *Start with the capability the company needs, then compare credible sources of help.*
 
@@ -70,14 +75,14 @@ The best route may be outside the investor’s network. Assess the support again
 
 A community of leaders across the investor’s portfolio can provide experience a company would struggle to assemble alone. It can also become an event series organized around the manager’s need to demonstrate activity. Judge a peer session by whether it starts from decisions the participants actually face: a conversation comparing how two companies made customer setup repeatable, what went wrong and what had to exist first is worth an hour; a session in which every **chief technology officer** — the senior leader responsible for technology, often written CTO — presents the same set of performance charts is not.
 
-Two conditions travel with peer help. Information sharing needs a boundary: an anonymized case can still identify a company in a small portfolio, and customer data, employees’ pay and plans for deals such as a sale or acquisition don’t become reusable because the audience shares an owner. And a practice that worked elsewhere should arrive with its context: customers, scale, architecture and the leadership that made it work. Capture those conditions with the practice rather than adopting a playbook.
+Information sharing needs a boundary: an anonymized case can still identify a company in a small portfolio, and customer data, employees’ pay and plans for deals such as a sale or acquisition don’t become reusable because the audience shares an owner. And a practice that worked elsewhere should arrive with its context: customers, scale, architecture and the leadership that made it work. Capture those conditions with the practice rather than adopting a playbook.
 
 {id: help-that-changes-capability--compare-credible-alternatives-for-the-same-need}
 ## Compare Credible Alternatives for the Same Need
 
 About a week after the board adopted the plan, Priya, accountable for the onboarding pilot, and Alex, who must find the engineering time, compare four routes to the same result: one setup path made repeatable by the end of a six-week assignment.
 
-Three terms carry the dates. **Closing** is the day the investment legally completes and the money changes hands. Within days of it the Larkspur board met and adopted the operating plan, and in this example that meeting is day 0, the start of the first hundred days; every date below counts from it. The plan **committed** €180,000 and 12 engineer-weeks to the onboarding **pilot** ONB-1 — a limited trial before any wider commitment, named so it can be followed through later reviews. Committed means agreed to spend, which is not the same as spent. An **engineer-week** is one engineer’s working time for a week, so 12 engineer-weeks is three months of one engineer, or six weeks of two.
+**Closing** is the day the investment legally completes and the money changes hands. Within days of it the Larkspur board met and adopted the operating plan, and in this example that meeting is day 0, the start of the first hundred days; every date below counts from it. The plan **committed** €180,000 and 12 engineer-weeks to the onboarding **pilot** ONB-1 — a limited trial before any wider commitment, named so it can be followed through later reviews. Committed means agreed to spend, which is not the same as spent. An **engineer-week** is one engineer’s working time for a week, so 12 engineer-weeks is three months of one engineer, or six weeks of two.
 
 Still ahead are two checkpoints: at day 90 Priya measures the **cohort** — the eight pilot customers whose setups are measured together — and at day 100 the **board**, the directors who oversee the company and approve its major decisions, reviews what that measurement shows. The comparison is fictional and uses the figures from the shared Larkspur chain; the categories are what to compare, not a claim about what any investor offers.
 
@@ -113,7 +118,7 @@ The decision, in short labelled parts:
 
 **If the fallback is needed: what triggers it, and when it would run.** The independent route is not being run in parallel. No procurement is under way, because running two selections at once would spend the selection time twice. It starts only on a trigger: the investor’s specialist becoming unavailable or failing the reference check. Triggered on day 21, its seven-to-nine-week search and contracting would put the start at about day 70 to 84, and the six-week assignment would end about day 112 to 126 — past the day-100 board review entirely. Even a request made on day 7, before any trigger existed, would only end about day 98 to 112.
 
-**What the board would get instead.** The problem is not that nothing could be tested by then; the engineer could try parts of a new path earlier. It is what the board agreed to read at day 100: the measured effort of a cohort of eight customers set up on the finished path. That figure cannot exist before the path does. On the fallback, Priya would go to the day-100 review with an unfinished assignment, no cohort figure and a revised measurement date rather than a result.
+**What the board would get instead.** The problem is not that nothing could be tested by then; the engineer could try parts of a new path earlier. It is what the board agreed to read at day 100: the measured effort of a cohort of eight customers set up on the finished path. On the fallback, Priya would go to the day-100 review with an unfinished assignment, no cohort figure and a revised measurement date rather than a result.
 
 **What the engineer does while waiting.** Between the trigger and the new start, Alex’s six engineer-days go back to the customer-portal research they came from. The **baseline** — the starting measurement that later results are compared against — is still taken at day 20 either way, because it is reconstructed from Larkspur’s own records and needs no specialist.
 
@@ -140,7 +145,7 @@ An introduction can give a product team access it would otherwise struggle to ge
 
 Investors tend to introduce people from companies they already know, who may differ from the customers the product intends to serve. Interviews with larger portfolio companies might reveal useful scheduling needs that don’t match Larkspur’s smaller maintenance-business customers. Priya should compare the insights with evidence from the intended market before changing the roadmap, and a commercial introduction needs an accountable relationship owner and a view of the delivery work a sale would create. More opportunities can worsen the onboarding constraint the company is trying to fix.
 
-The same applies to people. An investor’s network may help identify candidates or someone who can assess a role. Begin with the work the company needs; a prestigious introduction isn’t evidence of fit. Hiring is also only one way to develop capability: coaching an existing leader or helping several teams practice a skill can be more appropriate than adding a senior role.
+An investor’s network may help identify candidates or someone who can assess a role. Begin with the work the company needs; a prestigious introduction isn’t evidence of fit. Hiring is also only one way to develop capability: coaching an existing leader or helping several teams practice a skill can be more appropriate than adding a senior role.
 
 When the investor’s help is recruiting, three separate things stay with the company:
 
@@ -148,18 +153,18 @@ When the investor’s help is recruiting, three separate things stay with the co
 - **Disclosed interests.** Anything that could pull the recommendation — a candidate the investor has worked with before, or a search firm the investor pays — is declared and written down, then assessed. A prior relationship is a potential conflict to weigh, not automatically a disqualification.
 - **Accountability.** The company appoints the person, manages them and answers for the result. An introduction does not transfer that.
 
-The chapter [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring) works an investor-proposed **chief product officer**, the senior leader responsible for what the product should become, through that test.
+The chapter [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring) works an investor-proposed **chief product officer**, the senior leader responsible for what the product should become, through that test.
 
 {id: help-that-changes-capability--borrow-experience-with-its-context-attached}
 ## Borrow Experience With Its Context Attached
 
-Ask what assumptions travel with a reused practice. A tool developed for a much larger business may need administration your team can’t support. Shared purchasing terms may be attractive while the cost of changing suppliers outweighs the benefit. **Borrow experience with its context attached.**
+Ask what assumptions travel with a reused practice. A tool developed for a much larger business may need administration your team can’t support. Shared purchasing terms may be attractive while the cost of changing suppliers outweighs the benefit.
 
 Starting a new capability can combine temporary expertise with internal accountability. Judge the result through actual customer setups and **the team’s ability to repeat the work**; a presentation of what an improved process could look like is a different deliverable.
 
-Temporary help doesn’t always need to end in complete independence. A company may sensibly keep buying a scarce specialist service. It should understand the continuing cost, availability and responsibilities rather than discover the dependence when the first assignment finishes. The engagement review in the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) is where that choice is made explicit.
+A company may sensibly keep buying a scarce specialist service. It should understand the continuing cost, availability and responsibilities rather than discover the dependence when the first assignment finishes. The engagement review in the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) is where that choice is made explicit.
 
-![A small joint assignment gives the company a method it can repeat, with any continuing external dependence made explicit.](private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/support-builds-internal-capability.jpeg)
+![A small joint assignment gives the company a method it can repeat, with any continuing external dependence made explicit.](private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/support-builds-internal-capability.jpeg)
 
 **Figure 2:** *Useful support leaves a capability the company can use or a continuing service it understands.*
 
@@ -183,7 +188,7 @@ Behind the sentence sit the decisions made above: the result (one repeatable pat
 {id: help-that-changes-capability--to-probe-further}
 ## To Probe Further
 
-The first three sources concern **venture capital**: investment in young companies with growth potential, in exchange for a share of the ownership. A company that has taken such investment is **venture-backed**. The fourth is a survey of a different population, described where it appears.
+The first three sources concern **venture capital**: investment in young companies with growth potential, in exchange for a share of the ownership. A company that has taken such investment is **venture-backed**.
 
 - **[Venture Capital and the Professionalization of Start-Up Firms: Empirical Evidence](https://doi.org/10.1111/1540-6261.00419)** — Thomas Hellmann and Manju Puri, The Journal of Finance, 2002.  
   *Evidence from a sample of Silicon Valley start-ups — young companies still establishing themselves — that venture-backed companies adopt formal policies sooner and more often replace the founder in the chief executive role, showing the hiring and leadership support this chapter describes as a pattern with a less comfortable side.*

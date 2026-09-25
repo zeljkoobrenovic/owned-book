@@ -5,24 +5,25 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn to read a business’s sales, profit and cash, then interpret a valuation: what is being valued, how the estimate was built and which of its assumptions your plan is being asked to support.
 
-> **WHY INVESTORS CARE:** An investor managing money for others may need to report an estimated value of the company and explain the assumptions behind it. It may therefore ask management which of those assumptions the operating plan can support, and which it cannot.
+> **WHY INVESTORS CARE:** Investors who manage money for others, such as investment funds, may have to report an estimated value for each company they hold and explain the assumptions behind it. They will therefore ask management which of those assumptions the operating plan can support, and which it cannot.
 
-> **WHY YOU SHOULD CARE:** A valuation may shape the targets proposed for your team: how fast sales should grow, what **margin** (profit as a percentage of sales) the business should earn, and which costs should fall. Identify its purpose and read how the estimate was built before adopting them.
+> **WHY YOU SHOULD CARE:** A valuation may shape the targets proposed for your team: how fast sales should grow, what **margin** (profit as a percentage of sales) the business should earn, and which costs should fall. Before accepting those targets, find out what the valuation was for and how it was built.
 
 > **KEY POINTS:**
 >
 > * **Sales, profit and cash** answer different questions. A business can record a sale or a profit before receiving the customer’s money.
-> * A valuation is an **estimate for a date and a purpose**. Its assumptions can become growth, margin and cost targets that leaders must examine.
-> * The **business’s value and the shareholders’ share of it** differ. Borrowing, and other rights to be paid from the business before the shareholders, explain the difference.
+> * A valuation is an **estimate for a date and a purpose**. Its assumptions can become growth, margin and cost targets, which leaders should examine before accepting them.
+> * The **value of the business and the value of its shares** differ. The gap is made up of debt and any other claims that must be paid before shareholders receive anything.
 
-Product and engineering leaders rarely need to produce a valuation. They do need to read one, because the targets derived from it decide which technology work is funded and which is questioned.
+Suppose someone tells you a company is **worth** €60 million. Product and engineering leaders rarely need to produce a **valuation** like that, but they do need to understand one. Valuations drive ambitions, and the goals derived from them decide which work gets funded and which gets questioned.
 
-Suppose someone says a company is worth €60 million. Before interpreting that number, ask what is being valued: the operating business, or the shares its owners hold? Then ask how the estimate was made. This chapter answers both questions in two stages, using that €60 million as the thread.
+Reading a valuation starts with two questions. **What is being valued**: the operating business, or the shares its owners hold? And **how was the estimate made**? Neither can be answered without first understanding the business’s own numbers, so this chapter has two stages:
 
-**Stage 1, Read the business’s numbers,** introduces revenue, profit and cash flow and ends with a short checkpoint. **Stage 2, Interpret a valuation,** separates business value from shareholder value, works through three common ways of estimating value, and ends with one operating assumption a leader can challenge.
+- **Read the business’s numbers** introduces revenue, profit and cash flow, and ends with a short checkpoint on the €60 million.
+- **Interpret a valuation** separates the value of the business from the value of its shares, works through three common ways of estimating value, explains why a funding-round price answers a different question, and ends with one operating assumption a leader can challenge.
 
-{id: valuation-is-an-estimate--stage-1-read-the-businesss-numbers}
-## Stage 1: Read the Business’s Numbers
+{id: valuation-is-an-estimate--read-the-businesss-numbers}
+## Read the Business’s Numbers
 
 {id: valuation-is-an-estimate--revenue-earnings-and-cash-are-three-different-things}
 ### Revenue, Earnings and Cash Are Three Different Things
@@ -70,16 +71,16 @@ An **adjusted EBITDA** measure adds further specified exclusions to an earnings 
 {id: valuation-is-an-estimate--checkpoint-what-can-you-now-ask-about-the-60-million}
 ### Checkpoint: What Can You Now Ask About the €60 Million?
 
-Return to the opening number with the fictional income statement in hand. The table gives three results for the same year: €20 million of revenue, €4 million of EBITDA and €1.5 million of net profit. A valuation of €60 million is an estimated value. Stage 1 has equipped you to read the business’s numbers; Stage 2 explains which of those numbers the chosen valuation method actually needs. Before moving on, you should be able to ask three questions:
+Return to the opening number with the fictional income statement in hand. The table gives three results for the same year: €20 million of revenue, €4 million of EBITDA and €1.5 million of net profit. Before moving on, you should be able to ask three questions:
 
 - If the €60 million is quoted as a **multiple** of one of these measures, that is, as a stated number of times annual revenue or earnings (for example, three times revenue), which measure and which period does it use: last year’s result, this year’s forecast or an adjusted figure?
 - If that measure is adjusted, what has been excluded, and will the business keep incurring it?
 - How did the business’s cash differ from its earnings over the year, and why?
 
-If the answers are unclear, you cannot yet tell what the number is claiming. Stage 2 explains how the €60 million was built and what it does and doesn’t tell you.
+If the answers are unclear, you cannot yet tell what the number is claiming.
 
-{id: valuation-is-an-estimate--stage-2-interpret-a-valuation}
-## Stage 2: Interpret a Valuation
+{id: valuation-is-an-estimate--interpret-a-valuation}
+## Interpret a Valuation
 
 {id: valuation-is-an-estimate--a-valuation-is-an-estimate-not-a-number-you-look-up}
 ### A Valuation Is an Estimate, Not a Number You Look Up
@@ -99,7 +100,7 @@ Valuation methods organize evidence and assumptions; they don’t eliminate judg
 {id: valuation-is-an-estimate--three-ways-to-estimate-value}
 ### Three Ways to Estimate Value
 
-With business value and share value separated, the next question is how a value is estimated at all. Three methods are common, and the check after the table says which value each one produces. The methods below offer a practical orientation, not equal mastery of each: multiples get the fullest treatment because they are what leaders most often hear quoted; discounted cash flow gets a single-payment illustration rather than a working model. The methods can be used together, and their usefulness depends on the company and the available evidence. IPEV discusses earnings and revenue multiples, discounted cash flows and net assets (what a business owns after subtracting the relevant amounts it owes), emphasizing appropriate inputs and comparability. [S52: IPEV valuation guidelines, sections 3.2–3.9](https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/2025%20IPEV%20Valuation%20Guidelines.pdf)
+The methods below offer a practical orientation, not equal mastery of each: multiples get the fullest treatment because they are what leaders most often hear quoted; discounted cash flow gets a single-payment illustration rather than a working model. The methods can be used together, and their usefulness depends on the company and the available evidence. IPEV discusses earnings and revenue multiples, discounted cash flows and net assets (what a business owns after subtracting the relevant amounts it owes), emphasizing appropriate inputs and comparability. [S52: IPEV valuation guidelines, sections 3.2–3.9](https://www.privateequityvaluation.com/Portals/0/Documents/Guidelines/2025%20IPEV%20Valuation%20Guidelines.pdf)
 
 | Approach | Plain-language question | Main limitation |
 | --- | --- | --- |
@@ -107,14 +108,14 @@ With business value and share value separated, the next question is how a value 
 | Discounted cash flow: translate expected future cash into today’s value | What is the business’s expected future cash generation worth today? | The answer depends on uncertain forecasts, risk assumptions and value beyond the forecast period. |
 | Asset-based valuation | What are the underlying assets worth, after accounting for relevant obligations? | Assets considered separately can miss the value of a functioning organization and its customer relationships. |
 
-One check applies whichever method is used. Each method can start from a different claim: a multiple of EBITDA or a cash-flow model of the operating business gives an enterprise value, while an asset-based calculation that already deducts debts gives something closer to an equity value. Be clear which debts and other obligations a method has already included before applying the net-debt bridge, so that borrowing isn’t deducted twice on the way to equity value.
+Each method can start from a different claim: a multiple of EBITDA or a cash-flow model of the operating business gives an enterprise value, while an asset-based calculation that already deducts debts gives something closer to an equity value. Be clear which debts and other obligations a method has already included before applying the net-debt bridge, so that borrowing isn’t deducted twice on the way to equity value.
 
 {id: valuation-is-an-estimate--market-comparisons-revenue-and-earnings-multiples}
 #### Market Comparisons: Revenue and Earnings Multiples
 
 A **valuation multiple** is a ratio between a value and a financial measure. If an operating business is valued at €60 million and annual revenue is €20 million, EV / revenue is 3×. If annual EBITDA is €4 million, the same €60 million value corresponds to 15× EBITDA.
 
-Those two multiples describe the same fictional company and valuation, not two incompatible kinds of company. They are different ways of expressing the price.
+Those two multiples describe the same fictional company and valuation, not two incompatible kinds of company.
 
 To use a multiple for valuation, the analyst reverses the calculation. Applying an assumed 3× revenue multiple to €20 million of revenue gives €60 million of enterprise value. Applying an assumed 12× EBITDA multiple to €4 million gives €48 million. These are illustrative assumptions, not current market benchmarks. The disagreement calls for examining the comparisons and expectations behind the assumptions, not picking the larger answer.
 
@@ -135,7 +136,7 @@ For a company valuation, the model also needs the cash flows across the forecast
 
 For a technology proposal, this approach makes the sequence visible: spend now on moving to a replacement system, run the old and new systems side by side during the transition, realize savings later, and keep paying to maintain the result. Its weakness is that plausible-looking assumptions can hide an unachievable plan. The architecture and operating teams must help test what the forecast requires.
 
-Growth also needs resources. Damodaran’s teaching on growth-company valuation connects revenue growth, sustainable margins and reinvestment; a larger business may need more funding before it produces more cash. [S53: Growth companies—value drivers](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook/growthvaluedrivers.htm) The practical implication is to ask how much product, engineering, selling and implementation effort each growth assumption requires, and when the benefit can arrive.
+Damodaran’s teaching on growth-company valuation connects revenue growth, sustainable margins and reinvestment; a larger business may need more funding before it produces more cash. [S53: Growth companies—value drivers](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook/growthvaluedrivers.htm) The practical implication is to ask how much product, engineering, selling and implementation effort each growth assumption requires, and when the benefit can arrive.
 
 {id: valuation-is-an-estimate--asset-based-valuation-understand-what-can-be-separated}
 #### Asset-Based Valuation: Understand What Can Be Separated
@@ -144,7 +145,7 @@ An asset-based approach examines the value of assets and relevant **liabilities*
 
 For a software company, adding up historical development expenditure isn’t a sufficient valuation. Code written at great cost may have little use; a relatively inexpensive product may support valuable customer relationships. The cost of building an asset and what someone would pay for it answer different questions.
 
-The technology implications concern separability and continuity. Who controls the product rights? Can the service operate without the larger company that currently owns it, its parent? Which shared systems, people and contracts would need replacing? These questions become especially concrete in a carve-out, where a business is separated from a larger organization. The chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first) examines that work.
+Who controls the product rights? Can the service operate without the larger company that currently owns it, its parent? Which shared systems, people and contracts would need replacing? These questions become especially concrete in a carve-out, where a business is separated from a larger organization. The chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first) examines that work.
 
 ![Comparable businesses, expected future cash and assets less liabilities offer different lenses on an estimated value.](private-techuity/posts/02-valuation-is-an-estimate/assets/images/02-valuation-is-an-estimate/valuation-lenses-and-assumptions.jpeg)
 
@@ -177,7 +178,7 @@ If the answers are “nothing specific,” “not yet” and “nobody,” the a
 {id: valuation-is-an-estimate--what-to-carry-forward}
 ## What to Carry Forward
 
-Stage 1 gave you three measures that describe different events: revenue records sales, profit deducts a specified set of costs, and cash flow follows actual payments. Stage 2 gave you the bridge from business value to share value, three ways to estimate value, together with the check on which of those two values each method produces, and the habit of reading a valuation as a bundle of assumptions to be tested rather than a fact to be met.
+Reading the business's numbers gave you three measures that describe different events: revenue records sales, profit deducts a specified set of costs, and cash flow follows actual payments. Interpreting a valuation gave you the bridge from business value to share value, three ways to estimate value, together with the check on which of those two values each method produces, and the habit of reading a valuation as a bundle of assumptions to be tested rather than a fact to be met.
 
 You can now ask which value is being quoted and which assumptions need testing. The next question is what the investor expects to get back from it, and why two investors holding the same company through the same performance can report very different results: the chapter [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns).
 

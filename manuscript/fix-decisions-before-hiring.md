@@ -1,13 +1,13 @@
 {id: fix-decisions-before-hiring}
-# 14. Trace the Work: Headcount Is Not Capacity
+# 24. Scale the Team Up: Headcount Is Not Capacity
 
-![Trace the Work: Headcount Is Not Capacity — logo](private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/logo.jpeg)
+![Scale the Team Up: Headcount Is Not Capacity — logo](private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to trace one piece of work through the company, separate decision, knowledge and staffing constraints, assess leaders in their system and decide what hiring the plan needs.
 
-> **WHY INVESTORS CARE:** Headcount, the number of people a company employs or has approved to hire, is one of the few levers an investor can see and fund; it wants to know whether the money buys capacity or buys people who wait behind the same bottleneck.
+> **WHY INVESTORS CARE:** Headcount, the number of people a company employs or has approved to hire, is one of the few levers an investor can see and fund. It wants to know whether the money buys capacity or just buys people who wait behind the same bottleneck.
 
-> **WHY YOU SHOULD CARE:** Hiring into a queue made of unclear authority and concentrated knowledge buys people who wait; the diagnosis decides whether new people help, and what shape the hire should take.
+> **WHY YOU SHOULD CARE:** Hiring into a queue caused by unclear authority and concentrated knowledge buys people who wait. The diagnosis decides whether new people will help, and what shape the hire should take.
 
 > **KEY POINTS:**
 >
@@ -15,17 +15,22 @@
 > * People changes have **transition costs and a knowledge-transfer test**. Compare the full delivery model, including recruitment, overlap, management effort and the receiving team’s demonstrated competence.
 > * The diagnosis should **produce a staffing decision**: hiring proceeds, changes shape or is deferred, with the remaining gap, its funding and the evidence that would reopen the choice named.
 
-A company buys a new tool for delivering software, adopts a new architecture (a new overall structure for its software), and recruits engineers in a lower-cost location. Six months later, decisions still wait for the same executive, priorities still change every week, and the same two people resolve every problem in the live system that customers use.
+New investment naturally opens room to hire. The money that funds the plan can also pay salaries, and investors often push for it to turn into people quickly: headcount is visible, easy to report and easy to compare with the plan. The pressure is understandable, but **hiring naively can backfire**. When work waits on unclear authority and on knowledge held by a few people, new hires join the same queue. They need training from the specialists who are already the bottleneck, they add coordination, and the waits can grow rather than shrink. The friction in how the company decides and delivers has to be found before the hiring plan is written.
 
-The plan funded new resources, but it has not funded the management time and decision changes needed to use them. An **operating model** is the arrangement of responsibilities, teams and processes through which work gets done. **Capability** is what that arrangement lets people do reliably. Delivering the investments in the preceding chapters depends on people with the time, knowledge and authority to do the work, and an investment case, the argument for committing money to a plan, isn’t complete if it funds the work without funding the capacity to do it.
+The plan funded new resources, but not the management time and decision changes needed to use them. An **operating model** is the arrangement of responsibilities, teams and processes through which work gets done. **Capability** is what that arrangement lets people do reliably. Every investment in the preceding chapters depends on people with the time, knowledge and authority to do the work. An investment case, the argument for committing money to a plan, is not complete if it funds the work without funding the capacity to do it.
 
-This chapter starts from the finding in the chapter [Assess Capability: Can the Team Deliver?](#can-the-team-deliver). Larkspur is the fictional company this book follows; it sells scheduling software. That chapter read two clocks for a change to Larkspur’s pricing rules, the rules that decide what customers are charged. The first clock runs from the customer’s request until the change is in **production**, the live system customers use. It shows about three weeks.
+This chapter shows how to find what a queue is made of, change the decisions that cause it, and only then decide what hiring the plan needs. It also shows how to assess leaders in the system they work in, rather than in isolation.
+
+{id: fix-decisions-before-hiring--setting-up-the-example-a-three-week-pricing-change}
+## Setting Up the Example: A Three-Week Pricing Change
+
+Larkspur is the fictional company this book follows; it sells scheduling software. This example starts from the finding in the chapter [Assess Capability: Can the Team Deliver?](#can-the-team-deliver), which read two clocks for a change to Larkspur’s pricing rules, the rules that decide what customers are charged. The first clock runs from the customer’s request until the change is in **production**, the live system customers use. It shows about three weeks.
 
 The second clock starts at the **commit**, the moment an engineer records a version of a code change in the team’s shared version history. A commit is a record, not a finish line: recorded code need not be complete or ready for customers. The clock stops when the change is **released**, that is, put into use in production. Recording and releasing are separate events, and the second clock measures the time between them. It shows under two days.
 
 The assessment could say only that most of the time falls before the commit. It could not say what that time is made of, because at Larkspur the work before the measured commit includes building the change as well as approvals and queues. The trace below supplies the split: sixteen working days (3 + 7 + 2 + 3 + 1), of which two are building, one is release and thirteen are waiting. Larkspur also plans to sell in a second country, and that country’s tax and pricing rules will pass through the same queue.
 
-Then comes the hiring question. Larkspur’s board, the group of directors that oversees the company on behalf of its owners, wants a second product team before the next **funding round**, the next time the company raises money from investors. Investors and their advisers may also propose organizational changes directly: a new leader, a cheaper location, a second team. Before Larkspur adds people, it should know what the queue is made of. When an investor proposes an appointment, the same evidence decides whether the role is the answer.
+Larkspur’s board, the group of directors that oversees the company on behalf of its owners, wants a second product team before the next **funding round**, the next time the company raises money from investors. Investors and their advisers may also propose organizational changes directly: a new leader, a cheaper location, a second team. Before Larkspur adds people, it should know what the queue is made of. When an investor proposes an appointment, the same evidence decides whether the role is the answer.
 
 {id: fix-decisions-before-hiring--follow-one-piece-of-work-through-the-company}
 ## Follow One Piece of Work Through the Company
@@ -45,7 +50,7 @@ Here is one of Larkspur’s pricing changes, traced by Alex, who leads technolog
 | Commit to production | 1 | The second clock, under two days in the assessment. DORA (DevOps Research and Assessment), a research program on software delivery, calls it change lead time. In this fictional trace the commit that starts the clock is recorded only after the change is built and signed off. Many teams commit earlier and more often |
 | **Request to production** | **16** | **About three weeks; two days of building, one of release, thirteen of waiting** |
 
-![Two rows compare the same five stages of one customer request. Today: three waiting stages (rule approval 3 days, specialist review 7 days, invoice sign-off 3 days) surround build and test (2 days) and release (1 day), totalling 16 working days. A second row headed “Forecast: 10 working days” crosses out the rule-approval wait and the invoice sign-off wait, each tagged separately “Delegated: 3 days saved”, while the 7-day specialist review remains, tagged “Knowledge gap: still 7 days”. A banner across the whole row reads “Forecast total: 6 days saved, no new hire”. The days saved are forecast, not measured.](private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/work-crosses-team-boundaries.jpeg)
+![Two rows compare the same five stages of one customer request. Today: three waiting stages (rule approval 3 days, specialist review 7 days, invoice sign-off 3 days) surround build and test (2 days) and release (1 day), totalling 16 working days. A second row headed “Forecast: 10 working days” crosses out the rule-approval wait and the invoice sign-off wait, each tagged separately “Delegated: 3 days saved”, while the 7-day specialist review remains, tagged “Knowledge gap: still 7 days”. A banner across the whole row reads “Forecast total: 6 days saved, no new hire”. The days saved are forecast, not measured.](private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/work-crosses-team-boundaries.jpeg)
 
 **Figure 1:** *The upper row is the trace in the table above: five stages, sixteen working days, three of them waits. The lower row looks ahead to the delegation described in the next section. Each of the two approval waits is removed and each saves three days; the banner gives their combined six. It is a forecast, not a measurement. The seven-day specialist queue stays in both rows, because it is a knowledge constraint rather than a decision one — which is why the hire that follows is one billing engineer and not a second team.*
 
@@ -69,7 +74,7 @@ The board asked for a second product team of five before the next funding round.
 
 “Committed” has a narrow meaning here: investors have signed an agreement to provide the money, subject to its terms. That is firmer than an intention to invest. It is not yet completed financing, and only money that has arrived can pay salaries, which is one reason the roles also need the board’s approval before anyone is recruited.
 
-They choose the third: one billing engineer now, protected time for the transfer, and the second team deferred on stated conditions. The record of the decision reads:
+They choose the third: one billing engineer now, protected time for the transfer, and the second team deferred on stated conditions.
 
 | Element | What was decided |
 | --- | --- |
@@ -79,7 +84,7 @@ They choose the third: one billing engineer now, protected time for the transfer
 | Authority | Ines authorizes the hire under her delegation. The position is already in the headcount plan and its pay is in the approved budget, so assigning it to billing needs no new board decision. A position outside the plan would have been the board’s to approve (see the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides)). She takes the changed shape to the board, which had asked for a team and is asked to accept a conditional plan instead. Alex is accountable for the billing engineer and the transfer, Priya for the catalogue |
 | Rejected | The full second team, because it does not address the gap, adds to the queue and commits payroll (the recurring cost of employees’ pay) ahead of money not yet received. No hiring, because it leaves the plan dependent on two people |
 
-Three pieces of evidence would change the decision. They are listed in the order they can arrive.
+Three pieces of evidence would change the decision.
 
 - **The lead time is still above two weeks sixty days after the delegation changes.** The response is to trace the next changes, not to hire. If the approvals have gone but the queue persists, the capacity diagnosis is revisited. If the agreed changes were never made, the reasons and the accountability are addressed first.
 - **The second country signs customers faster than expected.** That satisfies the demand condition only. The five-person team still requires committed funding and board approval, and until both exist the one-engineer plan remains the authorized response.
@@ -90,7 +95,7 @@ That is the sense in which decisions come before people. It is not a rule that h
 {id: fix-decisions-before-hiring--assess-leaders-in-their-system}
 ## Assess Leaders in Their System
 
-The same discipline applies to leadership. A leader who built an early product may need support to lead a larger organization. A leader with large-company experience may introduce processes a small business cannot afford. Neither background establishes fit by itself.
+A leader who built an early product may need support to lead a larger organization. A leader with large-company experience may introduce processes a small business cannot afford. Neither background establishes fit by itself.
 
 Describe the work the role requires: product judgment, technical direction, operational reliability, people leadership, commercial communication or integration. Assess the evidence in each area and the system around the person. A weak product function, the people and work that find out what customers need and choose what to build, shouldn’t automatically become a verdict on the CTO, and a three-week queue that turns out to be made of two sign-offs and an interrupted pair of specialists is not evidence that the CTO cannot lead. Equally, technical expertise doesn’t excuse an inability to develop people or make hard decisions.
 
@@ -98,16 +103,16 @@ Changing a CTO can be necessary when the company’s needs have changed or leade
 
 The hypothesis cuts both ways, and that is how it preserves accountability. Suppose the sequence at Larkspur had gone differently. Priya’s catalogue and Ines’s delegation were agreed and the engineer was funded. When Ines reviews the sixty-day trace, the queue is unchanged.
 
-The evidence is specific. The release log shows every catalogue change now waiting for Alex’s personal approval before finance sees it, so the sign-off wait has moved rather than gone. The specialists’ protected day has gone to incidents that Alex chose not to reassign. The billing engineer has been moved onto feature work.
+The release log shows every catalogue change now waiting for Alex’s personal approval before finance sees it, so the sign-off wait has moved rather than gone. The specialists’ protected day has gone to incidents that Alex chose not to reassign. The billing engineer has been moved onto feature work.
 
-The interpretation follows. The conditions were changed and the leader did not use them. The hypothesis “an engineering leader who will delegate release authority and protect knowledge transfer removes the queue” is now testable against evidence about this person.
+The conditions were changed and the leader did not use them. The hypothesis “an engineering leader who will delegate release authority and protect knowledge transfer removes the queue” is now testable against evidence about this person.
 
-The remedy follows from the cause. Coaching or a delivery manager under Alex would leave release authority with the person who has declined to give it up, so added support is not enough on its own. The evidenced choice is added leadership with authority: a head of engineering who owns the release process and the transfer, reporting to Ines, with Alex keeping technical direction. If Alex will not accept the narrowed role, the choice is replacement. Recruitment then follows a role design, a written statement of the job’s responsibilities, authority and expected results, not a search for someone willing to repeat the plan more confidently.
+Coaching or a delivery manager under Alex would leave release authority with the person who has declined to give it up, so added support is not enough on its own. The evidenced choice is added leadership with authority: a head of engineering who owns the release process and the transfer, reporting to Ines, with Alex keeping technical direction. If Alex will not accept the narrowed role, the choice is replacement. Recruitment then follows a role design, a written statement of the job’s responsibilities, authority and expected results, not a search for someone willing to repeat the plan more confidently.
 
 {id: fix-decisions-before-hiring--when-the-investor-proposes-an-appointment}
 ## When the Investor Proposes an Appointment
 
-Investors take part in key appointments in five ways, and the ways carry different weight: proposing a role, introducing candidates, taking part in selection, approving compensation and assessing the people already in post. Only some of these are rights. Three kinds of involvement need to be told apart.
+Investors take part in key appointments in five ways, and the ways carry different weight: proposing a role, introducing candidates, taking part in selection, approving compensation and assessing the people already in post. Only some of these are rights.
 
 **A formal approval right.** Larkspur’s fictional shareholders’ agreement is the contract between the company’s owners that sets out their rights. Under it, hiring or dismissing an executive officer (one of the company’s most senior managers, such as the head of technology, product or finance), or changing their pay, needs the consent of one particular director: the one appointed by the lead investor, the investor that led the negotiation of the last investment. Agreements often call a decision like this a **reserved matter**: it cannot go ahead without a specified additional approval. At Larkspur, then, the appointment is the board’s to make and one named director’s to consent to.
 
@@ -125,7 +130,7 @@ The investor director proposes a chief product officer (**CPO**), an executive w
 
 Ines neither accepts nor refuses the proposal. She treats it as the hypothesis test above, applied to a role that does not yet exist: what must a CPO enable that Larkspur cannot do today, and what evidence shows the capability is missing?
 
-The evidence is thin in one direction and clear in another. The pricing trace found product decisions waiting for Priya, and the catalogue removed that wait; since then no product decision has been the queue. What the trace did not test is the thing the board is worried about: prioritizing across two teams and two countries, and building a product management function rather than doing product management. That is a gap in the future, not a failure in the present. Three responses are compared, with fictional figures:
+The pricing trace found product decisions waiting for Priya, and the catalogue removed that wait; since then no product decision has been the queue. What the trace did not test is the thing the board is worried about: prioritizing across two teams and two countries, and building a product management function rather than doing product management. That is a gap in the future, not a failure in the present. Three responses are compared, with fictional figures:
 
 | Option | What it enables | Cost and timing | Risk |
 | --- | --- | --- | --- |
@@ -141,7 +146,7 @@ The evidence is reviewed in six months, and what will count as evidence is agree
 - **Results checked.** Each decision states the result it is meant to produce, such as a shorter wait or a customer signed. Did someone go back and check whether that happened? Making a decision and checking its result are separate things, and the review looks for both.
 - **Customers’ waiting time.** How long do second-country customers wait for a requested change, measured by the same kind of trace as above? Did that wait stay within the target agreed at the start?
 
-The scenario gives that target no number. What matters is that the comparison is fixed before the results are known. Recorded, the rest of the decision reads:
+The scenario gives that target no number. What matters is that the comparison is fixed before the results are known.
 
 | Element | What was decided |
 | --- | --- |
@@ -152,13 +157,13 @@ The scenario gives that target no number. What matters is that the comparison is
 | Authority | Ines appoints below her and decides this. Priya is not dismissed and her pay is unchanged, so no consent is triggered now. Morgan’s two candidates are told the role is not open now and would be assessed against the same role design if it opens |
 | Evidence that would change the decision | At the six-month review: priority decisions missing their agreed dates, their intended results left unchecked, or second-country customers waiting longer than the agreed target. Any of these reopens the diagnosis; none settles it. The response is another trace, not a search (see below) |
 
-Those three findings differ in what they point at. The first two — decisions made late, results left unchecked — point at the product decisions themselves. The third does not, because a customer can wait for reasons this chapter has already separated: a specialist queue, an incident that took the protected day, or country rules still written into the invoicing module.
+The first two — decisions made late, results left unchecked — point at the product decisions themselves. The third does not, because a customer can wait for reasons this chapter has already separated: a specialist queue, an incident that took the protected day, or country rules still written into the invoicing module.
 
 So the response is another trace. It asks of each waiting day whether a product decision was late or whether the delay sat in engineering, knowledge or operations. It tests the product responsibilities the role design actually assigned — decisions made by their agreed dates, and their intended results checked — rather than lateness alone, because a decision made on time whose result nobody ever checked is a product failure too.
 
 Only where that trace finds those responsibilities unmet does the CPO hypothesis become testable. The role design is written now, so that a search, if one follows, follows a design rather than a candidate.
 
-Two conditions travel with an investor’s candidates. A candidate from the investor’s network is assessed against the company’s role design like any other, with references the company takes itself. And any relationship that could create a conflict of interest, such as a candidate the investor has worked with before, a search firm the investor pays or a director who would prefer a familiar face, is declared and recorded rather than assumed away. The company appoints and manages the person and remains accountable for the result; an investor who introduced the candidate does not thereby own the outcome.
+A candidate from the investor’s network is assessed against the company’s role design like any other, with references the company takes itself. And any relationship that could create a conflict of interest, such as a candidate the investor has worked with before, a search firm the investor pays or a director who would prefer a familiar face, is declared and recorded rather than assumed away. The company appoints and manages the person and remains accountable for the result; an investor who introduced the candidate does not thereby own the outcome.
 
 The implications for the rest of the organization are what the role design has to spell out, because the title says nothing about them:
 
@@ -177,7 +182,7 @@ Success for a role is assessed on what it was appointed to enable, stated at app
 
 An appointment made without that statement is judged, later, on whatever the board is worried about at the time.
 
-The opposite movement, a plan that has to shrink rather than grow, has its own chapter: [Plan Layoffs: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) follows a reduction from the investor’s request to the people it affects.
+The opposite movement, a plan that has to shrink rather than grow, has its own chapter: [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) follows a reduction from the investor’s request to the people it affects.
 
 {id: fix-decisions-before-hiring--cheaper-locations-do-not-automatically-save-money}
 ## Cheaper Locations Do Not Automatically Save Money
@@ -190,7 +195,7 @@ In a fictional case, replacing €1 million of annual external development spend
 
 The more important question is **whether the work can be transferred coherently**. If every decision depends on a small group elsewhere, lower hourly cost may come with more waiting and rework; Larkspur’s queue would simply acquire a time zone. A bounded product or service responsibility, adequate context and a clear escalation path, the agreed route for getting help or a higher-level decision, can matter more than geography.
 
-![The cost of a team change includes transition spending and continuing coordination and support, as well as pay.](private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg)
+![The cost of a team change includes transition spending and continuing coordination and support, as well as pay.](private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg)
 
 **Figure 2:** *Compare the complete delivery model over time, including the cost of reaching it. The salary on the price tag is only one item. The basket adds one-time transition costs, such as recruitment and the overlap of old and new teams, to the costs that continue every year. “Total cost of ownership” is the drawing’s label for the whole sum over the period compared: setting the arrangement up, running it and changing over to it.*
 
@@ -226,7 +231,7 @@ For every material initiative, identify the skills, leadership time and operatin
 
 Tell investors and teams the same plan. Don’t promise employees durable roles while privately treating their funding as provisional, or call a capability indispensable while approving its removal without a replacement. When cost reduction is necessary, state what work will stop and which risks remain. When a leader needs development, define the support and the evidence of progress. Judge an organizational change by the work people can now carry out: decisions made, responsibilities understood and knowledge transferred, with the cost of the transition and the treatment of the people affected included.
 
-With the queue reduced to its knowledge core and the hire reshaped to close it, Larkspur still has the system constraint from the finding: country rules coupled into the invoicing module. The rules are written into the billing code itself, so serving a new country means changing that code. The reader’s next question is which change to that system the company should fund. There are three candidates: buy a supplier’s tax-and-billing service and configure it for the second country through settings; move the country rules out of the invoicing module into a separate part with an interface, an agreed way for software parts to exchange information, that Larkspur owns; or replace the core billing system. The chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#growth-into-design) compares the three against the same customer need, date, ongoing responsibility and cash limit, and chooses one.
+With the queue reduced to its knowledge core and the hire reshaped to close it, Larkspur still has the system constraint from the finding: country rules coupled into the invoicing module. The rules are written into the billing code itself, so serving a new country means changing that code. There are three candidates: buy a supplier’s tax-and-billing service and configure it for the second country through settings; move the country rules out of the invoicing module into a separate part with an interface, an agreed way for software parts to exchange information, that Larkspur owns; or replace the core billing system. The chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#growth-into-design) compares the three against the same customer need, date, ongoing responsibility and cash limit, and chooses one.
 
 {id: fix-decisions-before-hiring--questions-to-consider}
 ## Questions to Consider

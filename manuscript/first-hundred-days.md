@@ -1,25 +1,30 @@
 {id: first-hundred-days}
-# 27. Plan the First Hundred Days: Turn Expectations Into Funded Work
+# 34. Plan the First Hundred Days: Turn Expectations Into Funded Work
 
-![Plan the First Hundred Days: Turn Expectations Into Funded Work — logo](private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg)
+![Plan the First Hundred Days: Turn Expectations Into Funded Work — logo](private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to turn one finding from **due diligence**, the investigation an investor makes before investing, into a plan with an accountable person, approved money, protected engineering time and decision dates, and let the day-100 review change that plan.
 
-> **WHY INVESTORS CARE:** An investment rests on an **investment thesis**, the investor’s explanation of why it should succeed and what must be true for that to happen. The first months show whether the thesis holds. A funded plan with dated reviews gives the investor evidence; an untested list gives only reassurance.
+> **WHY INVESTORS CARE:** An investment rests on an **investment thesis**, the investor’s explanation of why it should succeed and what must be true for that to happen. The first months show whether the thesis holds. A funded plan with dated reviews gives the investor evidence. An untested list gives only reassurance.
 
 > **WHY YOU SHOULD CARE:** Expectations formed while the deal was negotiated either become a plan the company can pay for and staff, or harden into commitments nobody tested. The early months decide which.
 
 > **KEY POINTS:**
 >
 > * Use the early period to **establish a funded plan**, not to finish the transformation. A plan exists when each priority has an accountable person, approved money, protected engineering time, a decision date and a prerequisite, and when postponed work has a recorded decision.
-> * Carry the diligence findings in **by identifier**. Confirm each one with the people who will do the work. The investigation had incomplete access, and when management’s evidence differs it should change the funding or the order of work.
+> * Carry the diligence findings in **by identifier**. Confirm each one with the people who will do the work. The investigation had incomplete access, and when management’s evidence differs, that evidence should change the funding or the order of work.
 > * **Review the plan, not its completion rate.** The day-100 review should confirm or revise the plan on evidence: an assumption kept or replaced, a postponement kept or lifted, money moved from the reserve with the board’s approval. Finishing every task is not the test.
 
 New funding or an ownership change opens an early period in which expectations must become an agreed **operating plan**: what the business will do, who will do it and what money and time it needs. A hundred days is a useful planning horizon. It is neither enough to transform most businesses nor the right deadline for every commitment.
 
-A deal can change the company’s money, its owners’ rights, the expectations placed on it and its review timetable. Many of those expectations were formed during the investigation rather than inside the company. Not every deal adds cash to the company. When investors buy newly issued **shares**, the units of ownership in a company, the money goes to the company; when they buy existing shares, it goes to the owners who sell. The first job is to establish which of these changed, and which of them actually change the company’s existing plan.
+A deal can change the company’s money, its owners’ rights, the expectations placed on it and its review timetable. Many of those expectations were formed during the investigation rather than inside the company. Not every deal adds cash to the company. When investors buy newly issued **shares** (units of ownership in a company), the money goes to the company. When they buy existing shares, it goes to the owners who sell. The first job is to establish which of these changed, and which of them actually change the company’s existing plan.
 
-**Larkspur**, the fictional company this book follows, sells scheduling software: businesses use it to decide which of their field staff does which job, and when. Every new customer needs **onboarding**, also called **implementation**: Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use. The chapter [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) followed the investigation before a **growth investment** in Larkspur, an investment meant to pay for the company’s expansion. It produced three important findings. This chapter shows them becoming the company’s own plan.
+This chapter shows how to turn those expectations into a funded plan. It starts by establishing what actually changed, confirms the inherited findings with the people who will deliver them, funds and sequences the work of the first hundred days, and ends with a day-100 review that judges the plan rather than its completion rate.
+
+{id: first-hundred-days--setting-up-the-example-larkspur-after-its-growth-investment}
+## Setting Up the Example: Larkspur After Its Growth Investment
+
+**Larkspur**, the fictional company this book follows, sells scheduling software: businesses use it to decide which of their field staff does which job, and when. Every new customer needs **onboarding**, also called **implementation**: Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use. The chapter [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) followed the investigation before a **growth investment** in Larkspur, an investment meant to pay for the company’s expansion. That investigation produced three important findings.
 
 Five people and the board carry the example:
 
@@ -30,7 +35,7 @@ Five people and the board carry the example:
 - **Morgan** is the investor’s technology adviser, who ran the technical part of the investigation.
 - The **board** is the group of directors who oversee the company and approve its major decisions and spending.
 
-Every figure is fictional. The same record of money and time runs through the chapters [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything), [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore), [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) and [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations).
+Every figure is fictional. The same Larkspur figures run through the chapters [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything), [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore), [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) and [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations). The first step is to establish what the investment actually changed at Larkspur.
 
 {id: first-hundred-days--what-actually-changed}
 ## What Actually Changed
@@ -45,7 +50,7 @@ The board approved one **envelope**: the upper limit on what the company may com
 
 The envelope limits what is committed during the hundred days, not the work finished inside them. Work approved before day 100 can run on after it. Whatever the plan leaves uncommitted is the **reserve**: money and time held back for the decisions the reviews will need.
 
-Two approvals are kept apart. The **investment committee**, the group inside the investment firm that approves its investments, approved the investment terms. The board, not that committee, approves the operating plan and its funding. The **delegation**, the written split of decision rights, is short: Ines authorizes spending inside the approved plan; any draw on the reserve, or any change to what the envelope funds, goes back to the board.
+The **investment committee**, the group inside the investment firm that approves its investments, approved the investment terms. The board, not that committee, approves the operating plan and its funding. The **delegation**, the written split of decision rights, is short: Ines authorizes spending inside the approved plan; any draw on the reserve, or any change to what the envelope funds, goes back to the board.
 
 Other arrangements change different things:
 
@@ -75,9 +80,9 @@ Finding **D-3** arrives with its identifier, its record and a handoff. Priya is 
 | Management’s confirmation after closing | Priya, Alex and the implementation specialist, the in-house employee who sets customers up, reviewed the finding with the people who run implementations. The dependency is confirmed. The sample covered one country and two quarters, so management does not adopt its 80 hours as the baseline; the baseline will be measured from actual customer records by day 20. Alex’s data-quality explanation stays on the record as the disagreement the pilot must resolve. |
 | Funded response | ONB-1, the onboarding pilot: €180,000 committed to build one reusable setup step, a standard sequence the software applies instead of settings entered by hand; 12 engineer-weeks; Priya accountable; cohort review at day 90. |
 
-Two points matter for a reader whose own findings arrive in a report. First, the pilot was written into the plan as a funded condition during diligence, so it does not have to compete for money as a surprise. If a required investment was left out of **underwriting**, the financial and risk assessment used to justify the deal, make the funding issue explicit. Do not hand it to Alex as a delivery challenge while the investor’s **financial model**, the calculation linking assumptions about customers, costs and income to expected results, stays unchanged.
+First, the pilot was written into the plan as a funded condition during diligence, so it does not have to compete for money as a surprise. If a required investment was left out of **underwriting**, the financial and risk assessment used to justify the deal, make the funding issue explicit. Do not hand it to Alex as a delivery challenge while the investor’s **financial model**, the calculation linking assumptions about customers, costs and income to expected results, stays unchanged.
 
-Second, management did not endorse the finding as written. It kept the dependency, rejected the sampled figure as a baseline and set a date to replace it. That is confirmation, not ceremony.
+Second, management did not endorse the finding as written. It kept the dependency, rejected the sampled figure as a baseline and set a date to replace it.
 
 The other two findings were confirmed the same way. **D-5**: the **scheduling engine**, the part of the software that works out which job goes to which person and when, was understood by two people, and only one of them could **release** it (put a new version into use) and recover it after a failure. **D-6**: there was no evidence that the service could be **restored**, brought back into use from its **backups** (saved copies of its data) after a failure.
 
@@ -102,7 +107,7 @@ ONB-1 needs the implementation specialist for twelve consecutive weeks. That is 
 
 KNW-1 uses two existing people. The scheduling specialist gives four weeks to teaching. The second engineer, who already works on the engine, spends about the same four weeks alongside the specialist during the first 60 days, on real releases and a recovery rehearsal. That is about eight person-weeks, set aside from the operating team’s ordinary time before the 24 were counted, so no week is counted twice.
 
-Both KNW-1 participants’ salaries are already in the operating budget, which is why KNW-1 needs no additional cash. Being paid is not the same as being free, though. The time is paid for in ordinary work: Alex postpones non-urgent changes to the scheduling engine for those weeks, and urgent fixes still come first.
+Both KNW-1 participants’ salaries are already in the operating budget, which is why KNW-1 needs no additional cash. The time is paid for in ordinary work: Alex postpones non-urgent changes to the scheduling engine for those weeks, and urgent fixes still come first.
 
 **Spending.** The cash column counts **commitments**, money approved for named work, not spending. Of ONB-1’s €180,000, about €90,000 is expected to be **incurred** before day 100, meaning the work or services have been received: the outside specialist’s days, tools and outside services, and contractor time. The rest falls due over the following two quarters, for **templates**, saved sets of settings for the less common types of customer.
 
@@ -131,7 +136,7 @@ These are decision thresholds, not the target. The plan’s illustrative model, 
 
 This plan does not promise that the second country is open by day 100. It creates the evidence needed to **fund and sequence that expansion**. A short early plan should reduce uncertainty and establish capability, not disguise a multi-year program as a quick win.
 
-![Ideas become operating commitments when outcomes, responsibility, funding, capacity and review dates are agreed.](private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg)
+![Ideas become operating commitments when outcomes, responsibility, funding, capacity and review dates are agreed.](private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg)
 
 **Figure 1:** *An early priority list becomes a plan through explicit decisions and resources.*
 
@@ -142,7 +147,7 @@ A **dependency** is something that must happen first. Map dependencies before pr
 
 Separate actions useful under several plausible plans from investments that depend on an assumption still being tested. REC-1 and KNW-1 are worthwhile whether or not the second country opens. ONB-1 is the learning step that improves the larger decision, which is why it was funded first and expansion was not.
 
-![Projects that depend on the same specialist or prerequisite need deliberate sequencing.](private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg)
+![Projects that depend on the same specialist or prerequisite need deliberate sequencing.](private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg)
 
 **Figure 2:** *Adding projects cannot create the capacity or prerequisites they depend on.*
 
@@ -157,7 +162,7 @@ The time records hold only totals, so the baseline added an estimate the sample 
 
 ONB-1 uses outside specialist support, agreed through the **engagement charter** developed in the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement). The charter is the written agreement for that support: the specialist’s days, the company engineering effort, the customer sessions, Priya as the accountable company leader, an investor-side sponsor named by role and a review at engagement week six.
 
-Here it matters only that the support is inside the plan’s capacity and cash, not added on top. The specialist’s ten days over six weeks, capped at a fictional €1,500 a day, are €15,000, charged to ONB-1’s €180,000 rather than added to it. Engagement weeks count from day 21, when the specialist starts, after the baseline exists. Coordinate any investor-sponsored support through company leadership and one view of capacity, and make the purpose of any assessment clear to the people involved.
+The specialist’s ten days over six weeks, capped at a fictional €1,500 a day, are €15,000, charged to ONB-1’s €180,000 rather than added to it. Engagement weeks count from day 21, when the specialist starts, after the baseline exists. Coordinate any investor-sponsored support through company leadership and one view of capacity, and make the purpose of any assessment clear to the people involved.
 
 {id: first-hundred-days--review-the-plan-not-its-completion-rate}
 ## Review the Plan, Not Its Completion Rate
@@ -167,7 +172,7 @@ At day 100 the board asked what was learned and what the company can now do, not
 **REC-1, the restore.**
 
 - *Outcome:* the day-45 restore took eleven hours and missed the four-hour objective. It hit the same two obstacles as in the chapter [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore). First, the **credential**, the access information for the backup store, belonged to an engineer who had left. Second, the backups could only be loaded into one particular release of the **database** software, and that release was no longer available. The database is the program that stores the service’s data.
-- *Implication:* the €80,000 and four engineer-weeks had gone into the restore environment, access to the backup store, backups every fifteen minutes and the test itself. They could not be recovered, and they were not a reason to spend more; the correction was justified because the objective is still owed to customers. The correction had three parts. The restore environment is kept on the same database release as the **live service**, the one customers use. Credentials are held in a controlled store, with an emergency procedure that either of two named people can carry out. And the rehearsal is written down. It needed about €20,000 and two engineer-weeks more.
+- *Implication:* the €80,000 and four engineer-weeks had gone into the restore environment, access to the backup store, backups every fifteen minutes and the test itself. They could not be recovered, and they were not a reason to spend more; the correction was justified because the objective is still owed to customers. The restore environment is kept on the same database release as the **live service**, the one customers use. Credentials are held in a controlled store, with an emergency procedure that either of two named people can carry out. And the rehearsal is written down. It needed about €20,000 and two engineer-weeks more.
 - *Decision:* money from the reserve needs the board, so Ines took the request to the board, which approved it around day 47 with a retest by day 85. Committed spending rose to €300,000 and 20 engineer-weeks; the reserve fell to €200,000 and 4 engineer-weeks.
 - *Retest:* at day 85 dispatch resumed within four hours, with under fifteen minutes of lost updates. That proves recovery from one kind of failure: loss of the **application environment**, the servers, database and settings the service runs on. The test assumed the surrounding cloud **region** was still working. A region is one geographic group of the cloud provider’s data centres. An outage of the whole region was not tested. REC-1 closed at €100,000. Ines accepted the remaining risk on the board’s behalf, with a quarterly retest: a regional failure, a rehearsal run only on a weekday, and the fact that only two people can carry out the credential procedure. Finding the obstacles at day 45 gave the team time to correct them before a real failure.
 
@@ -181,7 +186,7 @@ At day 100 the board asked what was learned and what the company can now do, not
 
 **Portal research.** Complete by day 100 inside its €20,000 and two engineer-weeks, all of it incurred. Its findings went to the review, and the build stays postponed.
 
-**The decision.** The review changed the plan by the rule agreed in advance. Sixty-two hours with unchanged waiting time fell in the middle band, so the board funded the next learning step and kept expansion and hiring postponed. That step is a **data-quality step**: checking and correcting each customer’s data before setup begins, because the measured split pointed there rather than at more product work. It costs €40,000 and four engineer-weeks from the reserve. That used the last unallocated engineer-weeks. Committed spending stood at €340,000 and 24 engineer-weeks, with €160,000 of cash and no engineering time left in the envelope.
+**The decision.** Sixty-two hours with unchanged waiting time fell in the middle band, so the board funded the next learning step and kept expansion and hiring postponed. That step is a **data-quality step**: checking and correcting each customer’s data before setup begins, because the measured split pointed there rather than at more product work. It costs €40,000 and four engineer-weeks from the reserve. That used the last unallocated engineer-weeks. Committed spending stood at €340,000 and 24 engineer-weeks, with €160,000 of cash and no engineering time left in the envelope.
 
 **After day 100.** Six allocated engineer-weeks remain to be worked, both pieces under Priya’s accountability. ONB-1’s last two go on the less common customer templates, with its remaining €90,000, over the next two quarters, to about day 280. The data-quality step’s four are worked by Alex’s engineers in the quarter after day 100. The first eight customers whose setup starts once the step is in service form the next cohort.
 
@@ -235,7 +240,7 @@ The handover record carries D-3 and ONB-1 forward with the baseline, the committ
 
 Completing every planned task is not success if the tasks addressed the wrong constraint. Revising a major assumption is a valuable outcome even when it reduces the original growth forecast, and the review should reward that judgment rather than the preservation of the deal story. The early period should leave a plan whose accountable leaders understand the work, whose funding and capacity are credible, and whose assumptions can be reviewed.
 
-The plan above assumes the money it was built on arrives when expected. The next chapter takes the same kind of dated plan and asks what changes when financing slips: [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped). The continuing obligations this plan creates, including D-3 with its baseline and open work, are handed to the next owner in the chapter [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations).
+The plan above assumes the money it was built on arrives when expected. The chapter [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped), in Part IV, takes the same kind of dated plan and asks what changes when financing slips. The continuing obligations this plan creates, including D-3 with its baseline and open work, are handed to the next owner in the next chapter, [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations).
 
 {id: first-hundred-days--questions-to-consider}
 ## Questions to Consider

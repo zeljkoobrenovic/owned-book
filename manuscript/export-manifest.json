@@ -15,54 +15,60 @@
     "backend": "sips"
   },
   "source_hashes": {
-    "config.yaml": "2e18b4d461e0679e8a0f38a2dccd916538c1bbbe3c90e56e2a78a08775a5982b",
-    "posts/introduction/index.md": "829661bedc01a09ab76a0ac29abb07b1db13dbb7f397592479d8f471d0b9c561",
-    "posts/part-1-intro/index.md": "1b0221427ead2eec956a26f97199a66885bd7f1771a2a1144de4fc5a72213f6b",
-    "posts/00-customers-lenders-investors/index.md": "987b308fbd330c7980b18c2a55a8e300672c9a3b69d0c0341c72f0156305f226",
-    "posts/01-announcement-is-not-a-budget/index.md": "a450bd33be35e1eac7c5e342a2e3a24fd41bea589dd9a7d5487e0b3b7ccdcc85",
-    "posts/02-valuation-is-an-estimate/index.md": "193b6569966c9fa78839a07eb8c456fbbc4c27f275389ad5442cb0095b63675c",
-    "posts/03-three-different-returns/index.md": "28a3f9923184eb0e22fd0b7de1207a9051185f2cb5fe824615df3ec3336fd74a",
-    "posts/04-raise-what-you-need/index.md": "3dd6bb57cf90dde3f77a0134b077703a6fb1ee23569d5451e6c14caa2b83fe22",
-    "posts/05-obligations-before-budget/index.md": "d1c8325be9f9c4b75d7f99b3491b2a8dcbca7cacdc70122b33a9e45eee34039c",
-    "posts/part-2-intro/index.md": "06a791fdc94b11dde25313c8fbb5bdb4857231b24b5f6142dcb0e631f5626b4d",
-    "posts/06-decide-who-decides/index.md": "2b20a2c1d855d9934cf91ce306aa42d2febc0d7757064f0dd5ca71666c541151",
-    "posts/07-different-bets/index.md": "3c7ad9233ed0b469eca770d36843898b4c6ed208724d95a892d40e9c8d07e40d",
-    "posts/08-investor-under-pressure/index.md": "de254d0ff53abe5b74da279645bdac15a1e9eac7c6d6f62af793c965b5f9e32e",
-    "posts/part-3-intro/index.md": "a6590668e558dd4ea7940da0160fcd7f0ca3eca7595ad3ad13c7ee80d56fbff8",
-    "posts/09-cannot-fund-everything/index.md": "a949cff71853b07b87ba2a82ee87b54c4f143cb204de7935252a2b08ee8150d3",
-    "posts/10-roadmap-to-revenue/index.md": "dd42d3fb8cf63f3ad0b8c6882f28deb034b07eecd080ca3da43b6ca719dc2ac5",
-    "posts/11-can-the-team-deliver/index.md": "a11f9c0c6eefd93419cdd44a0754e5e124d80b37bdb94debf64a721cbecda0ae",
-    "posts/12-fix-decisions-before-hiring/index.md": "32a55060fbfdc70967fb57cc450471d7c613f59fbb2cf601498a1f9c05711010",
-    "posts/13-growth-into-design/index.md": "a3f9b6ab660cfe2d42388894fff1a58cf20d48f4f822269d2f41fbb61683c04d",
-    "posts/14-cheaper-cloud-bill/index.md": "b3b57a58a48aaa04dc2dce7fcab9c7fb3db234ff3b88349fd426ebd76e5ee244",
-    "posts/15-prove-you-can-restore/index.md": "b1381b0fb96f8bed8af085bc63f7cb6dbb05a6394bcd0222cdbee36e56908033",
-    "posts/16-ai-strategy-three-questions/index.md": "5d37f3d5f2c0bb862552a67fd6adb2be19859bd32653ceefea4a9dd7873dee20",
-    "posts/17-acquisition-adds-work-first/index.md": "b121c32830757eadcf6c9ded11876ee803170ae28f674058ca8a1a852b387a76",
-    "posts/part-4-intro/index.md": "098c5030b94cdd2451624297568245ad538da60f70640566868d1b2d40d64ea2",
-    "posts/18-operating-model-blueprints/index.md": "9bf2a042fe0ea9cf64a6e7e674b945e85f7f22a425ddaf4dd2c6cf6ed6d311c9",
-    "posts/18a-learn-through-investors-network/index.md": "9208e9ff1dfbae770903ef76743823b114d76750241e42e154ccfd7dadc337de",
-    "posts/19-help-that-changes-capability/index.md": "7b48e6c7107dde9a7626229b72b93a8b036de0dfb491f75acf87a7c1d003c8d9",
-    "posts/20-useful-engagement/index.md": "6f416f6953484238c750c1a0d93d175ad6ac54475de5c08d9983bb0f9a3e5ebd",
-    "posts/21-investors-adviser/index.md": "65de77fc7a31bd6047df3b967651c732586963fb3d4ce64763dc103e9b4ca006",
-    "posts/22-tech-operating-partner/index.md": "25edac4872f42a607d2f08e8f134a8017b55b002327fb21d52ce18b585a7863e",
-    "posts/part-5-intro/index.md": "28aa7483934e7b8655ebdd9888b62d884dc6163756b73d2e3551de6a34679c9b",
-    "posts/23-diligence-corrects-the-plan/index.md": "f9d78268eab0bdae780d68635e14e7810cfdbd91a04d91ea79a7b8c376453cb3",
-    "posts/24-first-hundred-days/index.md": "f2f8148066bd7c24d443e45da4cd8661ae8f30c185c190f0c8e15326a7ac9d1a",
-    "posts/25-the-financing-slipped/index.md": "337ee6e3c2d0dff95f12677f713412d3ddee9b8d979ec48195db6c8b4f94f8fe",
-    "posts/26-anatomy-of-a-layoff/index.md": "2201cc4009973275c82a284fd7393abb07db461665f88ff80619eede1de89b16",
-    "posts/27-handover-of-obligations/index.md": "d1e3b413e68e539af32a5f7785cdc028d4baf9f03e81b6845f1ad79e5d176ced",
-    "posts/part-6-intro/index.md": "bfe699ababdddbca9d8484926542abe52f95a4b0356cf8da5c6182a8dff0e7fc",
-    "posts/28-hilton-and-skype/index.md": "eaf57bdf4585adc73a9136e82d325a68e53261f54d663a315c58d20c68de7be5",
-    "posts/29-visma/index.md": "904b1c65d79f4fff29d8cdac71684b497b798e41c7300d1e3eec945e751259db",
-    "posts/30-toys-r-us/index.md": "4daacba996c33e4ed8506d5d912e989fdc8e425b67ff9ab82e62a496d5e19160",
-    "posts/31-teamsystem/index.md": "352afc6d14e3db0818a2521c300714c4208358f8d85a597e46d313517fb8da4e",
-    "posts/32-success-for-whom/index.md": "d14c0bbad6c657263cf522f1d34003ad410d8445ee72e50668a42a658d18802c",
-    "posts/grounded-architecture-portfolio/index.md": "435168d4a58969ad1bc573c09402f7ad5558b96703d75665247af789b8fc21f2",
-    "posts/data-foundations-for-alignment/index.md": "ea9cccd1dace31e906d71721854884fc0975466c317866f22460bd5c3298d6c6",
-    "posts/toolkit/index.md": "137e9ab71b9b3345f5dd3fe73ba48329eff7f4e0eb56735598559e5977a70c12",
-    "posts/fund-economics/index.md": "6dab108e81474fcfcbaea705515d127e44cc07ac23d85026cfd886e85756533d",
-    "posts/glossary/index.md": "c4115f020b7f05764b6efe3c4e475f7957b26e0b4c95f0594378742970f87c6e",
-    "posts/bibliography/index.md": "a6ef5a20a4d6cd1a7a910e920bb7b4935886e9db08a8823ef2c1028eaa6a5de0"
+    "config.yaml": "94e54c99f00c1a9bb9b46bec2f68a02bd24c32a078938010fefeadef6d4f2863",
+    "posts/introduction/index.md": "3e3e97b34411a0c4de39c2574e58db486c4bea1db6e437647e4cc231142ab9b7",
+    "posts/part-1-intro/index.md": "0a042fb8cb38a6ea82042d9535e70d54557157e30df4f4a27764d0d82c947738",
+    "posts/00-customers-lenders-investors/index.md": "f9fea6d08fc184cf5a3433d9fd345c720829c120658d5a1d9a6571948a7739b4",
+    "posts/01-announcement-is-not-a-budget/index.md": "d6bffb313cb4f6433a130b7e5af4eaa15eed436d31f07d7adcb36dd23a3d340f",
+    "posts/02-valuation-is-an-estimate/index.md": "d8e1567ef0bff01575421fbc65955855fcbe927b2063748bd6b4c1a208e4e07e",
+    "posts/03-three-different-returns/index.md": "717955b9bdbafb7211ca1925350f9f719a17c9fd0f6b9350483e36a2230bd0e6",
+    "posts/04-raise-what-you-need/index.md": "47b13c16e8b8adaea034a3a5a74b4b3468c95032d4c515a5bd2b9379b9db3c6d",
+    "posts/05-obligations-before-budget/index.md": "b82ba70830cc95559e4d18d2a0d54712e650ec81561b7aaa725d98dc62d0cf85",
+    "posts/part-2-intro/index.md": "1b1ad579bc90385a9faa58e40742780fb2b8a7f69ab86360b4043d105ce09331",
+    "posts/06-decide-who-decides/index.md": "35fc8035819e2171e89486b976de5f91c2fc7868b94e16c474817caa769433b3",
+    "posts/07-different-bets/index.md": "c62cb5ca5ede67a0477fb6eecb0da6238ef0adc0ad7d86d39e215b61bd3cada5",
+    "posts/08-investor-under-pressure/index.md": "0e7cb4d0a520ed930c2d5b685051a3cbada1bc328f154f9b62ccb28ea8f4d3e7",
+    "posts/part-3-intro/index.md": "fbd42eefe5f9f7376b6825815d1eb40084174d642a71aef986747d6139c40a6d",
+    "posts/09-operating-model-blueprints/index.md": "c49d9f3d4f0a210ad88cb0b1e81ab19a44fe314f03b113e7580cd75caf78bc4e",
+    "posts/10-learn-through-investors-network/index.md": "768730be0b995a67ed2173586da41e84e3c0df50367c11477f37506ae914b1f3",
+    "posts/11-help-that-changes-capability/index.md": "0c469a108914b3d0c44cbe5d8b15eb25ac3453939ecb7cdc1e30ec04b9d647f2",
+    "posts/12-useful-engagement/index.md": "eaa785fa623f97029ffab0eb288f109ae2833fadf1ea38a4db425248cc567bf0",
+    "posts/13-investors-adviser/index.md": "1be4768b1c37537349e9f831b597fa3ea87c3a623b217d8ef85f423805f63ea3",
+    "posts/14-tech-operating-partner/index.md": "bd11865ebac08c6126803ff79c743bdd3fdbe575a637b5a3eb4c4662d5a647e4",
+    "posts/part-4-intro/index.md": "8c3964cc88655271841cfa198b8761860ba34e56bdea067836151eb7a964a529",
+    "posts/15-adopt-outcome-thinking/index.md": "894d97a3b179aa08f5fd05abebadb85c9e2ca386e50f8a35c187f00d549265b2",
+    "posts/16-have-your-numbers-ready/index.md": "ac6e8b6ad26649d3ae5391db28840bb5dc6c971bf57206efba7bd2f1ab52b6f2",
+    "posts/17-cannot-fund-everything/index.md": "6bb3d2d4087f798f327e3b5f50f236326656a53a9c73e884a0dea85008990a97",
+    "posts/18-roadmap-to-revenue/index.md": "d2fc065c7bbb472d2e9621b910dc1f639306cbd99a673fbc1d4f19036c26e34c",
+    "posts/19-ai-strategy-three-questions/index.md": "c2bedb0583b6c46c02e668879fcf3cc8c5dcd670c5390c7bf20373b61bdb0462",
+    "posts/20-can-the-team-deliver/index.md": "3920e8105ff6bff32af04f4362c3b181c5bc3a7d79cdc67a7a3200050c6e1719",
+    "posts/21-the-financing-slipped/index.md": "f3fd4a35a233a802a81e177ef8aff05f5f25980c163dc3c22b6d79cf2dd0b1c3",
+    "posts/part-5-intro/index.md": "be16145ec7181d6553f03904ba29b454c097ad346ea284f733a7d7e6548383d1",
+    "posts/22-fix-decisions-before-hiring/index.md": "fafcc78f0c646d8c32bd955b9218fb0a4d1cc22b3c0598a39d4ad16867922fd6",
+    "posts/23-anatomy-of-a-layoff/index.md": "f3e0de674a543ad63fc0a29065aee70f7a3ca73dc0be9fb58e36a7de810487dd",
+    "posts/24-scale-the-team-with-ai/index.md": "142910bcd1a1cb9d14cf8f8f301397946961f9c689410dc2f4311692a7363f3e",
+    "posts/25-growth-into-design/index.md": "d56dd81d6f3007e1667ec5c13d79ad1d1aa5deabc18efd8d358db9e9f1fb2e50",
+    "posts/26-acquisition-adds-work-first/index.md": "b0f4df3ac7d403d754c3cd6bed888d2047c8d5a9b073301b6d21938767322356",
+    "posts/part-6-intro/index.md": "6dc04af01663433b7d0f84911d248adfcb9889674cc57793b650841f6b46ea0a",
+    "posts/27-manage-technical-debt/index.md": "fa8f1218db797404937ad66c83653448258d3d5538a460ff17350ec215fb8b62",
+    "posts/28-prove-you-can-restore/index.md": "82b07c4f87ef096c39666a7d2713b512037006b54fd42328766568c04489e5f1",
+    "posts/29-cheaper-cloud-bill/index.md": "8d0a9ee27e8eebb657aa51532743210e5a20fdb68248b687b7622aec4449af65",
+    "posts/30-ai-worth-its-cost/index.md": "39abcb4b4752ff55ab61fe2924e49db8d69e38bb269b7986f24deec18df9ca3a",
+    "posts/part-7-intro/index.md": "988a8e269c57d218e8f7c090f517d73f3526b3c887191d63b974210c41930606",
+    "posts/31-diligence-corrects-the-plan/index.md": "e742b77dd67cc9d009bc66184605f68feb589527d5502dbf5dbf0a2e4e61826d",
+    "posts/32-first-hundred-days/index.md": "63cef168b113104e7a5a56edda581c137ca98a77e36895b7b7539433204f7280",
+    "posts/33-handover-of-obligations/index.md": "1f0b3654c7568e844148dde3e482522d5b6488688b6077b9e1f5e8ee3295def3",
+    "posts/part-8-intro/index.md": "8abcb1845938653c4dd52bc637bda480fa27300b54b6b3e4388ff8c994d733ec",
+    "posts/34-hilton-and-skype/index.md": "a6053e83a84b52fd01379d809e9c259bda45c3bb18c23d700bd3b4228ebc274e",
+    "posts/35-visma/index.md": "07fc86c6eb523974ce04dcf01a544c6c1c6ec0922e43406d1900e9603af47602",
+    "posts/36-toys-r-us/index.md": "e13c586cda617473308c4d0e26e3e097853bb001d18b7f1d59a576608a0940f8",
+    "posts/37-teamsystem/index.md": "ea9b76626880e4492182bc56bb660e50071db1863134c34e908767b35fba6eac",
+    "posts/38-success-for-whom/index.md": "e5e9cba2ba363f19c4736c723d6d8dbf05070e14d8a407683b3ed3f837864746",
+    "posts/grounded-architecture-portfolio/index.md": "b37501ed9b834bd21815982f569529097467b8f711199004fc5f39cb905f946b",
+    "posts/toolkit/index.md": "d79a0a8d71ff417c56b42f8b0266def68b0d8b8567f57d4e2ef586ab18e0874c",
+    "posts/fund-economics/index.md": "e98d2957a660e8e0b50153b89a0a2224100c7c084a3d57901a1ab72b2542d278",
+    "posts/glossary/index.md": "aec91cff41c5ec007d0ebf16e8627dc11b6ff41a246f08bfa59204f1bb7f5830",
+    "posts/bibliography/index.md": "e3144c5ffba54928a47864eda7b4d6cfb4f33dc39efd30ae9ec74427e636f499"
   },
   "articles": [
     {
@@ -153,200 +159,249 @@
       "source": "posts/part-3-intro/index.md",
       "file": "part-3.md",
       "id": "part-3",
-      "title": "COMMIT: Turn Expectations Into Work You Can Deliver",
-      "kind": "part"
-    },
-    {
-      "source": "posts/09-cannot-fund-everything/index.md",
-      "file": "cannot-fund-everything.md",
-      "id": "cannot-fund-everything",
-      "title": "Set Priorities: You Cannot Fund Everything at Once",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/10-roadmap-to-revenue/index.md",
-      "file": "roadmap-to-revenue.md",
-      "id": "roadmap-to-revenue",
-      "title": "Test Revenue Assumptions: Do Customers Respond as Expected?",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/11-can-the-team-deliver/index.md",
-      "file": "can-the-team-deliver.md",
-      "id": "can-the-team-deliver",
-      "title": "Assess Capability: Can the Team Deliver?",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/12-fix-decisions-before-hiring/index.md",
-      "file": "fix-decisions-before-hiring.md",
-      "id": "fix-decisions-before-hiring",
-      "title": "Trace the Work: Headcount Is Not Capacity",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/13-growth-into-design/index.md",
-      "file": "growth-into-design.md",
-      "id": "growth-into-design",
-      "title": "Plan for Growth: Decide What (Not) to Change in Your Systems",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/14-cheaper-cloud-bill/index.md",
-      "file": "cheaper-cloud-bill.md",
-      "id": "cheaper-cloud-bill",
-      "title": "Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/15-prove-you-can-restore/index.md",
-      "file": "prove-you-can-restore.md",
-      "id": "prove-you-can-restore",
-      "title": "Build And Test Resilience: Backups Are Not Enough",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/16-ai-strategy-three-questions/index.md",
-      "file": "ai-strategy-three-questions.md",
-      "id": "ai-strategy-three-questions",
-      "title": "Clarify AI Strategy: Three Different Investment Questions",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/17-acquisition-adds-work-first/index.md",
-      "file": "acquisition-adds-work-first.md",
-      "id": "acquisition-adds-work-first",
-      "title": "Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/part-4-intro/index.md",
-      "file": "part-4.md",
-      "id": "part-4",
       "title": "COLLABORATE: Get Useful Help From Your Investor",
       "kind": "part"
     },
     {
-      "source": "posts/18-operating-model-blueprints/index.md",
+      "source": "posts/09-operating-model-blueprints/index.md",
       "file": "operating-model-blueprints.md",
       "id": "operating-model-blueprints",
       "title": "Plan Investor Support: Match the Help to Company Priorities",
       "kind": "chapter"
     },
     {
-      "source": "posts/18a-learn-through-investors-network/index.md",
+      "source": "posts/10-learn-through-investors-network/index.md",
       "file": "learn-through-investors-network.md",
       "id": "learn-through-investors-network",
       "title": "Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives",
       "kind": "chapter"
     },
     {
-      "source": "posts/19-help-that-changes-capability/index.md",
+      "source": "posts/11-help-that-changes-capability/index.md",
       "file": "help-that-changes-capability.md",
       "id": "help-that-changes-capability",
       "title": "Choose the Right Help: Compare Investor Support With Other Options",
       "kind": "chapter"
     },
     {
-      "source": "posts/20-useful-engagement/index.md",
+      "source": "posts/12-useful-engagement/index.md",
       "file": "useful-engagement.md",
       "id": "useful-engagement",
       "title": "Set the Terms of Help: Agree the Work, Authority and Handover",
       "kind": "chapter"
     },
     {
-      "source": "posts/21-investors-adviser/index.md",
+      "source": "posts/13-investors-adviser/index.md",
       "file": "investors-adviser.md",
       "id": "investors-adviser",
       "title": "Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?",
       "kind": "chapter"
     },
     {
-      "source": "posts/22-tech-operating-partner/index.md",
+      "source": "posts/14-tech-operating-partner/index.md",
       "file": "tech-operating-partner.md",
       "id": "tech-operating-partner",
       "title": "Understand Technology Operating Partners: How They Work With Your Team",
       "kind": "chapter"
     },
     {
-      "source": "posts/part-5-intro/index.md",
-      "file": "part-5.md",
-      "id": "part-5",
-      "title": "LEAD: Manage Funding and Ownership Changes",
+      "source": "posts/part-4-intro/index.md",
+      "file": "part-4.md",
+      "id": "part-4",
+      "title": "COMMIT: Turn Expectations Into Work You Can Deliver",
       "kind": "part"
     },
     {
-      "source": "posts/23-diligence-corrects-the-plan/index.md",
-      "file": "diligence-corrects-the-plan.md",
-      "id": "diligence-corrects-the-plan",
-      "title": "Use Diligence: Correct the Plan Before It Is Signed",
+      "source": "posts/15-adopt-outcome-thinking/index.md",
+      "file": "adopt-outcome-thinking.md",
+      "id": "adopt-outcome-thinking",
+      "title": "Adopt Outcome Thinking: Balance Customer and Business KPIs",
       "kind": "chapter"
     },
     {
-      "source": "posts/24-first-hundred-days/index.md",
-      "file": "first-hundred-days.md",
-      "id": "first-hundred-days",
-      "title": "Plan the First Hundred Days: Turn Expectations Into Funded Work",
+      "source": "posts/16-have-your-numbers-ready/index.md",
+      "file": "have-your-numbers-ready.md",
+      "id": "have-your-numbers-ready",
+      "title": "Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards",
       "kind": "chapter"
     },
     {
-      "source": "posts/25-the-financing-slipped/index.md",
+      "source": "posts/17-cannot-fund-everything/index.md",
+      "file": "cannot-fund-everything.md",
+      "id": "cannot-fund-everything",
+      "title": "Set Priorities: You Cannot Fund Everything at Once",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/18-roadmap-to-revenue/index.md",
+      "file": "roadmap-to-revenue.md",
+      "id": "roadmap-to-revenue",
+      "title": "Test Revenue Assumptions: Do Customers Respond as Expected?",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/19-ai-strategy-three-questions/index.md",
+      "file": "ai-strategy-three-questions.md",
+      "id": "ai-strategy-three-questions",
+      "title": "Clarify AI Strategy: Three Different Investment Questions",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/20-can-the-team-deliver/index.md",
+      "file": "can-the-team-deliver.md",
+      "id": "can-the-team-deliver",
+      "title": "Assess Capability: Can the Team Deliver?",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/21-the-financing-slipped/index.md",
       "file": "the-financing-slipped.md",
       "id": "the-financing-slipped",
       "title": "Manage Funding Delays: Revise the Cash Plan and Commitments",
       "kind": "chapter"
     },
     {
-      "source": "posts/26-anatomy-of-a-layoff/index.md",
-      "file": "anatomy-of-a-layoff.md",
-      "id": "anatomy-of-a-layoff",
-      "title": "Plan Layoffs: Decide What Work Stops, Not Just Who Leaves",
+      "source": "posts/part-5-intro/index.md",
+      "file": "part-5.md",
+      "id": "part-5",
+      "title": "SCALE: Change the Team, the Systems and the Company Deliberately",
+      "kind": "part"
+    },
+    {
+      "source": "posts/22-fix-decisions-before-hiring/index.md",
+      "file": "fix-decisions-before-hiring.md",
+      "id": "fix-decisions-before-hiring",
+      "title": "Scale the Team Up: Headcount Is Not Capacity",
       "kind": "chapter"
     },
     {
-      "source": "posts/27-handover-of-obligations/index.md",
-      "file": "handover-of-obligations.md",
-      "id": "handover-of-obligations",
-      "title": "Manage the Handover: Carry Forward the Evidence and Obligations",
+      "source": "posts/23-anatomy-of-a-layoff/index.md",
+      "file": "anatomy-of-a-layoff.md",
+      "id": "anatomy-of-a-layoff",
+      "title": "Scale the Team Down: Decide What Work Stops, Not Just Who Leaves",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/24-scale-the-team-with-ai/index.md",
+      "file": "scale-the-team-with-ai.md",
+      "id": "scale-the-team-with-ai",
+      "title": "Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/25-growth-into-design/index.md",
+      "file": "growth-into-design.md",
+      "id": "growth-into-design",
+      "title": "Plan for Growth: Decide What (Not) to Change in Your Systems",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/26-acquisition-adds-work-first/index.md",
+      "file": "acquisition-adds-work-first.md",
+      "id": "acquisition-adds-work-first",
+      "title": "Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value",
       "kind": "chapter"
     },
     {
       "source": "posts/part-6-intro/index.md",
       "file": "part-6.md",
       "id": "part-6",
+      "title": "SUSTAIN: Keep the Technology You Run Worth Its Cost",
+      "kind": "part"
+    },
+    {
+      "source": "posts/27-manage-technical-debt/index.md",
+      "file": "manage-technical-debt.md",
+      "id": "manage-technical-debt",
+      "title": "Manage Technical Debt: Fund the Fix by the Cost, the Risk and the Speed It Buys",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/28-prove-you-can-restore/index.md",
+      "file": "prove-you-can-restore.md",
+      "id": "prove-you-can-restore",
+      "title": "Build And Test Resilience: Backups Are Not Enough",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/29-cheaper-cloud-bill/index.md",
+      "file": "cheaper-cloud-bill.md",
+      "id": "cheaper-cloud-bill",
+      "title": "Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/30-ai-worth-its-cost/index.md",
+      "file": "ai-worth-its-cost.md",
+      "id": "ai-worth-its-cost",
+      "title": "Critically Evaluate AI Costs: Measure the Return per Task and per Period",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/part-7-intro/index.md",
+      "file": "part-7.md",
+      "id": "part-7",
+      "title": "LEAD: Manage Funding and Ownership Changes",
+      "kind": "part"
+    },
+    {
+      "source": "posts/31-diligence-corrects-the-plan/index.md",
+      "file": "diligence-corrects-the-plan.md",
+      "id": "diligence-corrects-the-plan",
+      "title": "Use Diligence: Correct the Plan Before It Is Signed",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/32-first-hundred-days/index.md",
+      "file": "first-hundred-days.md",
+      "id": "first-hundred-days",
+      "title": "Plan the First Hundred Days: Turn Expectations Into Funded Work",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/33-handover-of-obligations/index.md",
+      "file": "handover-of-obligations.md",
+      "id": "handover-of-obligations",
+      "title": "Manage the Handover: Carry Forward the Evidence and Obligations",
+      "kind": "chapter"
+    },
+    {
+      "source": "posts/part-8-intro/index.md",
+      "file": "part-8.md",
+      "id": "part-8",
       "title": "LEARN: Lessons From the Field",
       "kind": "part"
     },
     {
-      "source": "posts/28-hilton-and-skype/index.md",
+      "source": "posts/34-hilton-and-skype/index.md",
       "file": "hilton-and-skype.md",
       "id": "hilton-and-skype",
       "title": "Hilton and Skype: A Successful Exit Still Needs Explaining",
       "kind": "chapter"
     },
     {
-      "source": "posts/29-visma/index.md",
+      "source": "posts/35-visma/index.md",
       "file": "visma.md",
       "id": "visma",
       "title": "Visma: Continuity of Manager Is Not Continuity of Money",
       "kind": "chapter"
     },
     {
-      "source": "posts/30-toys-r-us/index.md",
+      "source": "posts/36-toys-r-us/index.md",
       "file": "toys-r-us.md",
       "id": "toys-r-us",
       "title": "Toys R Us: Positive Operating Earnings, Too Little Cash",
       "kind": "chapter"
     },
     {
-      "source": "posts/31-teamsystem/index.md",
+      "source": "posts/37-teamsystem/index.md",
       "file": "teamsystem.md",
       "id": "teamsystem",
       "title": "TeamSystem: Each New Owner Inherits Progress and Unfinished Work",
       "kind": "chapter"
     },
     {
-      "source": "posts/32-success-for-whom/index.md",
+      "source": "posts/38-success-for-whom/index.md",
       "file": "success-for-whom.md",
       "id": "success-for-whom",
       "title": "Success for Whom, and for How Long?",
@@ -357,13 +412,6 @@
       "file": "grounded-architecture-portfolio.md",
       "id": "grounded-architecture-portfolio",
       "title": "Appendix: Grounded Architecture Across an Investment Portfolio",
-      "kind": "chapter"
-    },
-    {
-      "source": "posts/data-foundations-for-alignment/index.md",
-      "file": "data-foundations-for-alignment.md",
-      "id": "data-foundations-for-alignment",
-      "title": "Appendix: Data Foundations for Alignment With Investors",
       "kind": "chapter"
     },
     {
@@ -410,38 +458,44 @@
     "different-bets.md",
     "investor-under-pressure.md",
     "part-3.md",
-    "cannot-fund-everything.md",
-    "roadmap-to-revenue.md",
-    "can-the-team-deliver.md",
-    "fix-decisions-before-hiring.md",
-    "growth-into-design.md",
-    "cheaper-cloud-bill.md",
-    "prove-you-can-restore.md",
-    "ai-strategy-three-questions.md",
-    "acquisition-adds-work-first.md",
-    "part-4.md",
     "operating-model-blueprints.md",
     "learn-through-investors-network.md",
     "help-that-changes-capability.md",
     "useful-engagement.md",
     "investors-adviser.md",
     "tech-operating-partner.md",
+    "part-4.md",
+    "adopt-outcome-thinking.md",
+    "have-your-numbers-ready.md",
+    "cannot-fund-everything.md",
+    "roadmap-to-revenue.md",
+    "ai-strategy-three-questions.md",
+    "can-the-team-deliver.md",
+    "the-financing-slipped.md",
     "part-5.md",
+    "fix-decisions-before-hiring.md",
+    "anatomy-of-a-layoff.md",
+    "scale-the-team-with-ai.md",
+    "growth-into-design.md",
+    "acquisition-adds-work-first.md",
+    "part-6.md",
+    "manage-technical-debt.md",
+    "prove-you-can-restore.md",
+    "cheaper-cloud-bill.md",
+    "ai-worth-its-cost.md",
+    "part-7.md",
     "diligence-corrects-the-plan.md",
     "first-hundred-days.md",
-    "the-financing-slipped.md",
-    "anatomy-of-a-layoff.md",
     "handover-of-obligations.md",
-    "part-6.md",
+    "part-8.md",
     "hilton-and-skype.md",
     "visma.md",
     "toys-r-us.md",
     "teamsystem.md",
     "success-for-whom.md",
-    "section-08.md",
+    "section-10.md",
     "grounded-architecture-portfolio.md",
-    "data-foundations-for-alignment.md",
-    "section-09.md",
+    "section-11.md",
     "toolkit.md",
     "fund-economics.md",
     "glossary.md",
@@ -469,12 +523,12 @@
       "sha256": "4e5b85a8b81bfa4496a85162562bc3eb121147bedb7901b937eba41b36c813e4",
       "bytes": 247729
     },
-    "private-techuity/posts/introduction/assets/images/introduction/owned-six-part-framework.jpeg": {
-      "source": "posts/introduction/assets/images/introduction/owned-six-part-framework.jpeg",
-      "source_sha256": "916727b6492bd1a2ad1d75132975d242027f16d6b78d5ec4da110120c298811d",
-      "source_bytes": 437897,
-      "sha256": "a8f9e430f014dabb3f8acacbd506df04d3aafc297bf36f2c729eab0539503c64",
-      "bytes": 415651
+    "private-techuity/posts/introduction/assets/images/introduction/owned-eight-part-framework.jpeg": {
+      "source": "posts/introduction/assets/images/introduction/owned-eight-part-framework.jpeg",
+      "source_sha256": "02fd2c09cdd30c3158d46cf7fc7189822dbc8197d046854eecac3add4ccf46c2",
+      "source_bytes": 678713,
+      "sha256": "135466a2a3e101cf4c95b718231a657420defd17d01112ab90bc6954617e2044",
+      "bytes": 274662
     },
     "private-techuity/posts/part-1-intro/assets/images/part-1-intro/logo.jpeg": {
       "source": "posts/part-1-intro/assets/images/part-1-intro/logo.jpeg",
@@ -602,6 +656,13 @@
       "sha256": "eebb9f7174f4d0e01c20492396c3d3d0247afc52f9c1e926218497af0ecb27c6",
       "bytes": 133855
     },
+    "private-techuity/posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/ebitda-capex-working-capital.jpeg": {
+      "source": "posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/ebitda-capex-working-capital.jpeg",
+      "source_sha256": "161890604fa15aedbe080a0e76ec3ea97fa2e7470dd416b28eaac1694e09cd9a",
+      "source_bytes": 534760,
+      "sha256": "bcdcbb93df011d84649662952992e2a469bcf96b191c7decc7f041c61aab0cf2",
+      "bytes": 217459
+    },
     "private-techuity/posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/earnings-to-dated-cash-plan.jpeg": {
       "source": "posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/earnings-to-dated-cash-plan.jpeg",
       "source_sha256": "3f8a1684584e6369eeba97716f3dbd6a788cd92b92d1a5e60a4c36a93ce3e224",
@@ -625,10 +686,10 @@
     },
     "private-techuity/posts/part-2-intro/assets/images/part-2-intro/chapter-overview.jpeg": {
       "source": "posts/part-2-intro/assets/images/part-2-intro/chapter-overview.jpeg",
-      "source_sha256": "158d19ae23a7c30d95460347313cbab29a9ce8511b7c48fa15a532e941f61b37",
-      "source_bytes": 658684,
-      "sha256": "804f0b31d806d8a1c36601de58fa3dfb937a6fad7b7d8fe68750797cb78acaa6",
-      "bytes": 262176
+      "source_sha256": "55bc3c76744287cb6cfdac9b2dbd4a544b6c9be9856f46cd8e6a7265fc8d64b4",
+      "source_bytes": 654512,
+      "sha256": "07d16eb0fd9f193b0c477293e12df08fc024baa64361a639ca55d954f658cdf9",
+      "bytes": 255323
     },
     "private-techuity/posts/06-decide-who-decides/assets/images/06-decide-who-decides/logo.jpeg": {
       "source": "posts/06-decide-who-decides/assets/images/06-decide-who-decides/logo.jpeg",
@@ -695,615 +756,825 @@
     },
     "private-techuity/posts/part-3-intro/assets/images/part-3-intro/logo.jpeg": {
       "source": "posts/part-3-intro/assets/images/part-3-intro/logo.jpeg",
-      "source_sha256": "45b770b52e92403e1e267629a5589afba9d40ab42ef6b8d852cd785ed315ebbe",
-      "source_bytes": 364146,
-      "sha256": "424a74c7e64f68d9e02d3a4a13a072d07c914ebe4a5076e865416fb24c5fc6e8",
-      "bytes": 111229
-    },
-    "private-techuity/posts/part-3-intro/assets/images/part-3-intro/chapter-overview.jpeg": {
-      "source": "posts/part-3-intro/assets/images/part-3-intro/chapter-overview.jpeg",
-      "source_sha256": "03979a4da0cee19959d13433c876f98a7cdcd1bc60db01bfe3d270b24fc8d59a",
-      "source_bytes": 759010,
-      "sha256": "7ab307fdea2de635da98d1800ff03fc9c10bf77358c736b0ab7b5b00c3c15582",
-      "bytes": 314253
-    },
-    "private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/logo.jpeg": {
-      "source": "posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/logo.jpeg",
-      "source_sha256": "6beade02a51ed57f7ea82ba5786d340feab9c4799196e88bce4a8214c9bc732b",
-      "source_bytes": 499356,
-      "sha256": "abb90108784023155a834cdf034b2910f269c474cffdd9e5565459f59567d60a",
-      "bytes": 178839
-    },
-    "private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/money-and-capacity-two-limits.jpeg": {
-      "source": "posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/money-and-capacity-two-limits.jpeg",
-      "source_sha256": "aae6d62a4539d8dab60506f1e7c82de44ba7e36e41ea01ea2217035b91cb265c",
-      "source_bytes": 532977,
-      "sha256": "3066bb5f6e2629e4463abf5600fd0d7cfaa8bf110f02019d0726ec08ae67d93c",
-      "bytes": 213727
-    },
-    "private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/staged-investment-with-review.jpeg": {
-      "source": "posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/staged-investment-with-review.jpeg",
-      "source_sha256": "1f51a006853edfdb5ae6a31f9b1776054202664c1215a1545788662b8cab3a8b",
-      "source_bytes": 664987,
-      "sha256": "3bacbb4477ba8ac9607b886f15853cf2db4b711e5f2105af52846442c2d1747d",
-      "bytes": 244880
-    },
-    "private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/logo.jpeg": {
-      "source": "posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/logo.jpeg",
-      "source_sha256": "e3e6b924672ba358dde7abd2ba019fbb1870329c6d34b4d936e683891fcdc729",
-      "source_bytes": 414517,
-      "sha256": "2e353115c3aa27df37d1fa60659ce043e5aea37456546c2a71c3edb959d0b9e3",
-      "bytes": 136913
-    },
-    "private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/freed-time-conversion-plan.jpeg": {
-      "source": "posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/freed-time-conversion-plan.jpeg",
-      "source_sha256": "c77247cf3e4e524629768a7298f134547147e5477c87e9782b7e4f4abc2521b3",
-      "source_bytes": 590827,
-      "sha256": "80ae3e1cc7c3639c71368d3655e48f1e1021ec8368733b456a86b1b770c0df7c",
-      "bytes": 261009
-    },
-    "private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/check-what-explains-the-result.jpeg": {
-      "source": "posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/check-what-explains-the-result.jpeg",
-      "source_sha256": "c4e71580cfecb4f9d22020b6c83c2fbab4d8f105156cdc9860fc618ba78900e0",
-      "source_bytes": 551420,
-      "sha256": "ce71a81782adf4435a84df385434f07989262f3a2ba981dbf9533b392572f44d",
-      "bytes": 218983
-    },
-    "private-techuity/posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/logo.jpeg": {
-      "source": "posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/logo.jpeg",
-      "source_sha256": "b8b5981a1b050d241f4109e26c31e0ba2158592cf0a24b88835861be19941b66",
-      "source_bytes": 405696,
-      "sha256": "c58f42222e0b6607623a4a9aef379b29bf50f74cdb09fc5312333abf55d6988a",
-      "bytes": 113503
-    },
-    "private-techuity/posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/business-need-to-system-choice.jpeg": {
-      "source": "posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/business-need-to-system-choice.jpeg",
-      "source_sha256": "24295bd41567cab4ad64d65ed43d55cd4afa34c46ae112a47b809d2c2b1faaf4",
-      "source_bytes": 441317,
-      "sha256": "ba0dedcd9a1d90d8798be6c170280c3a1b3ecc225b3d3f2877b23129d0baf5b7",
-      "bytes": 166579
-    },
-    "private-techuity/posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/fund-the-system-overlap.jpeg": {
-      "source": "posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/fund-the-system-overlap.jpeg",
-      "source_sha256": "9f96dea1432b00ab118fcf745edb27b59789ae38cdaf03b9dd23151679c05fac",
-      "source_bytes": 556653,
-      "sha256": "d285c73847012e886427dc048a8f4d99b8a1f66c778d0fa7c80cc8dc79bab85d",
-      "bytes": 232328
-    },
-    "private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/logo.jpeg": {
-      "source": "posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/logo.jpeg",
-      "source_sha256": "ee050483c17273037916f56e4f18b14402751a3bc54509a3965981a7cfa4d277",
-      "source_bytes": 524159,
-      "sha256": "e9fd0f503b4de7738af018beae853fc45fac185ae2d72d9478a4607821190ec6",
-      "bytes": 196713
-    },
-    "private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/work-crosses-team-boundaries.jpeg": {
-      "source": "posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/work-crosses-team-boundaries.jpeg",
-      "source_sha256": "81e811f3648c98a883097572119b1dde927867d17e91afcb9bf288c9170ae0eb",
-      "source_bytes": 660940,
-      "sha256": "08b2e142e0461d360b7f6448719b7c4d6529f49a9740f93e6294f4883adc2c31",
-      "bytes": 301252
-    },
-    "private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg": {
-      "source": "posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg",
-      "source_sha256": "c30716def839e5fb65ceaf7321c2fde1a0617750bbcdf2c52a894d77f125a414",
-      "source_bytes": 674615,
-      "sha256": "aa3d61a9c2df341e9034df41e3d0607407c4f7344b072bccebc8b028cbd75f69",
-      "bytes": 306134
-    },
-    "private-techuity/posts/13-growth-into-design/assets/images/13-growth-into-design/logo.jpeg": {
-      "source": "posts/13-growth-into-design/assets/images/13-growth-into-design/logo.jpeg",
-      "source_sha256": "d2e3c708e6d90849483eb0a1c20a1d542cc5affb6988e3af94143827a9e7a45d",
-      "source_bytes": 635286,
-      "sha256": "4613db5970aefc21641e43c95b8d01f2031773ef2c10840e43f96a3797ff8e38",
-      "bytes": 216274
-    },
-    "private-techuity/posts/13-growth-into-design/assets/images/13-growth-into-design/business-priorities-design-tradeoffs.jpeg": {
-      "source": "posts/13-growth-into-design/assets/images/13-growth-into-design/business-priorities-design-tradeoffs.jpeg",
-      "source_sha256": "307d8ff7c083d9dd6b345b7db96253083ad74870282b51378906fc8619dba90c",
-      "source_bytes": 559203,
-      "sha256": "41c41cbe84971cd64d9cabb6b23be803cebf3920917225dcb6c396aa48616166",
-      "bytes": 234240
-    },
-    "private-techuity/posts/13-growth-into-design/assets/images/13-growth-into-design/cash-before-benefits.jpeg": {
-      "source": "posts/13-growth-into-design/assets/images/13-growth-into-design/cash-before-benefits.jpeg",
-      "source_sha256": "28df9ee7ada4bde4f4c08f9e4e2d6d886b098cd75689055532c113d5f511c147",
-      "source_bytes": 449343,
-      "sha256": "141ab3d1b23492e24adc473021851d03f90491b4b7df299734fa914e2a1a0abc",
-      "bytes": 172322
-    },
-    "private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/logo.jpeg": {
-      "source": "posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/logo.jpeg",
-      "source_sha256": "c5f5812416fda9d2bfaaed072ad2a984f8cf7577190ae0e263905c4c2ce16f7a",
-      "source_bytes": 370062,
-      "sha256": "22c227abb65096920b396b06588e4ef94aab15dd0749e1c93cf2db712ac4e7a6",
-      "bytes": 113908
-    },
-    "private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg": {
-      "source": "posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg",
-      "source_sha256": "83d27227420d1a6460f9e5ad6466725152209d6a47cfdae4a4dc5eaf58b518d9",
-      "source_bytes": 622418,
-      "sha256": "1d6193001f96362b4887cd9d2a3d796342375ba2f68073b1320b67e5661e669a",
-      "bytes": 278304
-    },
-    "private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/fixed-commitment-changing-demand.jpeg": {
-      "source": "posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/fixed-commitment-changing-demand.jpeg",
-      "source_sha256": "acad95f4059195019bdd0da93bc16aad58796968b406f5174fd0c28b159a3603",
-      "source_bytes": 423647,
-      "sha256": "48a09e67e3820cafea3374290357e861a7f8ea570f8802897c34fc110d882ec9",
-      "bytes": 131280
-    },
-    "private-techuity/posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/logo.jpeg": {
-      "source": "posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/logo.jpeg",
-      "source_sha256": "592809837bfdfdc5261a0b7a2dd299599d15227024a81ed8605287ba75fa01de",
-      "source_bytes": 481210,
-      "sha256": "f0ae2f49dd0e0798058b093b9c194c0e3e5bd15ed7cdc54d73ae64c80264f119",
-      "bytes": 173430
-    },
-    "private-techuity/posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/security-claims-and-proof.jpeg": {
-      "source": "posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/security-claims-and-proof.jpeg",
-      "source_sha256": "73ca2414ffaace4f4a4ed4911eaa8c8d196818ef46480e5ccba3e1c26f6360b5",
-      "source_bytes": 465140,
-      "sha256": "7147bc1fb7bc3d9189fa60f5410921d0a7ab9ccfd15c10d098c77f5d0a247704",
-      "bytes": 187956
-    },
-    "private-techuity/posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/incident-restoration-practice.jpeg": {
-      "source": "posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/incident-restoration-practice.jpeg",
-      "source_sha256": "3a1da99aea72ff101437070d320d0bf1cf63d39bac3158a4dd5943682563293a",
-      "source_bytes": 685455,
-      "sha256": "e927b7a274bcbc8ccfb346c9da9fa9a597735e7127d68bba195cf4b429974a5f",
-      "bytes": 246433
-    },
-    "private-techuity/posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/logo.jpeg": {
-      "source": "posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/logo.jpeg",
-      "source_sha256": "4947b197947f65f86487451697ca907cd06fde2990958a63cbd38cc5b83f1d50",
-      "source_bytes": 477623,
-      "sha256": "116361695797767436dc45b865f97a2523fadb43fc72186ad4a82e6804c7fcd6",
-      "bytes": 181455
-    },
-    "private-techuity/posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/three-ai-investment-questions.jpeg": {
-      "source": "posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/three-ai-investment-questions.jpeg",
-      "source_sha256": "d3586a45129d26811c17c73aa68be3cb5c3adc9145b4969c3f58e662710f8019",
-      "source_bytes": 539252,
-      "sha256": "6b89c4a95e301b62fb425de2810c9900d7178f8f9e0f2a2a1415823e4a8c4ebc",
-      "bytes": 224819
-    },
-    "private-techuity/posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/measure-the-whole-ai-workflow.jpeg": {
-      "source": "posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/measure-the-whole-ai-workflow.jpeg",
-      "source_sha256": "b01c5213a7845fc7fbe13cf2bbd7f57373ad36d1503c1332fbe653a908d6deaf",
-      "source_bytes": 561074,
-      "sha256": "b801e2de4642fe5098bb04330735213c5c5db4ed863ca162e8a65b24f1bcc607",
-      "bytes": 232280
-    },
-    "private-techuity/posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/logo.jpeg": {
-      "source": "posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/logo.jpeg",
-      "source_sha256": "2e48a361a2621a2d46dd3a417baa2c043f5098c9220bce74a117286fc3a92fe3",
-      "source_bytes": 438735,
-      "sha256": "5cb640e929e0a402dbec9253b5ccbcc195132d7df01be59fe2f9bb44bc12f011",
-      "bytes": 148669
-    },
-    "private-techuity/posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/integration-depth-by-benefit.jpeg": {
-      "source": "posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/integration-depth-by-benefit.jpeg",
-      "source_sha256": "eb950c011867babd18faddf5115c72605cf463d649df5d6e7a1d1011b76aefe5",
-      "source_bytes": 552693,
-      "sha256": "63a2a65f1714c81f9128db54aa47116f64bb28a0135be9ee70e7cad81db3fd8d",
-      "bytes": 227825
-    },
-    "private-techuity/posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/carveout-hidden-dependencies.jpeg": {
-      "source": "posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/carveout-hidden-dependencies.jpeg",
-      "source_sha256": "ebbfc0b48684c5aa5960fdaddec516caa5ba2b2ed4acd8f30964d2da31fe56ac",
-      "source_bytes": 558645,
-      "sha256": "6b289b3547636c22f095fdd0ba212704a8e37f1320173dbcd708ea0e9d1b68ed",
-      "bytes": 226216
-    },
-    "private-techuity/posts/part-4-intro/assets/images/part-4-intro/logo.jpeg": {
-      "source": "posts/part-4-intro/assets/images/part-4-intro/logo.jpeg",
       "source_sha256": "fa6f976fe02f9d9b266b5021ced6ca8c3c7ec651832d9a0e4f670874218070ea",
       "source_bytes": 368991,
       "sha256": "c1c2c013ef6ea9bec4ba3a2afa8072530c0a438c23085071b28d67dc2667bd29",
       "bytes": 112651
     },
-    "private-techuity/posts/part-4-intro/assets/images/part-4-intro/chapter-overview.jpeg": {
-      "source": "posts/part-4-intro/assets/images/part-4-intro/chapter-overview.jpeg",
+    "private-techuity/posts/part-3-intro/assets/images/part-3-intro/chapter-overview.jpeg": {
+      "source": "posts/part-3-intro/assets/images/part-3-intro/chapter-overview.jpeg",
       "source_sha256": "4af6333e16265c3b0dbd7c3a4b1b5f50a34432890d35ac8fcd2c75f07b9c32bd",
       "source_bytes": 730018,
       "sha256": "3e71b2d1db453ed57ece7f8b2c228887b3db4c7e1680d5d518c179dd13817c3e",
       "bytes": 276401
     },
-    "private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/logo.png": {
-      "source": "posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/logo.png",
+    "private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/logo.png": {
+      "source": "posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/logo.png",
       "source_sha256": "aacd520d8ac183d8aeedfc7da4ea9b19b6d43d2242729c4fa718cabb236550f1",
       "source_bytes": 1418199,
       "sha256": "aacd520d8ac183d8aeedfc7da4ea9b19b6d43d2242729c4fa718cabb236550f1",
       "bytes": 1418199
     },
-    "private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/two-connected-operating-models.png": {
-      "source": "posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/two-connected-operating-models.png",
+    "private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/two-connected-operating-models.png": {
+      "source": "posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/two-connected-operating-models.png",
       "source_sha256": "f1c8b082f69844feb15c0ce6116e48f1f44c521593f51d0933c32752588a4aca",
       "source_bytes": 2162353,
       "sha256": "f1c8b082f69844feb15c0ce6116e48f1f44c521593f51d0933c32752588a4aca",
       "bytes": 2162353
     },
-    "private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-1-board-oversight.jpeg": {
-      "source": "posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-1-board-oversight.jpeg",
+    "private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-1-board-oversight.jpeg": {
+      "source": "posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-1-board-oversight.jpeg",
       "source_sha256": "2885975dc4e9783247de06107488addd2a9168898adae0c1d6e305efed1bad4b",
       "source_bytes": 317329,
       "sha256": "2885975dc4e9783247de06107488addd2a9168898adae0c1d6e305efed1bad4b",
       "bytes": 317329
     },
-    "private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-2-operating-adviser.jpeg": {
-      "source": "posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-2-operating-adviser.jpeg",
+    "private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-2-operating-adviser.jpeg": {
+      "source": "posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-2-operating-adviser.jpeg",
       "source_sha256": "3d881aaca6f6657619ae9f1a765fcb5ceba3e2e6bc49a3473dc8277c5df893eb",
       "source_bytes": 309481,
       "sha256": "3d881aaca6f6657619ae9f1a765fcb5ceba3e2e6bc49a3473dc8277c5df893eb",
       "bytes": 309481
     },
-    "private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-3-shared-specialists.jpeg": {
-      "source": "posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-3-shared-specialists.jpeg",
+    "private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-3-shared-specialists.jpeg": {
+      "source": "posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-3-shared-specialists.jpeg",
       "source_sha256": "279a1041fa7014634579017f016536b2e8cb29ae19040b73f78c2689f1fd56b8",
       "source_bytes": 307502,
       "sha256": "279a1041fa7014634579017f016536b2e8cb29ae19040b73f78c2689f1fd56b8",
       "bytes": 307502
     },
-    "private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-4-dedicated-execution.jpeg": {
-      "source": "posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-4-dedicated-execution.jpeg",
+    "private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-4-dedicated-execution.jpeg": {
+      "source": "posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-4-dedicated-execution.jpeg",
       "source_sha256": "2c2fe8de84ccbccf15a14d101efe12a4190799a7b03543c3bca36ca4026564ae",
       "source_bytes": 294746,
       "sha256": "2c2fe8de84ccbccf15a14d101efe12a4190799a7b03543c3bca36ca4026564ae",
       "bytes": 294746
     },
-    "private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/four-needs-four-contributions.png": {
-      "source": "posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/four-needs-four-contributions.png",
+    "private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/four-needs-four-contributions.png": {
+      "source": "posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/four-needs-four-contributions.png",
       "source_sha256": "6aa8c059f867eaaaccfd18bb67f6dcd64856e429946f96e03ebf64790ec95021",
       "source_bytes": 2092490,
       "sha256": "6aa8c059f867eaaaccfd18bb67f6dcd64856e429946f96e03ebf64790ec95021",
       "bytes": 2092490
     },
-    "private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/pilot-review-and-handover.png": {
-      "source": "posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/pilot-review-and-handover.png",
+    "private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/pilot-review-and-handover.png": {
+      "source": "posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/pilot-review-and-handover.png",
       "source_sha256": "614af84b830dbd99ee58719e6ad70a352e8055106415302db3567b086b47f62d",
       "source_bytes": 1555795,
       "sha256": "614af84b830dbd99ee58719e6ad70a352e8055106415302db3567b086b47f62d",
       "bytes": 1555795
     },
-    "private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/logo.jpeg": {
-      "source": "posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/logo.jpeg",
+    "private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/logo.jpeg": {
+      "source": "posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/logo.jpeg",
       "source_sha256": "e66edbd3eb94a3477590779821a453c5aae0b1feb08e44c2f1122fcb874e956f",
       "source_bytes": 399011,
       "sha256": "ef06d529d49f001708b33e85e104225608bc5d9cda1eb567b2f2c56f636c5945",
       "bytes": 126172
     },
-    "private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/connections-to-learning.jpeg": {
-      "source": "posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/connections-to-learning.jpeg",
+    "private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/connections-to-learning.jpeg": {
+      "source": "posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/connections-to-learning.jpeg",
       "source_sha256": "3178bdb11aecd88e23beeae08470e1951822c523aa40b232b8e925020792c357",
       "source_bytes": 761630,
       "sha256": "fb1ed1948f08e19b508569097a25e2b858e8e679f0827914e84751a215cfc4ea",
       "bytes": 286844
     },
-    "private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/resources-and-peer-conversations.jpeg": {
-      "source": "posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/resources-and-peer-conversations.jpeg",
+    "private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/resources-and-peer-conversations.jpeg": {
+      "source": "posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/resources-and-peer-conversations.jpeg",
       "source_sha256": "2aa6feb0b8424cde1f5ea01fae29173f4549d566f723fbe86ebf76052b026935",
       "source_bytes": 653379,
       "sha256": "cb4b1109f0ea7093fa927090a6d2f42f026d8533d56366a984f76c99a77b59c0",
       "bytes": 282549
     },
-    "private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/bring-the-question-home.jpeg": {
-      "source": "posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/bring-the-question-home.jpeg",
+    "private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/bring-the-question-home.jpeg": {
+      "source": "posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/bring-the-question-home.jpeg",
       "source_sha256": "04f1d54d49f156d1cdeb566707b6937614ce17619cafbbf081f1cc36418df248",
       "source_bytes": 207427,
       "sha256": "04f1d54d49f156d1cdeb566707b6937614ce17619cafbbf081f1cc36418df248",
       "bytes": 207427
     },
-    "private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/logo.jpeg": {
-      "source": "posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/logo.jpeg",
+    "private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/logo.jpeg": {
+      "source": "posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/logo.jpeg",
       "source_sha256": "8b7230138c12eedea7ee13e2553f2ca7d55889cbe3ae0b2b1e1e44f4f95b9133",
       "source_bytes": 627989,
       "sha256": "15b0f184bedd6fc8d4517313549532880b6d8ecbb2fe47e27c21dd152541048e",
       "bytes": 200922
     },
-    "private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/need-before-support-source.jpeg": {
-      "source": "posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/need-before-support-source.jpeg",
+    "private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/need-before-support-source.jpeg": {
+      "source": "posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/need-before-support-source.jpeg",
       "source_sha256": "1a112e75b5c649e4f7a27413dbfcdf1ca1f70761c6243d5202b91f888dcbc10b",
       "source_bytes": 679506,
       "sha256": "9bf19106265e8d73c7c5f058a39b12c41db613e1f0e321400e7f82d35174ce90",
       "bytes": 245272
     },
-    "private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/support-builds-internal-capability.jpeg": {
-      "source": "posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/support-builds-internal-capability.jpeg",
+    "private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/support-builds-internal-capability.jpeg": {
+      "source": "posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/support-builds-internal-capability.jpeg",
       "source_sha256": "09f4404a37b760b667958ebea3cbc430305eed27929b51f0d6cea653e3fb1342",
       "source_bytes": 707050,
       "sha256": "ddd254ee7af0f32e14ff9c0775d1bf4d9cfb0ad6fda2418ed833f552e00859b4",
       "bytes": 251884
     },
-    "private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/logo.jpeg": {
-      "source": "posts/20-useful-engagement/assets/images/20-useful-engagement/logo.jpeg",
+    "private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/logo.jpeg": {
+      "source": "posts/12-useful-engagement/assets/images/12-useful-engagement/logo.jpeg",
       "source_sha256": "a26214053fcb96c2ae2749b4270b03cce4a4984ffbeac847671a38519c5f3ebe",
       "source_bytes": 468431,
       "sha256": "f18e9d308020cde0bc2f0935dc6db5b5908a3b9e435cc42dc9e26e27c764715d",
       "bytes": 153335
     },
-    "private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/support-engagement-agreement.jpeg": {
-      "source": "posts/20-useful-engagement/assets/images/20-useful-engagement/support-engagement-agreement.jpeg",
+    "private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/support-engagement-agreement.jpeg": {
+      "source": "posts/12-useful-engagement/assets/images/12-useful-engagement/support-engagement-agreement.jpeg",
       "source_sha256": "ea6d114d6bcdc0c0b81c269de0ef3147d022ff7fe7a76a3bade5015272133102",
       "source_bytes": 661396,
       "sha256": "57fdea10e2de27db1696e40012420d6c197cd192a643e688158bcca7f615368a",
       "bytes": 294805
     },
-    "private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/three-useful-support-endings.jpeg": {
-      "source": "posts/20-useful-engagement/assets/images/20-useful-engagement/three-useful-support-endings.jpeg",
+    "private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/three-useful-support-endings.jpeg": {
+      "source": "posts/12-useful-engagement/assets/images/12-useful-engagement/three-useful-support-endings.jpeg",
       "source_sha256": "9374c462d7fd1e4144fa02152fafd951d1d601621a12bef82749ceced58b7e5f",
       "source_bytes": 663098,
       "sha256": "77e3b6e23f0158bb56b1d67d77dce689ccb74c5b5109db5e845f6c28297adf49",
       "bytes": 309388
     },
-    "private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/logo.jpeg": {
-      "source": "posts/21-investors-adviser/assets/images/18-investors-adviser/logo.jpeg",
+    "private-techuity/posts/13-investors-adviser/assets/images/18-investors-adviser/logo.jpeg": {
+      "source": "posts/13-investors-adviser/assets/images/18-investors-adviser/logo.jpeg",
       "source_sha256": "4fb0c54a5e128077b9230936904c862d2334a7e4293325a0b7a441348ad63dad",
       "source_bytes": 495989,
       "sha256": "17f9dc68430f4a2785bb30bcce5dc79a7ee2b9eedc232ac6f16c54fe93151e6b",
       "bytes": 161396
     },
-    "private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/three-adviser-jobs.jpeg": {
-      "source": "posts/21-investors-adviser/assets/images/18-investors-adviser/three-adviser-jobs.jpeg",
+    "private-techuity/posts/13-investors-adviser/assets/images/18-investors-adviser/three-adviser-jobs.jpeg": {
+      "source": "posts/13-investors-adviser/assets/images/18-investors-adviser/three-adviser-jobs.jpeg",
       "source_sha256": "bac62f3ef5128ab37e43615ff5c68beed2a00cef29101ff4ebdf98bf8a4b3207",
       "source_bytes": 630277,
       "sha256": "3dcec7b48ecb62e7f8cc491cc8c6e4421e4ed2503874782e2c6c5bd331876826",
       "bytes": 266113
     },
-    "private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/advice-and-accountability-boundary.jpeg": {
-      "source": "posts/21-investors-adviser/assets/images/18-investors-adviser/advice-and-accountability-boundary.jpeg",
+    "private-techuity/posts/13-investors-adviser/assets/images/18-investors-adviser/advice-and-accountability-boundary.jpeg": {
+      "source": "posts/13-investors-adviser/assets/images/18-investors-adviser/advice-and-accountability-boundary.jpeg",
       "source_sha256": "2384d442d10a4e741f07c91f81af5ce18a0a0bfca5d213facc7a14f0063fbe69",
       "source_bytes": 414851,
       "sha256": "b1b5e2c03f7647a026936db047e372ebd7934cf486022911994af2e4772ac1f5",
       "bytes": 148434
     },
-    "private-techuity/posts/22-tech-operating-partner/assets/images/tech-operating-partner/logo.png": {
-      "source": "posts/22-tech-operating-partner/assets/images/tech-operating-partner/logo.png",
+    "private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/logo.png": {
+      "source": "posts/14-tech-operating-partner/assets/images/tech-operating-partner/logo.png",
       "source_sha256": "5c3b5037fd51c029d3fd0ed35cc703559c3329cc9aa823e70c1287bb309f2c31",
       "source_bytes": 733970,
       "sha256": "5c3b5037fd51c029d3fd0ed35cc703559c3329cc9aa823e70c1287bb309f2c31",
       "bytes": 733970
     },
-    "private-techuity/posts/22-tech-operating-partner/assets/images/tech-operating-partner/portfolio-support-and-company-leadership.png": {
-      "source": "posts/22-tech-operating-partner/assets/images/tech-operating-partner/portfolio-support-and-company-leadership.png",
+    "private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/portfolio-support-and-company-leadership.png": {
+      "source": "posts/14-tech-operating-partner/assets/images/tech-operating-partner/portfolio-support-and-company-leadership.png",
       "source_sha256": "79a19c86a6632f02c990b8aadb86e94c5d184d1891c780704ad9eacf2b339ca6",
       "source_bytes": 1932692,
       "sha256": "79a19c86a6632f02c990b8aadb86e94c5d184d1891c780704ad9eacf2b339ca6",
       "bytes": 1932692
     },
-    "private-techuity/posts/22-tech-operating-partner/assets/images/tech-operating-partner/capability-before-recruitment.png": {
-      "source": "posts/22-tech-operating-partner/assets/images/tech-operating-partner/capability-before-recruitment.png",
+    "private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/capability-before-recruitment.png": {
+      "source": "posts/14-tech-operating-partner/assets/images/tech-operating-partner/capability-before-recruitment.png",
       "source_sha256": "11aa0153f74c592b6fe38159ffb3adf24e730bd4592578616ec04d8025c9ea2b",
       "source_bytes": 1807028,
       "sha256": "11aa0153f74c592b6fe38159ffb3adf24e730bd4592578616ec04d8025c9ea2b",
       "bytes": 1807028
     },
-    "private-techuity/posts/22-tech-operating-partner/assets/images/tech-operating-partner/shared-ai-expertise-different-decisions.png": {
-      "source": "posts/22-tech-operating-partner/assets/images/tech-operating-partner/shared-ai-expertise-different-decisions.png",
+    "private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/shared-ai-expertise-different-decisions.png": {
+      "source": "posts/14-tech-operating-partner/assets/images/tech-operating-partner/shared-ai-expertise-different-decisions.png",
       "source_sha256": "e33ea81e25bf69b7227d8a7dee68561a0a689e7b8e2bb4ade01caa0ad274758c",
       "source_bytes": 1810676,
       "sha256": "e33ea81e25bf69b7227d8a7dee68561a0a689e7b8e2bb4ade01caa0ad274758c",
       "bytes": 1810676
     },
-    "private-techuity/posts/part-5-intro/assets/images/part-5-intro/logo.jpeg": {
-      "source": "posts/part-5-intro/assets/images/part-5-intro/logo.jpeg",
-      "source_sha256": "e4540d272b83e80dceb6689d9d9738eea4a731904f9bbf9d15de75b5b15094bf",
-      "source_bytes": 420990,
-      "sha256": "cab2aab5a8b38b2e58cf5720d1acabaed66dccc3917a6c884a3b74d4fb295afe",
-      "bytes": 137493
+    "private-techuity/posts/part-4-intro/assets/images/part-4-intro/logo.jpeg": {
+      "source": "posts/part-4-intro/assets/images/part-4-intro/logo.jpeg",
+      "source_sha256": "45b770b52e92403e1e267629a5589afba9d40ab42ef6b8d852cd785ed315ebbe",
+      "source_bytes": 364146,
+      "sha256": "424a74c7e64f68d9e02d3a4a13a072d07c914ebe4a5076e865416fb24c5fc6e8",
+      "bytes": 111229
     },
-    "private-techuity/posts/part-5-intro/assets/images/part-5-intro/chapter-overview.jpeg": {
-      "source": "posts/part-5-intro/assets/images/part-5-intro/chapter-overview.jpeg",
-      "source_sha256": "9e142b419b1969e436c53a3f822d10eb06dace29b1cfc981bf78466e769774f3",
-      "source_bytes": 240029,
-      "sha256": "9e142b419b1969e436c53a3f822d10eb06dace29b1cfc981bf78466e769774f3",
-      "bytes": 240029
+    "private-techuity/posts/part-4-intro/assets/images/part-4-intro/chapter-overview.jpeg": {
+      "source": "posts/part-4-intro/assets/images/part-4-intro/chapter-overview.jpeg",
+      "source_sha256": "f6b55a1e6d5fb38ae57932a7859fb7d6096a08ea532dc6933484b4c5a77f54cc",
+      "source_bytes": 673110,
+      "sha256": "27cf4dc375a10405c151531a26d77aa6d63d560322ba2c2724290c12ac1f3909",
+      "bytes": 289733
     },
-    "private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/logo.jpeg": {
-      "source": "posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/logo.jpeg",
-      "source_sha256": "af95c9903717d76f168ba9b7465edc1e2c4234bc9a15abed7a828a5506f431b9",
-      "source_bytes": 456124,
-      "sha256": "b077c6def1ef075103d65a0ee8497a54e238887fa6fe7f8f32a65a1ce3e21523",
-      "bytes": 167081
+    "private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/logo.jpeg": {
+      "source": "posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/logo.jpeg",
+      "source_sha256": "f4293ee309abef123bce09a76e5207a49191f54ee7aeff13ab4d84af4e258504",
+      "source_bytes": 68437,
+      "sha256": "f4293ee309abef123bce09a76e5207a49191f54ee7aeff13ab4d84af4e258504",
+      "bytes": 68437
     },
-    "private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/investment-assumption-to-evidence.jpeg": {
-      "source": "posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/investment-assumption-to-evidence.jpeg",
-      "source_sha256": "671b945cde4dc790e3700dec04a9b15cf060af27e98d3c011cf629b6fba11b62",
-      "source_bytes": 540301,
-      "sha256": "d378c9ee9ce6ce89e8d0846b146d6557296ba2942cda947699d27c7d0e813749",
-      "bytes": 215356
+    "private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/two-pyramids-joined.jpeg": {
+      "source": "posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/two-pyramids-joined.jpeg",
+      "source_sha256": "4ae6b4310b462c0d7a127286491a6c4b9608e84c8da78f96f82d79b7a2e1d219",
+      "source_bytes": 591885,
+      "sha256": "8875b8433623f359de536f4f2e8eac40ecc51b95c8629ae5f713058ac79250d9",
+      "bytes": 252272
     },
-    "private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/finding-to-funded-action.jpeg": {
-      "source": "posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/finding-to-funded-action.jpeg",
-      "source_sha256": "44d2aa3563e78f27729b9ad787937b012f4970cfad5811a7b6f60d9110f20211",
-      "source_bytes": 711874,
-      "sha256": "1f95640171c384a96490c0aa1be7cdb01406448dffa7ee08aae150c11de1ae17",
-      "bytes": 260386
+    "private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/the-removal-test.jpeg": {
+      "source": "posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/the-removal-test.jpeg",
+      "source_sha256": "88c370d3a892217f3276e754e4206da4a57ec4faf5571f3c4b0d8af24717d18d",
+      "source_bytes": 671659,
+      "sha256": "d6f906bfce89b0c64bcc07e07e0033fd7b50db782922ef8aeca25ec367391728",
+      "bytes": 250882
     },
-    "private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg": {
-      "source": "posts/24-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg",
-      "source_sha256": "f5fa1eda212f6777e7ac3ed83e1d17c594d2fa27595730b5bbf5d0af80cec025",
-      "source_bytes": 404728,
-      "sha256": "3fc0ba048d0266f5ff3af6513667dbdd368ea2ca73a5c529ba56410bfa4e231f",
-      "bytes": 111185
+    "private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/investor-bridge-on-an-honest-clock.jpeg": {
+      "source": "posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/investor-bridge-on-an-honest-clock.jpeg",
+      "source_sha256": "0059c75167586c51e671424340f5fdc1134940471b5423b5f11384165899a7c3",
+      "source_bytes": 189460,
+      "sha256": "0059c75167586c51e671424340f5fdc1134940471b5423b5f11384165899a7c3",
+      "bytes": 189460
     },
-    "private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg": {
-      "source": "posts/24-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg",
-      "source_sha256": "c62b4f996e26f056d9f8726bfe958382b82d4c857b8006381634d33f90456138",
-      "source_bytes": 654281,
-      "sha256": "0e1c41107119c1fdb0825636fc9f6ecc05e9f0279832f21d7c28772d8ea22186",
-      "bytes": 249562
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/logo.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/logo.jpeg",
+      "source_sha256": "cfd00632baec9e5f077522bf323193e984f31174ac5de4e5316427dc64755b38",
+      "source_bytes": 401559,
+      "sha256": "aaa65264bccefcb9af58fdd5880898c42093a3413b7bc560602f1845e7599316",
+      "bytes": 133265
     },
-    "private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg": {
-      "source": "posts/24-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg",
-      "source_sha256": "2c014369dae2c9e951b49b74fe0ade70c545c1740aaf63802444259483f358b9",
-      "source_bytes": 565640,
-      "sha256": "57939757e887bffb42dd620aa3c8c0307fc78569c50a811a95ecb531c9ac724e",
-      "bytes": 227214
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/three-areas-one-foundation.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/three-areas-one-foundation.jpeg",
+      "source_sha256": "d994664a13b310c81f5e4fea93e0ec94863424dfd28c3150a328620f3ff72170",
+      "source_bytes": 561952,
+      "sha256": "d186cc4eb6bc11721029417a47bf60447c4103561b3941050b83a0f201caf07e",
+      "bytes": 236247
     },
-    "private-techuity/posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/logo.jpeg": {
-      "source": "posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/logo.jpeg",
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/money-and-runway.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/money-and-runway.jpeg",
+      "source_sha256": "a7928cab43377fc0eff9dc16c9d92153b7de228389ac8cdd2197bf4782a2ce19",
+      "source_bytes": 558410,
+      "sha256": "f5900130c4c5a72ce3e49828ec0c4a73d1d23779f94e43d85b277ab2fa7e5a94",
+      "bytes": 238344
+    },
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/customers-and-growth.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/customers-and-growth.jpeg",
+      "source_sha256": "2010abd5227e51bdb5bb8a8993f7a9345db1fd05d52c7ba80c18f4f205b27b3f",
+      "source_bytes": 456133,
+      "sha256": "9ca8ea2e5f277771107ae6ba7027a1264fb7006e10a5bd8fb2b91b1f0f649739",
+      "bytes": 168540
+    },
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/product-and-customer-outcomes.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/product-and-customer-outcomes.jpeg",
+      "source_sha256": "760d6b90172b31098670c44adeb109e2c553f1c28e803823c60ddc9a0a089b38",
+      "source_bytes": 691808,
+      "sha256": "410fd057a868930c669840f0ab1be206e54d1169c24aeaa4f546aebf74cdbf41",
+      "bytes": 254600
+    },
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/delivery-and-execution.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/delivery-and-execution.jpeg",
+      "source_sha256": "30292dcd8472ab91b06ee38a226584bf07435f7d6d2b03e1a72385c8458307de",
+      "source_bytes": 566778,
+      "sha256": "26014f87d53a1fe6b823a08b7865f4972d6e51044f3990a62491a9f63c30298e",
+      "bytes": 238005
+    },
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/technology-health-and-cost.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/technology-health-and-cost.jpeg",
+      "source_sha256": "7b5390385b2076aaf86f18d39aecf1d8457e2a8220ab9f4d332b8d1e6aac78a3",
+      "source_bytes": 522104,
+      "sha256": "df918411913726581d480a0e2e91bc857741bd5e33531af945008b4e8e9cbd2c",
+      "bytes": 211542
+    },
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/people-measures.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/people-measures.jpeg",
+      "source_sha256": "233cd6c087f6e5b4ebff772d632d9201036f7a3dae8204379815a28bd097e55a",
+      "source_bytes": 644654,
+      "sha256": "4efda1637a38a62b1456dcf58a36a5b6d1f05d67ebbd7ca7b2888a6567ca6742",
+      "bytes": 253174
+    },
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/four-kinds-of-number.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/four-kinds-of-number.jpeg",
+      "source_sha256": "b1f24378d9b82c974c1ce3f0aadcb3be22484c792a07199c2517d49d5f7c9380",
+      "source_bytes": 520378,
+      "sha256": "48a4a7e6375fe55bfc6fd92da7dd05730e2a13cd916b2ab9789fa441e7a8b7b3",
+      "bytes": 211010
+    },
+    "private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/internal-and-shared.jpeg": {
+      "source": "posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/internal-and-shared.jpeg",
+      "source_sha256": "1d620a2ee93694ce9683c5570b334d689aefe521e7b761349a0a0d151ea03356",
+      "source_bytes": 517590,
+      "sha256": "50eef2fbe525d67cd8790547dbfbb2464a2d399fadef60f13298f769cc9f2633",
+      "bytes": 198638
+    },
+    "private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/logo.jpeg": {
+      "source": "posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/logo.jpeg",
+      "source_sha256": "6beade02a51ed57f7ea82ba5786d340feab9c4799196e88bce4a8214c9bc732b",
+      "source_bytes": 499356,
+      "sha256": "abb90108784023155a834cdf034b2910f269c474cffdd9e5565459f59567d60a",
+      "bytes": 178839
+    },
+    "private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/money-and-capacity-two-limits.jpeg": {
+      "source": "posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/money-and-capacity-two-limits.jpeg",
+      "source_sha256": "aae6d62a4539d8dab60506f1e7c82de44ba7e36e41ea01ea2217035b91cb265c",
+      "source_bytes": 532977,
+      "sha256": "3066bb5f6e2629e4463abf5600fd0d7cfaa8bf110f02019d0726ec08ae67d93c",
+      "bytes": 213727
+    },
+    "private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/staged-investment-with-review.jpeg": {
+      "source": "posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/staged-investment-with-review.jpeg",
+      "source_sha256": "1f51a006853edfdb5ae6a31f9b1776054202664c1215a1545788662b8cab3a8b",
+      "source_bytes": 664987,
+      "sha256": "3bacbb4477ba8ac9607b886f15853cf2db4b711e5f2105af52846442c2d1747d",
+      "bytes": 244880
+    },
+    "private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/logo.jpeg": {
+      "source": "posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/logo.jpeg",
+      "source_sha256": "e3e6b924672ba358dde7abd2ba019fbb1870329c6d34b4d936e683891fcdc729",
+      "source_bytes": 414517,
+      "sha256": "2e353115c3aa27df37d1fa60659ce043e5aea37456546c2a71c3edb959d0b9e3",
+      "bytes": 136913
+    },
+    "private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/freed-time-conversion-plan.jpeg": {
+      "source": "posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/freed-time-conversion-plan.jpeg",
+      "source_sha256": "c77247cf3e4e524629768a7298f134547147e5477c87e9782b7e4f4abc2521b3",
+      "source_bytes": 590827,
+      "sha256": "80ae3e1cc7c3639c71368d3655e48f1e1021ec8368733b456a86b1b770c0df7c",
+      "bytes": 261009
+    },
+    "private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/check-what-explains-the-result.jpeg": {
+      "source": "posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/check-what-explains-the-result.jpeg",
+      "source_sha256": "c4e71580cfecb4f9d22020b6c83c2fbab4d8f105156cdc9860fc618ba78900e0",
+      "source_bytes": 551420,
+      "sha256": "ce71a81782adf4435a84df385434f07989262f3a2ba981dbf9533b392572f44d",
+      "bytes": 218983
+    },
+    "private-techuity/posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/logo.jpeg": {
+      "source": "posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/logo.jpeg",
+      "source_sha256": "4947b197947f65f86487451697ca907cd06fde2990958a63cbd38cc5b83f1d50",
+      "source_bytes": 477623,
+      "sha256": "116361695797767436dc45b865f97a2523fadb43fc72186ad4a82e6804c7fcd6",
+      "bytes": 181455
+    },
+    "private-techuity/posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/three-ai-investment-questions.jpeg": {
+      "source": "posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/three-ai-investment-questions.jpeg",
+      "source_sha256": "d3586a45129d26811c17c73aa68be3cb5c3adc9145b4969c3f58e662710f8019",
+      "source_bytes": 539252,
+      "sha256": "6b89c4a95e301b62fb425de2810c9900d7178f8f9e0f2a2a1415823e4a8c4ebc",
+      "bytes": 224819
+    },
+    "private-techuity/posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/measure-the-whole-ai-workflow.jpeg": {
+      "source": "posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/measure-the-whole-ai-workflow.jpeg",
+      "source_sha256": "b01c5213a7845fc7fbe13cf2bbd7f57373ad36d1503c1332fbe653a908d6deaf",
+      "source_bytes": 561074,
+      "sha256": "b801e2de4642fe5098bb04330735213c5c5db4ed863ca162e8a65b24f1bcc607",
+      "bytes": 232280
+    },
+    "private-techuity/posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/logo.jpeg": {
+      "source": "posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/logo.jpeg",
+      "source_sha256": "b8b5981a1b050d241f4109e26c31e0ba2158592cf0a24b88835861be19941b66",
+      "source_bytes": 405696,
+      "sha256": "c58f42222e0b6607623a4a9aef379b29bf50f74cdb09fc5312333abf55d6988a",
+      "bytes": 113503
+    },
+    "private-techuity/posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/business-need-to-system-choice.jpeg": {
+      "source": "posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/business-need-to-system-choice.jpeg",
+      "source_sha256": "24295bd41567cab4ad64d65ed43d55cd4afa34c46ae112a47b809d2c2b1faaf4",
+      "source_bytes": 441317,
+      "sha256": "ba0dedcd9a1d90d8798be6c170280c3a1b3ecc225b3d3f2877b23129d0baf5b7",
+      "bytes": 166579
+    },
+    "private-techuity/posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/fund-the-system-overlap.jpeg": {
+      "source": "posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/fund-the-system-overlap.jpeg",
+      "source_sha256": "9f96dea1432b00ab118fcf745edb27b59789ae38cdaf03b9dd23151679c05fac",
+      "source_bytes": 556653,
+      "sha256": "d285c73847012e886427dc048a8f4d99b8a1f66c778d0fa7c80cc8dc79bab85d",
+      "bytes": 232328
+    },
+    "private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/logo.jpeg": {
+      "source": "posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/logo.jpeg",
       "source_sha256": "f29c49bd494928d07d3ec602d4b1f38d1a86a9fdd5592e6d3fb142c62e6587aa",
       "source_bytes": 448431,
       "sha256": "d8c7df33554661b3dd5489a610a65218a5e0a08f6576a97ca61362d1e56298be",
       "bytes": 160639
     },
-    "private-techuity/posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/ownership-paths-and-replanning.jpeg": {
-      "source": "posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/ownership-paths-and-replanning.jpeg",
+    "private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/ownership-paths-and-replanning.jpeg": {
+      "source": "posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/ownership-paths-and-replanning.jpeg",
       "source_sha256": "675b926070caa662776aa3991990b0127db3b11ce8b5fcb411130aaac3d76a11",
       "source_bytes": 492297,
       "sha256": "dd9658647c9be35d9d7a4650115ecb12f1ea941d2126e3eb6a951ff13723a68d",
       "bytes": 182423
     },
-    "private-techuity/posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/logo.jpeg": {
-      "source": "posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/logo.jpeg",
+    "private-techuity/posts/part-5-intro/assets/images/part-5-intro/logo.jpeg": {
+      "source": "posts/part-5-intro/assets/images/part-5-intro/logo.jpeg",
+      "source_sha256": "0ee3dab1b8f34ef0bb5f19c380e3706b8df7d713136121aff9b38706371655f4",
+      "source_bytes": 86081,
+      "sha256": "0ee3dab1b8f34ef0bb5f19c380e3706b8df7d713136121aff9b38706371655f4",
+      "bytes": 86081
+    },
+    "private-techuity/posts/part-5-intro/assets/images/part-5-intro/chapter-overview.jpeg": {
+      "source": "posts/part-5-intro/assets/images/part-5-intro/chapter-overview.jpeg",
+      "source_sha256": "1a110424cf84064e717acc89ae3ab947b64088f3893ee77e3763abc3e1516c42",
+      "source_bytes": 611188,
+      "sha256": "80cdfcf4ca8e9762832e9c79b66b31d08bdf95bc3738e2afa90f41e18479c0b2",
+      "bytes": 238871
+    },
+    "private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/logo.jpeg": {
+      "source": "posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/logo.jpeg",
+      "source_sha256": "ee050483c17273037916f56e4f18b14402751a3bc54509a3965981a7cfa4d277",
+      "source_bytes": 524159,
+      "sha256": "e9fd0f503b4de7738af018beae853fc45fac185ae2d72d9478a4607821190ec6",
+      "bytes": 196713
+    },
+    "private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/work-crosses-team-boundaries.jpeg": {
+      "source": "posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/work-crosses-team-boundaries.jpeg",
+      "source_sha256": "81e811f3648c98a883097572119b1dde927867d17e91afcb9bf288c9170ae0eb",
+      "source_bytes": 660940,
+      "sha256": "08b2e142e0461d360b7f6448719b7c4d6529f49a9740f93e6294f4883adc2c31",
+      "bytes": 301252
+    },
+    "private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg": {
+      "source": "posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg",
+      "source_sha256": "c30716def839e5fb65ceaf7321c2fde1a0617750bbcdf2c52a894d77f125a414",
+      "source_bytes": 674615,
+      "sha256": "aa3d61a9c2df341e9034df41e3d0607407c4f7344b072bccebc8b028cbd75f69",
+      "bytes": 306134
+    },
+    "private-techuity/posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/logo.jpeg": {
+      "source": "posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/logo.jpeg",
       "source_sha256": "8348af09c472afc086ec97aa05beb925c17e3d5d343cb39bb8b2fcd75ff246be",
       "source_bytes": 427537,
       "sha256": "fd94703b319f2f0e60f4cafb3d8dbb6598b75de91adfb2ffdb0c2bb91808043f",
       "bytes": 143477
     },
-    "private-techuity/posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/cash-by-date-under-three-plans.jpeg": {
-      "source": "posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/cash-by-date-under-three-plans.jpeg",
+    "private-techuity/posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/cash-by-date-under-three-plans.jpeg": {
+      "source": "posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/cash-by-date-under-three-plans.jpeg",
       "source_sha256": "55d4fd978e592fb1a06cbb172f714595d0644a9a73bd372b63bd5c409ce5252e",
       "source_bytes": 174305,
       "sha256": "55d4fd978e592fb1a06cbb172f714595d0644a9a73bd372b63bd5c409ce5252e",
       "bytes": 174305
     },
-    "private-techuity/posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/team-by-work-before-and-after.jpeg": {
-      "source": "posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/team-by-work-before-and-after.jpeg",
+    "private-techuity/posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/team-by-work-before-and-after.jpeg": {
+      "source": "posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/team-by-work-before-and-after.jpeg",
       "source_sha256": "4cfa082a3923fb2711fc7f1a845b29a29e26f6a312c17dea5f6037ccf47443a3",
       "source_bytes": 765617,
       "sha256": "83f181196fdab500d981bf25873965ddafc8cb3c8d11d4312c6c3947b9c29e13",
       "bytes": 301350
     },
-    "private-techuity/posts/27-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg": {
-      "source": "posts/27-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg",
+    "private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/logo.jpeg": {
+      "source": "posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/logo.jpeg",
+      "source_sha256": "90453902fa7bd76115a0c7831ba6db452e6591c7fac05be8b4841dabbbfb28ee",
+      "source_bytes": 65980,
+      "sha256": "90453902fa7bd76115a0c7831ba6db452e6591c7fac05be8b4841dabbbfb28ee",
+      "bytes": 65980
+    },
+    "private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/one-day-of-ten.jpeg": {
+      "source": "posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/one-day-of-ten.jpeg",
+      "source_sha256": "177e50e140dda6b815283d04c5bc49e8dfa78e9f6becc9abe2b305970445ab49",
+      "source_bytes": 400650,
+      "sha256": "638d9890ade24da4c9c05ebbd9d2db316d1a854a973070996fcad9d6bce866dd",
+      "bytes": 161716
+    },
+    "private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/two-pilots-one-method.jpeg": {
+      "source": "posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/two-pilots-one-method.jpeg",
+      "source_sha256": "7f7e668bdbfd4ff98017b95faac5dff7d1f7c119ba999ade5397b16bc2b0b1a6",
+      "source_bytes": 491521,
+      "sha256": "a4313e83e072f465f099e7d8b215cc7a99b6024070bbbb442fbee8e0de69b486",
+      "bytes": 259842
+    },
+    "private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/gate-rules-quality-first.jpeg": {
+      "source": "posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/gate-rules-quality-first.jpeg",
+      "source_sha256": "e34fc15804027ed6c365b06993a0a29b04bc7164369644fd56df493ab8c5db26",
+      "source_bytes": 576072,
+      "sha256": "090fedfef459037a925dfcd88986e64de1444239408de1cde5c1aa6ac1e781b1",
+      "bytes": 223423
+    },
+    "private-techuity/posts/25-growth-into-design/assets/images/25-growth-into-design/logo.jpeg": {
+      "source": "posts/25-growth-into-design/assets/images/25-growth-into-design/logo.jpeg",
+      "source_sha256": "d2e3c708e6d90849483eb0a1c20a1d542cc5affb6988e3af94143827a9e7a45d",
+      "source_bytes": 635286,
+      "sha256": "4613db5970aefc21641e43c95b8d01f2031773ef2c10840e43f96a3797ff8e38",
+      "bytes": 216274
+    },
+    "private-techuity/posts/25-growth-into-design/assets/images/25-growth-into-design/business-priorities-design-tradeoffs.jpeg": {
+      "source": "posts/25-growth-into-design/assets/images/25-growth-into-design/business-priorities-design-tradeoffs.jpeg",
+      "source_sha256": "307d8ff7c083d9dd6b345b7db96253083ad74870282b51378906fc8619dba90c",
+      "source_bytes": 559203,
+      "sha256": "41c41cbe84971cd64d9cabb6b23be803cebf3920917225dcb6c396aa48616166",
+      "bytes": 234240
+    },
+    "private-techuity/posts/25-growth-into-design/assets/images/25-growth-into-design/cash-before-benefits.jpeg": {
+      "source": "posts/25-growth-into-design/assets/images/25-growth-into-design/cash-before-benefits.jpeg",
+      "source_sha256": "28df9ee7ada4bde4f4c08f9e4e2d6d886b098cd75689055532c113d5f511c147",
+      "source_bytes": 449343,
+      "sha256": "141ab3d1b23492e24adc473021851d03f90491b4b7df299734fa914e2a1a0abc",
+      "bytes": 172322
+    },
+    "private-techuity/posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/logo.jpeg": {
+      "source": "posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/logo.jpeg",
+      "source_sha256": "2e48a361a2621a2d46dd3a417baa2c043f5098c9220bce74a117286fc3a92fe3",
+      "source_bytes": 438735,
+      "sha256": "5cb640e929e0a402dbec9253b5ccbcc195132d7df01be59fe2f9bb44bc12f011",
+      "bytes": 148669
+    },
+    "private-techuity/posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/integration-depth-by-benefit.jpeg": {
+      "source": "posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/integration-depth-by-benefit.jpeg",
+      "source_sha256": "eb950c011867babd18faddf5115c72605cf463d649df5d6e7a1d1011b76aefe5",
+      "source_bytes": 552693,
+      "sha256": "63a2a65f1714c81f9128db54aa47116f64bb28a0135be9ee70e7cad81db3fd8d",
+      "bytes": 227825
+    },
+    "private-techuity/posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/carveout-hidden-dependencies.jpeg": {
+      "source": "posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/carveout-hidden-dependencies.jpeg",
+      "source_sha256": "ebbfc0b48684c5aa5960fdaddec516caa5ba2b2ed4acd8f30964d2da31fe56ac",
+      "source_bytes": 558645,
+      "sha256": "6b289b3547636c22f095fdd0ba212704a8e37f1320173dbcd708ea0e9d1b68ed",
+      "bytes": 226216
+    },
+    "private-techuity/posts/part-6-intro/assets/images/part-6-intro/logo.jpeg": {
+      "source": "posts/part-6-intro/assets/images/part-6-intro/logo.jpeg",
+      "source_sha256": "9f4ccc3595775ddd837c419776ef9006efb59b6cf155782001f74225f2e0b9a2",
+      "source_bytes": 143773,
+      "sha256": "9f4ccc3595775ddd837c419776ef9006efb59b6cf155782001f74225f2e0b9a2",
+      "bytes": 143773
+    },
+    "private-techuity/posts/part-6-intro/assets/images/part-6-intro/chapter-overview.jpeg": {
+      "source": "posts/part-6-intro/assets/images/part-6-intro/chapter-overview.jpeg",
+      "source_sha256": "b33e71ebacd9e4d0c8730475e4e5289cfe5f89e0d6ba65af3919d33a56aaaf5e",
+      "source_bytes": 732961,
+      "sha256": "c5125c53539a2f0a8d1b4921774424b9c6606ab500a33bb823a2abc5bdcc5481",
+      "bytes": 292373
+    },
+    "private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/logo.jpeg": {
+      "source": "posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/logo.jpeg",
+      "source_sha256": "76377dce981ff2f8b21d13edbb8bf17418452c3d7bcd1abcc2fc63a645a91f37",
+      "source_bytes": 117213,
+      "sha256": "76377dce981ff2f8b21d13edbb8bf17418452c3d7bcd1abcc2fc63a645a91f37",
+      "bytes": 117213
+    },
+    "private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/carrying-cost-three-columns.jpeg": {
+      "source": "posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/carrying-cost-three-columns.jpeg",
+      "source_sha256": "5dddfe41cb822b84e084b83d2b64babc197d791b4cbb1d7e262bd51c4c8f8c35",
+      "source_bytes": 545627,
+      "sha256": "0e90ab4fe837ea25a73e92e24479fc5ca5fc1e3100b0edad605f6d4d110c2906",
+      "bytes": 230435
+    },
+    "private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/rewrite-versus-tranches.jpeg": {
+      "source": "posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/rewrite-versus-tranches.jpeg",
+      "source_sha256": "82e2bc9f4b2705ddb6dd719be351ac17d633d807e6c39d5f324926129b4eb5bf",
+      "source_bytes": 539224,
+      "sha256": "69d8900b57327174573a041001b2bdf89a3e95d070f3420c2a1660931a00849d",
+      "bytes": 185576
+    },
+    "private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/sequencing-rule.jpeg": {
+      "source": "posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/sequencing-rule.jpeg",
+      "source_sha256": "b11ce983aeb390abafe1b4503a64af801ddc1ef554e22c1f95ac84651c0e60bd",
+      "source_bytes": 487853,
+      "sha256": "b07a14b6cd76fc8b2d4590f831e1ff68c33676e2105230e93f8c1a4279a15e89",
+      "bytes": 199146
+    },
+    "private-techuity/posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/logo.jpeg": {
+      "source": "posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/logo.jpeg",
+      "source_sha256": "592809837bfdfdc5261a0b7a2dd299599d15227024a81ed8605287ba75fa01de",
+      "source_bytes": 481210,
+      "sha256": "f0ae2f49dd0e0798058b093b9c194c0e3e5bd15ed7cdc54d73ae64c80264f119",
+      "bytes": 173430
+    },
+    "private-techuity/posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/security-claims-and-proof.jpeg": {
+      "source": "posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/security-claims-and-proof.jpeg",
+      "source_sha256": "73ca2414ffaace4f4a4ed4911eaa8c8d196818ef46480e5ccba3e1c26f6360b5",
+      "source_bytes": 465140,
+      "sha256": "7147bc1fb7bc3d9189fa60f5410921d0a7ab9ccfd15c10d098c77f5d0a247704",
+      "bytes": 187956
+    },
+    "private-techuity/posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/incident-restoration-practice.jpeg": {
+      "source": "posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/incident-restoration-practice.jpeg",
+      "source_sha256": "3a1da99aea72ff101437070d320d0bf1cf63d39bac3158a4dd5943682563293a",
+      "source_bytes": 685455,
+      "sha256": "e927b7a274bcbc8ccfb346c9da9fa9a597735e7127d68bba195cf4b429974a5f",
+      "bytes": 246433
+    },
+    "private-techuity/posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/logo.jpeg": {
+      "source": "posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/logo.jpeg",
+      "source_sha256": "c5f5812416fda9d2bfaaed072ad2a984f8cf7577190ae0e263905c4c2ce16f7a",
+      "source_bytes": 370062,
+      "sha256": "22c227abb65096920b396b06588e4ef94aab15dd0749e1c93cf2db712ac4e7a6",
+      "bytes": 113908
+    },
+    "private-techuity/posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg": {
+      "source": "posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg",
+      "source_sha256": "83d27227420d1a6460f9e5ad6466725152209d6a47cfdae4a4dc5eaf58b518d9",
+      "source_bytes": 622418,
+      "sha256": "1d6193001f96362b4887cd9d2a3d796342375ba2f68073b1320b67e5661e669a",
+      "bytes": 278304
+    },
+    "private-techuity/posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/fixed-commitment-changing-demand.jpeg": {
+      "source": "posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/fixed-commitment-changing-demand.jpeg",
+      "source_sha256": "acad95f4059195019bdd0da93bc16aad58796968b406f5174fd0c28b159a3603",
+      "source_bytes": 423647,
+      "sha256": "48a09e67e3820cafea3374290357e861a7f8ea570f8802897c34fc110d882ec9",
+      "bytes": 131280
+    },
+    "private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/logo.jpeg": {
+      "source": "posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/logo.jpeg",
+      "source_sha256": "fd8b06ff537c6cbc56158da468ed38efdc1b30d01f3ded30fa4c5b0f9b4b6f14",
+      "source_bytes": 101214,
+      "sha256": "fd8b06ff537c6cbc56158da468ed38efdc1b30d01f3ded30fa4c5b0f9b4b6f14",
+      "bytes": 101214
+    },
+    "private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/usage-construction-rates-bridge.jpeg": {
+      "source": "posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/usage-construction-rates-bridge.jpeg",
+      "source_sha256": "f29de79d444cf55af7bd33dadf0f74a18b33d2ff6bd7ec1ced3a1974e24dcdc3",
+      "source_bytes": 84520,
+      "sha256": "f29de79d444cf55af7bd33dadf0f74a18b33d2ff6bd7ec1ced3a1974e24dcdc3",
+      "bytes": 84520
+    },
+    "private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/three-numbers-never-added.jpeg": {
+      "source": "posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/three-numbers-never-added.jpeg",
+      "source_sha256": "1763dcdcb00004eebee3899d6d1a6a7267a2fcc47ce974bf7d3bac59fd213481",
+      "source_bytes": 617445,
+      "sha256": "609982c67e84926605af2a324b21346bb82e73167d6776dcc23473507d69cd8a",
+      "bytes": 256793
+    },
+    "private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/commitment-floor-against-demand-range.jpeg": {
+      "source": "posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/commitment-floor-against-demand-range.jpeg",
+      "source_sha256": "a3310e6233af0c3a10237900032430f6905616407ff478b0155d1ed54bb6c09c",
+      "source_bytes": 116907,
+      "sha256": "a3310e6233af0c3a10237900032430f6905616407ff478b0155d1ed54bb6c09c",
+      "bytes": 116907
+    },
+    "private-techuity/posts/part-7-intro/assets/images/part-7-intro/logo.jpeg": {
+      "source": "posts/part-7-intro/assets/images/part-7-intro/logo.jpeg",
+      "source_sha256": "e4540d272b83e80dceb6689d9d9738eea4a731904f9bbf9d15de75b5b15094bf",
+      "source_bytes": 420990,
+      "sha256": "cab2aab5a8b38b2e58cf5720d1acabaed66dccc3917a6c884a3b74d4fb295afe",
+      "bytes": 137493
+    },
+    "private-techuity/posts/part-7-intro/assets/images/part-7-intro/chapter-overview.jpeg": {
+      "source": "posts/part-7-intro/assets/images/part-7-intro/chapter-overview.jpeg",
+      "source_sha256": "85788db09f4d04fc9e538dc7df15454ac99b63e0b1a5281b8aa0cc84ecbed0b0",
+      "source_bytes": 714769,
+      "sha256": "85faa2adf828d08525ab955e038ce38d53e38b30fbe31fcbd81c007726c44905",
+      "bytes": 270201
+    },
+    "private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/logo.jpeg": {
+      "source": "posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/logo.jpeg",
+      "source_sha256": "af95c9903717d76f168ba9b7465edc1e2c4234bc9a15abed7a828a5506f431b9",
+      "source_bytes": 456124,
+      "sha256": "b077c6def1ef075103d65a0ee8497a54e238887fa6fe7f8f32a65a1ce3e21523",
+      "bytes": 167081
+    },
+    "private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/investment-assumption-to-evidence.jpeg": {
+      "source": "posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/investment-assumption-to-evidence.jpeg",
+      "source_sha256": "671b945cde4dc790e3700dec04a9b15cf060af27e98d3c011cf629b6fba11b62",
+      "source_bytes": 540301,
+      "sha256": "d378c9ee9ce6ce89e8d0846b146d6557296ba2942cda947699d27c7d0e813749",
+      "bytes": 215356
+    },
+    "private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/finding-to-funded-action.jpeg": {
+      "source": "posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/finding-to-funded-action.jpeg",
+      "source_sha256": "44d2aa3563e78f27729b9ad787937b012f4970cfad5811a7b6f60d9110f20211",
+      "source_bytes": 711874,
+      "sha256": "1f95640171c384a96490c0aa1be7cdb01406448dffa7ee08aae150c11de1ae17",
+      "bytes": 260386
+    },
+    "private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg": {
+      "source": "posts/32-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg",
+      "source_sha256": "f5fa1eda212f6777e7ac3ed83e1d17c594d2fa27595730b5bbf5d0af80cec025",
+      "source_bytes": 404728,
+      "sha256": "3fc0ba048d0266f5ff3af6513667dbdd368ea2ca73a5c529ba56410bfa4e231f",
+      "bytes": 111185
+    },
+    "private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg": {
+      "source": "posts/32-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg",
+      "source_sha256": "c62b4f996e26f056d9f8726bfe958382b82d4c857b8006381634d33f90456138",
+      "source_bytes": 654281,
+      "sha256": "0e1c41107119c1fdb0825636fc9f6ecc05e9f0279832f21d7c28772d8ea22186",
+      "bytes": 249562
+    },
+    "private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg": {
+      "source": "posts/32-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg",
+      "source_sha256": "2c014369dae2c9e951b49b74fe0ade70c545c1740aaf63802444259483f358b9",
+      "source_bytes": 565640,
+      "sha256": "57939757e887bffb42dd620aa3c8c0307fc78569c50a811a95ecb531c9ac724e",
+      "bytes": 227214
+    },
+    "private-techuity/posts/33-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg": {
+      "source": "posts/33-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg",
       "source_sha256": "37920c66f86e36ad32ce9331db8caa5b7e1c49d4551958a2b5833aa76f22cb94",
       "source_bytes": 368967,
       "sha256": "0b2fc792dd949667b500d2c4f471f5655c4aee88cba61da2ec48bbc6a7b4c1e9",
       "bytes": 100685
     },
-    "private-techuity/posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg": {
-      "source": "posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg",
+    "private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg": {
+      "source": "posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg",
       "source_sha256": "1214550af79c7d72d19b095baec59fb8771b41407ee17bfd4969cad92043a1b4",
       "source_bytes": 496322,
       "sha256": "a7aa235bf9f9daea08efc97ccc10144b93f967b5c4edc443b8feed0c450621b6",
       "bytes": 191297
     },
-    "private-techuity/posts/part-6-intro/assets/images/part-6-intro/logo.jpeg": {
-      "source": "posts/part-6-intro/assets/images/part-6-intro/logo.jpeg",
+    "private-techuity/posts/part-8-intro/assets/images/part-8-intro/logo.jpeg": {
+      "source": "posts/part-8-intro/assets/images/part-8-intro/logo.jpeg",
       "source_sha256": "5c9e852ff1c6293fe298b61d59dcc6f9b672706010dbeff9810d0c663288699e",
       "source_bytes": 562827,
       "sha256": "07396d2ddfdce178cbe2de67541e650a813e6d3fc48ba9c09267b5786ff4ba9f",
       "bytes": 219703
     },
-    "private-techuity/posts/part-6-intro/assets/images/part-6-intro/chapter-overview.jpeg": {
-      "source": "posts/part-6-intro/assets/images/part-6-intro/chapter-overview.jpeg",
-      "source_sha256": "fdb4b533c8cb44501e1c6b8190586d5837bab42cebade6c944f56b49d588ee39",
-      "source_bytes": 242327,
-      "sha256": "fdb4b533c8cb44501e1c6b8190586d5837bab42cebade6c944f56b49d588ee39",
-      "bytes": 242327
+    "private-techuity/posts/part-8-intro/assets/images/part-8-intro/chapter-overview.jpeg": {
+      "source": "posts/part-8-intro/assets/images/part-8-intro/chapter-overview.jpeg",
+      "source_sha256": "10347c7bc917718e83704372c2aac2c728552e73a2e459fa9ff49b461b06e221",
+      "source_bytes": 576173,
+      "sha256": "bf567dbc1ec4c332bd6ff4fa5bdbf2a09b0958120209cdec35147e8d4721284e",
+      "bytes": 221174
     },
-    "private-techuity/posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/logo.jpeg": {
-      "source": "posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/logo.jpeg",
+    "private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/logo.jpeg": {
+      "source": "posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/logo.jpeg",
       "source_sha256": "ce51b642a0125372f8e2f29da76d3140889781c62bb76ce682e5c51da8eada32",
       "source_bytes": 368495,
       "sha256": "a9c6dfd9ed921d2f418a05a881d1a19b73c0064398978011f22fce71928e60b4",
       "bytes": 126751
     },
-    "private-techuity/posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/two-histories-two-operating-questions.jpeg": {
-      "source": "posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/two-histories-two-operating-questions.jpeg",
+    "private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/two-histories-two-operating-questions.jpeg": {
+      "source": "posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/two-histories-two-operating-questions.jpeg",
       "source_sha256": "c45005a390adafa790bce04cbf6d23646e7dd7974e40c66690356583ea0fc563",
       "source_bytes": 490490,
       "sha256": "c81a8a4f5e24c7c2a7385df99ec77c3040b9ab5b07c989e120851da6d6f23e09",
       "bytes": 194556
     },
-    "private-techuity/posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/sale-result-and-later-outcomes.jpeg": {
-      "source": "posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/sale-result-and-later-outcomes.jpeg",
+    "private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/sale-result-and-later-outcomes.jpeg": {
+      "source": "posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/sale-result-and-later-outcomes.jpeg",
       "source_sha256": "2a102c0e05cfdaacc598e312e02079b521bca32c85fe59ad3db64d3fdbcda5ef",
       "source_bytes": 448036,
       "sha256": "68ca14a0d567794b3de575fbab19efc8915bee4e6fe2d376c5fc6f3807f95755",
       "bytes": 152504
     },
-    "private-techuity/posts/29-visma/assets/images/27-visma/logo.jpeg": {
-      "source": "posts/29-visma/assets/images/27-visma/logo.jpeg",
+    "private-techuity/posts/35-visma/assets/images/27-visma/logo.jpeg": {
+      "source": "posts/35-visma/assets/images/27-visma/logo.jpeg",
       "source_sha256": "50652eddd9747a0d265214fd9f2050dad963683936339900358335b97d475f61",
       "source_bytes": 475174,
       "sha256": "4df13e54d2793ef72f02eb056e9026ddbb67c3f8da575b595ee36a32591a4794",
       "bytes": 166940
     },
-    "private-techuity/posts/29-visma/assets/images/27-visma/continuity-with-changing-investors.jpeg": {
-      "source": "posts/29-visma/assets/images/27-visma/continuity-with-changing-investors.jpeg",
+    "private-techuity/posts/35-visma/assets/images/27-visma/continuity-with-changing-investors.jpeg": {
+      "source": "posts/35-visma/assets/images/27-visma/continuity-with-changing-investors.jpeg",
       "source_sha256": "32207343bce7550376a275e493e3a28da4280ad744bbfa7b90c078650df80074",
       "source_bytes": 667843,
       "sha256": "ef912d1001eee297177ea1ea1d7713568e33ef7415f703c68203c3de1aec90fb",
       "bytes": 231021
     },
-    "private-techuity/posts/29-visma/assets/images/27-visma/repeat-acquisitions-as-capability.jpeg": {
-      "source": "posts/29-visma/assets/images/27-visma/repeat-acquisitions-as-capability.jpeg",
+    "private-techuity/posts/35-visma/assets/images/27-visma/repeat-acquisitions-as-capability.jpeg": {
+      "source": "posts/35-visma/assets/images/27-visma/repeat-acquisitions-as-capability.jpeg",
       "source_sha256": "4f36a796c6a2881680c51c20210af9071a7dde6e07f868aef65990a20f5e6b61",
       "source_bytes": 698152,
       "sha256": "e18d4295585437add0867ec36551c63abf7c51a4189b46b3684653b4bb4600ea",
       "bytes": 266267
     },
-    "private-techuity/posts/30-toys-r-us/assets/images/28-toys-r-us/logo.jpeg": {
-      "source": "posts/30-toys-r-us/assets/images/28-toys-r-us/logo.jpeg",
+    "private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/logo.jpeg": {
+      "source": "posts/36-toys-r-us/assets/images/28-toys-r-us/logo.jpeg",
       "source_sha256": "da8337eb88c0cdeb79bfb1470e00ec00ebc79a631d6b0189600c2bda5b0ab8e6",
       "source_bytes": 444481,
       "sha256": "9130573980ba863ad3c6aebba5c2bfb7913e9f7f16c0b15c6eb8fcfd163481df",
       "bytes": 149949
     },
-    "private-techuity/posts/30-toys-r-us/assets/images/28-toys-r-us/long-term-plan-short-term-cash.jpeg": {
-      "source": "posts/30-toys-r-us/assets/images/28-toys-r-us/long-term-plan-short-term-cash.jpeg",
+    "private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/long-term-plan-short-term-cash.jpeg": {
+      "source": "posts/36-toys-r-us/assets/images/28-toys-r-us/long-term-plan-short-term-cash.jpeg",
       "source_sha256": "bcc0615f2ce50dbc37966ca1763933e586a5fed2ee2784f3f68dd2276c2d520c",
       "source_bytes": 510468,
       "sha256": "0a52c0fcde4f66e2b110923b6021258feb1a270821458f86565e44d9dc73647c",
       "bytes": 195407
     },
-    "private-techuity/posts/30-toys-r-us/assets/images/28-toys-r-us/interacting-business-and-financing-pressures.jpeg": {
-      "source": "posts/30-toys-r-us/assets/images/28-toys-r-us/interacting-business-and-financing-pressures.jpeg",
+    "private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/interacting-business-and-financing-pressures.jpeg": {
+      "source": "posts/36-toys-r-us/assets/images/28-toys-r-us/interacting-business-and-financing-pressures.jpeg",
       "source_sha256": "6967561b556a62385ed20af14f86707d140bdfaa9039c4eb7b85ac6b26721455",
       "source_bytes": 538403,
       "sha256": "a9e5ab4b855d8b70aaf9b546e1e99f7717c53ff7858b16263a560b6c833ddc06",
       "bytes": 219585
     },
-    "private-techuity/posts/31-teamsystem/assets/images/29-teamsystem/logo.jpeg": {
-      "source": "posts/31-teamsystem/assets/images/29-teamsystem/logo.jpeg",
+    "private-techuity/posts/37-teamsystem/assets/images/29-teamsystem/logo.jpeg": {
+      "source": "posts/37-teamsystem/assets/images/29-teamsystem/logo.jpeg",
       "source_sha256": "be186ead7fb7dee52291ea79e600482f2a7705985ce156ad4cc68b426e666c15",
       "source_bytes": 468632,
       "sha256": "ef4e25ad1e1777f140a025ec3c294e0058f7b6d05c8ee7d8510e88201154b79f",
       "bytes": 167314
     },
-    "private-techuity/posts/31-teamsystem/assets/images/29-teamsystem/partial-exit-cash-and-retained-value.jpeg": {
-      "source": "posts/31-teamsystem/assets/images/29-teamsystem/partial-exit-cash-and-retained-value.jpeg",
+    "private-techuity/posts/37-teamsystem/assets/images/29-teamsystem/partial-exit-cash-and-retained-value.jpeg": {
+      "source": "posts/37-teamsystem/assets/images/29-teamsystem/partial-exit-cash-and-retained-value.jpeg",
       "source_sha256": "a979a7d0e10413db9b91722019d2d9b6879a8df25080bc0dcf24b0ceed1fae6e",
       "source_bytes": 594765,
       "sha256": "b18a2050346fb0c3edd0a94e50f17cca4204d3310f5bd3fd323a937f4ccfb7be",
       "bytes": 207568
     },
-    "private-techuity/posts/31-teamsystem/assets/images/29-teamsystem/company-history-across-successive-owners.jpeg": {
-      "source": "posts/31-teamsystem/assets/images/29-teamsystem/company-history-across-successive-owners.jpeg",
+    "private-techuity/posts/37-teamsystem/assets/images/29-teamsystem/company-history-across-successive-owners.jpeg": {
+      "source": "posts/37-teamsystem/assets/images/29-teamsystem/company-history-across-successive-owners.jpeg",
       "source_sha256": "8398462d3afb445ab931fd9de8f49d0fb7c6309a3ae9c924c1bd3205c6796f65",
       "source_bytes": 644973,
       "sha256": "71cff5aafdeb202b7116f737c2842e075a01e22e5a2f8a82458674cd7f145aaa",
       "bytes": 223042
     },
-    "private-techuity/posts/32-success-for-whom/assets/images/30-success-for-whom/logo.jpeg": {
-      "source": "posts/32-success-for-whom/assets/images/30-success-for-whom/logo.jpeg",
+    "private-techuity/posts/38-success-for-whom/assets/images/30-success-for-whom/logo.jpeg": {
+      "source": "posts/38-success-for-whom/assets/images/30-success-for-whom/logo.jpeg",
       "source_sha256": "7b949c372c05693cc9499ef427ea5bed1ba35a170743f6d009df8bea1171899a",
       "source_bytes": 635528,
       "sha256": "92a411e6ac54785f4449da47ca3e4cc7edce8aae4916c316c7fc26aefd05bd29",
       "bytes": 210776
     },
-    "private-techuity/posts/32-success-for-whom/assets/images/30-success-for-whom/separate-stakeholder-outcomes.jpeg": {
-      "source": "posts/32-success-for-whom/assets/images/30-success-for-whom/separate-stakeholder-outcomes.jpeg",
+    "private-techuity/posts/38-success-for-whom/assets/images/30-success-for-whom/separate-stakeholder-outcomes.jpeg": {
+      "source": "posts/38-success-for-whom/assets/images/30-success-for-whom/separate-stakeholder-outcomes.jpeg",
       "source_sha256": "5b582a1db20aa9e8de5f1607fce28756e8f854767002f600ef008156c9fec25c",
       "source_bytes": 692045,
       "sha256": "e0c5f3fa90fd26a56dfffe2eb0e071b0b080726e730e00b4cb227bf7b5de345c",
       "bytes": 319444
     },
-    "private-techuity/posts/32-success-for-whom/assets/images/30-success-for-whom/value-that-can-continue.jpeg": {
-      "source": "posts/32-success-for-whom/assets/images/30-success-for-whom/value-that-can-continue.jpeg",
+    "private-techuity/posts/38-success-for-whom/assets/images/30-success-for-whom/value-that-can-continue.jpeg": {
+      "source": "posts/38-success-for-whom/assets/images/30-success-for-whom/value-that-can-continue.jpeg",
       "source_sha256": "e8680c908c5518c3d644766de6d0151ecc7798a400f70b88da633cf3f3b499ab",
       "source_bytes": 664827,
       "sha256": "6669fac4a2825ea39740260f654036d6ee6fd4cbc5be3db05647595a1a70dc02",
@@ -1343,34 +1614,6 @@
       "source_bytes": 632720,
       "sha256": "3f974fd301e73579e7c925f25d5eb172fd5f98835ff598e9e6086224fdb1866d",
       "bytes": 213636
-    },
-    "private-techuity/posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/logo.jpeg": {
-      "source": "posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/logo.jpeg",
-      "source_sha256": "e10ed1647236704570a5c80f77024c9048d5dc7b5e3aa8b9bec364f61b003f4d",
-      "source_bytes": 694420,
-      "sha256": "907ba442693d533892229b23ca0149c652ffbb33b23e0a4317eaa57fba9f0ca2",
-      "bytes": 258398
-    },
-    "private-techuity/posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/three-areas-one-foundation.jpeg": {
-      "source": "posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/three-areas-one-foundation.jpeg",
-      "source_sha256": "1fa3c9122f256f28da18487579a1895c4390489e31d73da0a3000de2f1f847ee",
-      "source_bytes": 621613,
-      "sha256": "3bf549435d8d9fb5962254d1d6e4c24cd3fe831c2a7b35267b513c16cc62001c",
-      "bytes": 269074
-    },
-    "private-techuity/posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/four-kinds-of-number.jpeg": {
-      "source": "posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/four-kinds-of-number.jpeg",
-      "source_sha256": "c4e4eb3776966e6032f8ea26c47eaaf14c39212c2ed78e6b3db557bb8bd873f6",
-      "source_bytes": 508092,
-      "sha256": "7da884b0c2a4ed3c6b2bd7949288bdfbaabbef9e24054436845ca9cce4019119",
-      "bytes": 184863
-    },
-    "private-techuity/posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/internal-and-shared.jpeg": {
-      "source": "posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/internal-and-shared.jpeg",
-      "source_sha256": "e1a298d46f1708a700f3345d55589b2d044800315d2d53201d006171207da31a",
-      "source_bytes": 555032,
-      "sha256": "f35f39beceedde89a8f7c1495d27a32270d16d078c3c9942cf86f3caa68f8359",
-      "bytes": 229275
     },
     "private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg": {
       "source": "posts/toolkit/assets/images/toolkit/logo.jpeg",
@@ -1437,57 +1680,62 @@
     }
   },
   "counts": {
-    "articles": 47,
-    "chapters": 41,
-    "parts": 6,
-    "resources": 141,
-    "crosslinks": 1190,
+    "articles": 53,
+    "chapters": 45,
+    "parts": 8,
+    "resources": 168,
+    "crosslinks": 1287,
     "mermaid_diagrams": 2,
-    "source_resource_bytes": 84978346,
-    "resource_bytes": 43445074,
-    "manuscript_bytes": 45095742
+    "source_resource_bytes": 96774315,
+    "resource_bytes": 48225859,
+    "manuscript_bytes": 50106230
   },
   "skipped_config_entries": [],
   "warnings": [],
   "generated_files": {
-    "Book.txt": "a686eaa666ed4d4078466dd57c2bd4ccc102b35da33f29c157d452349d04f619",
-    "acquisition-adds-work-first.md": "25e6925d2fb57458e546d0eaaf7a80ee7a8f1362a4e09e2e438622f52903aa47",
-    "ai-strategy-three-questions.md": "bcc74451ca1728b059d2a07efd34c14dcb2b83bc8d6a8260443595816ac8f0d6",
-    "anatomy-of-a-layoff.md": "2e28d6d1fdda51fea66c275a8cd168171f569f9cf45f129baee6ab60683726e2",
-    "announcement-is-not-a-budget.md": "e2552765eb6b9378cbe65009372aa3d899e75be0877f67354b20f001da61da56",
-    "bibliography.md": "7174965eeb7dadb5be8512ff1684bf70bfe00677369009dfac502925c7ed0584",
+    "Book.txt": "ff596f5f5a155ceb7f8b76efb450db4ea311762385c0b87ac91ee3815f9b4964",
+    "acquisition-adds-work-first.md": "8e0f799a5ecb69153b487ff85d150249223b5b113b1658ecb17e2b1f91824aea",
+    "adopt-outcome-thinking.md": "8cfc5a47ff9cc7c67553f573a713d6353e3cbeef558448f25a824a09af4ed187",
+    "ai-strategy-three-questions.md": "b83ff4fb3c1303264632b0eb17abbd79074a74c2a7373d5a076786ee9fa9abf0",
+    "ai-worth-its-cost.md": "a96e91b11bcd98c48d34eb542afdde5624830e16d17682a57e6bfdc54fec5642",
+    "anatomy-of-a-layoff.md": "dcdaf3821079fc17f8f4012ba1009e1c61a326cbda246e6f74467aa9a0447418",
+    "announcement-is-not-a-budget.md": "9ad12ddb618963cd66e2f2e06cc83628af894be17ef79e5bdd206d850b4b357a",
+    "bibliography.md": "ed423b5e7024ab152c413a0e34268192369046f06360902534df6ee94ab8533b",
     "book-title.md": "aaa192fba1bcb82b08761ec72fcefb78e21eb9f29bef301c50ca3e015b7f33ec",
-    "can-the-team-deliver.md": "1764e96c0112193ec40ed8e6ccb6278c415e3ccf21eceec5acb50c4ed9dac2cb",
-    "cannot-fund-everything.md": "55e2a23c96c5a2a28fa4f06e1377610dd646c698205f601999e0cf2a83c5272a",
-    "cheaper-cloud-bill.md": "dbacce06a16524039ed45686022beed69c3d6bf01dcf993823bc3e87b8ecc8a2",
-    "customers-lenders-investors.md": "c136b7f7c2bacefc6e981bd359cd925d10646912bd808e1774aa36cb4930d62d",
-    "data-foundations-for-alignment.md": "abf82c704e9189dffef03e0034585ff8fdba738f3a99191dc35df6f1f0a71b42",
-    "decide-who-decides.md": "8cc0aeb55d4b2c46f844d0fdba660f4b29da9a294f5995b5398a20450a027d58",
-    "different-bets.md": "0c94b1bf80589ebd163cc2d39da0d51f3cd0116ecf5550fe79f6ebf659fedddd",
-    "diligence-corrects-the-plan.md": "7309ff7d9203383cb3230ae55eb9e66239ee74a5a7c045e76fbb1a9858cd595b",
-    "first-hundred-days.md": "655fa5657ca1fb5ddeee68e7a8cd5336d478bc00862a76cc07de5778a9e14c84",
-    "fix-decisions-before-hiring.md": "f263a929b377840c79102eed0dd1f599936521b321bf86de9ad56bd10a113d7b",
-    "fund-economics.md": "3255d86a4dc8c7184ac1ff7f13b415caf2e2876ee0e2f86231eaea3ecc5c1f4f",
-    "glossary.md": "d40f040ba1f25bee31e72535645ed4cbcf43a09f766fbfa365268ce9d7ce811a",
-    "grounded-architecture-portfolio.md": "b242965776ebf64a69263e50184e5e12a2967c04fe26edccd40001f043cf683c",
-    "growth-into-design.md": "a025317431884a882484f0f5778a2a338ab7e2c4d5746e7c42a05f73f7f0f572",
-    "handover-of-obligations.md": "2b5dc609c78412a55b18b78256db4d1805bf3a54405044c72a2c64d8ab122acd",
-    "help-that-changes-capability.md": "ca9031b571a0e888e5d2595e6a1254991f0eea43883b7f9dd4dfc9babd923cd4",
-    "hilton-and-skype.md": "218e0b1de82f1c2c26fca4dbac9fff34b408ed6e249227e11914a25a48c5853e",
-    "introduction.md": "fa75033e8cc68ef1ec033a59d7b90d54407ed51d882418d6847df4638f1b31b9",
-    "investor-under-pressure.md": "3fd4052670531992c373cd0644a5f7f95e9111c3ccecade5d3e0e720f1d68dce",
-    "investors-adviser.md": "88d12e361bbadd0a17f0fee7e211c5523adfd2c08b6ec36d1eb0f2518db7ab9f",
-    "learn-through-investors-network.md": "c3cfda58757ba363213cb3308ede8d6856e7b8b7db7c171aa89114b2081881f6",
-    "obligations-before-budget.md": "de5ee4f04d7af4b0b3eccb98f627eb3eac68a1d4df852a980911daa62fd670e7",
-    "operating-model-blueprints.md": "97bfeee1250d1e80950994c2f9151e313fa0d3cc33514fd8a3e96025ace42f09",
-    "part-1.md": "6831d6c9646412a16e1716f1141f0eba694fdf46bf209805251c39c438b56099",
-    "part-2.md": "767cd6d5f98aadf0aedc8237faae45b8a47e0d1c6e39a3307d2a90ea3428aa6a",
-    "part-3.md": "ff6fc6151754d19ff8027d7259410c8d3e8ea26c9008e18c717e743216d277c4",
-    "part-4.md": "ada10bbbab46435dc1856eecc2edc5bf29f40b17e0801ceb464529f61c58506e",
-    "part-5.md": "35be7475be0197b3ecd961f96b271464dbff6944aea3ad6600aa80d8c4af0bfa",
-    "part-6.md": "072cececb2f3dcb0affabb7727c917fbcf1b5611482133723f82674cf01e7e7c",
-    "prove-you-can-restore.md": "24a040b2d32acfb2b82af80d23a3c1106443feb618f546a7edc87e515467b728",
-    "raise-what-you-need.md": "29041cb51e2e595803d5e135d40251869fcd8339f80af4581458471a573faa11",
+    "can-the-team-deliver.md": "23dcb38c5523ea8fb4edf38ef3af057e538e745db1bd272d44adfdbbdb82ccd9",
+    "cannot-fund-everything.md": "58a8c15f1259ba6014410d9b683347ea110291945d84251c84b141bc9bb7ac2a",
+    "cheaper-cloud-bill.md": "3d2a56466c2d6c91283e2f441c0e59f0af04732d328a9d30803b0d3bf9165a37",
+    "customers-lenders-investors.md": "7e9ccfbe7d9934c7a24b72f58f1f6d5959bb24d00448738b607bdb161358f14d",
+    "decide-who-decides.md": "dc4c028c56459059cf479545f7e3981e611c0623b06a37acaa0880a44630dedd",
+    "different-bets.md": "90df83369ecfcd43efc99841f262b1d2b5e393c1d05f419aebdef9f6ca22a568",
+    "diligence-corrects-the-plan.md": "aa13257f8473f2dab4ee5c8f1082535c961d840dcb010f0761abd66aed3c7210",
+    "first-hundred-days.md": "61a2fe4d27e60391b9f8d7a4a94a4e8d97c39d692176d6cbf3e94b529ed42630",
+    "fix-decisions-before-hiring.md": "40421dab07a748df7df3b613fa86a721d38f72c395cad7e20903b7acca8a3dec",
+    "fund-economics.md": "0a6cc7e5a87c4d730b29d9f3e978c43af0d33bd2c0f52a14218ddb05f852187c",
+    "glossary.md": "6f266f4f5fd3bf601dec6a7d5560157d4d92e95163ba8da41016eff96526faed",
+    "grounded-architecture-portfolio.md": "0191f48702d9c7e30f321df211f266157f03843a1488bba41ced862b545803ae",
+    "growth-into-design.md": "0961db593cb00af2165fe85cf1fe35c41b1b73e917e6f55b5de5f7fae5df487e",
+    "handover-of-obligations.md": "82e2028b1092de5d98d92a3d38dbb532216399d4417d3ec64b80cf8acaa907f4",
+    "have-your-numbers-ready.md": "8b708bc15789d5190f3021cab7884bab913c1b21529de4a67e4e7776f716137b",
+    "help-that-changes-capability.md": "7d5cbadc6c165ade50e2e96183a2e9a0650bedcc0e14aaa1e94b822f258e3c95",
+    "hilton-and-skype.md": "7905f9741d7e91bcafa0a54a8291cd6512a7a02ecda5948291b70f4bdfee4c93",
+    "introduction.md": "8419e106d6a3ac5ac3635d4fdd0d6913b68dc00158457ed29cb6e6dc0eb371d6",
+    "investor-under-pressure.md": "c114f01ff616a4133c5d89ad57dc5147c82a7b70c32c4aec6ce0576166aac983",
+    "investors-adviser.md": "b532fe88d1fd4bb0b9aa3720b331bedf9727b877d23e87fbf3f42c78b2c2e407",
+    "learn-through-investors-network.md": "2ba8cd900bcd3ea17034de702fb359ff1c49c100b84cc49413c4f411b184a04b",
+    "manage-technical-debt.md": "2b0ed74038615e40b2781742c82d0f72e651bd810a779bea82ee7800b6c3114e",
+    "obligations-before-budget.md": "5af8c78c2153db9c83c1594176b9798ccae67f55140dec6d9982c7b330cec168",
+    "operating-model-blueprints.md": "465bc42793fa7969eb18a4981a0805a7ba88f31125fc07d138a19a9efe25ff98",
+    "part-1.md": "a52689df80c6ca7d6c489e2e00b3c23af92ab40651cd8a01b94322a2f7952bbb",
+    "part-2.md": "d668fd3561d25593ef769a5592ba12e7d06da9b226a998aa9ca47cf9659c03f6",
+    "part-3.md": "83ccc0fe657c5ca35590904a9bacd8422b5e19208c48868ec60a8d4a4aa1a386",
+    "part-4.md": "39f233608d1e7216adb64882820d76fac1e512b1d20e8aceaa416c8336b7f04c",
+    "part-5.md": "60a64a4d9fe7699381ada30b957535217d4bc2342b60e46fa731a501ff894e13",
+    "part-6.md": "db254a05e27ecc32c3511a299eab1fd5ac9bf0e74b3886aafd5a985627d41bc7",
+    "part-7.md": "c6faa3a1fab7d4ba0628075c613a2592f0383effb990b14e9b4e8a61156c1bce",
+    "part-8.md": "93a5a8392407a441a051d3a3ab0f21b0a312ff19ca475973f22a73abf41560b3",
+    "prove-you-can-restore.md": "5720c94baee7d283203a7db6732b64d167b0a8066527e224d223699859fa3cf9",
+    "raise-what-you-need.md": "da38086aac209b3a2dbf42596886030776f71f5eb807c8ddf1d9d30b75eca174",
     "resources/private-techuity/assets/pexels-chairs-2181916.jpg": "4559f7c7eceb355d17cd2d3847e984a6ad7b2609634b1d4d12401cb3a5c6d095",
     "resources/private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/cash-arrives-with-obligations.jpeg": "74be84568c84c682562756c599fe846aa3654a855ba3196488d93c482d59c2ef",
     "resources/private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/logo.jpeg": "bc16d80818c1177a60d8e9a29d0ae1db6d65459517c0162606d1b17c42ca551b",
@@ -1505,6 +1753,7 @@
     "resources/private-techuity/posts/04-raise-what-you-need/assets/images/04-raise-what-you-need/logo.jpeg": "af123356c5d176f4273a93cf329e48b969ea02cc5e017457c7c7ce73a4c465f4",
     "resources/private-techuity/posts/04-raise-what-you-need/assets/images/04-raise-what-you-need/one-product-different-funding-plans.jpeg": "c7ea06f1e88ce1e425022aa74ebb545a5b5dffec8e5abb12cc741539deb98c4f",
     "resources/private-techuity/posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/earnings-to-dated-cash-plan.jpeg": "00f37ba2f6320e553d420b150163936bd6d94fb4cba1e840bca53a2c14dbfc39",
+    "resources/private-techuity/posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/ebitda-capex-working-capital.jpeg": "bcdcbb93df011d84649662952992e2a469bcf96b191c7decc7f041c61aab0cf2",
     "resources/private-techuity/posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/logo.jpeg": "eebb9f7174f4d0e01c20492396c3d3d0247afc52f9c1e926218497af0ecb27c6",
     "resources/private-techuity/posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/runway-and-funding-decision.jpeg": "cf57b4c0771d1cb415657c244ba40df791aff5f74d5b70657eb1d02714307ace",
     "resources/private-techuity/posts/06-decide-who-decides/assets/images/06-decide-who-decides/conditional-commitment-gates.jpeg": "cfa6aa5cea907f3cbbc4799266772a07a57c98d44ed7a7e67a9ea2981001b13e",
@@ -1516,91 +1765,113 @@
     "resources/private-techuity/posts/08-investor-under-pressure/assets/images/08-investor-under-pressure/company-and-investor-calendars.jpeg": "cd670a61c662c8a2b914023276273e78fb5a9e742c57594f13a78238fed1dc0a",
     "resources/private-techuity/posts/08-investor-under-pressure/assets/images/08-investor-under-pressure/logo.jpeg": "ece4a757c3517e3b7906541e2a1177a5784428665046fe4b864d83f69e40fc97",
     "resources/private-techuity/posts/08-investor-under-pressure/assets/images/08-investor-under-pressure/test-support-under-pressure.jpeg": "0b7595291605c8cb835ea6dd1c5ac3a041ec96c8d02a649dcaedc8d209d1d9f3",
-    "resources/private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/logo.jpeg": "abb90108784023155a834cdf034b2910f269c474cffdd9e5565459f59567d60a",
-    "resources/private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/money-and-capacity-two-limits.jpeg": "3066bb5f6e2629e4463abf5600fd0d7cfaa8bf110f02019d0726ec08ae67d93c",
-    "resources/private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/staged-investment-with-review.jpeg": "3bacbb4477ba8ac9607b886f15853cf2db4b711e5f2105af52846442c2d1747d",
-    "resources/private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/check-what-explains-the-result.jpeg": "ce71a81782adf4435a84df385434f07989262f3a2ba981dbf9533b392572f44d",
-    "resources/private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/freed-time-conversion-plan.jpeg": "80ae3e1cc7c3639c71368d3655e48f1e1021ec8368733b456a86b1b770c0df7c",
-    "resources/private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/logo.jpeg": "2e353115c3aa27df37d1fa60659ce043e5aea37456546c2a71c3edb959d0b9e3",
-    "resources/private-techuity/posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/business-need-to-system-choice.jpeg": "ba0dedcd9a1d90d8798be6c170280c3a1b3ecc225b3d3f2877b23129d0baf5b7",
-    "resources/private-techuity/posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/fund-the-system-overlap.jpeg": "d285c73847012e886427dc048a8f4d99b8a1f66c778d0fa7c80cc8dc79bab85d",
-    "resources/private-techuity/posts/11-can-the-team-deliver/assets/images/11-can-the-team-deliver/logo.jpeg": "c58f42222e0b6607623a4a9aef379b29bf50f74cdb09fc5312333abf55d6988a",
-    "resources/private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg": "aa3d61a9c2df341e9034df41e3d0607407c4f7344b072bccebc8b028cbd75f69",
-    "resources/private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/logo.jpeg": "e9fd0f503b4de7738af018beae853fc45fac185ae2d72d9478a4607821190ec6",
-    "resources/private-techuity/posts/12-fix-decisions-before-hiring/assets/images/12-fix-decisions-before-hiring/work-crosses-team-boundaries.jpeg": "08b2e142e0461d360b7f6448719b7c4d6529f49a9740f93e6294f4883adc2c31",
-    "resources/private-techuity/posts/13-growth-into-design/assets/images/13-growth-into-design/business-priorities-design-tradeoffs.jpeg": "41c41cbe84971cd64d9cabb6b23be803cebf3920917225dcb6c396aa48616166",
-    "resources/private-techuity/posts/13-growth-into-design/assets/images/13-growth-into-design/cash-before-benefits.jpeg": "141ab3d1b23492e24adc473021851d03f90491b4b7df299734fa914e2a1a0abc",
-    "resources/private-techuity/posts/13-growth-into-design/assets/images/13-growth-into-design/logo.jpeg": "4613db5970aefc21641e43c95b8d01f2031773ef2c10840e43f96a3797ff8e38",
-    "resources/private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/fixed-commitment-changing-demand.jpeg": "48a09e67e3820cafea3374290357e861a7f8ea570f8802897c34fc110d882ec9",
-    "resources/private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/logo.jpeg": "22c227abb65096920b396b06588e4ef94aab15dd0749e1c93cf2db712ac4e7a6",
-    "resources/private-techuity/posts/14-cheaper-cloud-bill/assets/images/14-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg": "1d6193001f96362b4887cd9d2a3d796342375ba2f68073b1320b67e5661e669a",
-    "resources/private-techuity/posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/incident-restoration-practice.jpeg": "e927b7a274bcbc8ccfb346c9da9fa9a597735e7127d68bba195cf4b429974a5f",
-    "resources/private-techuity/posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/logo.jpeg": "f0ae2f49dd0e0798058b093b9c194c0e3e5bd15ed7cdc54d73ae64c80264f119",
-    "resources/private-techuity/posts/15-prove-you-can-restore/assets/images/15-prove-you-can-restore/security-claims-and-proof.jpeg": "7147bc1fb7bc3d9189fa60f5410921d0a7ab9ccfd15c10d098c77f5d0a247704",
-    "resources/private-techuity/posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/logo.jpeg": "116361695797767436dc45b865f97a2523fadb43fc72186ad4a82e6804c7fcd6",
-    "resources/private-techuity/posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/measure-the-whole-ai-workflow.jpeg": "b801e2de4642fe5098bb04330735213c5c5db4ed863ca162e8a65b24f1bcc607",
-    "resources/private-techuity/posts/16-ai-strategy-three-questions/assets/images/16-ai-strategy-three-questions/three-ai-investment-questions.jpeg": "6b89c4a95e301b62fb425de2810c9900d7178f8f9e0f2a2a1415823e4a8c4ebc",
-    "resources/private-techuity/posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/carveout-hidden-dependencies.jpeg": "6b289b3547636c22f095fdd0ba212704a8e37f1320173dbcd708ea0e9d1b68ed",
-    "resources/private-techuity/posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/integration-depth-by-benefit.jpeg": "63a2a65f1714c81f9128db54aa47116f64bb28a0135be9ee70e7cad81db3fd8d",
-    "resources/private-techuity/posts/17-acquisition-adds-work-first/assets/images/17-acquisition-adds-work-first/logo.jpeg": "5cb640e929e0a402dbec9253b5ccbcc195132d7df01be59fe2f9bb44bc12f011",
-    "resources/private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-1-board-oversight.jpeg": "2885975dc4e9783247de06107488addd2a9168898adae0c1d6e305efed1bad4b",
-    "resources/private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-2-operating-adviser.jpeg": "3d881aaca6f6657619ae9f1a765fcb5ceba3e2e6bc49a3473dc8277c5df893eb",
-    "resources/private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-3-shared-specialists.jpeg": "279a1041fa7014634579017f016536b2e8cb29ae19040b73f78c2689f1fd56b8",
-    "resources/private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-4-dedicated-execution.jpeg": "2c2fe8de84ccbccf15a14d101efe12a4190799a7b03543c3bca36ca4026564ae",
-    "resources/private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/four-needs-four-contributions.png": "6aa8c059f867eaaaccfd18bb67f6dcd64856e429946f96e03ebf64790ec95021",
-    "resources/private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/logo.png": "aacd520d8ac183d8aeedfc7da4ea9b19b6d43d2242729c4fa718cabb236550f1",
-    "resources/private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/pilot-review-and-handover.png": "614af84b830dbd99ee58719e6ad70a352e8055106415302db3567b086b47f62d",
-    "resources/private-techuity/posts/18-operating-model-blueprints/assets/images/operating-model-blueprints/two-connected-operating-models.png": "f1c8b082f69844feb15c0ce6116e48f1f44c521593f51d0933c32752588a4aca",
-    "resources/private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/bring-the-question-home.jpeg": "04f1d54d49f156d1cdeb566707b6937614ce17619cafbbf081f1cc36418df248",
-    "resources/private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/connections-to-learning.jpeg": "fb1ed1948f08e19b508569097a25e2b858e8e679f0827914e84751a215cfc4ea",
-    "resources/private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/logo.jpeg": "ef06d529d49f001708b33e85e104225608bc5d9cda1eb567b2f2c56f636c5945",
-    "resources/private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/resources-and-peer-conversations.jpeg": "cb4b1109f0ea7093fa927090a6d2f42f026d8533d56366a984f76c99a77b59c0",
-    "resources/private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/logo.jpeg": "15b0f184bedd6fc8d4517313549532880b6d8ecbb2fe47e27c21dd152541048e",
-    "resources/private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/need-before-support-source.jpeg": "9bf19106265e8d73c7c5f058a39b12c41db613e1f0e321400e7f82d35174ce90",
-    "resources/private-techuity/posts/19-help-that-changes-capability/assets/images/19-help-that-changes-capability/support-builds-internal-capability.jpeg": "ddd254ee7af0f32e14ff9c0775d1bf4d9cfb0ad6fda2418ed833f552e00859b4",
-    "resources/private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/logo.jpeg": "f18e9d308020cde0bc2f0935dc6db5b5908a3b9e435cc42dc9e26e27c764715d",
-    "resources/private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/support-engagement-agreement.jpeg": "57fdea10e2de27db1696e40012420d6c197cd192a643e688158bcca7f615368a",
-    "resources/private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/three-useful-support-endings.jpeg": "77e3b6e23f0158bb56b1d67d77dce689ccb74c5b5109db5e845f6c28297adf49",
-    "resources/private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/advice-and-accountability-boundary.jpeg": "b1b5e2c03f7647a026936db047e372ebd7934cf486022911994af2e4772ac1f5",
-    "resources/private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/logo.jpeg": "17f9dc68430f4a2785bb30bcce5dc79a7ee2b9eedc232ac6f16c54fe93151e6b",
-    "resources/private-techuity/posts/21-investors-adviser/assets/images/18-investors-adviser/three-adviser-jobs.jpeg": "3dcec7b48ecb62e7f8cc491cc8c6e4421e4ed2503874782e2c6c5bd331876826",
-    "resources/private-techuity/posts/22-tech-operating-partner/assets/images/tech-operating-partner/capability-before-recruitment.png": "11aa0153f74c592b6fe38159ffb3adf24e730bd4592578616ec04d8025c9ea2b",
-    "resources/private-techuity/posts/22-tech-operating-partner/assets/images/tech-operating-partner/logo.png": "5c3b5037fd51c029d3fd0ed35cc703559c3329cc9aa823e70c1287bb309f2c31",
-    "resources/private-techuity/posts/22-tech-operating-partner/assets/images/tech-operating-partner/portfolio-support-and-company-leadership.png": "79a19c86a6632f02c990b8aadb86e94c5d184d1891c780704ad9eacf2b339ca6",
-    "resources/private-techuity/posts/22-tech-operating-partner/assets/images/tech-operating-partner/shared-ai-expertise-different-decisions.png": "e33ea81e25bf69b7227d8a7dee68561a0a689e7b8e2bb4ade01caa0ad274758c",
-    "resources/private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/finding-to-funded-action.jpeg": "1f95640171c384a96490c0aa1be7cdb01406448dffa7ee08aae150c11de1ae17",
-    "resources/private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/investment-assumption-to-evidence.jpeg": "d378c9ee9ce6ce89e8d0846b146d6557296ba2942cda947699d27c7d0e813749",
-    "resources/private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/logo.jpeg": "b077c6def1ef075103d65a0ee8497a54e238887fa6fe7f8f32a65a1ce3e21523",
-    "resources/private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg": "57939757e887bffb42dd620aa3c8c0307fc78569c50a811a95ecb531c9ac724e",
-    "resources/private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg": "3fc0ba048d0266f5ff3af6513667dbdd368ea2ca73a5c529ba56410bfa4e231f",
-    "resources/private-techuity/posts/24-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg": "0e1c41107119c1fdb0825636fc9f6ecc05e9f0279832f21d7c28772d8ea22186",
-    "resources/private-techuity/posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg": "a7aa235bf9f9daea08efc97ccc10144b93f967b5c4edc443b8feed0c450621b6",
-    "resources/private-techuity/posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/logo.jpeg": "d8c7df33554661b3dd5489a610a65218a5e0a08f6576a97ca61362d1e56298be",
-    "resources/private-techuity/posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/ownership-paths-and-replanning.jpeg": "dd9658647c9be35d9d7a4650115ecb12f1ea941d2126e3eb6a951ff13723a68d",
-    "resources/private-techuity/posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/cash-by-date-under-three-plans.jpeg": "55d4fd978e592fb1a06cbb172f714595d0644a9a73bd372b63bd5c409ce5252e",
-    "resources/private-techuity/posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/logo.jpeg": "fd94703b319f2f0e60f4cafb3d8dbb6598b75de91adfb2ffdb0c2bb91808043f",
-    "resources/private-techuity/posts/26-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/team-by-work-before-and-after.jpeg": "83f181196fdab500d981bf25873965ddafc8cb3c8d11d4312c6c3947b9c29e13",
-    "resources/private-techuity/posts/27-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg": "0b2fc792dd949667b500d2c4f471f5655c4aee88cba61da2ec48bbc6a7b4c1e9",
-    "resources/private-techuity/posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/logo.jpeg": "a9c6dfd9ed921d2f418a05a881d1a19b73c0064398978011f22fce71928e60b4",
-    "resources/private-techuity/posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/sale-result-and-later-outcomes.jpeg": "68ca14a0d567794b3de575fbab19efc8915bee4e6fe2d376c5fc6f3807f95755",
-    "resources/private-techuity/posts/28-hilton-and-skype/assets/images/26-hilton-and-skype/two-histories-two-operating-questions.jpeg": "c81a8a4f5e24c7c2a7385df99ec77c3040b9ab5b07c989e120851da6d6f23e09",
-    "resources/private-techuity/posts/29-visma/assets/images/27-visma/continuity-with-changing-investors.jpeg": "ef912d1001eee297177ea1ea1d7713568e33ef7415f703c68203c3de1aec90fb",
-    "resources/private-techuity/posts/29-visma/assets/images/27-visma/logo.jpeg": "4df13e54d2793ef72f02eb056e9026ddbb67c3f8da575b595ee36a32591a4794",
-    "resources/private-techuity/posts/29-visma/assets/images/27-visma/repeat-acquisitions-as-capability.jpeg": "e18d4295585437add0867ec36551c63abf7c51a4189b46b3684653b4bb4600ea",
-    "resources/private-techuity/posts/30-toys-r-us/assets/images/28-toys-r-us/interacting-business-and-financing-pressures.jpeg": "a9e5ab4b855d8b70aaf9b546e1e99f7717c53ff7858b16263a560b6c833ddc06",
-    "resources/private-techuity/posts/30-toys-r-us/assets/images/28-toys-r-us/logo.jpeg": "9130573980ba863ad3c6aebba5c2bfb7913e9f7f16c0b15c6eb8fcfd163481df",
-    "resources/private-techuity/posts/30-toys-r-us/assets/images/28-toys-r-us/long-term-plan-short-term-cash.jpeg": "0a52c0fcde4f66e2b110923b6021258feb1a270821458f86565e44d9dc73647c",
-    "resources/private-techuity/posts/31-teamsystem/assets/images/29-teamsystem/company-history-across-successive-owners.jpeg": "71cff5aafdeb202b7116f737c2842e075a01e22e5a2f8a82458674cd7f145aaa",
-    "resources/private-techuity/posts/31-teamsystem/assets/images/29-teamsystem/logo.jpeg": "ef4e25ad1e1777f140a025ec3c294e0058f7b6d05c8ee7d8510e88201154b79f",
-    "resources/private-techuity/posts/31-teamsystem/assets/images/29-teamsystem/partial-exit-cash-and-retained-value.jpeg": "b18a2050346fb0c3edd0a94e50f17cca4204d3310f5bd3fd323a937f4ccfb7be",
-    "resources/private-techuity/posts/32-success-for-whom/assets/images/30-success-for-whom/logo.jpeg": "92a411e6ac54785f4449da47ca3e4cc7edce8aae4916c316c7fc26aefd05bd29",
-    "resources/private-techuity/posts/32-success-for-whom/assets/images/30-success-for-whom/separate-stakeholder-outcomes.jpeg": "e0c5f3fa90fd26a56dfffe2eb0e071b0b080726e730e00b4cb227bf7b5de345c",
-    "resources/private-techuity/posts/32-success-for-whom/assets/images/30-success-for-whom/value-that-can-continue.jpeg": "6669fac4a2825ea39740260f654036d6ee6fd4cbc5be3db05647595a1a70dc02",
+    "resources/private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-1-board-oversight.jpeg": "2885975dc4e9783247de06107488addd2a9168898adae0c1d6e305efed1bad4b",
+    "resources/private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-2-operating-adviser.jpeg": "3d881aaca6f6657619ae9f1a765fcb5ceba3e2e6bc49a3473dc8277c5df893eb",
+    "resources/private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-3-shared-specialists.jpeg": "279a1041fa7014634579017f016536b2e8cb29ae19040b73f78c2689f1fd56b8",
+    "resources/private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/blueprint-4-dedicated-execution.jpeg": "2c2fe8de84ccbccf15a14d101efe12a4190799a7b03543c3bca36ca4026564ae",
+    "resources/private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/four-needs-four-contributions.png": "6aa8c059f867eaaaccfd18bb67f6dcd64856e429946f96e03ebf64790ec95021",
+    "resources/private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/logo.png": "aacd520d8ac183d8aeedfc7da4ea9b19b6d43d2242729c4fa718cabb236550f1",
+    "resources/private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/pilot-review-and-handover.png": "614af84b830dbd99ee58719e6ad70a352e8055106415302db3567b086b47f62d",
+    "resources/private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/two-connected-operating-models.png": "f1c8b082f69844feb15c0ce6116e48f1f44c521593f51d0933c32752588a4aca",
+    "resources/private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/bring-the-question-home.jpeg": "04f1d54d49f156d1cdeb566707b6937614ce17619cafbbf081f1cc36418df248",
+    "resources/private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/connections-to-learning.jpeg": "fb1ed1948f08e19b508569097a25e2b858e8e679f0827914e84751a215cfc4ea",
+    "resources/private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/logo.jpeg": "ef06d529d49f001708b33e85e104225608bc5d9cda1eb567b2f2c56f636c5945",
+    "resources/private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/resources-and-peer-conversations.jpeg": "cb4b1109f0ea7093fa927090a6d2f42f026d8533d56366a984f76c99a77b59c0",
+    "resources/private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/logo.jpeg": "15b0f184bedd6fc8d4517313549532880b6d8ecbb2fe47e27c21dd152541048e",
+    "resources/private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/need-before-support-source.jpeg": "9bf19106265e8d73c7c5f058a39b12c41db613e1f0e321400e7f82d35174ce90",
+    "resources/private-techuity/posts/11-help-that-changes-capability/assets/images/11-help-that-changes-capability/support-builds-internal-capability.jpeg": "ddd254ee7af0f32e14ff9c0775d1bf4d9cfb0ad6fda2418ed833f552e00859b4",
+    "resources/private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/logo.jpeg": "f18e9d308020cde0bc2f0935dc6db5b5908a3b9e435cc42dc9e26e27c764715d",
+    "resources/private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/support-engagement-agreement.jpeg": "57fdea10e2de27db1696e40012420d6c197cd192a643e688158bcca7f615368a",
+    "resources/private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/three-useful-support-endings.jpeg": "77e3b6e23f0158bb56b1d67d77dce689ccb74c5b5109db5e845f6c28297adf49",
+    "resources/private-techuity/posts/13-investors-adviser/assets/images/18-investors-adviser/advice-and-accountability-boundary.jpeg": "b1b5e2c03f7647a026936db047e372ebd7934cf486022911994af2e4772ac1f5",
+    "resources/private-techuity/posts/13-investors-adviser/assets/images/18-investors-adviser/logo.jpeg": "17f9dc68430f4a2785bb30bcce5dc79a7ee2b9eedc232ac6f16c54fe93151e6b",
+    "resources/private-techuity/posts/13-investors-adviser/assets/images/18-investors-adviser/three-adviser-jobs.jpeg": "3dcec7b48ecb62e7f8cc491cc8c6e4421e4ed2503874782e2c6c5bd331876826",
+    "resources/private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/capability-before-recruitment.png": "11aa0153f74c592b6fe38159ffb3adf24e730bd4592578616ec04d8025c9ea2b",
+    "resources/private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/logo.png": "5c3b5037fd51c029d3fd0ed35cc703559c3329cc9aa823e70c1287bb309f2c31",
+    "resources/private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/portfolio-support-and-company-leadership.png": "79a19c86a6632f02c990b8aadb86e94c5d184d1891c780704ad9eacf2b339ca6",
+    "resources/private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/shared-ai-expertise-different-decisions.png": "e33ea81e25bf69b7227d8a7dee68561a0a689e7b8e2bb4ade01caa0ad274758c",
+    "resources/private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/investor-bridge-on-an-honest-clock.jpeg": "0059c75167586c51e671424340f5fdc1134940471b5423b5f11384165899a7c3",
+    "resources/private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/logo.jpeg": "f4293ee309abef123bce09a76e5207a49191f54ee7aeff13ab4d84af4e258504",
+    "resources/private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/the-removal-test.jpeg": "d6f906bfce89b0c64bcc07e07e0033fd7b50db782922ef8aeca25ec367391728",
+    "resources/private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/two-pyramids-joined.jpeg": "8875b8433623f359de536f4f2e8eac40ecc51b95c8629ae5f713058ac79250d9",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/customers-and-growth.jpeg": "9ca8ea2e5f277771107ae6ba7027a1264fb7006e10a5bd8fb2b91b1f0f649739",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/delivery-and-execution.jpeg": "26014f87d53a1fe6b823a08b7865f4972d6e51044f3990a62491a9f63c30298e",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/four-kinds-of-number.jpeg": "48a4a7e6375fe55bfc6fd92da7dd05730e2a13cd916b2ab9789fa441e7a8b7b3",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/internal-and-shared.jpeg": "50eef2fbe525d67cd8790547dbfbb2464a2d399fadef60f13298f769cc9f2633",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/logo.jpeg": "aaa65264bccefcb9af58fdd5880898c42093a3413b7bc560602f1845e7599316",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/money-and-runway.jpeg": "f5900130c4c5a72ce3e49828ec0c4a73d1d23779f94e43d85b277ab2fa7e5a94",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/people-measures.jpeg": "4efda1637a38a62b1456dcf58a36a5b6d1f05d67ebbd7ca7b2888a6567ca6742",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/product-and-customer-outcomes.jpeg": "410fd057a868930c669840f0ab1be206e54d1169c24aeaa4f546aebf74cdbf41",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/technology-health-and-cost.jpeg": "df918411913726581d480a0e2e91bc857741bd5e33531af945008b4e8e9cbd2c",
+    "resources/private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/three-areas-one-foundation.jpeg": "d186cc4eb6bc11721029417a47bf60447c4103561b3941050b83a0f201caf07e",
+    "resources/private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/logo.jpeg": "abb90108784023155a834cdf034b2910f269c474cffdd9e5565459f59567d60a",
+    "resources/private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/money-and-capacity-two-limits.jpeg": "3066bb5f6e2629e4463abf5600fd0d7cfaa8bf110f02019d0726ec08ae67d93c",
+    "resources/private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/staged-investment-with-review.jpeg": "3bacbb4477ba8ac9607b886f15853cf2db4b711e5f2105af52846442c2d1747d",
+    "resources/private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/check-what-explains-the-result.jpeg": "ce71a81782adf4435a84df385434f07989262f3a2ba981dbf9533b392572f44d",
+    "resources/private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/freed-time-conversion-plan.jpeg": "80ae3e1cc7c3639c71368d3655e48f1e1021ec8368733b456a86b1b770c0df7c",
+    "resources/private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/logo.jpeg": "2e353115c3aa27df37d1fa60659ce043e5aea37456546c2a71c3edb959d0b9e3",
+    "resources/private-techuity/posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/logo.jpeg": "116361695797767436dc45b865f97a2523fadb43fc72186ad4a82e6804c7fcd6",
+    "resources/private-techuity/posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/measure-the-whole-ai-workflow.jpeg": "b801e2de4642fe5098bb04330735213c5c5db4ed863ca162e8a65b24f1bcc607",
+    "resources/private-techuity/posts/19-ai-strategy-three-questions/assets/images/19-ai-strategy-three-questions/three-ai-investment-questions.jpeg": "6b89c4a95e301b62fb425de2810c9900d7178f8f9e0f2a2a1415823e4a8c4ebc",
+    "resources/private-techuity/posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/business-need-to-system-choice.jpeg": "ba0dedcd9a1d90d8798be6c170280c3a1b3ecc225b3d3f2877b23129d0baf5b7",
+    "resources/private-techuity/posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/fund-the-system-overlap.jpeg": "d285c73847012e886427dc048a8f4d99b8a1f66c778d0fa7c80cc8dc79bab85d",
+    "resources/private-techuity/posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/logo.jpeg": "c58f42222e0b6607623a4a9aef379b29bf50f74cdb09fc5312333abf55d6988a",
+    "resources/private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg": "a7aa235bf9f9daea08efc97ccc10144b93f967b5c4edc443b8feed0c450621b6",
+    "resources/private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/logo.jpeg": "d8c7df33554661b3dd5489a610a65218a5e0a08f6576a97ca61362d1e56298be",
+    "resources/private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/ownership-paths-and-replanning.jpeg": "dd9658647c9be35d9d7a4650115ecb12f1ea941d2126e3eb6a951ff13723a68d",
+    "resources/private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg": "aa3d61a9c2df341e9034df41e3d0607407c4f7344b072bccebc8b028cbd75f69",
+    "resources/private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/logo.jpeg": "e9fd0f503b4de7738af018beae853fc45fac185ae2d72d9478a4607821190ec6",
+    "resources/private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/work-crosses-team-boundaries.jpeg": "08b2e142e0461d360b7f6448719b7c4d6529f49a9740f93e6294f4883adc2c31",
+    "resources/private-techuity/posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/cash-by-date-under-three-plans.jpeg": "55d4fd978e592fb1a06cbb172f714595d0644a9a73bd372b63bd5c409ce5252e",
+    "resources/private-techuity/posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/logo.jpeg": "fd94703b319f2f0e60f4cafb3d8dbb6598b75de91adfb2ffdb0c2bb91808043f",
+    "resources/private-techuity/posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/team-by-work-before-and-after.jpeg": "83f181196fdab500d981bf25873965ddafc8cb3c8d11d4312c6c3947b9c29e13",
+    "resources/private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/gate-rules-quality-first.jpeg": "090fedfef459037a925dfcd88986e64de1444239408de1cde5c1aa6ac1e781b1",
+    "resources/private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/logo.jpeg": "90453902fa7bd76115a0c7831ba6db452e6591c7fac05be8b4841dabbbfb28ee",
+    "resources/private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/one-day-of-ten.jpeg": "638d9890ade24da4c9c05ebbd9d2db316d1a854a973070996fcad9d6bce866dd",
+    "resources/private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/two-pilots-one-method.jpeg": "a4313e83e072f465f099e7d8b215cc7a99b6024070bbbb442fbee8e0de69b486",
+    "resources/private-techuity/posts/25-growth-into-design/assets/images/25-growth-into-design/business-priorities-design-tradeoffs.jpeg": "41c41cbe84971cd64d9cabb6b23be803cebf3920917225dcb6c396aa48616166",
+    "resources/private-techuity/posts/25-growth-into-design/assets/images/25-growth-into-design/cash-before-benefits.jpeg": "141ab3d1b23492e24adc473021851d03f90491b4b7df299734fa914e2a1a0abc",
+    "resources/private-techuity/posts/25-growth-into-design/assets/images/25-growth-into-design/logo.jpeg": "4613db5970aefc21641e43c95b8d01f2031773ef2c10840e43f96a3797ff8e38",
+    "resources/private-techuity/posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/carveout-hidden-dependencies.jpeg": "6b289b3547636c22f095fdd0ba212704a8e37f1320173dbcd708ea0e9d1b68ed",
+    "resources/private-techuity/posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/integration-depth-by-benefit.jpeg": "63a2a65f1714c81f9128db54aa47116f64bb28a0135be9ee70e7cad81db3fd8d",
+    "resources/private-techuity/posts/26-acquisition-adds-work-first/assets/images/26-acquisition-adds-work-first/logo.jpeg": "5cb640e929e0a402dbec9253b5ccbcc195132d7df01be59fe2f9bb44bc12f011",
+    "resources/private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/carrying-cost-three-columns.jpeg": "0e90ab4fe837ea25a73e92e24479fc5ca5fc1e3100b0edad605f6d4d110c2906",
+    "resources/private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/logo.jpeg": "76377dce981ff2f8b21d13edbb8bf17418452c3d7bcd1abcc2fc63a645a91f37",
+    "resources/private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/rewrite-versus-tranches.jpeg": "69d8900b57327174573a041001b2bdf89a3e95d070f3420c2a1660931a00849d",
+    "resources/private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/sequencing-rule.jpeg": "b07a14b6cd76fc8b2d4590f831e1ff68c33676e2105230e93f8c1a4279a15e89",
+    "resources/private-techuity/posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/incident-restoration-practice.jpeg": "e927b7a274bcbc8ccfb346c9da9fa9a597735e7127d68bba195cf4b429974a5f",
+    "resources/private-techuity/posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/logo.jpeg": "f0ae2f49dd0e0798058b093b9c194c0e3e5bd15ed7cdc54d73ae64c80264f119",
+    "resources/private-techuity/posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/security-claims-and-proof.jpeg": "7147bc1fb7bc3d9189fa60f5410921d0a7ab9ccfd15c10d098c77f5d0a247704",
+    "resources/private-techuity/posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/fixed-commitment-changing-demand.jpeg": "48a09e67e3820cafea3374290357e861a7f8ea570f8802897c34fc110d882ec9",
+    "resources/private-techuity/posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/logo.jpeg": "22c227abb65096920b396b06588e4ef94aab15dd0749e1c93cf2db712ac4e7a6",
+    "resources/private-techuity/posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg": "1d6193001f96362b4887cd9d2a3d796342375ba2f68073b1320b67e5661e669a",
+    "resources/private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/commitment-floor-against-demand-range.jpeg": "a3310e6233af0c3a10237900032430f6905616407ff478b0155d1ed54bb6c09c",
+    "resources/private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/logo.jpeg": "fd8b06ff537c6cbc56158da468ed38efdc1b30d01f3ded30fa4c5b0f9b4b6f14",
+    "resources/private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/three-numbers-never-added.jpeg": "609982c67e84926605af2a324b21346bb82e73167d6776dcc23473507d69cd8a",
+    "resources/private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/usage-construction-rates-bridge.jpeg": "f29de79d444cf55af7bd33dadf0f74a18b33d2ff6bd7ec1ced3a1974e24dcdc3",
+    "resources/private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/finding-to-funded-action.jpeg": "1f95640171c384a96490c0aa1be7cdb01406448dffa7ee08aae150c11de1ae17",
+    "resources/private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/investment-assumption-to-evidence.jpeg": "d378c9ee9ce6ce89e8d0846b146d6557296ba2942cda947699d27c7d0e813749",
+    "resources/private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/logo.jpeg": "b077c6def1ef075103d65a0ee8497a54e238887fa6fe7f8f32a65a1ce3e21523",
+    "resources/private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg": "57939757e887bffb42dd620aa3c8c0307fc78569c50a811a95ecb531c9ac724e",
+    "resources/private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg": "3fc0ba048d0266f5ff3af6513667dbdd368ea2ca73a5c529ba56410bfa4e231f",
+    "resources/private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg": "0e1c41107119c1fdb0825636fc9f6ecc05e9f0279832f21d7c28772d8ea22186",
+    "resources/private-techuity/posts/33-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg": "0b2fc792dd949667b500d2c4f471f5655c4aee88cba61da2ec48bbc6a7b4c1e9",
+    "resources/private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/logo.jpeg": "a9c6dfd9ed921d2f418a05a881d1a19b73c0064398978011f22fce71928e60b4",
+    "resources/private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/sale-result-and-later-outcomes.jpeg": "68ca14a0d567794b3de575fbab19efc8915bee4e6fe2d376c5fc6f3807f95755",
+    "resources/private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/two-histories-two-operating-questions.jpeg": "c81a8a4f5e24c7c2a7385df99ec77c3040b9ab5b07c989e120851da6d6f23e09",
+    "resources/private-techuity/posts/35-visma/assets/images/27-visma/continuity-with-changing-investors.jpeg": "ef912d1001eee297177ea1ea1d7713568e33ef7415f703c68203c3de1aec90fb",
+    "resources/private-techuity/posts/35-visma/assets/images/27-visma/logo.jpeg": "4df13e54d2793ef72f02eb056e9026ddbb67c3f8da575b595ee36a32591a4794",
+    "resources/private-techuity/posts/35-visma/assets/images/27-visma/repeat-acquisitions-as-capability.jpeg": "e18d4295585437add0867ec36551c63abf7c51a4189b46b3684653b4bb4600ea",
+    "resources/private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/interacting-business-and-financing-pressures.jpeg": "a9e5ab4b855d8b70aaf9b546e1e99f7717c53ff7858b16263a560b6c833ddc06",
+    "resources/private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/logo.jpeg": "9130573980ba863ad3c6aebba5c2bfb7913e9f7f16c0b15c6eb8fcfd163481df",
+    "resources/private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/long-term-plan-short-term-cash.jpeg": "0a52c0fcde4f66e2b110923b6021258feb1a270821458f86565e44d9dc73647c",
+    "resources/private-techuity/posts/37-teamsystem/assets/images/29-teamsystem/company-history-across-successive-owners.jpeg": "71cff5aafdeb202b7116f737c2842e075a01e22e5a2f8a82458674cd7f145aaa",
+    "resources/private-techuity/posts/37-teamsystem/assets/images/29-teamsystem/logo.jpeg": "ef4e25ad1e1777f140a025ec3c294e0058f7b6d05c8ee7d8510e88201154b79f",
+    "resources/private-techuity/posts/37-teamsystem/assets/images/29-teamsystem/partial-exit-cash-and-retained-value.jpeg": "b18a2050346fb0c3edd0a94e50f17cca4204d3310f5bd3fd323a937f4ccfb7be",
+    "resources/private-techuity/posts/38-success-for-whom/assets/images/30-success-for-whom/logo.jpeg": "92a411e6ac54785f4449da47ca3e4cc7edce8aae4916c316c7fc26aefd05bd29",
+    "resources/private-techuity/posts/38-success-for-whom/assets/images/30-success-for-whom/separate-stakeholder-outcomes.jpeg": "e0c5f3fa90fd26a56dfffe2eb0e071b0b080726e730e00b4cb227bf7b5de345c",
+    "resources/private-techuity/posts/38-success-for-whom/assets/images/30-success-for-whom/value-that-can-continue.jpeg": "6669fac4a2825ea39740260f654036d6ee6fd4cbc5be3db05647595a1a70dc02",
     "resources/private-techuity/posts/bibliography/assets/images/bibliography/logo.jpeg": "7ca88bcba43f849eac70576abf668244962818dd9e4d58efef84d1e74674b471",
-    "resources/private-techuity/posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/four-kinds-of-number.jpeg": "7da884b0c2a4ed3c6b2bd7949288bdfbaabbef9e24054436845ca9cce4019119",
-    "resources/private-techuity/posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/internal-and-shared.jpeg": "f35f39beceedde89a8f7c1495d27a32270d16d078c3c9942cf86f3caa68f8359",
-    "resources/private-techuity/posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/logo.jpeg": "907ba442693d533892229b23ca0149c652ffbb33b23e0a4317eaa57fba9f0ca2",
-    "resources/private-techuity/posts/data-foundations-for-alignment/assets/images/data-foundations-for-alignment/three-areas-one-foundation.jpeg": "3bf549435d8d9fb5962254d1d6e4c24cd3fe831c2a7b35267b513c16cc62001c",
     "resources/private-techuity/posts/fund-economics/assets/images/fund-economics/distributed-versus-estimated.jpeg": "042169f6cf9bcdbd4567326052953277e2d1d9aee2d96120155e0d30174d6c69",
     "resources/private-techuity/posts/fund-economics/assets/images/fund-economics/logo.jpeg": "73f939de26abf05e96a1f74a59bde8135164040bd28a03581a02773fec6f8fac",
     "resources/private-techuity/posts/fund-economics/assets/images/fund-economics/term-sheet-to-received.jpeg": "98c3e7e61abd334a02f9635760fdf4a89df5697198f215d6e744df76f740e745",
@@ -1613,34 +1884,39 @@
     "resources/private-techuity/posts/grounded-architecture-portfolio/assets/images/grounded-architecture-portfolio/two-landscapes-one-problem.jpeg": "50ece6d4cd2b5ec4a87d4ff5301fb4b2fb84b77446681690a334f6761525d0f1",
     "resources/private-techuity/posts/introduction/assets/images/introduction/four-questions-before-a-commitment.jpeg": "4e5b85a8b81bfa4496a85162562bc3eb121147bedb7901b937eba41b36c813e4",
     "resources/private-techuity/posts/introduction/assets/images/introduction/logo.jpeg": "e5d65a06a9e9c370ba84ae429a0d4e3d0d21a1827546e3f25cb208123b31289f",
-    "resources/private-techuity/posts/introduction/assets/images/introduction/owned-six-part-framework.jpeg": "a8f9e430f014dabb3f8acacbd506df04d3aafc297bf36f2c729eab0539503c64",
+    "resources/private-techuity/posts/introduction/assets/images/introduction/owned-eight-part-framework.jpeg": "135466a2a3e101cf4c95b718231a657420defd17d01112ab90bc6954617e2044",
     "resources/private-techuity/posts/part-1-intro/assets/images/part-1-intro/chapter-overview.jpeg": "ab6f0d77e1206b54c76a7d9186dbaa225f3a25a133454501096943f73b7679ec",
     "resources/private-techuity/posts/part-1-intro/assets/images/part-1-intro/logo.jpeg": "81f26e139378e896224ee154244d63c664ea90340a8a5cd08b692af728bc8612",
-    "resources/private-techuity/posts/part-2-intro/assets/images/part-2-intro/chapter-overview.jpeg": "804f0b31d806d8a1c36601de58fa3dfb937a6fad7b7d8fe68750797cb78acaa6",
+    "resources/private-techuity/posts/part-2-intro/assets/images/part-2-intro/chapter-overview.jpeg": "07d16eb0fd9f193b0c477293e12df08fc024baa64361a639ca55d954f658cdf9",
     "resources/private-techuity/posts/part-2-intro/assets/images/part-2-intro/logo.jpeg": "100847297970d1db54937ce76cfb40ea19a216e114a154519f994d19887ab294",
-    "resources/private-techuity/posts/part-3-intro/assets/images/part-3-intro/chapter-overview.jpeg": "7ab307fdea2de635da98d1800ff03fc9c10bf77358c736b0ab7b5b00c3c15582",
-    "resources/private-techuity/posts/part-3-intro/assets/images/part-3-intro/logo.jpeg": "424a74c7e64f68d9e02d3a4a13a072d07c914ebe4a5076e865416fb24c5fc6e8",
-    "resources/private-techuity/posts/part-4-intro/assets/images/part-4-intro/chapter-overview.jpeg": "3e71b2d1db453ed57ece7f8b2c228887b3db4c7e1680d5d518c179dd13817c3e",
-    "resources/private-techuity/posts/part-4-intro/assets/images/part-4-intro/logo.jpeg": "c1c2c013ef6ea9bec4ba3a2afa8072530c0a438c23085071b28d67dc2667bd29",
-    "resources/private-techuity/posts/part-5-intro/assets/images/part-5-intro/chapter-overview.jpeg": "9e142b419b1969e436c53a3f822d10eb06dace29b1cfc981bf78466e769774f3",
-    "resources/private-techuity/posts/part-5-intro/assets/images/part-5-intro/logo.jpeg": "cab2aab5a8b38b2e58cf5720d1acabaed66dccc3917a6c884a3b74d4fb295afe",
-    "resources/private-techuity/posts/part-6-intro/assets/images/part-6-intro/chapter-overview.jpeg": "fdb4b533c8cb44501e1c6b8190586d5837bab42cebade6c944f56b49d588ee39",
-    "resources/private-techuity/posts/part-6-intro/assets/images/part-6-intro/logo.jpeg": "07396d2ddfdce178cbe2de67541e650a813e6d3fc48ba9c09267b5786ff4ba9f",
+    "resources/private-techuity/posts/part-3-intro/assets/images/part-3-intro/chapter-overview.jpeg": "3e71b2d1db453ed57ece7f8b2c228887b3db4c7e1680d5d518c179dd13817c3e",
+    "resources/private-techuity/posts/part-3-intro/assets/images/part-3-intro/logo.jpeg": "c1c2c013ef6ea9bec4ba3a2afa8072530c0a438c23085071b28d67dc2667bd29",
+    "resources/private-techuity/posts/part-4-intro/assets/images/part-4-intro/chapter-overview.jpeg": "27cf4dc375a10405c151531a26d77aa6d63d560322ba2c2724290c12ac1f3909",
+    "resources/private-techuity/posts/part-4-intro/assets/images/part-4-intro/logo.jpeg": "424a74c7e64f68d9e02d3a4a13a072d07c914ebe4a5076e865416fb24c5fc6e8",
+    "resources/private-techuity/posts/part-5-intro/assets/images/part-5-intro/chapter-overview.jpeg": "80cdfcf4ca8e9762832e9c79b66b31d08bdf95bc3738e2afa90f41e18479c0b2",
+    "resources/private-techuity/posts/part-5-intro/assets/images/part-5-intro/logo.jpeg": "0ee3dab1b8f34ef0bb5f19c380e3706b8df7d713136121aff9b38706371655f4",
+    "resources/private-techuity/posts/part-6-intro/assets/images/part-6-intro/chapter-overview.jpeg": "c5125c53539a2f0a8d1b4921774424b9c6606ab500a33bb823a2abc5bdcc5481",
+    "resources/private-techuity/posts/part-6-intro/assets/images/part-6-intro/logo.jpeg": "9f4ccc3595775ddd837c419776ef9006efb59b6cf155782001f74225f2e0b9a2",
+    "resources/private-techuity/posts/part-7-intro/assets/images/part-7-intro/chapter-overview.jpeg": "85faa2adf828d08525ab955e038ce38d53e38b30fbe31fcbd81c007726c44905",
+    "resources/private-techuity/posts/part-7-intro/assets/images/part-7-intro/logo.jpeg": "cab2aab5a8b38b2e58cf5720d1acabaed66dccc3917a6c884a3b74d4fb295afe",
+    "resources/private-techuity/posts/part-8-intro/assets/images/part-8-intro/chapter-overview.jpeg": "bf567dbc1ec4c332bd6ff4fa5bdbf2a09b0958120209cdec35147e8d4721284e",
+    "resources/private-techuity/posts/part-8-intro/assets/images/part-8-intro/logo.jpeg": "07396d2ddfdce178cbe2de67541e650a813e6d3fc48ba9c09267b5786ff4ba9f",
     "resources/private-techuity/posts/toolkit/assets/images/toolkit/decision-record-to-funded-work.jpeg": "ff0088310c4df587720ddc0f98d344450072de76f5dc2a933c046f29fbd2ab76",
     "resources/private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg": "6f64515c91dc7b9608bdfab62f316e7d4cc3bce9d5c04910862329351ed117b8",
     "resources/private-techuity/posts/toolkit/assets/images/toolkit/records-form-a-decision-loop.jpeg": "07cdd4ccb06a8bfd15e9973df04ac1f8bdb1b90558c52672c199bca27e1d235c",
-    "roadmap-to-revenue.md": "7888a56bb7d9218e093dc260456f8222eca0d81a3456d5a6db5628ec4f0074fb",
-    "section-08.md": "ab15f2662859a2d8e0749926160fe647d58a94a926a5dee20c0215f12d96c66b",
-    "section-09.md": "c4be0a3fcc257f48382991868ed000d19f87ac936597ebc6ac125385460454c8",
-    "success-for-whom.md": "f1730c8c109a3369d3c920d8be0d2b32f99517aa9fd7245bb144dc5039c7cf81",
-    "teamsystem.md": "e73f915fd60efa706f319e2cd5958769f8394528d04b4f179357308284d57571",
-    "tech-operating-partner.md": "dc9c7ce57adf3d64dfc146b0e60fab7f9a67ddbc5da0c8dd4fadc6e0f91542d6",
-    "the-financing-slipped.md": "3b4bb8e9c944e634786e6455c45f72cc99c5c74294d672940cc572094bcf163c",
-    "three-different-returns.md": "0d3ab6e1b57dbbd952a429416f6217784bff28b8c1e7aa26858c8fb1a107ce4d",
-    "toolkit.md": "bd51bf711cf8d6ec509a1285ed7e649b7abaf4a6f50fad809c6e3eecf6173616",
-    "toys-r-us.md": "fc886882fb9f571017862a585e87a6824a2e6a1592045c3c5595414af5e7670b",
-    "useful-engagement.md": "89331be72d6bb95f68cb54e168433106077a0b2f6fad7281c301c1ff55230d8c",
-    "valuation-is-an-estimate.md": "60487cb69a3bd208dc6ecc0f13b1a67bc42d76847c7bd7296d9ed28a453790cf",
-    "visma.md": "85ad38ce55189e5f4c796c49fd9abfcca3b8db0c2adb85c4af0961b08c488263"
+    "roadmap-to-revenue.md": "2eb4d69d480707392f3f082dfcdb5c9f826c6fb0055b925fda32ee53a420da99",
+    "scale-the-team-with-ai.md": "35522b5d8a0b1ec3a0eb130b4800f4383e2b929bfb4cfbced6a68796226bf1a0",
+    "section-10.md": "6e00135483f7387a6666fea9d6628735e989a40362b0854155c6e877d5da95e4",
+    "section-11.md": "5133e90291f131b30e96f8fbfb27f7e44c917ffab2ce025d44cdc625d43b8482",
+    "success-for-whom.md": "ea3906289f186bd6782acdee38858e96befff2d4eb144930467ea21c4411f4ad",
+    "teamsystem.md": "8a3028f91673358dcd2156fda262c894c0ae76a395c85c7b9fbfb0c89a0806a0",
+    "tech-operating-partner.md": "dc8eaec5c70dbec81d943be35151e3571bd7bf288c0d520794566b4d6fee5b13",
+    "the-financing-slipped.md": "4cfed8ccd3ef2e0b7835f8818ccaa6bda537444ed78d380350ebbb12161b4932",
+    "three-different-returns.md": "63f7c2c18305fb2ad5261329010c2714c4ec548be2cc0d04c2e41a431b434d5e",
+    "toolkit.md": "de74587c4404fdebcd09c53606fb108601b7f79aa14fd554ce1b8dfeb722bcc7",
+    "toys-r-us.md": "3156f7a511a30e0fd78d89c70b00466c7b1ccede2986bc39bf5bb752b5b0d785",
+    "useful-engagement.md": "f78022e44fb35cf46ca286e7cf9fb9e2b3debf9bb23bca211191202775164ce7",
+    "valuation-is-an-estimate.md": "6dec7a6ab6db006608e840a33310e5f3dbe475dfca08ecf320b2035530978dc7",
+    "visma.md": "d6b292816f8cc5b7bc9357369e5c62e4826959e18d1a118622d2ac6c1da99fde"
   }
 }

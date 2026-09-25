@@ -1,7 +1,7 @@
 {id: diligence-corrects-the-plan}
-# 26. Use Diligence: Correct the Plan Before It Is Signed
+# 33. Use Diligence: Correct the Plan Before It Is Signed
 
-![Use Diligence: Correct the Plan Before It Is Signed — logo](private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/logo.jpeg)
+![Use Diligence: Correct the Plan Before It Is Signed — logo](private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to help **due diligence**, the investigation an investor makes into a company before investing, test the assumptions behind a proposed investment. You will use the access you actually have and turn one important finding into a recorded decision.
 
@@ -15,24 +15,27 @@
 > * Use the **access you actually have**: before signing (when the parties commit to the agreement), between signing and closing (when the money is paid and **shares**, the units of ownership in the company, actually change hands) where there is a gap, or after closing when earlier participation was impossible. Record the limit rather than pretending it away.
 > * **Complete the finding.** A **material finding**, one important enough to affect the decision, needs observed evidence separated from claims and interpretation, options with costs, an agreed response, the people authorized to approve it, an accountable company leader and the evidence that would change the decision. Carry its identifier into the early operating plan.
 
-**Larkspur**, the fictional company this book follows, sells scheduling software to businesses whose staff work in the field. Every new customer needs **onboarding**, which this chapter also calls **implementation**: Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use, a moment called **go-live**. The people who do this work are the **implementation team**.
+Before an investor commits money to a company, it investigates the business to test whether the plan behind the deal is realistic. **Technical due diligence** is the part of that investigation that examines the company’s product and technology: what they depend on, what they cost and what could go wrong. It tests the product, technology and team assumptions behind the proposed investment. Its findings feed the price, the funding, the risks accepted, the conditions of the deal and the operating plan the company will later be held to. Product and engineering leaders who have access to the process and treat it as a test to pass miss the chance to influence the commitments they will afterwards have to deliver.
 
-An investor is considering an investment in Larkspur. Its **diligence report**, the written findings of its investigation, identifies a **bottleneck** in onboarding: much of the setup waits for one implementation specialist’s manual work. Yet the investment plan still assumes Larkspur can onboard twice as many customers a year with the same implementation team. The report has described a problem without resolving what it means for the deal. This chapter shows what resolving it looks like.
-
-Three fictional people carry the example. **Alex** is Larkspur’s **chief technology officer (CTO)**, the leader responsible for its technology. **Priya** leads product: what the software does and how it works for customers. **Morgan** is the investment firm’s technology adviser, who ran the technical part of the investigation.
-
-**Technical due diligence** investigates a company’s product and technology, what they depend on, what they cost and what could go wrong, before an investment. In this transaction, it tests the product, technology and team assumptions behind the proposed investment: whether Larkspur can double onboarding volume without a matching increase in implementation staff. Its findings feed the price, the funding, the risks accepted, the conditions of the deal and the operating plan the company will later be held to.
-
-Whether new cash reaches the company depends on the **transaction form**, the way the deal is structured. If the investor buys newly issued shares, the money goes to the company. In a **secondary purchase** the investor buys existing shares from a current owner, and the money goes to that selling shareholder, as the chapter [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors) explains. Either way, the findings shape the plan management must deliver. Product and engineering leaders who have access to the process and treat it as a test to pass miss the chance to influence the commitments they will afterwards have to deliver.
+Whether new cash reaches the company depends on the **transaction form**, the way the deal is structured. If the investor buys newly issued shares, the money goes to the company. In a **secondary purchase** the investor buys existing shares from a current owner, and the money goes to that selling shareholder, as the chapter [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors) explains. Either way, the findings shape the plan management must deliver.
 
 That does not mean every diligence must find a reason to change the deal. It can confirm an important assumption. The requirement is to identify which assumption was tested, what evidence supports it and what uncertainty remains.
 
-Part IV explained how to use investor support. Part V follows the company leader through the ownership cycle, beginning before the deal is complete. Your role is to help the investigation understand the actual business, challenge unsupported assumptions and establish which work a credible plan would require. The following chapters carry that evidence into early ownership and later reviews.
+Part III explained how to use investor support. Part VII follows the company leader through the ownership cycle, beginning before the deal is complete. Your role is to help the investigation understand the actual business, challenge unsupported assumptions and establish which work a credible plan would require. This chapter shows how the access you have shapes what you can do, then follows one finding from the evidence to a recorded decision. The following chapters carry that evidence into early ownership and later reviews.
+
+{id: diligence-corrects-the-plan--setting-up-the-example-the-onboarding-bottleneck-at-larkspur}
+## Setting Up the Example: The Onboarding Bottleneck at Larkspur
+
+**Larkspur**, the fictional company this book follows, sells scheduling software to businesses whose staff work in the field. Every new customer needs **onboarding**, which this chapter also calls **implementation**. Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use, a moment called **go-live**. The people who do this work are the **implementation team**.
+
+An investor is considering an investment in Larkspur. Its **diligence report**, the written findings of its investigation, identifies a **bottleneck** in onboarding: much of the setup waits for one implementation specialist’s manual work. Yet the investment plan still assumes Larkspur can onboard twice as many customers a year with the same implementation team. The report has described a problem without resolving what it means for the deal. The assumption the technical diligence has to test is therefore whether Larkspur can double onboarding volume without a matching increase in implementation staff.
+
+**Alex** is Larkspur’s **chief technology officer (CTO)**, the leader responsible for its technology. **Priya** leads product: what the software does and how it works for customers. **Morgan** is the investment firm’s technology adviser, who ran the technical part of the investigation.
 
 {id: diligence-corrects-the-plan--what-you-can-do-depends-on-when-you-have-access}
 ## What You Can Do Depends on When You Have Access
 
-Most investments happen in two steps. At **signing**, the investor and the sellers, or the company, sign the agreement and commit to its terms. At **closing**, also called completion, the deal is carried out: the money is paid and the shares change hands. Some deals sign and close on the same day. Others have weeks in between, for example while a regulator gives approval or the investor arranges its own financing.
+At **signing**, the investor and the sellers, or the company, sign the agreement and commit to its terms. At **closing**, also called completion, the deal is carried out: the money is paid and the shares change hands. Some deals sign and close on the same day. Others have weeks in between, for example while a regulator gives approval or the investor arranges its own financing.
 
 The company leader’s access varies with the transaction, and the title’s promise depends on it. These are operating opportunities the agreed transaction process may give you, not universal rights.
 
@@ -65,25 +68,25 @@ A generic checklist of how the software is built can still contribute, but it sh
 
 A demonstration of onboarding can support a discussion of how easy the software is to use. It cannot by itself justify a forecast of doubled volume or a claim that the system is ready for a second country. Priya and Alex should separate what is working, what the plan assumes and the funded work needed to close the gap, and **record the conditions** before the story becomes an unconditional commitment.
 
-![Diagram: the assumption “expand customer onboarding” becomes the question “can we speed up setup time?”, tested against a software release, a support case and a customer setup; the three outcomes, confirm, revise or uncertain, each lead back to the assumption.](private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/investment-assumption-to-evidence.jpeg)
+![Diagram: the assumption “expand customer onboarding” becomes the question “can we speed up setup time?”, tested against a software release, a support case and a customer setup; the three outcomes, confirm, revise or uncertain, each lead back to the assumption.](private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/investment-assumption-to-evidence.jpeg)
 
 **Figure 1:** *Diligence is useful when evidence can confirm or change an investment assumption. The assumption becomes a concrete question, tested against samples of actual work: a release (a software version put into use), a support case (a customer’s recorded request for help; the ticket number is illustrative) and one customer’s setup. The evidence may confirm the assumption or require revising it. If it leaves the question uncertain, more evidence is collected before the assumption is relied on.*
 
 {id: diligence-corrects-the-plan--sample-the-work-not-just-the-presentation}
 ## Sample the Work, Not Just the Presentation
 
-Help the reviewers connect management’s explanation with evidence from actual work. Offer a recent customer implementation, an important **release** (a new version of the software put into use), an **incident** (a failure that disrupted customers) and a difficult decision about what to build first. Explain how the examples were selected and which situations they represent. Showing only the company’s best work can leave the future plan resting on a misleading picture.
+Offer a recent customer implementation, an important **release** (a new version of the software put into use), an **incident** (a failure that disrupted customers) and a difficult decision about what to build first. Explain how the examples were selected and which situations they represent. Showing only the company’s best work can leave the future plan resting on a misleading picture.
 
 A **sample** cannot establish everything. Record the full group the examples came from and why these were chosen. If the company serves several very different products or customer groups, say which were inspected. Do not describe a short review of one part of the code as a complete assessment of engineering.
 
-Confidence should reflect evidence quality and coverage. “High confidence” is not an adjective for the assessor’s experience. It should mean the conclusion has strong supporting evidence within a stated scope and that serious alternative explanations were examined.
+“High confidence” is not an adjective for the assessor’s experience. It should mean the conclusion has strong supporting evidence within a stated scope and that serious alternative explanations were examined.
 
 Skype’s **registration filing**, the document a company files with the US securities regulator before offering shares to the public, describes the settlement of a lawsuit and the acquisition of rights to core technology. [S27: Skype registration filing](https://www.sec.gov/Archives/edgar/data/1498209/000119312511096544/ds1a.htm) As the case in the chapter [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) explains, a product can depend on a legal and technical boundary that a review of code quality would miss. Diligence should ask whether the company can use and develop what the thesis assumes it owns.
 
 {id: diligence-corrects-the-plan--finding-d-3-onboarding-depends-on-one-specialists-manual-configuration}
 ## Finding D-3: Onboarding Depends on One Specialist’s Manual Configuration
 
-A material finding needs a stable identifier, here **D-3**, so it can be followed into later plans and reviews. It also needs a record that separates what was observed from what someone reported, what the reviewer inferred and what remains unknown. “Technical debt: high”, a label for the future cost of past shortcuts in the software, conveys none of that. Here is the finding from the opening, completed. Every figure is fictional.
+A material finding needs a stable identifier, here **D-3**, so it can be followed into later plans and reviews. It also needs a record that separates what was observed from what someone reported, what the reviewer inferred and what remains unknown. “Technical debt: high”, a label for the future cost of past shortcuts in the software, conveys none of that. Every figure is fictional.
 
 First, four words the record uses:
 
@@ -166,7 +169,7 @@ Two further material findings were recorded the same way and travel into the ear
 
 The authorized investment decision-makers may proceed, change the terms or resources, require a condition, delay for evidence or decline. Company leaders contribute the operating facts and feasible alternatives. They should not make promises about prices or deal terms beyond their authority.
 
-![A finding with its uncertainty note leads to four possible responses — price, funding, accepted risk or operating plan — and every response passes through one decision record naming the approver, accountable leader, uncertainty and review date before action follows.](private-techuity/posts/23-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/finding-to-funded-action.jpeg)
+![A finding with its uncertainty note leads to four possible responses — price, funding, accepted risk or operating plan — and every response passes through one decision record naming the approver, accountable leader, uncertainty and review date before action follows.](private-techuity/posts/31-diligence-corrects-the-plan/assets/images/21-diligence-corrects-the-plan/finding-to-funded-action.jpeg)
 
 **Figure 2:** *Whatever the response, it is recorded with an approver, an accountable leader and a review date before anyone acts on it.*
 
@@ -190,7 +193,7 @@ This is a proposed assessment structure, not a tested score that predicts outcom
 {id: diligence-corrects-the-plan--the-one-page-thesis-summarizes-the-findings}
 ## The One-Page Thesis Summarizes the Findings
 
-Two records do different jobs. The finding record above holds evidence, options and a response for one important issue. The **Technology Investment Thesis** is a one-page statement of what the investment depends on from product, technology and people: the technology advantage, main constraint, required investment, leadership needs, AI opportunity or threat, expected business outcome and serious uncertainties. It does not repeat the findings; it summarizes and links them. For Larkspur, the constraint line points at D-3, the leadership line at D-5 and the uncertainty line at D-6, each with the agreed response and the evidence still needed. The [Practical Tools for Ownership and Technology Decisions](#toolkit) shows the finding record, the thesis page and the initiative record moving through the same stages.
+The finding record above holds evidence, options and a response for one important issue. The **Technology Investment Thesis** is a one-page statement of what the investment depends on from product, technology and people: the technology advantage, main constraint, required investment, leadership needs, AI opportunity or threat, expected business outcome and serious uncertainties. It does not repeat the findings; it summarizes and links them. For Larkspur, the constraint line points at D-3, the leadership line at D-5 and the uncertainty line at D-6, each with the agreed response and the evidence still needed. The [Practical Tools for Ownership and Technology Decisions](#toolkit) shows the finding record, the thesis page and the initiative record moving through the same stages.
 
 Conciseness works only when readers can inspect the basis. Keep links to findings, scenario assumptions, source dates and specialist assessments. **Include the downside**: if the pilot takes twice as long, can the company still operate within the money it has? If Alex, the CTO, leaves, which assumptions become invalid?
 
@@ -199,7 +202,7 @@ Conciseness works only when readers can inspect the basis. Keep links to finding
 
 At closing, ask for the material findings to be reviewed with the company leaders who will be accountable for the business plan. Ask each accountable leader to record agreement, disagreement or a need for more evidence. Receiving a report does not mean someone has accepted responsibility or funding for its recommendations. When new evidence changes the interpretation, keep the original reasoning and explain the revision, so that company leaders and the investor can later judge whether the investigation asked the right questions.
 
-Useful diligence either supports an important assumption with evidence or shows why the decision should change. Its value comes from reducing uncertainty about a real investment choice, including when the original plan turns out to be right.
+Useful diligence either supports an important assumption with evidence or shows why the decision should change.
 
 For Larkspur, the next question is what D-3 costs once it is inside a board-authorized budget, with two other findings competing for the same engineer-weeks. Priya records acceptance within ten days of closing. The finding then becomes a funded priority with its own budget, protected capacity, a baseline by day 20 and a day-90 cohort measurement that the board decides on at day 100: the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days).
 

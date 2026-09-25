@@ -1,5 +1,5 @@
 {id: toolkit}
-# 38. Practical Tools for Ownership and Technology Decisions
+# 42. Practical Tools for Ownership and Technology Decisions
 
 ![Practical Tools for Ownership and Technology Decisions — logo](private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg)
 
@@ -16,7 +16,7 @@ These are **proposed working tools** for company leaders applying the book’s f
 {id: toolkit--minimum-use}
 ## Minimum Use
 
-You don’t need fifteen documents. The smallest adequate record answers five questions in one place: what we know and how we know it; which options were compared; what was committed (cash by period, team time, the accountable company leader, the review date and who can decide); what was observed against the baseline; and what remains open. A small company can keep all of that on **one evolving page** per finding or initiative, adding a section at each stage. The tools below describe the fields each stage needs; they are not separate forms to copy into. Use the same finding or initiative identifier (D-3, ONB-1) throughout, so a reader can trace a number back to its evidence.
+The smallest adequate record answers five questions in one place: what we know and how we know it; which options were compared; what was committed (cash by period, team time, the accountable company leader, the review date and who can decide); what was observed against the baseline; and what remains open. A small company can keep all of that on **one evolving page** per finding or initiative, adding a section at each stage. The tools below describe the fields each stage needs; they are not separate forms to copy into. Use the same finding or initiative identifier (D-3, ONB-1) throughout, so a reader can trace a number back to its evidence.
 
 {id: toolkit--find-the-record-for-your-decision-stage}
 ## Find the Record for Your Decision Stage
@@ -33,15 +33,15 @@ The tools keep their original numbers because chapters and earlier readers cite 
 | **Obtain help** | What exactly will the adviser or specialist help us do, at what cost, for how long? | Support engagement — [Tool 4](#toolkit--tool-4) | [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement), [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) |
 | **Obtain help** | Should we work with this investor at all? | Investor-fit interview — [Tool 8](#toolkit--tool-8) | [Assess Investor Fit: Behavior Under Pressure](#investor-under-pressure) |
 | **Learn and explore** | What can we learn through the investor’s network, and what should we revisit afterward? | Learning brief — [Tool 14](#toolkit--tool-14) | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) |
-| **Define the evidence** | We keep arguing about what a number means; how do we define, own and label it before it reaches the board? | Measure record — [Tool 15](#toolkit--tool-15) | [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment) |
+| **Define the evidence** | We keep arguing about what a number means; how do we define, own and label it before it reaches the board? | Measure record — [Tool 15](#toolkit--tool-15) | [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) |
 | **Measure** | Did the work help, and is the benefit capacity or cash? | Outcome and contribution ledger — [Tool 6](#toolkit--tool-6); small scorecard — [Tool 7](#toolkit--tool-7) | [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#cheaper-cloud-bill) |
 | **Revise or hand over** | We are combining or separating businesses; what must continue? | Integration or separation plan — [Tool 9](#toolkit--tool-9) | [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first) |
 | **Revise or hand over** | Funding or ownership is changing; what evidence and obligations must travel with the work? | Funding or ownership handover — [Tool 10](#toolkit--tool-10) | [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations), [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped) |
-| **Revise or hand over** | The headcount plan has to shrink, or an investor proposes an appointment; who decides, what stops, and what are the people owed? | Workforce decision — [Tool 13](#toolkit--tool-13) | [Plan Layoffs: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff), [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring) |
+| **Revise or hand over** | The headcount plan has to shrink, or an investor proposes an appointment; who decides, what stops, and what are the people owed? | Workforce decision — [Tool 13](#toolkit--tool-13) | [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff), [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring) |
 
 Tool 12 (choose the combination) comes before Tool 5 (commit to one initiative) in this order: each initiative can be feasible on its own while the combination is not.
 
-A few labels are used throughout. An **initiative** is a defined piece of improvement work. A **baseline** records the starting situation. A **dependency** is something required before other work can proceed. A **material finding** is important enough to affect a decision. For responsibility, the records use **accountable company leader**: the person who is authorized to make the operating decision and answers for its result. **Shareholder** is reserved for ownership of the company. A person is never the “owner” of a decision in these records.
+An **initiative** is a defined piece of improvement work. A **baseline** records the starting situation. A **dependency** is something required before other work can proceed. A **material finding** is important enough to affect a decision. For responsibility, the records use **accountable company leader**: the person who is authorized to make the operating decision and answers for its result. **Shareholder** is reserved for ownership of the company. A person is never the “owner” of a decision in these records.
 
 Restrict distribution according to the engagement and company permissions. A filled template doesn’t establish that its claims are true: preserve dates, definitions, evidence links and disagreement.
 
@@ -85,7 +85,7 @@ The board cannot fund every response, so the options are compared on cash and te
 {id: toolkit--stage-3}
 ### Stage 3 — The Initiative, Pending and Authorized (Tool 5)
 
-The same initiative record is shown twice. The left column is the state many plans stop at: a sensible proposal that still asks someone else to supply the money, the name and the date. The right column is what the board actually authorized. The difference between the columns is the decision.
+The same initiative record is shown twice. The left column is the state many plans stop at: a sensible proposal that still asks someone else to supply the money, the name and the date. The right column is what the board actually authorized.
 
 | Field | ONB-1 — pending | ONB-1 — authorized |
 | --- | --- | --- |
@@ -380,7 +380,7 @@ Record the reason for the selected combination in ordinary language. A score can
 {id: toolkit--tool-13}
 ## 13. Record a Workforce Decision
 
-Use when an investor’s request, a funding condition or the company’s own cash forecast means the headcount plan has to change: a reduction, a freeze that becomes permanent, or a consolidation after an acquisition. See the chapter [Plan Layoffs: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) for the worked reduction and [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring) for the knowledge-transfer test and for an investor-proposed appointment, which uses the first three rows and the role-design fields of Tool 5 rather than a separate form. Reuse Tool 1’s Authority row and Tool 12’s option comparison rather than copying them.
+Use when an investor’s request, a funding condition or the company’s own cash forecast means the headcount plan has to change: a reduction, a freeze that becomes permanent, or a consolidation after an acquisition. See the chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) for the worked reduction and [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring) for the knowledge-transfer test and for an investor-proposed appointment, which uses the first three rows and the role-design fields of Tool 5 rather than a separate form. Reuse Tool 1’s Authority row and Tool 12’s option comparison rather than copying them.
 
 | Field | Record |
 | --- | --- |
@@ -419,7 +419,7 @@ Better questions and continuing relationships can be worthwhile results. Record 
 {id: toolkit--tool-15}
 ## 15. Define a Measure Before You Report It
 
-Use before a measure enters a board pack, an investor update or a funding decision. [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment) explains the labelling rule and the internal/shared boundary. One short record per measure; if a measure cannot be given an owner or a decision, it probably should not be reported.
+Use before a measure enters a board pack, an investor update or a funding decision. [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) explains the labelling rule and the internal/shared boundary. One short record per measure; if a measure cannot be given an owner or a decision, it probably should not be reported.
 
 | Field | Record |
 | --- | --- |

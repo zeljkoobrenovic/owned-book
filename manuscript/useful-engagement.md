@@ -1,35 +1,52 @@
 {id: useful-engagement}
-# 23. Set the Terms of Help: Agree the Work, Authority and Handover
+# 14. Set the Terms of Help: Agree the Work, Authority and Handover
 
-![Set the Terms of Help: Agree the Work, Authority and Handover — logo](private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/logo.jpeg)
+![Set the Terms of Help: Agree the Work, Authority and Handover — logo](private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to turn a request for help into a charter with resources, authority, evidence and a review date, then carry it through a scope change to a tested handover.
 
-> **WHY INVESTORS CARE:** Investor specialists are scarce and shared across a **portfolio** — the whole set of companies the investment firm has money in. An engagement with a filled charter uses their days on the constraint that matters and leaves evidence the investor can act on.
+> **WHY INVESTORS CARE:** Investor specialists are scarce and shared across a **portfolio**, the whole set of companies the investment firm has money in. An engagement with a completed charter spends their days on the constraint that matters and leaves evidence the investor can act on.
 
-> **WHY YOU SHOULD CARE:** Vague help produces repeated interviews, competing advice and no result; a filled charter is what lets the engagement change the work when the evidence changes.
+> **WHY YOU SHOULD CARE:** Vague help produces repeated interviews, competing advice and no result. A completed charter is what lets the engagement change the work when the evidence changes.
 
 > **KEY POINTS:**
 >
-> * Agree **what the help should change** and write it down: the result, the accountable company leader, the investor-side sponsor, resources on both sides, who directs the work, what information is for, the review date and the handover test.
-> * **External help consumes internal time.** Ten specialist days, capped at €15,000, need six engineering days, two customer-team sessions and the product leader’s review; without those, the specialist’s availability doesn’t make the engagement feasible.
+> * Agree **what the help should change** and write it down: the result, the accountable company leader, the investor-side sponsor, resources on both sides, who directs the work, what the findings are for, the review date and the handover test.
+> * **External help consumes internal time.** Ten specialist days, capped at €15,000, need six engineering days, two customer-team sessions and the product leader’s review; without those, the specialist’s availability does not make the engagement feasible.
 > * **Let the review change the work.** When evidence shows a different constraint, the charter says who may redirect the remaining days, which work stops and whether the budget still fits. The engagement ends with a capability, a decision or an understood continuing service.
 
-Larkspur is the fictional software company this book follows. It sells scheduling software, and every new customer has to be **onboarded** — set up on the software and made ready to use it. Today one person does most of that work: Larkspur’s own **implementation specialist**, an employee who configures each new customer by hand. An investor now offers Larkspur a second, quite different person: an **outside specialist** from the investment firm’s own bench, lent for a few weeks to make that setup work repeatable. Keeping the two apart matters for the rest of this chapter. The employee is the dependency the company wants to remove; the visitor is the help brought in to remove it.
+Larkspur, the fictional software company this book follows, sells scheduling software. Every new customer has to be **onboarded**: set up on the software and made ready to use it. Today one employee does most of that work: Larkspur’s **implementation specialist**, who configures each new customer by hand. If that person is away or leaves, onboarding stalls. (Two later chapters, [Assess Capability: Can the Team Deliver?](#can-the-team-deliver) and [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring), show how to find and measure such a dependence; this chapter takes it as given.)
 
-Everyone welcomes the offer. But suppose Larkspur accepted it just as it was made, with nothing agreed. This is what could happen: two weeks later, the outside specialist has interviewed the same engineers three times. The customer team still doesn’t know what will change or who is paying for the work.
+The investor now offers help: an **outside specialist** from the investment firm’s own team, lent to Larkspur for a few weeks to make the setup work repeatable. So two specialists appear in this chapter. The *implementation specialist* is Larkspur’s employee, the dependence the company wants to reduce; the *outside specialist* is the help brought in to reduce it.
 
-That offer names a person but leaves the work undefined. This chapter follows the alternative, which is what Larkspur does: it agrees the work before the specialist’s first day, so none of the ten paid days below is spent on repeated interviews. An **engagement** is an agreed piece of support with a purpose, participants and boundaries. An **engagement charter** is a short record of that agreement.
+Everyone welcomes the offer. But suppose Larkspur accepted it exactly as it was made, with **nothing agreed**. Two weeks later, the outside specialist could have interviewed the same engineers three times, while the customer team still did not know what would change or who was paying for the work. The offer named a person but left the work undefined.
 
-The outside specialist also reports to the investor. Before work starts, agree how that responsibility relates to the company’s priorities and who can direct the assignment. Company-sponsored work can suffer from conflicting executive sponsors and unclear authority too; the investor relationship adds a particular reporting line and the weight its suggestions carry. That is why the charter names who directs the work and what the specialist’s findings are for.
+This chapter follows what Larkspur does instead: it **agrees the work before the specialist’s first day**. The piece of support is an **engagement**, with a purpose, participants and boundaries, and the agreement is written down in an **engagement charter**, a short record of what was agreed.
 
-The input is the written request from the chapter [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability): “Help our customer team make one setup path repeatable, using a specialist who can work alongside our engineer for six weeks; Priya will assess customer outcomes.” This chapter completes the charter for that engagement, carries it through a scope change in engagement week three and ends at the week-six review.
+One point needs settling early. The outside specialist works for the investment firm and also reports to it. Before work starts, agree how that reporting line fits the company’s priorities and **who can direct the assignment**. Unclear authority is not unique to investors: work sponsored inside a company can also suffer from **conflicting executive sponsors**. But the investor relationship adds a second reporting line, and its suggestions carry extra weight. That is why the charter names who directs the work and what the specialist’s findings are for.
 
-Two clocks run through it. **Closing** is the day the investment legally completes. Within days of it the **board** — the directors who oversee the company and approve its major spending — met and adopted a plan for the first hundred days, and that meeting is day 0. Engagement weeks count from day 21, when the outside specialist starts. Each date below is given on both.
+{id: useful-engagement--setting-up-the-example-request-dates-and-budget}
+## Setting Up the Example: Request, Dates and Budget
 
-Three money words are used throughout, and they are not the same thing. Money is **committed** when the board authorizes it: €180,000 is set aside for the onboarding pilot, and nobody may spend beyond it without going back. A cost is **incurred** when the work has actually been received, whether or not the bill has been paid: roughly €90,000 of that €180,000 is work the pilot has received by day 100. Cash is **paid** when the money leaves the bank, which may be later still. The €15,000 of specialist fees in this chapter is part of that roughly €90,000, not an addition to it. The board also committed **12 engineer-weeks** to the pilot: an engineer-week is one engineer working for one week, and an **engineer-day** is one engineer working for one day, so five engineer-days make an engineer-week. These are units of working time, not stretches of the calendar. The pilot has a tracking code, **ONB-1**, which is simply the plan’s name for it.
+The example starts from the written request Larkspur produced in the chapter [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability):
 
-The example is fictional and uses the figures from the shared Larkspur chain; the method is a proposal.
+> “Help our customer team make one setup path repeatable, using a specialist who can work alongside our engineer for six weeks; Priya will assess customer outcomes.”
+
+Priya is Larkspur’s product leader. Three more things make the example easier to follow: how dates, money and engineering time are counted.
+
+**Dates.** Two clocks run through the chapter. The first counts days from the start of the investment. **Closing** is the day the investment legally completes; within days of it, the **board** (the directors who oversee the company and approve its major spending) met and adopted a plan for the first hundred days. That board meeting is **day 0**. The second clock counts **engagement weeks**, starting on day 21, when the outside specialist arrives. Each date in the chapter is given on both clocks.
+
+**Money.** Money passes through three stages:
+
+- It is **committed** when the board authorizes it. The board set aside €180,000 for the onboarding pilot, and nobody may spend beyond that without going back to the board.
+- A cost is **incurred** when the work has actually been delivered, whether or not the bill has been paid. By day 100, the pilot has received roughly €90,000 of work.
+- Cash is **paid** when the money leaves the bank, which may be later still.
+
+The €15,000 of specialist fees in this chapter is part of that roughly €90,000, not an addition to it.
+
+**Engineering time.** The board also committed **12 engineer-weeks** to the pilot. An engineer-week is one engineer working for one week; an **engineer-day** is one engineer working for one day, so five engineer-days make one engineer-week. These are units of working time, not calendar time: two engineers working for half a week also make one engineer-week.
+
+The pilot’s tracking code in the plan is **ONB-1**, and the chapter uses it as a short name. The example is fictional and uses the same Larkspur figures as the rest of the book; the method is a proposal, not an established standard.
 
 {id: useful-engagement--start-from-the-request}
 ## Start From the Request
@@ -41,7 +58,7 @@ Agree what is outside the assignment. Making one setup path repeatable doesn’t
 {id: useful-engagement--the-charter-for-the-onboarding-pilot-support}
 ## The Charter for the Onboarding Pilot Support
 
-The fields are the same for any engagement; the entries are Larkspur’s. Four people appear in them. **Priya** leads product and is accountable for the pilot’s result. **Alex** is Larkspur’s chief technology officer, the senior leader responsible for technology, and controls the engineers’ time. **Sam** leads finance. **Ines** is the chief executive. The outside specialist is the visitor; Larkspur’s implementation specialist is the employee whose manual work the pilot is trying to make unnecessary.
+The fields are the same for any engagement; the entries are Larkspur’s. **Priya** leads product and is accountable for the pilot’s result. **Alex** is Larkspur’s chief technology officer, the senior leader responsible for technology, and controls the engineers’ time. **Sam** leads finance. **Ines** is the chief executive. The outside specialist is the visitor; Larkspur’s implementation specialist is the employee whose manual work the pilot is trying to make unnecessary.
 
 | Field | Agreed for the ONB-1 pilot support |
 | --- | --- |
@@ -60,9 +77,9 @@ The fields are the same for any engagement; the entries are Larkspur’s. Four p
 
 The **investor-side sponsor** is the person in the investment firm backing the engagement, who can secure the agreed support or resolve a resource problem. The **accountable company leader** stays responsible for the operating result unless the company makes a different formal assignment. Keeping the two labels apart lets a reader adapt the charter to a company sponsor or a corporate parent without guessing which is meant.
 
-This agreement is what rules out the imagined opening. The specialist’s access is listed, the interviews have a stated purpose and an engineer in the room, and the customer team knows on day one what will change and who is paying. The [Practical Tools for Ownership and Technology Decisions](#toolkit) provides a reusable version; its value comes from resolving these questions, not from completing every field.
+The specialist’s access is listed, the interviews have a stated purpose and an engineer in the room, and the customer team knows on day one what will change and who is paying. The [Practical Tools for Ownership and Technology Decisions](#toolkit) provides a reusable version; its value comes from resolving these questions, not from completing every field.
 
-![An engagement agreement connects the expected result with people, cost, decision rights, information use and review.](private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/support-engagement-agreement.jpeg)
+![An engagement agreement connects the expected result with people, cost, decision rights, information use and review.](private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/support-engagement-agreement.jpeg)
 
 **Figure 1:** *Make the practical conditions of the help concrete before the engagement consumes time.*
 
@@ -93,9 +110,9 @@ A smaller assignment can be sensible if it produces a usable result. Cutting the
 
 The baseline arrives at day 20 as agreed, the day before the outside specialist starts. Reconstructed from the implementation specialist’s own time records for the twelve onboardings of the previous six months, it already shows the configuration step at under half of the 80 hours, with data cleaning the largest remaining share. The charter keeps the setup step as its target because that split is a reconstruction of old records, not something anyone watched happen.
 
-By engagement week three, about day 40, the engineer’s log of the first cohort setups on the new path confirms it in live work: configuration takes less than half the hours, and a large share of the rest is spent before it, cleaning and reconciling the customer’s records so that configuration can start. A typical case looks mundane. A new customer sends a staff list in which forty people have no site recorded, two sites appear under three different spellings, and the shift codes don’t match any pattern the software recognizes. None of that can be configured until somebody, usually working with the customer, decides what the right answer is. For customers with imperfect data, data quality, not the setup step, decides when a setup completes. Alex’s explanation in the diligence disagreement is gaining support; the pilot cohort was chosen to test it.
+By engagement week three, about day 40, the engineer’s log of the first cohort setups on the new path confirms it in live work: configuration takes less than half the hours, and a large share of the rest is spent before it, cleaning and reconciling the customer’s records so that configuration can start. A new customer sends a staff list in which forty people have no site recorded, two sites appear under three different spellings, and the shift codes don’t match any pattern the software recognizes. None of that can be configured until somebody, usually working with the customer, decides what the right answer is. For customers with imperfect data, data quality, not the setup step, decides when a setup completes. Alex’s explanation in the diligence disagreement is gaining support; the pilot cohort was chosen to test it.
 
-Continuing to template the setup step would preserve the assignment while missing the constraint on customer waiting time. The charter says who may change that.
+Continuing to template the setup step would preserve the assignment while missing the constraint on customer waiting time.
 
 **Who changes the scope.** Priya proposes the change, the investor-side sponsor agrees it, and Alex confirms the engineering effort. The board isn’t involved because the budget doesn’t move.
 
@@ -118,7 +135,7 @@ Three boundaries from earlier chapters apply to this charter: who directs the wo
 
 **Who may direct the work.** Direct access to engineers helps during diligence or a scoped assignment. It becomes destructive when engineers receive competing priorities from the outside specialist, from Alex as chief technology officer and from the investment team, because a second line of instruction then exists that nobody formally authorized. The charter’s purpose here is to name the accountable company leader, the specialist’s role and the decision boundaries, and to say who revisits them if the role changes. Two helpful relationships, such as advisers from two investors, shouldn’t leave the engineers holding two competing work lists; define the company’s question once. Where the company is required to use a service run elsewhere in the owner’s wider group of companies and cannot simply stop using it, record who has the authority and use the agreed route for problems with its performance, cost or access. The decision map is in the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides).
 
-**Role and information use.** The outside specialist interviews engineers and sees customer records. The charter says those conversations are pilot evidence, not assessments of anyone. At Larkspur, the charter records where the line falls. The firm may form its own view of the engineering team from what its **reporting and information rights** — the contractual entitlements to reports and information written into the investment agreement — already give it, without asking. What it cannot take from this engagement is new access for that purpose: a company-sponsored assessment, with interviews arranged for it or the use of the specialist’s pilot material, is a separate request, agreed with Ines and announced by the company. That is Larkspur’s agreed arrangement, not a rule every investor is bound by. The chapter [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser) sets out how to read those rights. People explain weaknesses more clearly when they know what the conversation is for.
+**Role and information use.** The outside specialist interviews engineers and sees customer records. The charter says those conversations are pilot evidence, not assessments of anyone. The firm may form its own view of the engineering team from what its **reporting and information rights** — the contractual entitlements to reports and information written into the investment agreement — already give it, without asking. What it cannot take from this engagement is new access for that purpose: a company-sponsored assessment, with interviews arranged for it or the use of the specialist’s pilot material, is a separate request, agreed with Ines and announced by the company. That is Larkspur’s agreed arrangement, not a rule every investor is bound by. The chapter [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser) sets out how to read those rights. People explain weaknesses more clearly when they know what the conversation is for.
 
 **Measurement.** Fewer hours per setup is staff time freed for other work, not money saved; Larkspur still pays the implementation specialist the same salary. The pilot cohort is eight customers in one country, so its result doesn’t establish the effect across all customer types, and an observed improvement doesn’t isolate the outside specialist’s contribution from the engineer’s work or from simpler contracts in the group. The charter therefore records waiting time and errors alongside hours, and the day-100 board review reads the day-90 cohort against the baseline rather than against the plan’s assumption. The reasoning is in the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue).
 
@@ -145,9 +162,9 @@ The calendar the two chapters share. Day 0 is the board meeting that adopted the
 
 A **handover** transfers the knowledge and responsibilities needed to continue the work: remaining tasks, operating costs, evidence gathered and conditions that need future review. Test it through an actual use of the result, as the charter did, rather than through a presentation.
 
-Not every engagement ends this way, and it doesn’t need to. Three outcomes are legitimate. A **capability** the company can now run itself. A **decision** the company can now make better, which may be that the original assignment was aimed at the wrong constraint. Or an **understood continuing service**, where scarce specialist help is kept on purpose, with its cost, availability and responsibilities agreed. What no engagement should leave is a critical dependency that nobody planned to fund.
+Three outcomes are legitimate. A **capability** the company can now run itself. A **decision** the company can now make better, which may be that the original assignment was aimed at the wrong constraint. Or an **understood continuing service**, where scarce specialist help is kept on purpose, with its cost, availability and responsibilities agreed. What no engagement should leave is a critical dependency that nobody planned to fund.
 
-![Support can leave an internal capability, a better-supported decision or an explicit continuing service.](private-techuity/posts/20-useful-engagement/assets/images/20-useful-engagement/three-useful-support-endings.jpeg)
+![Support can leave an internal capability, a better-supported decision or an explicit continuing service.](private-techuity/posts/12-useful-engagement/assets/images/12-useful-engagement/three-useful-support-endings.jpeg)
 
 **Figure 2:** *Agree what remains useful after the initial assignment and who will sustain it.*
 

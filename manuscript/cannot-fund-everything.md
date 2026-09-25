@@ -1,13 +1,13 @@
 {id: cannot-fund-everything}
-# 11. Set Priorities: You Cannot Fund Everything at Once
+# 19. Set Priorities: You Cannot Fund Everything at Once
 
-![Set Priorities: You Cannot Fund Everything at Once — logo](private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/logo.jpeg)
+![Set Priorities: You Cannot Fund Everything at Once — logo](private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to choose a combination of work that fits both the cash and the team time available, and revise the whole combination when a test fails.
 
-> **WHY INVESTORS CARE:** Larkspur’s investor agreed to fund growth on one assumption: the company can take on many more new customers without adding staff at the same rate. The work that tests that assumption needs the same engineers as an improvement the company has already promised. A plan that gives the same people to both shows up later as delays, in front of the board where the investor sits.
+> **WHY INVESTORS CARE:** Larkspur’s investor agreed to fund growth on one assumption: the company can take on many more new customers without adding staff at the same rate. The work that tests that assumption needs the same engineers as an improvement the company has already promised. A plan that assigns the same people to both will later show up as delays, in front of the board on which the investor sits.
 
-> **WHY YOU SHOULD CARE:** A plan that fits the cash but not the team time, or ignores an agreed obligation, gets overrun by the limit nobody counted. Choosing a combination the company can deliver is what makes its commitments worth something.
+> **WHY YOU SHOULD CARE:** A plan that fits the cash but not the team time, or that ignores an agreed obligation, will be overrun by the limit nobody counted. Choosing a combination the company can deliver is what makes its commitments worth something.
 
 > **KEY POINTS:**
 >
@@ -15,9 +15,20 @@
 > * Sort the requests by **what they rest on**: an agreed obligation, tested customer evidence or an assumption. A growth target starts the discussion; it does not choose the project.
 > * Make the **next review part of the decision**, and revise the whole combination, not just one project, when a test fails or new evidence arrives.
 
-Larkspur is the fictional company this book follows; it sells scheduling software to maintenance businesses. Its investor wants faster growth. Priya, the product leader, has requests for a new customer portal, an online workspace where customers manage their own work. Alex, the technology leader, wants to improve recovery from system failures. The customer team wants simpler setup for new accounts. Each request has a plausible benefit. They can’t all use the same people at the same time.
+After an investment, there is rarely a shortage of good ideas. The investor wants faster growth, product has features customers are asking for, technology has risks it wants to reduce, and the customer team has problems it sees every day. Each request can look worthwhile on its own. The difficulty is that they all compete for the same two limited resources: money, and the time of the people who would do the work. A plan that **checks only the budget** can look affordable and **still fail**, because the same engineers have been counted twice.
 
-A **company investment** commits resources now in the expectation of a future benefit. **Team capacity** is the time and capability people have available to do the work. Choosing investments needs both a cash plan and a capacity plan. This chapter shows one way to make the choice, as a proposed working method illustrated with fictional figures.
+A **company investment** commits resources now in the expectation of a future benefit. **Team capacity** is the time and capability people have available to do the work. Choosing investments therefore needs both a cash plan and a capacity plan, and a way to decide what goes first when the two cannot cover everything. This chapter shows one way to make that choice. It is a proposed working method rather than an established standard, illustrated with fictional figures to help you become familiar with the topic.
+
+{id: cannot-fund-everything--setting-up-the-example-three-requests-one-team}
+## Setting Up the Example: Three Requests, One Team
+
+Larkspur is the fictional company this book follows; it sells scheduling software to maintenance businesses. Its investor wants faster growth, and three requests are competing for the same people:
+
+- Priya, the product leader, wants a **new customer portal**, an online workspace where customers manage their own work.
+- Alex, the technology leader, wants to improve **recovery from system failures**.
+- The customer team wants **simpler setup** for new accounts.
+
+Each request has a plausible benefit, and the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) has already agreed which customer and business outcomes the work is for. But the requests cannot all use the same people at the same time. The next section sets out the limits the board has approved and what each request would need.
 
 {id: cannot-fund-everything--competing-requests-two-limits}
 ## Competing Requests, Two Limits
@@ -49,16 +60,16 @@ The training row’s figure is in brackets because it is outside that comparison
 
 The second row concerns **setup**, the work of helping a new customer configure the product and start using it. Other chapters call the same work onboarding or implementation, and the people who do it the implementation team. The last two rows are stages of one idea: the portal research comes before a full build. The table shows what funding both stages would require; the company still has to decide whether the research justifies that later commitment.
 
-KNW-1 changes neither total. The **scheduling engine** is the software that works out which job goes to which person and when. Diligence found that only one specialist could **release** it, meaning put a new version into use, and recover it after a failure. KNW-1 has that specialist teach a second engineer to do both. It needs no additional cash, because both people are existing employees paid from the operating budget.
+The **scheduling engine** is the software that works out which job goes to which person and when. Diligence found that only one specialist could **release** it, meaning put a new version into use, and recover it after a failure. KNW-1 has that specialist teach a second engineer to do both. It needs no additional cash, because both people are existing employees paid from the operating budget.
 
 Being paid is not the same as being free, so the plan counts their time too. The specialist gives four weeks. The second engineer, who already works on the engine, spends about the same four weeks alongside the specialist during the first 60 days, on real releases and a recovery rehearsal. That makes about eight person-weeks in all, the figure in the table. None of it comes from the 24, which were counted after both people’s KNW-1 time had been set aside, so no week is counted twice. The price is paid in ordinary work: Alex postpones non-urgent changes to the scheduling engine for those weeks, and urgent fixes still come first. The row is in the table so that nothing else can claim that time.
 
-The totals are only a first check. Confirm that the required specialists are available in the weeks each project needs them. Twenty-four engineer-weeks spread across several teams or months may not support a plan that needs the same specialist for twelve consecutive weeks.
+Confirm that the required specialists are available in the weeks each project needs them. Twenty-four engineer-weeks spread across several teams or months may not support a plan that needs the same specialist for twelve consecutive weeks.
 
 {id: cannot-fund-everything--sort-the-rows-by-what-they-rest-on}
 ## Sort the Rows by What They Rest On
 
-Before choosing among the rows, establish what each one depends on. The table gives every row the same shape; the rows are not the same kind of choice.
+The table gives every row the same shape; the rows are not the same kind of choice.
 
 **An agreed obligation.** Some work protects an existing commitment: continuing a contracted service, meeting an applicable requirement or resolving a risk the company has decided it can’t accept. At Larkspur the recovery requirement above is one: Ines approved it, and customers plan their mornings around it. The restoration row is what proving and meeting it costs. KNW-1 is the other obligation on the table: the company decided not to carry the risk of one person being the only one who can release and recover the scheduling engine. That doesn’t make every proposed security or maintenance project mandatory. Establish the specific obligation or failure scenario, the minimum acceptable result and the feasible alternatives, with specialist interpretation where necessary. The company still chooses how to meet the need.
 
@@ -71,7 +82,7 @@ Before choosing among the rows, establish what each one depends on. The table gi
 {id: cannot-fund-everything--the-condition-that-applies-here}
 ## The Condition That Applies Here
 
-Having an investor changes the conditions of the decision. Establish the actual funding, authority and deadline before committing. In this exercise the condition is specific. Larkspur’s growth funding, the money the investor put in to pay for expansion, was agreed on a plan with one central assumption: the company can set up many more new customers without the implementation team growing at the same rate. The plan’s own test is one and a half times as many new customers with the same team.
+Having an investor changes the conditions of the decision. Establish the actual funding, authority and deadline before committing. Larkspur’s growth funding, the money the investor put in to pay for expansion, was agreed on a plan with one central assumption: the company can set up many more new customers without the implementation team growing at the same rate. The plan’s own test is one and a half times as many new customers with the same team.
 
 That gives the setup row a priority the company’s own view might not. The setup change is run as a **pilot**, a limited trial, with a first **cohort**: a group of customers set up the new way and measured together. The pilot’s evidence is a condition of the next expansion step. Other funding arrangements set other conditions; the chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need) compares them, and the [Introduction & Reading Guide](#introduction) explains how the book’s alternative scenarios relate to each other.
 
@@ -91,11 +102,11 @@ Record the decision in full:
 - **Authority:** Ines proposes; the board approves the plan and the envelope. Inside the approved plan Ines authorizes spending; any draw on the reserve, and any change to what the envelope funds, stays with the board. The chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) records that delegation rule. Alex is accountable for restoration and KNW-1, Priya for the setup change and the research.
 - **Evidence that would change it:** research showing the portal is essential to retain a major customer, or the first setup cohort showing no reduction in effort.
 
-The remaining €220,000 and six weeks provide room for uncertainty and for a later decision. They aren’t automatically savings or permission to start another project, and drawing on them is the board’s decision, not Ines’s. The review below shows what part of them was for.
+The remaining €220,000 and six weeks provide room for uncertainty and for a later decision. They aren’t automatically savings or permission to start another project, and drawing on them is the board’s decision, not Ines’s.
 
 An estimated score can help organize this conversation, but it shouldn’t hide that an agreed obligation, a speculative product opportunity and a learning step answer different questions. **Explain the trade-off in words** as well as numbers.
 
-![A group of projects must fit both the cash budget and the available team and specialist time.](private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/money-and-capacity-two-limits.jpeg)
+![A group of projects must fit both the cash budget and the available team and specialist time.](private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/money-and-capacity-two-limits.jpeg)
 
 **Figure 1:** *A project can be affordable and still be impossible to schedule.*
 
@@ -106,16 +117,16 @@ A **funding stage** commits resources for a defined piece of work before decidin
 
 For the portal, the research is the first stage; the next decision might be to build a narrow function, investigate another need or stop. For restoration, the stage is the test itself: can the service recover within the agreed conditions?
 
-Check the connections between stages. Can the company operate safely if it stops after the first? **Who maintains anything already delivered?** What spending is unavoidable once the first commitment is made? The setup step’s yearly upkeep is that kind of cost, which is why the record carries it from day 0. Some transitions require a larger coordinated commitment, which should be visible from the start.
+Can the company operate safely if it stops after the first? **Who maintains anything already delivered?** What spending is unavoidable once the first commitment is made? The setup step’s yearly upkeep is that kind of cost, which is why the record carries it from day 0. Some transitions require a larger coordinated commitment, which should be visible from the start.
 
-![An initial funded test leads to a review before the company expands, changes or stops the work.](private-techuity/posts/09-cannot-fund-everything/assets/images/09-cannot-fund-everything/staged-investment-with-review.jpeg)
+![An initial funded test leads to a review before the company expands, changes or stops the work.](private-techuity/posts/17-cannot-fund-everything/assets/images/17-cannot-fund-everything/staged-investment-with-review.jpeg)
 
 **Figure 2:** *Commit enough to answer the next decision, then use the evidence before committing more.*
 
 {id: cannot-fund-everything--review-the-combination-not-just-each-project}
 ## Review the Combination, Not Just Each Project
 
-New evidence can change the whole plan, and in this exercise it did. Restoration had been approved at €80,000 and four engineer-weeks. By the day-45 test all of it had been spent: on a **restore environment**, a separate set of systems on which the service can be rebuilt; on access to the **backups**, the saved copies of the company’s data; on backing up schedule data every fifteen minutes instead of once a night; and on the test itself.
+Restoration had been approved at €80,000 and four engineer-weeks. By the day-45 test all of it had been spent: on a **restore environment**, a separate set of systems on which the service can be rebuilt; on access to the **backups**, the saved copies of the company’s data; on backing up schedule data every fifteen minutes instead of once a night; and on the test itself.
 
 The test failed both parts of the requirement. The service came back after eleven hours against the agreed four, for two reasons. The account that could read the backups belonged to an engineer who had left, so nobody held a working **credential**, the information that proves someone may access a system. And the backup could only be loaded by the version of the database software it was made with, which could no longer be installed. (The database stores and organizes the application’s data.)
 
@@ -123,7 +134,7 @@ When the service did come back, its data was from the previous night. The fiftee
 
 The €80,000 and four weeks are **sunk cost**: resources already spent that can’t be recovered. They belong in the record, but they are not a reason to spend more. The next commitment depends on remaining costs and expected benefits, and here the obligation has not gone away.
 
-The correction has three parts. The restore environment is kept on the same database version as the live service. The backup credentials move out of one person’s account into a single, centrally controlled store for access credentials, which records who may use them. An emergency procedure that two named people can carry out goes with it. And a written rehearsal includes the missing step that applies the fifteen-minute backups. With a retest, this needs about €20,000 and two more engineer-weeks.
+The restore environment is kept on the same database version as the live service. The backup credentials move out of one person’s account into a single, centrally controlled store for access credentials, which records who may use them. An emergency procedure that two named people can carry out goes with it. And a written rehearsal includes the missing step that applies the fifteen-minute backups. With a retest, this needs about €20,000 and two more engineer-weeks.
 
 Those can only come from the reserve, and the reserve is the board’s. Ines’s delegation covers spending inside the approved plan; it excludes any draw on the reserve and any change to what the envelope funds (the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) records the rule). So around day 47 Ines asks the board, and the board approves. The revised commitment:
 
@@ -135,11 +146,11 @@ Those can only come from the reserve, and the reserve is the board’s. Ines’s
 
 The retest at day 85 passed both parts: dispatch was working again within four hours, with under fifteen minutes of schedule updates lost. It proved that for one kind of failure: the loss of the application environment, meaning the servers, database and configuration the service runs on.
 
-The limit of that proof is about place. Larkspur rents its computing from a cloud provider, and a **cloud region** is one geographic group of that provider’s computing facilities. In the retest the region itself kept working, and Larkspur rebuilt its own systems inside it from the backups. If the whole region were unavailable, there would be nowhere in it to rebuild, and the service would have to come back in another location. That larger failure was not tested, and the record lists it as a risk that remains.
+Larkspur rents its computing from a cloud provider, and a **cloud region** is one geographic group of that provider’s computing facilities. In the retest the region itself kept working, and Larkspur rebuilt its own systems inside it from the backups. If the whole region were unavailable, there would be nowhere in it to rebuild, and the service would have to come back in another location. That larger failure was not tested, and the record lists it as a risk that remains.
 
-The sequence continued in the same way. At the day-100 review the board approved another €40,000 and the last four unallocated engineer-weeks for a data-quality step: checking and correcting each customer’s data before setup begins. The first setup cohort had pointed there, because about 40% of the setup hours that remained traced to problems in customers’ data. That took the envelope to €340,000 committed and all 24 engineer-weeks allocated, with €160,000 of cash still uncommitted.
+At the day-100 review the board approved another €40,000 and the last four unallocated engineer-weeks for a data-quality step: checking and correcting each customer’s data before setup begins. The first setup cohort had pointed there, because about 40% of the setup hours that remained traced to problems in customers’ data. That took the envelope to €340,000 committed and all 24 engineer-weeks allocated, with €160,000 of cash still uncommitted.
 
-Allocated does not mean finished, and committed does not mean spent. At day 100 the setup change had used about ten of its twelve weeks, and about €90,000 of its €180,000 had been **incurred**, meaning the work or services had been received. The other €90,000 falls due over the next two quarters, and the data-quality step’s four weeks were all still to come. The chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) carries that review, with a table of what was committed and what was incurred. The point here is that each step changed the combination, and each was decided by the body that owned the reserve.
+Allocated does not mean finished, and committed does not mean spent. At day 100 the setup change had used about ten of its twelve weeks, and about €90,000 of its €180,000 had been **incurred**, meaning the work or services had been received. The other €90,000 falls due over the next two quarters, and the data-quality step’s four weeks were all still to come. The chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) carries that review, with a table of what was committed and what was incurred.
 
 Review the starting assumptions, actual spending, team burden and observed outcomes together, not project by project. A supplier failure may use the spare capacity. Customer research may invalidate an expected benefit. One completed improvement may remove the need for another. Decide which work continues, which changes and which stops.
 

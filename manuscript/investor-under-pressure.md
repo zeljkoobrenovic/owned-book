@@ -5,9 +5,9 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn to judge an investor by evidence of how it behaved when a company fell short of its plan, compare two offers on that evidence, and change one dependency when the investor is already in place.
 
-> **WHY INVESTORS CARE:** An investor that writes down the conditions for giving a company more money later gives up its freedom to refuse when the time comes. Not every investor can or will. One that does is bound only by what the contract says: the conditions must be met, and the company must still make a valid request. One that won’t write its conditions down keeps the choice, and the company should plan as if the money is not there.
+> **WHY INVESTORS CARE:** An investor that commits in writing to the conditions for providing more money later gives up the freedom to refuse when the time comes. Not every investor can or will do this. One that does is bound only by what the contract says: the conditions must be met, and the company must still make a valid request. One that will not write its conditions down keeps the choice, and the company should plan as if that money is not there.
 
-> **WHY YOU SHOULD CARE:** A plan built on an investor’s promised patience or support fails when the promise does. Past decisions help test promises of support; current terms and available resources determine which promises your plan can rely on.
+> **WHY YOU SHOULD CARE:** A plan built on an investor’s promised patience or support fails when the promise does. Past decisions help test promises of support. Current terms and available resources determine which promises your plan can rely on.
 
 > **KEY POINTS:**
 >
@@ -15,32 +15,44 @@
 > * Match support to the **company’s next decisions**. Establish the people, time, cost and authority behind an offer before a plan depends on it, and label what remains unconfirmed.
 > * **If the investor is already in place**, use the assessment to change one dependency: the funding date, the approval route or the support commitment. Reassess as the business changes.
 
-Ines, the chief executive officer (CEO) of the fictional software company Larkspur, has two **term sheets** on her desk. A term sheet sets out the terms on which an investor proposes to put money into a company in exchange for shares, which are units of ownership. Both investors promise patient ownership, meaning time for results to arrive, and practical support. To compare them, she needs examples of how those promises worked when a company missed its plan: sales came later than forecast, or a product shipped late.
+When a company raises money, investors usually promise more than money: patience while results arrive, and practical support along the way. Such promises are easy to make while a plan is on track. They are tested when the company falls short of it, and that is when the company learns whether its plan can rely on them. What a leader needs to judge beforehand is **investor fit**: how well an investor’s terms, resources and behavior match what the company needs.
 
-A few words recur in this chapter. The **investor** here is an investment firm. The firm manages a **fund**: a pool of money that outside institutions and individuals, the fund’s own investors, have promised to it for an agreed number of years. A group inside the firm, the **investment committee**, approves each investment. A **follow-on** is more money from the same investor after its first investment. On the company’s side, the **shareholders** own the shares, and the **board** is the group that oversees the company’s major decisions on their behalf.
+Most product and engineering leaders are not asked to sign an investor’s terms. They are asked to **deliver a plan whose feasibility depends on the investor’s behavior**. Does funding continue after a missed quarter (three months of the financial year)? Does support arrive in a usable form? Is a delay treated as a problem to solve, or as a reason to change management?
 
-**Investor fit** means how well an investor’s terms, resources and behavior match what the company needs. A reassuring description is a starting point for investigation.
+The purpose is not to find a universally good investor. It is to find out whether a particular partnership can support what the company actually has to do next. The same firm can be a strong fit for one situation and a poor fit for another.
 
-Most product and engineering leaders aren’t asked to sign a term sheet. They’re asked to deliver a plan whose feasibility depends on the investor’s behavior. Does funding continue after a missed quarter (three months of the financial year)? Does support arrive in a usable form? Is a delay treated as a problem to solve or a reason to change management?
+The assessment has two uses, and this chapter shows both. Before a deal, it helps compare offers. When the investor is already in place, it helps you change one dependency in your plan: the funding date, the approval route or the support commitment. The chapter starts from the work the company needs. It then shows how to ask for difficult references, make a support offer reviewable and test the funding horizon, before comparing two investors against the same needs.
 
-If the investor is already in place, use this assessment to change one dependency in your plan: the funding date, the approval route or the support commitment. This chapter shows both uses: the comparison Ines makes between the two offers, and the change Alex, the chief technology officer (CTO), makes to the operating plan once the evidence is in.
+{id: investor-under-pressure--setting-up-the-example-two-term-sheets-for-larkspur}
+## Setting Up the Example: Two Term Sheets for Larkspur
 
-The purpose isn’t to find a universally good investor. It’s to find out whether this partnership can support what Larkspur actually has to do next. The same firm can be a strong fit for one situation and a poor fit for another.
+Ines, the chief executive officer (CEO) of Larkspur, the fictional software company this book follows, has two **term sheets** on her desk. A term sheet sets out the terms on which an investor proposes to put money into a company in exchange for shares (units of ownership). Both investors promise two things: patient ownership, meaning time for results to arrive, and practical support. To compare them, Ines needs examples of how those promises held up when a company missed its plan: when sales came later than forecast, or a product shipped late. What she is judging is investor fit.
+
+Ines uses the assessment before the deal, to compare her two term sheets. Later in the chapter, in a separate round where the investor is already in place, Alex, the chief technology officer (CTO), uses it to change one dependency in Larkspur’s operating plan once the evidence is in.
+
+Before comparing the offers, it helps to be clear about who, inside an investment firm, decides whether money is provided.
+
+{id: investor-under-pressure--investors-funds-committees-and-boards}
+## Investors, Funds, Committees, and Boards
+
+The **investor** in this chapter is an investment firm. The firm typically manages a **fund**: a pool of money that outside institutions and individuals, the fund’s own investors, have promised to it for an agreed number of years. Inside the firm, a group called the **investment committee** approves each investment, including any **follow-on**: more money from the same investor after its first investment. A partner’s assurance about future money is therefore not the same as a committee’s decision.
+
+On the company’s side, the **shareholders** own the shares, and the **board** oversees the company’s major decisions on their behalf.
 
 {id: investor-under-pressure--begin-with-the-work-the-company-needs}
 ## Begin With the Work the Company Needs
 
-Before assessing an investor’s capabilities, write a short account of the company’s next difficult decisions and what the investor would need to contribute to each: money, expertise, customer access, hiring support, patience, or workable governance (the rules about who may decide, approve or block a company action). This stops “operating support”, practical help with running or improving the company, from staying an attractive but undefined phrase.
+Before assessing an investor’s capabilities, write a short account of the **company’s next difficult decisions** and what the investor would need to contribute to each: money, expertise, customer access, hiring support, patience, or workable governance (the rules about who may decide, approve or block a company action). Writing this down keeps “operating support” (practical help with running or improving the company) from remaining an **attractive but undefined phrase**.
 
-Two words in Larkspur’s list need explaining. **Onboarding** is getting a new customer set up to use Larkspur’s software. One customer’s setup is an *implementation*, and today it takes about 80 hours of Larkspur’s staff time. A **pilot** is a small trial: here, automating part of that setup for a small group of customers and measuring whether the hours fall.
+Larkspur’s first decision concerns **onboarding**: getting a new customer set up to use its software. Setting up one customer is an *implementation*, and today it takes about 80 hours of Larkspur’s staff time. A **pilot** is a small trial; here, it would automate part of that setup for a small group of customers and measure whether the hours fall. The table sets out the three decisions Larkspur faces and what each needs from an investor.
 
 | Next decision | What Larkspur needs from the investor |
 | --- | --- |
-| Automate onboarding, starting with a pilot | Someone who has seen an onboarding automation done; patience through a pilot that may show the assumptions were wrong |
+| Automate onboarding, starting with a pilot | Someone who has seen onboarding automated before; patience through a pilot that may show the assumptions were wrong |
 | Enter a second country | A follow-on about a year from now, on conditions known today; hiring support in the new market |
 | Replace the retiring founder’s customer relationships and knowledge | Time for a transition through at least two release cycles (the periods between planned software releases), and a board that does not treat the founder’s departure as a reason to change the rest of management |
 
-A firm can advertise a broad *support platform*: its network of in-house experts, advisers and services for the companies it owns. KKR Capstone, for example, describes capabilities across growth, digital work, operations and external experts. Such descriptions establish the services a firm says it can offer, not their availability, effectiveness or suitability for a specific company. [S22: KKR Capstone description](https://www.kkr.com/approach/capstone) The assessment has to move from the brochure to the three rows above.
+A firm can advertise a broad *support platform*: its network of in-house experts, advisers and services for the companies it owns. KKR Capstone, for example, describes capabilities across growth, digital work, operations and external experts. Such descriptions show the services a firm says it can offer, not their availability, effectiveness or suitability for a specific company. [S22: KKR Capstone description](https://www.kkr.com/approach/capstone)
 
 {id: investor-under-pressure--ask-for-the-difficult-references}
 ## Ask for the Difficult References
@@ -71,16 +83,16 @@ A single difficult story isn’t a verdict. **Look for repeated mechanisms** and
 
 Suppose an investor promises help with **artificial intelligence (AI)**, software that performs tasks such as drafting text or recognizing patterns, and with building engineering teams in other countries. For Larkspur, AI help might mean software that drafts replies to customers’ support questions.
 
-Ask what the first *engagement*, a defined piece of outside help, would involve. Who is available, and for how many days? What relevant work is behind them? Who pays for specialists and implementation? Who has authority to decide, and what would stop the engagement? A reasonable answer can be modest. One experienced *operator*, someone who has run this kind of business or function, with a trusted specialist network can be more useful than an extensive catalogue without available capacity.
+Ask what the first *engagement*, a defined piece of outside help, would involve. Who is available, and for how many days? What relevant work is behind them? Who pays for specialists and implementation? Who has authority to decide, and what would stop the engagement? One experienced *operator*, someone who has run this kind of business or function, with a trusted specialist network can be more useful than an extensive catalogue without available capacity.
 
-Don’t confuse advice with funding. A recommendation to rebuild ageing software is incomplete until the company has the capacity and money to do it. Here, the support offer is evidence about the investor. Once a company need is agreed, finding suitable help and writing the engagement charter, the short document that records the engagement’s scope, responsibilities and limits, are Part IV’s work: the chapters [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) and [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement).
+A recommendation to rebuild ageing software is incomplete until the company has the capacity and money to do it. Here, the support offer is evidence about the investor. Once a company need is agreed, finding suitable help and writing the engagement charter, the short document that records the engagement’s scope, responsibilities and limits, are Part III’s work: the chapters [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) and [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement).
 
 {id: investor-under-pressure--test-the-funding-horizon}
 ## Test the Funding Horizon
 
 Ask for a plain account of where the money in the deal goes and what the company owes afterward. How much of it reaches the company, rather than paying existing shareholders for their shares or covering the costs of the deal? Does the company owe borrowed money, and when is repayment due? Does any agreement significantly limit what the company may do? Which financial scenario, a model of money coming in and going out under stated assumptions, funds the product plan? What happens if growth arrives a year late?
 
-Then ask about the fund. A fund has a life: it collects promises of money from its investors, invests for some years, then sells its holdings and returns the money. Find out where this investment falls in that life and how decisions about follow-ons are made.
+A fund has a life: it collects promises of money from its investors, invests for some years, then sells its holdings and returns the money. Find out where this investment falls in that life and how decisions about follow-ons are made.
 
 A fund’s agreed length, its *term*, is commonly ten years. **The term is not a sale date.** Fund agreements usually allow extensions with the approval of the fund’s investors. The Institutional Limited Partners Association (ILPA), which represents institutions that invest in funds, publishes principles that are recommendations rather than binding terms. They suggest at most two extensions of one year each, each approved by the fund’s investors. [S02: ILPA principles](https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf)
 
@@ -88,7 +100,7 @@ A fund near its scheduled end may be under pressure to sell its companies, and i
 
 Ask, too, whether money the investor describes as “reserved” for follow-ons is a commitment to this company or an earmark inside the fund that its committee can redirect. Don’t ask for an absolute promise that the company will never be sold early or that more money will always be available. Ask how those decisions will be made and which conditions matter.
 
-The chapter [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) changes one assumption at a time and watches what happens to the result. The same test can structure this conversation. An investor’s *return* is its gain or loss on the investment. Suppose the plan reaches the promised return only if profit grows unusually fast and a future buyer also pays more for each euro of profit (a higher *exit multiple*). Ask how the plan performs without the higher price.
+The chapter [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) changes one assumption at a time and watches what happens to the result. An investor’s *return* is its gain or loss on the investment. Suppose the plan reaches the promised return only if profit grows unusually fast and a future buyer also pays more for each euro of profit (a higher *exit multiple*). Ask how the plan performs without the higher price.
 
 ![One time arrow runs left to right under two lanes. In the company’s lane, the pilot comes first. A shared checkpoint leads from the pilot down to the funding lane, where three separate steps follow in order: review, approval and payment. The company’s lane stays empty while they happen. An arrow labeled Money received rises from payment to wider use of what the pilot tested, which sits after the payment and is followed by ongoing operations.](private-techuity/posts/08-investor-under-pressure/assets/images/08-investor-under-pressure/company-and-investor-calendars.jpeg)
 
@@ -97,7 +109,7 @@ The chapter [Understand Investor Returns: Same Performance, Different Outcomes](
 {id: investor-under-pressure--compare-both-investors-against-the-same-needs}
 ## Compare Both Investors Against the Same Needs
 
-Now the two term sheets. This is a fictional scenario with its own assumptions: its amounts belong to this chapter alone, not to the shared Larkspur example that Part III onward uses. One thing is shared. The onboarding pilot is the pilot those chapters measure.
+This is a fictional scenario with its own assumptions: its amounts belong to this chapter alone, not to the shared Larkspur example that Part III onward uses. The onboarding pilot is the pilot those chapters measure.
 
 Both investors would buy newly issued shares, so neither offer is a loan to repay. Each is for a *minority stake*, less than half the company, in the same *round*, a single fundraising event. Investor A is a larger firm offering €5 million at the higher *valuation*, with a broad support platform. The valuation is the value put on the whole company to set the share price; a higher one means Larkspur sells a smaller part of itself for the same money. Investor B is a smaller firm offering €4.5 million at a lower valuation, one experienced operator, money set aside in its fund for follow-ons, and a willingness to turn some of that money into a contractual commitment. Ines puts both through the same three needs.
 
@@ -127,7 +139,7 @@ Both investors would buy newly issued shares, so neither offer is a loan to repa
 
 The 65-hour bar is deliberately easier than the board’s own pilot rule. Under that rule, a group average below 60 hours would justify requesting the pilot’s next stage and bringing the expansion decision forward (see the chapters [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) and [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)).
 
-The clause tests only whether the pilot reaches an agreed level of observed improvement. That is enough for this funding condition. It does not prove that the automation caused the improvement: as the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) explains, the choice of pilot customers and staff getting faster with practice could also have cut the hours. On its own it does not justify expanding either.
+The clause tests only whether the pilot reaches an agreed level of observed improvement. It does not prove that the automation caused the improvement: as the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) explains, the choice of pilot customers and staff getting faster with practice could also have cut the hours. On its own it does not justify expanding either.
 
 Both rules test the group’s average, not each customer. Suppose eight setups took 55, 57, 59, 61, 63, 65, 67 and 69 hours. The total is 496 hours and the average is 62. The group meets the funding condition, even though two setups took more than 65 hours.
 
@@ -153,7 +165,7 @@ In every case, no second-country hire, lease or customer promise is made before 
 
 **Either investor could be the right choice.** The evidence did not rank the firms; it changed which uncertainty Larkspur would carry. With A, the uncertainty sits on the most time-sensitive decision, second-country funding, and A would not write it down. With B, the written follow-on narrows the next funding decision to a measurable condition.
 
-The clause does nothing for the other two uncertainties. Neither term sheet contains a rule on management changes, and no clause lengthens a fund’s life. B’s management-change practice, known from one account, and its likely wish to sell within about five years remain risks the board accepts, subject to the further references below. B’s explicit funding condition against A’s undisclosed committee is the trade Ines is making, not a removal of risk.
+Neither term sheet contains a rule on management changes, and no clause lengthens a fund’s life. B’s management-change practice, known from one account, and its likely wish to sell within about five years remain risks the board accepts, subject to the further references below. B’s explicit funding condition against A’s undisclosed committee is the trade Ines is making, not a removal of risk.
 
 The comparison covers support and conditional funding only. It leaves out how much of the company each valuation would hand over, and the *dilution* of existing owners, whose percentage falls when new shares are issued. That arithmetic is a separate part of the term-sheet review.
 
@@ -169,9 +181,9 @@ The comparison covers support and conditional funding only. It leaves out how mu
 {id: investor-under-pressure--when-the-investor-is-already-in-place}
 ## When the Investor Is Already in Place
 
-The same assessment changes one dependency for a leader who did not choose the investor. In a separate fictional Larkspur round, the *lead investor*, the one negotiating the round’s terms, will provide more money only if another investor joins alongside it as a *co-investor*. The existing investor is supportive but hasn’t committed. Priya’s expansion depends on both. Alex’s operating plan had the second-country engineering lead starting in June, on the assumption that the round would complete.
+In a separate fictional Larkspur round, the *lead investor*, the one negotiating the round’s terms, will provide more money only if another investor joins alongside it as a *co-investor*. The existing investor is supportive but hasn’t committed. Priya’s expansion depends on both. Alex’s operating plan had the second-country engineering lead starting in June, on the assumption that the round would complete.
 
-After the assessment, the plan changes in one place. The June hire becomes a dated decision at the July board meeting, taken after the co-investor has committed or declined. The onboarding pilot proceeds from *operating cash*, the money the business already brings in from customers, once Sam, the CFO, confirms it can carry the cost; the pilot no longer depends on the round. The existing investor’s offer of help with AI is labelled unconfirmed until a named person and a number of days exist. Two encouraging conversations still don’t equal a funded plan; what changed is that no delivery date rests on them.
+The June hire becomes a dated decision at the July board meeting, taken after the co-investor has committed or declined. The onboarding pilot proceeds from *operating cash*, the money the business already brings in from customers, once Sam, the CFO, confirms it can carry the cost; the pilot no longer depends on the round. The existing investor’s offer of help with AI is labelled unconfirmed until a named person and a number of days exist. Two encouraging conversations still don’t equal a funded plan; what changed is that no delivery date rests on them.
 
 A *corporate investor* is an established business that invests in another company. Suppose one asks for a feature available only through its own sales channel, the route by which its products reach customers. That is a separate commercial decision, to be tested for its effect on other customers, future partnerships and support costs rather than treated as part of the ownership relationship.
 
@@ -180,7 +192,7 @@ If you inherited the arrangement, focus on changes within reach: **one approval 
 {id: investor-under-pressure--when-the-evidence-is-missing}
 ## When the Evidence Is Missing
 
-References may be unavailable, and fund information may not be shared. Missing evidence should become an explicit uncertainty in the plan, not an endless request for more information. Three moves keep the method usable. Label the support as unconfirmed in the operating plan. Make no customer or hiring commitment that depends on unconfirmed funding or support. Set a review date at which the label is confirmed, removed or escalated.
+References may be unavailable, and fund information may not be shared. Missing evidence should become an explicit uncertainty in the plan, not an endless request for more information. Label the support as unconfirmed in the operating plan. Make no customer or hiring commitment that depends on unconfirmed funding or support. Set a review date at which the label is confirmed, removed or escalated.
 
 Larkspur’s plan reads accordingly, with the two scenarios kept apart.
 
@@ -203,15 +215,15 @@ Some observations deserve investigation before reliance deepens:
 
 None is proof of misconduct. Each is a reason to clarify the operating arrangement.
 
-Some practices that feel uncomfortable at first can be productive. A new shareholder may insist on regular reports of cash received, paid and remaining, challenge a favored project or question whether an executive’s capabilities fit the company’s needs. The distinction is whether the challenge uses evidence, produces a legitimate decision and recognizes consequences. Discomfort alone doesn’t separate discipline from interference.
+Some practices that feel uncomfortable at first can be productive. A new shareholder may insist on regular reports of cash received, paid and remaining, challenge a favored project or question whether an executive’s capabilities fit the company’s needs. The distinction is whether the challenge uses evidence, produces a legitimate decision and recognizes consequences.
 
 Fit is not settled at signing. People change, the company changes, and the original reasoning for the investment may fail. A periodic partnership review asks what support created value, what burden it imposed and which expectations need revision.
 
 When a problem emerges, start with a concrete decision rather than a general complaint: document the competing objectives and the evidence, offer feasible options, take them to the forum authorized to decide (see the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides)), and record the decision and its consequences. If the disagreement concerns an important obligation or a right under a contract, involve the relevant qualified advisers. The investor’s technology adviser can help translate these conversations but can’t make every conflict disappear. Sometimes honest disagreement reveals that a role or partnership should change.
 
-This chapter has connected changed authority, incentives and the working relationship. Each of them assumes something this part does not supply itself: that both sides are reasoning about the same facts. A partnership review, an evidence-based challenge and an honest disagreement all need defined, sourced figures that neither side has to take on trust. The appendix chapter [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment) assembles them.
+This chapter has connected changed authority, incentives and the working relationship. Each of them assumes something this part does not supply itself: that both sides are reasoning about the same facts. A partnership review, an evidence-based challenge and an honest disagreement all need defined, sourced figures that neither side has to take on trust. The Part IV chapter [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) shows how to hold them ready.
 
-Suppose the agreement with Investor B is signed, the deal has closed and the first €4.5 million has arrived in Larkspur’s account. Larkspur then has that money, ten operator days a quarter, and a right to €1.5 million that is not yet money. Which of Larkspur’s own initiatives the money actually received, and that capacity, can fund at once is the question Part III takes up: [COMMIT: Turn Expectations Into Work You Can Deliver](#part-3) and [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything).
+Suppose the agreement with Investor B is signed, the deal has closed and the first €4.5 million has arrived in Larkspur’s account. Larkspur then has that money, ten operator days a quarter, and a right to €1.5 million that is not yet money. Which of Larkspur’s own initiatives the money actually received, and that capacity, can fund at once is the question Part IV takes up: [COMMIT: Turn Expectations Into Work You Can Deliver](#part-4) and [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything).
 
 {id: investor-under-pressure--questions-to-consider}
 ## Questions to Consider

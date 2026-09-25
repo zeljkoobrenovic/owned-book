@@ -5,22 +5,22 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn what customers, lenders and shareholders each expect in return for their money, and follow one €100,000 need through all three routes to a decision.
 
-> **WHY INVESTORS CARE:** Lenders are investors too. Shareholders expect the rights attached to their shares; lenders expect the repayment and the protections written into their contracts; each sets its price accordingly. Establish which financing arrangement supplies this money before treating it as a budget.
+> **WHY INVESTORS CARE:** Lenders are investors too. Shareholders expect the rights attached to their shares, and lenders expect repayment and the protections written into their loan contracts. Each prices its money accordingly. Establish which financing arrangement supplies the money before treating it as a budget.
 
-> **WHY YOU SHOULD CARE:** Every commitment you make to a team is paid for by someone who expects something back; if you do not know what, you cannot know which promises the company can keep.
+> **WHY YOU SHOULD CARE:** Every commitment you make to a team is paid for by someone who expects something back. If you do not know what they expect, you cannot know which promises the company can keep.
 
 > **KEY POINTS:**
 >
 > * Where money comes from affects **what the company must do in return**. Customers expect a product or service, lenders expect repayment, and shareholders receive ownership rights.
 > * Buying a share means **buying part of a company**. Only newly issued shares put money into the company; buying existing shares pays the seller.
-> * A budget tells you how much you may spend. **The funding terms tell you when you may spend it, which approvals you need and what the company must deliver in return.** Establish the actual arrangement before turning funding or a change of owner into a product commitment.
+> * A budget tells you how much you may spend. **The funding terms tell you when you may spend it, which approvals you need and what the company must deliver in return.** Establish the actual arrangement before turning new funding or a change of ownership into a product commitment.
 
-A company needs cash to pay people, buy supplies and develop its products, often before its customers pay. Someone must fund that gap. **Financing** means arranging that money, and the source matters because each arrangement brings different costs, expectations and rights.
+A company needs cash to pay people, buy supplies and develop its products, often before its customers pay. **Financing** means arranging that money, and the source matters because each one brings different costs, expectations and rights.
 
-Product and engineering leaders usually meet money as a budget. This chapter follows one need through three funding routes so that the terms behind the budget become as visible as the amount.
+Product and engineering leaders usually meet money as a **budget**: an approved amount that their team may spend on agreed work over a set period, typically a year. A budget shows how much may be spent, but not where the money came from or what the company owes in return. This chapter follows one need through three funding routes so that the terms behind a budget become as visible as the amount. It first sets up the example, then describes the four common ways cash reaches a business and what a share represents. It then compares the same need funded three ways, and ends with a brief look at public and private ownership and at investor labels.
 
-{id: customers-lenders-investors--larkspur-needs-100-000}
-## Larkspur Needs €100,000
+{id: customers-lenders-investors--setting-up-the-example-larkspur-needs-100-000}
+## Setting Up the Example: Larkspur Needs €100,000
 
 Larkspur is the fictional scheduling-software company used throughout this book. Three customers want a new **dispatch feature**, which assigns jobs to field workers and sends each of them their schedule, and they want it by 1 March. Finishing the feature and **onboarding** those customers, meaning setting them up on the product and moving their data across, will take about €100,000 that Larkspur does not have.
 
@@ -52,9 +52,9 @@ These are four common routes, not an exhaustive list. **Grants**, awards of mone
 
 A **share** is a unit of company ownership. If a company has 1,000 identical shares and you own 10, you own 1% of those shares. Different classes of shares can carry different voting and payment rights, so the percentage is only the starting point.
 
-Shareholders may receive **dividends**, payments a company makes to its shareholders out of money it has earned when its rules and its **board of directors** allow, or get money by selling their shares. The board is the small group that oversees the company on the shareholders' behalf. Neither a payment nor a rise in the share price is guaranteed. Investor.gov explains these basic features and the differences between share classes. [S54: Investor.gov stock basics](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks)
+Shareholders may receive **dividends**, payments a company makes to its shareholders out of money it has earned when its rules and its **board of directors** allow, or get money by selling their shares. The board is the small group that oversees the company on the shareholders' behalf. Neither a payment nor a rise in the share price is guaranteed. [S54: Investor.gov stock basics](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks)
 
-There is a crucial difference between buying newly issued shares and buying existing ones. If an investor buys new shares from the company, the company receives the money. If the investor buys a founder's existing shares, the founder receives it. Both change ownership; **only the first directly supplies new company funding**.
+If an investor buys new shares from the company, the company receives the money. If the investor buys a founder's existing shares, the founder receives it. Both change ownership; **only the first directly supplies new company funding**.
 
 ![With new shares, the investor pays the company; with existing shares, the investor pays the selling shareholder.](private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/new-shares-versus-existing-shares.jpeg)
 
@@ -63,7 +63,7 @@ There is a crucial difference between buying newly issued shares and buying exis
 {id: customers-lenders-investors--the-same-100-000-three-ways}
 ## The Same €100,000, Three Ways
 
-Back to Larkspur. Sam has three credible offers. Each supplies the same amount; each changes what Larkspur must promise. Two terms recur in the table. Larkspur's board of directors oversees the company, as described above, while the executives, Ines, Sam and Alex, run it day to day. A **consent right** means Larkspur must ask someone's permission before taking a specified action.
+Sam has three credible offers. Each supplies the same amount; each changes what Larkspur must promise. A **consent right** means Larkspur must ask someone's permission before taking a specified action.
 
 | Route | Who supplies the cash | What Larkspur promises | The obligation that changes the delivery promise |
 | --- | --- | --- | --- |
@@ -90,16 +90,16 @@ If the feature is late under the prepayment, each customer gets one month's serv
 {id: customers-lenders-investors--the-cheapest-money-and-the-tightest-promise}
 ### The Cheapest Money and the Tightest Promise
 
-On this chapter's assumptions, the prepayment is the cheapest money and the tightest promise. The three customers pay Larkspur's standard annual price with no discount for paying early. Every route has to fund the same €100,000, including the €30,000 of additional licence and hosting capacity; the customers' baseline hosting and support for their year of service sit inside the running costs the existing subscriptions already cover. What differs is what each route costs on top. The prepayment costs Larkspur the engineers' time and one risk, the one-month refund. The loan costs about €9,500 of interest over three years. The shares cost 10% of the company and the rights that come with it.
+On this chapter's assumptions, the prepayment is the cheapest money and the tightest promise. The three customers pay Larkspur's standard annual price with no discount for paying early. What differs is what each route costs on top. The prepayment costs Larkspur the engineers' time and one risk, the one-month refund. The loan costs about €9,500 of interest over three years. The shares cost 10% of the company and the rights that come with it.
 
-A discount would change that. Had the customers demanded 10% off for paying early, the same three contracts would bring in €90,000 against a €100,000 need, leaving a €10,000 gap to fill from somewhere else. The €10,000 given away would also exceed the loan's €9,500 of interest, so on cost alone the loan would then be cheaper. Cost and affordability are different tests, though: the loan's repayments fall due every month whether or not the customers have paid, and that is the test Larkspur applies to the loan below. The loan keeps ownership intact but adds a fixed monthly claim on cash. The new shares add no repayment but add a shareholder whose rights outlast the feature.
+Had the customers demanded 10% off for paying early, the same three contracts would bring in €90,000 against a €100,000 need, leaving a €10,000 gap to fill from somewhere else. The €10,000 given away would also exceed the loan's €9,500 of interest, so on cost alone the loan would then be cheaper. Cost and affordability are different tests, though: the loan's repayments fall due every month whether or not the customers have paid, and that is the test Larkspur applies to the loan below.
 
 {id: customers-lenders-investors--the-decision}
 ### The Decision
 
 **The choice.** Ines, Sam and Alex choose the customer prepayment. The feature fits before 1 March with two weeks to spare, the customers' cash covers the €100,000 of new spending, and the refund clause is limited to one month's service.
 
-**Who decides.** Authority follows the financing arrangement. Under Larkspur's articles, the company's rulebook, borrowing and issuing new shares are board decisions, and a share issue also needs the existing shareholders' consent. Ordinary customer contracts of up to a year sit within the permission the board has given Ines, so she could sign the three contracts alone. Because they turn a delivery date into a refund obligation, and because the two alternatives would have needed the board anyway, she takes the comparison to the board on 15 January. The board records its support in its minutes, the written record of the meeting, and Ines signs on her own authority the next day. (the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) shows the same permission with a fictional spending threshold at a later stage of the company.)
+**Who decides.** Under Larkspur's articles, the company's rulebook, borrowing and issuing new shares are board decisions, and a share issue also needs the existing shareholders' consent. Ordinary customer contracts of up to a year sit within the permission the board has given Ines, so she could sign the three contracts alone. Because they turn a delivery date into a refund obligation, and because the two alternatives would have needed the board anyway, she takes the comparison to the board on 15 January. The board records its support in its minutes, the written record of the meeting, and Ines signs on her own authority the next day. (the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) shows the same permission with a fictional spending threshold at a later stage of the company.)
 
 **Why not the loan: the payment gap.** Not because the sums cannot work, but because of what they would rest on. Its repayments, about €3,040 a month, are twice the €1,500 a month that Larkspur's existing subscriptions leave after running costs, so each one would take about €1,540 from somewhere else. The first falls due at the end of February. The second falls due on 31 March, the customers' payment deadline, and Sam's forecast provides for it before counting on their money. Those two shortfalls would come out of the €10,000 reserve and leave about €6,900 in it; the customers' money would then carry the rest.
 
@@ -112,7 +112,7 @@ A discount would change that. Had the customers demanded 10% off for paying earl
 {id: customers-lenders-investors--what-would-reopen-it}
 ### What Would Reopen It
 
-Nothing is promised until Ines countersigns. In early January each customer signs an order that binds Larkspur only when Larkspur countersigns it; the order states the feature, the 1 March date and the one-month refund. On 15 January Sam counts the signed orders and Alex confirms the estimate. Two pieces of evidence would reopen the decision: fewer than three signed orders, or an estimate above twelve engineer-weeks. In either case Ines countersigns nothing, so no date is promised to anyone, until the plan has been made to fit.
+In early January each customer signs an order that binds Larkspur only when Larkspur countersigns it; the order states the feature, the 1 March date and the one-month refund. On 15 January Sam counts the signed orders and Alex confirms the estimate. Two pieces of evidence would reopen the decision: fewer than three signed orders, or an estimate above twelve engineer-weeks. In either case Ines countersigns nothing, so no date is promised to anyone, until the plan has been made to fit.
 
 **What waits and what does not.** In every case Alex's two engineers start on 19 January: their salaries need no new cash, and Ines can direct the team's time on her own authority, so the work done is kept whichever plan is finally promised. What waits for a countersignature is the promise to a customer and any new spending. When the plan has to be reworked, Sam reduces it to a smaller first **release**, the version of the feature actually made available to customers, or to a later date, that the signed customers' cash can fund. Those customers receive a revised order and can accept it or walk away. Case by case:
 
@@ -126,11 +126,11 @@ Nothing is promised until Ines countersigns. In early January each customer sign
 
 **Two orders: approval late, declined or the fit unconfirmed.** If the board has not approved the loan by 23 January, declines it, or Alex cannot confirm the fit, Sam reworks the plan before anything is countersigned. The two customers get a revised order for a smaller first release that their own cash can fund, or for the full feature on a later date.
 
-**One order or none.** One customer's €33,333 leaves a gap of €66,667, and a loan for that amount would cost about €2,030 a month, more than the whole surplus. No affordable loan closes the gap. Larkspur offers that customer a smaller first release its own cash can fund, or waits for the next customer or for a larger **funding round**, a separate occasion on which the company raises investment money, later.
+**One order or none.** One customer's €33,333 leaves a gap of €66,667, and a loan for that amount would cost about €2,030 a month, more than the whole surplus. Larkspur offers that customer a smaller first release its own cash can fund, or waits for the next customer or for a larger **funding round**, a separate occasion on which the company raises investment money, later.
 
 **An estimate above twelve engineer-weeks, whatever the signatures.** No order is countersigned until Alex and Sam have planned a release that fits the date, or agreed a later date with the customers.
 
-A note on vocabulary. The mix of debt and equity used to finance a business is its **capital structure**. Customer receipts such as this prepayment are part of the company's **cash flow**, the money moving in and out of the business, not a third category alongside debt and equity in that definition. [S57: Damodaran, capital structure](https://people.stern.nyu.edu/adamodar/pdfiles/cf2E/capstru.pdf)
+The mix of debt and equity used to finance a business is its **capital structure**. Customer receipts such as this prepayment are part of the company's **cash flow**, the money moving in and out of the business, not a third category alongside debt and equity in that definition. [S57: Damodaran, capital structure](https://people.stern.nyu.edu/adamodar/pdfiles/cf2E/capstru.pdf)
 
 {id: customers-lenders-investors--public-and-private-ownership-briefly}
 ## Public and Private Ownership, Briefly

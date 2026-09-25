@@ -1,5 +1,5 @@
 {id: fund-economics}
-# 39. Fund Economics: Fees, Distributions and Performance Reports
+# 43. Fund Economics: Fees, Distributions and Performance Reports
 
 ![Fund Economics: Fees, Distributions and Performance Reports — logo](private-techuity/posts/fund-economics/assets/images/fund-economics/logo.jpeg)
 
@@ -20,7 +20,7 @@ A fund's investors are its **limited partners (LPs)**: they commit money and pay
 
 A **management fee** supports the manager's business under the agreed fee basis; the basis (committed capital, invested capital or another measure) and the period it applies to are set in the fund agreement. **Carried interest**, or carry, is a contractual share of investment profits allocated to the GP or other entitled recipients. Carry is different from a company's executive bonus and different again from management's shares in that company.
 
-A **distribution waterfall** sets the order in which money coming out of a fund is paid. One example runs through this page. The LPs **committed** €100 and the fund called all of it, so **contributed capital** is also €100 (in a live fund the two differ for years, because capital is called as needed). The money was invested in one company for one year and the company was sold for €160: a **profit** of €60, with **carry** at 20% of profit. Fees, fund expenses and taxes are ignored, so nothing leaks out of the €160. In the simplest arrangement the LPs get their capital back before any profit is shared:
+A **distribution waterfall** sets the order in which money coming out of a fund is paid. The LPs **committed** €100 and the fund called all of it, so **contributed capital** is also €100 (in a live fund the two differ for years, because capital is called as needed). The money was invested in one company for one year and the company was sold for €160: a **profit** of €60, with **carry** at 20% of profit. Fees, fund expenses and taxes are ignored, so nothing leaks out of the €160. In the simplest arrangement the LPs get their capital back before any profit is shared:
 
 | Step | Who gets it | Amount |
 | --- | --- | ---: |

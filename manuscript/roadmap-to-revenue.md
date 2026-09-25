@@ -1,11 +1,11 @@
 {id: roadmap-to-revenue}
-# 12. Test Revenue Assumptions: Do Customers Respond as Expected?
+# 20. Test Revenue Assumptions: Do Customers Respond as Expected?
 
-![Test Revenue Assumptions: Do Customers Respond as Expected? — logo](private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/logo.jpeg)
+![Test Revenue Assumptions: Do Customers Respond as Expected? — logo](private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to trace a product change from customer need through customer behavior to a business result, and let the measured result revise the next commitment.
 
-> **WHY INVESTORS CARE:** An investor puts money into a company and expects a financial result in return. They judge the result at the end of the chain, not the feature at the start. Staff time freed by a product change can count in their calculations before it changes spending, but only with a plan that says what the time will be used for, and by when. A proposal that stops at freed hours gives them nothing to use when they estimate what the company is worth, or check whether its cash will cover its loan payments.
+> **WHY INVESTORS CARE:** An investor puts money into a company and expects a financial return. It judges the result at the end of the chain, not the feature at the start. Staff time freed by a product change can count in its calculations before spending changes, but only with a plan that says what the time will be used for, and by when. A proposal that stops at freed hours gives the investor nothing to use when estimating what the company is worth or checking whether its cash will cover its loan payments.
 
 > **WHY YOU SHOULD CARE:** A technology benefit reaches the company’s financial plan, its expected income and spending, through a mechanism: more sales income, a payment avoided, staff time released for other work, or a lower risk. The mechanism needs evidence. The link from freed effort to a financial result is the one to test hardest.
 
@@ -13,26 +13,31 @@
 >
 > * Start from a **customer need worth serving**. A faster process is only worth building when customers are waiting for what it produces. If an investor expects something from it, write that expectation down.
 > * Distinguish **freed time from money saved**. If the same people are still paid, less effort frees time for other work but does not reduce spending. It becomes a result only when a plan puts the time to use.
-> * Check the **whole chain against evidence**. Count the full cost, both what has been agreed and what has been used so far. Compare like groups. Keep measured hours apart from yearly estimates, name the explanations you can’t rule out, and let the measured result change the next commitment.
+> * Check the **whole chain against evidence**. Count the full cost, both what has been agreed and what has been used so far. Compare like groups. Keep measured hours apart from yearly estimates, name the explanations you cannot rule out, and let the measured result change the next commitment.
 
-A product team proposes making customer setup faster. That sounds useful, but what is the benefit? Customers might start using the product sooner. Staff might serve more customers. The company might collect payment earlier. Each possibility needs a different piece of evidence.
+Product and technology teams are often asked to **justify their work in the investor’s language**: what will it do for **revenue**, **margin** or **retention**? The honest answer is rarely a single number. A product change reaches a business result through a chain of steps: it changes what customers can do, which changes how they behave, which eventually shows up in the company’s income and costs. Each step can break, and each needs its own evidence. This chapter follows one change along that chain, from the customer need to the measured result, and shows how that result should shape the next commitment.
 
-A **product roadmap** sets out intended product changes and priorities. A roadmap item describes work. Its **business case** explains the useful result expected from that work, what it will cost and how uncertain it is. This chapter follows one item from the proposed change to its measured effect, and ends with what the measurement changed.
+Take a simple proposal: making customer setup faster. It sounds useful, but what exactly is the benefit? Customers might start using the product sooner. Staff might serve more customers. The company might collect payment earlier. Each possibility needs a different piece of evidence.
 
-A product leader normally has to show that a change is useful. An investor, someone who has put money into the company in return for a share of it, may expect more: that the change supports a particular financial target. Four plain terms describe such targets:
+A **product roadmap** sets out intended product changes and their priorities. A roadmap item describes work; its **business case** explains the useful result expected from that work, what it will cost and how uncertain that result is.
+
+A product leader normally has to show that a change is useful. An investor, someone who has put money into the company in return for a share of it, may expect more: evidence that the change supports a particular financial target. Four terms describe those targets:
 
 - **Revenue** is the income a company earns from selling its product. It is recorded when it is earned, which can be before the customer pays.
 - **Profit** is what is left of revenue after the costs of the same period.
 - **Margin** is a stated profit measure divided by revenue. A profit of €20 on revenue of €100 is a 20% margin.
 - **Retention** means keeping customers, or their revenue, over a stated period.
 
-The investor’s target might be faster revenue growth, a higher margin or better retention. Make that expectation explicit, then test whether the benefit and its timing are credible. The chain from work to result is the part an investor’s adviser will examine, so it is the part the proposal must demonstrate rather than assume.
+The investor’s target might be faster revenue growth, a higher margin or better retention. Make that expectation explicit, then test whether the benefit and its timing are credible. The chain from work to result is what an investor’s adviser will examine, so the proposal must demonstrate it rather than assume it.
 
-**The example.** Larkspur is a fictional company selling scheduling software. **Onboarding** is the setup and help a customer needs before using that software successfully. One customer’s setup is called an **implementation**. The chapter [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything) chose a smaller setup change over a full customer portal because customer evidence supported it. Here we look at that one change: how could it produce a useful customer and business result, and did it?
+{id: roadmap-to-revenue--setting-up-the-example-one-setup-change-at-larkspur}
+## Setting Up the Example: One Setup Change at Larkspur
 
-**The people.** Priya leads product and is accountable for the setup change. Alex leads engineering. Sam leads finance. Morgan advises the investor on technology. The **board**, the directors who oversee the company’s major decisions, approves the money. Days are counted from **day zero**, the board meeting, held when the investment was completed, that adopted the company’s operating plan.
+Larkspur is the fictional company this book follows; it sells scheduling software. **Onboarding** is the setup and help a customer needs before using that software successfully, and one customer’s setup is called an **implementation**. In the chapter [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything), Larkspur chose a smaller setup change over a full customer portal because customer evidence supported it. This chapter looks at that one change: how could it produce a useful customer and business result, and did it?
 
-**Two kinds of work.** Engineers build the setup change; their effort is counted in **engineer-weeks**, one engineer’s work for one week. The implementation team sets customers up; its effort is counted in staff hours per customer. The two are different people and different budgets, so the chapter keeps them apart.
+**The people.** Priya leads product and is accountable for the setup change. Alex leads engineering. Sam leads finance. Morgan advises the investor on technology. The **board**, the directors who oversee the company’s major decisions, approves the money. Days are counted from **day zero**: the board meeting, held just after the investment was completed, that adopted the company’s operating plan.
+
+**Two kinds of work.** Engineers build the setup change; their effort is counted in **engineer-weeks**, one engineer’s work for one week. The implementation team sets customers up; its effort is counted in staff hours per customer. They involve different people and different budgets, so the chapter keeps them apart.
 
 {id: roadmap-to-revenue--start-with-a-need-worth-serving}
 ## Start With a Need Worth Serving
@@ -58,7 +63,7 @@ An **investment thesis** is the investor’s explanation of why the investment s
 
 **Reusable configuration** means settings and setup steps that can serve several customers, reducing the custom work each time. A **hypothesis** is an expectation stated so that it can be tested. Here the hypothesis is that one reusable setup step will shorten implementation, reduce effort and let more customers start useful work.
 
-The proposed chain runs like this. Reusable configuration should mean less implementation effort. Less effort should mean more customers ready to use the product, then earlier billing and useful product use, and in the end more sales, more customers staying and more cash. The same change also brings a development and maintenance cost, which takes away from that final result. The diagram shows the same chain:
+Reusable configuration should mean less implementation effort. Less effort should mean more customers ready to use the product, then earlier billing and useful product use, and in the end more sales, more customers staying and more cash. The same change also brings a development and maintenance cost, which takes away from that final result. The diagram shows the same chain:
 
 ```mermaid
 flowchart TD
@@ -72,12 +77,12 @@ flowchart TD
 
 Each arrow is a hypothesis. Faster implementation may not increase sales if few people want to buy. **Billing**, sending the customer an invoice, may start earlier without keeping customers who don’t receive value. Reduced effort may free staff time without reducing the money the company spends. The new setup step will itself need upkeep, and that cost absorbs part of the benefit.
 
-**Read each arrow as a question to test.** If staff effort per customer setup falls but customers wait just as long, find out what else is keeping them waiting. The last section of this chapter is that case.
+**Read each arrow as a question to test.** If staff effort per customer setup falls but customers wait just as long, find out what else is keeping them waiting.
 
 {id: roadmap-to-revenue--six-kinds-of-benefit-to-examine}
 ## Six Kinds of Benefit to Examine
 
-A product change can help the business in six different ways. The table uses revenue, margin and retention as defined at the start of the chapter, and needs two more terms. **Cash** is money actually received or paid, which is not the same as revenue: a customer can be invoiced in March and pay in May. **Financial contribution** is the revenue from an activity less the costs included in serving it. Say which costs are included, because this isn’t necessarily the company’s final profit. (Later in the chapter, “helped produce” or “contributed to” describes a claim about cause; the two uses are kept apart.)
+The table uses revenue, margin and retention as defined at the start of the chapter, and needs two more terms. **Cash** is money actually received or paid, which is not the same as revenue: a customer can be invoiced in March and pay in May. **Financial contribution** is the revenue from an activity less the costs included in serving it. Say which costs are included, because this isn’t necessarily the company’s final profit. (Later in the chapter, “helped produce” or “contributed to” describes a claim about cause; the two uses are kept apart.)
 
 | Kind of benefit | Example change | Evidence to seek |
 | --- | --- | --- |
@@ -105,7 +110,7 @@ That figure is an estimate of **capacity**: staff time available for work. It is
 
 The pilot has costs of its own. Building it is a commitment of €180,000 and twelve engineer-weeks. Maintaining it costs €30,000 a year, starting in the **financial year**, the company’s twelve-month accounting period, after it ships. Reporting €225,000 of yearly profit without showing those costs, and without showing whether the freed time produced anything, would mislead. So would dismissing the work because the **payroll**, the money paid to employees, didn’t immediately fall. Serving more paying customers can be the more valuable use of the freed time.
 
-A usable proposal therefore includes a **conversion plan**: how the released time will produce a customer or business benefit, and by when. Each person checks one part:
+A usable proposal therefore includes a **conversion plan**: how the released time will produce a customer or business benefit, and by when.
 
 - Priya checks whether customers are waiting who can use the improved setup.
 - Alex establishes which work the 3,000 hours could actually support.
@@ -113,7 +118,7 @@ A usable proposal therefore includes a **conversion plan**: how the released tim
 
 The plan names three possible conversions, and the review has to say which one happened. The released time serves waiting customers. Or it avoids a supplier’s invoice or a hire. Or it stays unused, because something else is holding customers up. The step that limits how fast the whole process can go is called the **bottleneck**.
 
-![Released staff time can support more customers, other product work or avoided future spending while current payroll continues.](private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/freed-time-conversion-plan.jpeg)
+![Released staff time can support more customers, other product work or avoided future spending while current payroll continues.](private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/freed-time-conversion-plan.jpeg)
 
 **Figure 1:** *Time saved becomes useful capacity through a plan; it does not automatically reduce the payroll bill.*
 
@@ -134,7 +139,7 @@ That comparison leaves differences that “comparable customers” does not remo
 
 None of this makes the result useless. It means the honest claim is “the setup step plausibly helped produce the reduction, with these measurements and these unresolved differences”. It is not a precise claim that the product change alone caused it. Interviews can explain how the change helped; an enthusiastic testimonial is not a financial calculation.
 
-![An observed onboarding improvement is checked against the product change, customer mix and other initiatives using comparable groups.](private-techuity/posts/10-roadmap-to-revenue/assets/images/10-roadmap-to-revenue/check-what-explains-the-result.jpeg)
+![An observed onboarding improvement is checked against the product change, customer mix and other initiatives using comparable groups.](private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/check-what-explains-the-result.jpeg)
 
 **Figure 2:** *An observed improvement needs a comparison that can reveal other explanations.*
 
@@ -161,7 +166,7 @@ Against the conversion plan:
 - **Serving waiting customers:** no. The team spent 18 fewer hours on each setup, but customers still waited for their own data to be ready, so the queue moved no faster. The bottleneck is somewhere else.
 - **Avoiding a supplier’s invoice or a hire:** not yet. No contract spending had been cancelled by day 100. Larkspur has engaged a contract implementation specialist, an outside person who works through the queue for twelve months while the step is built and proved. The saving the plan puts a date on is not extending that contract after month twelve, and only if the queue is moving by then. At day 100 it wasn’t, so the specialist was still needed. Ending the work earlier would not by itself avoid a payment: that depends on the contract’s notice and payment terms, which this scenario does not set. The hire of two specialists was already deferred, which is spending avoided, not spending reduced.
 
-**Where the contract specialist’s cost sits.** The contract specialist is an extra person who works alongside Larkspur’s own implementation specialist. The twelve months cost €150,000, one full-time year at the planning rate. The figure is imported from the chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need), which prices the same engagement inside its own, separate financing example. Here the engagement was agreed before day zero and is paid from the **operating budget**, the money for the company’s ordinary running costs. It is not part of the pilot’s €180,000 and takes nothing from the board’s first-hundred-days money described below. So the costs quoted for the pilot leave it out.
+**Where the contract specialist’s cost sits.** The contract specialist is an extra person who works alongside Larkspur’s own implementation specialist. The twelve months cost €150,000, one full-time year at the planning rate. The figure is imported from the chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need), which prices the same engagement inside its own, separate financing example. Here the engagement was agreed before day zero and is paid from the **operating budget**, the money for the company’s ordinary running costs. It is not part of the pilot’s €180,000 and takes nothing from the board’s first-hundred-days money described below.
 
 That does not tip the day-100 choice, because the engagement runs to month twelve under every option the board weighed. It matters afterwards: extending it would cost a further €150,000 a year, and not extending it is the first real reduction in spending the pilot could produce.
 
@@ -193,7 +198,7 @@ Sixty-two hours is the middle band.
 
 The reserve still reconciles: €200,000 before this decision and €160,000 after it. The contract specialist touches neither figure.
 
-The case for the step looks forward. The €90,000 already incurred cannot be recovered and argues neither way. What argues for the step is that the measurement points at one specific remaining bottleneck: about 40% of the remaining hours and the unchanged waiting time both sit with customer data. The test is also small beside the alternatives on the table. Two hires cost €300,000 a year, every year. The full customer portal costs €220,000 and twelve engineer-weeks, which the envelope no longer has.
+The €90,000 already incurred cannot be recovered and argues neither way. What argues for the step is that the measurement points at one specific remaining bottleneck: about 40% of the remaining hours and the unchanged waiting time both sit with customer data. The test is also small beside the alternatives on the table. Two hires cost €300,000 a year, every year. The full customer portal costs €220,000 and twelve engineer-weeks, which the envelope no longer has.
 
 **The threshold for continuing.** A second cohort is set up after the data-quality step and measured at about month six. It must pass two tests:
 
@@ -213,9 +218,9 @@ The rest of the decision record:
 - **Funding and scarce capacity:** after this draw the reserve keeps €160,000 of cash and no uncommitted engineer-weeks. The other scarce resource is the implementation specialist’s time for the next cohort.
 - **Evidence that would change it:** the second cohort’s hours and waiting time against the two tests. If the data-quality step does not move waiting time, Morgan’s structural explanation gains weight: that a process depending on one specialist cannot keep up as sales grow.
 
-That is the chain breaking in the ordinary way. The link from setup step to effort held as far as the comparison can show: the reduction can’t be credited to the product change alone, but the evidence supports it. The link from released effort to customers served did not hold. The measurement did its job, because it changed the next commitment instead of decorating the last one. The [Practical Tools for Ownership and Technology Decisions](#toolkit)’s outcome and contribution ledger (Tool 6) is where the baseline, the committed and incurred cost, the observed result, the projection and the open work are recorded so the next review starts from them.
+The link from setup step to effort held as far as the comparison can show: the reduction can’t be credited to the product change alone, but the evidence supports it. The link from released effort to customers served did not hold. The measurement did its job, because it changed the next commitment instead of decorating the last one. The [Practical Tools for Ownership and Technology Decisions](#toolkit)’s outcome and contribution ledger (Tool 6) is where the baseline, the committed and incurred cost, the observed result, the projection and the open work are recorded so the next review starts from them.
 
-The pilot’s result raises the next constraint. The remaining hours sit with customer data and with one specialist’s knowledge, and the plan still assumes onboarding volume grows. Whether the software and the team can deliver repeatable setup at that volume is the question of the chapter [Assess Capability: Can the Team Deliver?](#can-the-team-deliver); the organizational response, the chapter [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring), now follows it directly in Part III.
+The remaining hours sit with customer data and with one specialist’s knowledge, and the plan still assumes onboarding volume grows. Whether the software and the team can deliver repeatable setup at that volume is the question of the chapter [Assess Capability: Can the Team Deliver?](#can-the-team-deliver); the organizational response, the chapter [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring), opens Part V.
 
 {id: roadmap-to-revenue--questions-to-consider}
 ## Questions to Consider

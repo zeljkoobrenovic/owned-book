@@ -1,47 +1,51 @@
 {id: learn-through-investors-network}
-# 21. Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives
+# 12. Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives
 
-![Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives — logo](private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/logo.jpeg)
+![Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives — logo](private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to choose useful learning opportunities, build continuing relationships with peers and bring outside experience into your company with its context intact.
 
-> **WHY INVESTORS CARE:** An investor puts money into businesses expecting a financial return, and it often knows people across the businesses it has funded. Helping leaders learn can strengthen those businesses and make experience available across them. Convening people also builds the investor’s relationships and reputation. Those interests can support useful learning when the participants have room to shape it.
+> **WHY INVESTORS CARE:** An investor puts money into businesses in the expectation of a financial return, and often knows people across the businesses it has funded. Helping their leaders learn can strengthen those businesses and spread experience between them. Bringing people together also builds the investor’s relationships and reputation. Those interests can support useful learning, provided the participants have room to shape it.
 
-> **WHY YOU SHOULD CARE:** Your company’s plans depend partly on what you know and whom you can ask. An investor’s network, the people and organizations it can introduce you to, can widen both, including in areas where you have not yet recognized the question worth asking.
+> **WHY YOU SHOULD CARE:** Your company’s plans depend partly on what you know and whom you can ask. An investor’s network, the people and organizations it can introduce you to, can widen both, including in areas where you have not yet recognized which questions are worth asking.
 
 > **KEY POINTS:**
 >
 > * **Make room for discovery.** Some learning answers an existing question; some reveals a possibility or assumption you had missed. Both deserve time and attention.
-> * **Match the experience to the learning.** A seminar, a recurring peer group and a visit to an unfamiliar business setting offer different kinds of access. Consider the people, depth, time and opportunity to follow up.
+> * **Match the experience to the learning.** A seminar, a recurring peer group and a visit to an unfamiliar business setting offer different kinds of access. Consider who will be there, how deep it goes, how much time it takes and whether you can follow up.
 > * **Bring the context and relationships home.** Share what you observed, examine what could transfer and keep useful conversations alive. Company leaders decide what becomes funded work.
 
-In April 2026, Prosus, a global technology investor, took 20 founders of technology companies on a five-day visit to Shenzhen, Shanghai and Beijing. The purpose was to explore China’s ecosystem for artificial intelligence (AI): the connected companies, people and services around software that learns patterns from data and produces predictions, text or suggestions. Its account describes participants reconsidering assumptions about how technology reaches everyday use and reflecting on their own companies. Several questions remained unresolved when they returned. [S101: Prosus, A Window on China. A Mirror on Ourselves.](https://www.prosus.com/news-insights/2026/a-window-on-china-a-mirror-on-ourselves)
+Investors often know people across the many businesses they have funded, which puts them in a good position to **help leaders learn from one another**. Doing so can strengthen those businesses, and it also builds the investor’s own relationships and reputation. That mix of motives is not a problem in itself, as long as the participants have room to shape what they learn. One recent trip shows what that can look like.
 
-That is an interesting form of investor support. The organizer creates access to unfamiliar people and practices, and the participants explore what those encounters might mean. Prosus’s account documents its trip and participants’ reported reflections; it does not establish subsequent company performance or describe a representative sample of China’s AI industry.
+In April 2026, Prosus, a global technology investor, took 20 founders of technology companies on a five-day visit to Shenzhen, Shanghai and Beijing. The purpose was to explore China’s ecosystem for artificial intelligence (AI): the connected companies, people and services around software that learns patterns from data and produces predictions, text or suggestions. Prosus’s account of the trip describes participants **reconsidering their assumptions** about how technology reaches everyday use, and **reflecting on their own companies**. [S101: Prosus, A Window on China. A Mirror on Ourselves.](https://www.prosus.com/news-insights/2026/a-window-on-china-a-mirror-on-ourselves)
+
+On a trip like this, the organizer provides **access to unfamiliar people and practices**; the participants work out what those encounters might mean for them.
 
 The leadership question is broader than whether to accept a particular invitation: **how can an investor help you learn something your existing routines would leave undiscovered?**
+
+This chapter separates learning for a decision from exploration and sets out what an investor can contribute. It then helps you choose a format, build a community people can return to and keep learning available between meetings. It ends with how to prepare, how to examine what transfers to your company and how to write a small learning brief, with a fictional team showing the steps in practice.
 
 {id: learn-through-investors-network--give-discovery-a-place-alongside-problem-solving}
 ## Give Discovery a Place Alongside Problem Solving
 
 When the steps your team follows to ship a software update keep failing, you can ask a peer how they improved theirs. The need is already visible. A visit to an unfamiliar business can work differently: watching how people use its software may reveal that your own team has been asking too narrow a question.
 
-Keep three purposes in view. **Learning for a decision** helps with a question already on the table. **Exploration** exposes you to possibilities and assumptions you do not yet know how to assess. **Building relationships** gives you people to return to when either kind of question develops. One event can serve all three, but its design should reflect the purpose.
+**Learning for a decision** helps with a question already on the table. **Exploration** exposes you to possibilities and assumptions you do not yet know how to assess. **Building relationships** gives you people to return to when either kind of question develops. One event can serve all three, but its design should reflect the purpose.
 
 For a purchasing decision, ask for relevant experience with the specific problem. For exploration, choose some encounters outside your usual sector or geography and leave time to make sense of surprises. For relationships, look for repeated conversation and the chance to contribute your own experience. A promising connection may become useful long after the meeting that created it.
 
 Agree how much time the company can give to learning without demanding a predetermined answer. A leader who must return with an immediate project may mistake the most impressive demonstration for the most relevant opportunity. A leader with permission to return with sharper questions can investigate before making a commitment.
 
-![Investor introductions lead to encounters and shared reflection, with three possible paths: better questions, continuing relationships or a local experiment.](private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/connections-to-learning.jpeg)
+![Investor introductions lead to encounters and shared reflection, with three possible paths: better questions, continuing relationships or a local experiment.](private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/connections-to-learning.jpeg)
 
 **Figure 1:** *Connections create opportunities to learn. Shared reflection can produce better questions, continuing relationships or an experiment; an encounter does not automatically produce a business result.*
 
 {id: learn-through-investors-network--understand-what-the-investor-can-contribute}
 ## Understand What the Investor Can Contribute
 
-An investor’s **portfolio** is the collection of businesses it has invested in. Across those businesses, people may have faced similar decisions at different stages. The investor may also have relationships with specialists, researchers, suppliers and companies outside its portfolio.
+An investor’s **portfolio** is the collection of businesses it has invested in. Across those businesses, people may have faced similar decisions at different stages. The investor may also have **relationships** with specialists, researchers, suppliers and companies outside its portfolio.
 
-The contribution takes work. Someone recognizes a shared question, finds people with relevant experience, persuades them to participate and creates enough space for a useful conversation. Someone also keeps the connection alive afterward. A list of contacts helps less when nobody knows who is willing to speak or what they actually understand.
+Someone recognizes a **shared question**, finds people with relevant experience, persuades them to participate and creates enough space for a useful conversation. Someone also keeps the connection alive afterward. A list of contacts helps less when nobody knows who is willing to speak or what they actually understand.
 
 Ask for access in terms that people can act on: “Could you introduce our product and support leads to someone who has put AI suggestions into a customer’s everyday work steps? We want to understand how users check and correct them.” For a more exploratory request, name the boundary you want to cross: “Our view comes mostly from software that European organizations buy to run their work. We would like to see how businesses elsewhere put similar capabilities into everyday use.”
 
@@ -61,9 +65,9 @@ These formats overlap. The useful distinction is what participants can do within
 | **Peer communities** | Revisit difficult decisions with people who learn each other’s circumstances | Continuity, reciprocity (members give help as well as receive it), candid discussion and members helping set the agenda |
 | **Road trips and ecosystem visits** | Observe unfamiliar practices where they happen and question assumptions | Access to people doing the work, varied hosts and time between visits to reflect |
 
-Balderton, an investor in European technology companies, describes a useful connection between formats. A discussion of engineering team structures in its forum for chief technology officers (CTOs), the executives responsible for a company’s technology, led to a virtual summit in May 2020 with 99 technology leaders, including small-group sessions. Here a recurring conversation helped identify a worthwhile gathering. [S102: Balderton, Collective CTO Summit](https://www.balderton.com/news/the-balderton-collective-cto-summit-bringing-100-ctos-together-online/)
+Balderton, an investor in European technology companies, describes a useful connection between formats. A discussion of engineering team structures in its forum for chief technology officers (CTOs), the executives responsible for a company’s technology, led to a virtual summit in May 2020 with 99 technology leaders, including small-group sessions. [S102: Balderton, Collective CTO Summit](https://www.balderton.com/news/the-balderton-collective-cto-summit-bringing-100-ctos-together-online/)
 
-Insight Partners, a large investor in software companies, answers frequently asked questions about its Onsite Hour: a weekly online series of discussions and workshops, open to employees of its portfolio companies, with recordings available through the online platform it runs for those companies. This illustrates a way to extend access beyond founders and occasional gatherings. These are the organizers’ descriptions of their offers, not independent measurements of effectiveness. [S103: Insight Partners, Onsite Hour](https://info.insightpartners.com/onsitehour.html)
+Insight Partners, a large investor in software companies, answers frequently asked questions about its Onsite Hour: a weekly online series of discussions and workshops, open to employees of its portfolio companies, with recordings available through the online platform it runs for those companies. These are the organizers’ descriptions of their offers, not independent measurements of effectiveness. [S103: Insight Partners, Onsite Hour](https://info.insightpartners.com/onsitehour.html)
 
 An hour with a relevant practitioner can resolve a focused uncertainty. A longer visit may be justified when the purpose is to understand a setting you barely know. Match the commitment to the purpose; distance and prestige are weak guides to usefulness.
 
@@ -78,20 +82,20 @@ For an investor-supported engineering community, begin with a few decisions memb
 
 The investor can fund facilitation, connect participants and protect continuity while members help choose the agenda. Agree who attends, what may be quoted with a person’s name and what reaches the investor’s own staff who assess and manage its investments (its investment team). If a session includes assessment of company performance, make that purpose explicit; [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser) explains the different responsibilities involved. Avoid circulating customer information or identifiable employee details just because the companies share an investor.
 
-Keep participation relevant and accessible. Online sessions, different time slots and appropriate written notes let more people contribute. Recordings suit some teaching sessions; candid peer discussions may need agreed summaries instead. These choices should serve the people learning together.
+Keep participation relevant and accessible. Online sessions, different time slots and appropriate written notes let more people contribute. Recordings suit some teaching sessions; candid peer discussions may need agreed summaries instead.
 
 {id: learn-through-investors-network--keep-learning-available-between-meetings}
 ## Keep Learning Available Between Meetings
 
-Useful experience needs somewhere to live after the conversation. A short case note can preserve the original question, the company circumstances, what was tried, what happened and whom to contact. A small, maintained collection gives the next person a starting point. Date the material, identify a person who will review it and keep the conditions attached to any recommendation.
+A short case note can preserve the original question, the company circumstances, what was tried, what happened and whom to contact. A small, maintained collection gives the next person a starting point. Date the material, identify a person who will review it and keep the conditions attached to any recommendation.
 
 My project **CTO Starter Kit** is one example of organizing resources for engineering leaders. Its [public start page](https://ctostarter.com/start/index.html) brings guidance and tools together. Its project files are published in a public [GitHub repository](https://github.com/zeljkoobrenovic/cto-starter-kit). Those files include a directory of communities where engineering and product leaders can find peers. They also include dashboards: summary displays that rate a company’s security, management, operational and engineering controls. Controls are the practices and checks that keep a company’s work safe and reliable. The material for a leader’s first 90 days gives learning about the company an explicit place in that leader’s work. [S105: CTO Starter Kit](https://github.com/zeljkoobrenovic/cto-starter-kit)
 
 An investor-supported community could use that approach to maintain a shared starting point, add cases from its members and connect people with relevant peers. That is a proposed application of the project, not a claim that an investor has adopted it. Company-specific adaptations would need their own evidence and review; a dashboard’s rating does not establish that a practice works.
 
-Give people a reason to use and improve the collection. A seminar can point to a resource; a peer discussion can expose a missing example; a member can contribute a correction after trying it. **The resource supports the conversation, and the conversation keeps the resource useful.**
+A seminar can point to a resource; a peer discussion can expose a missing example; a member can contribute a correction after trying it. **The resource supports the conversation, and the conversation keeps the resource useful.**
 
-![A clockwise loop connects shared resources, illustrated by CTO Starter Kit, with peer conversations, local experience, and corrections and cases that improve the collection.](private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/resources-and-peer-conversations.jpeg)
+![A clockwise loop connects shared resources, illustrated by CTO Starter Kit, with peer conversations, local experience, and corrections and cases that improve the collection.](private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/resources-and-peer-conversations.jpeg)
 
 **Figure 2:** *A proposed pattern for an investor-supported community: resources such as CTO Starter Kit support conversations, and members’ experience gives them useful cases and corrections to share.*
 
@@ -104,7 +108,7 @@ Make the commitment visible through the company’s ordinary approval process. E
 
 During a visit, distinguish **what you saw, what a host told you and what you conclude from it**. Ask to see how the work runs on an ordinary day, what fails and what had to be built first. The visible software may depend on prepared data, experienced staff or a route to customers that your company lacks. A demonstration can suggest a question without answering whether the approach is reliable in daily use.
 
-An itinerary selects what you see. Talk with the people doing the everyday work as well as the founders and, where possible, customers and people whose experience differs. Keep track of the limits of the visit. An impressive host represents one setting; you need more evidence before generalizing to an industry or a country.
+An itinerary selects what you see. Talk with the people doing the everyday work as well as the founders and, where possible, customers and people whose experience differs. An impressive host represents one setting; you need more evidence before generalizing to an industry or a country.
 
 Back at the company, discuss the observations with people who did not attend. Their objections can reveal a missing condition. Keep an intriguing idea open, investigate something the approach depends on, test a small part or decide that the practice does not fit. **Attendance authorizes learning; implementation follows the company’s usual decision process.**
 
@@ -121,7 +125,7 @@ The investor arranges the introductions without a programme fee. Northline’s c
 
 At one host, Mira sees suggested orders reviewed inside the screen staff already use to manage stock. She initially attributes acceptance to the quality of the AI. The person who places the orders explains that reliable product records (correct product codes, pack sizes and stock counts), clear reasons for each suggestion and an easy way to change it matter just as much in daily work. This is the host’s explanation, which the visitors have not independently tested.
 
-![Four stages in the fictional Northline visit: observe review inside the everyday work; hear the host’s explanation about reliable data and easy corrections; compare the uneven product records of Northline’s customers back home; ask what helps those customers trust a suggestion.](private-techuity/posts/18a-learn-through-investors-network/assets/images/18a-learn-through-investors-network/bring-the-question-home.jpeg)
+![Four stages in the fictional Northline visit: observe review inside the everyday work; hear the host’s explanation about reliable data and easy corrections; compare the uneven product records of Northline’s customers back home; ask what helps those customers trust a suggestion.](private-techuity/posts/10-learn-through-investors-network/assets/images/10-learn-through-investors-network/bring-the-question-home.jpeg)
 
 **Figure 3:** *The fictional visit changes Northline’s question. The observed work steps, the host’s explanation and the varying records of Northline’s customers remain distinct; the next step is further inquiry with those customers.*
 
@@ -132,7 +136,7 @@ A month later, the learning review asks what the interviews clarified and whethe
 {id: learn-through-investors-network--notice-value-without-forcing-a-return-calculation}
 ## Notice Value Without Forcing a Return Calculation
 
-Not every learning activity needs a calculation of its financial payoff. Match the review to the learning purpose. For a focused seminar, ask whether participants can explain or use the method. For exploration, ask which assumptions changed, what remains uncertain and which new questions merit attention. For a community, look for people returning with real problems, useful replies and relationships continuing between organized sessions.
+Not every learning activity needs a calculation of its financial payoff. For a focused seminar, ask whether participants can explain or use the method. For exploration, ask which assumptions changed, what remains uncertain and which new questions merit attention. For a community, look for people returning with real problems, useful replies and relationships continuing between organized sessions.
 
 Attendance and satisfaction can help improve an event. Stronger evidence comes from following a particular contribution: a decision reconsidered, a practice adapted, a mistake recognized or a peer contacted when circumstances changed. If there is a later business result, describe the team’s work and other influences before crediting it to the investor’s programme. A useful connection does not make every subsequent improvement its result.
 

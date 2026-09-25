@@ -1,13 +1,13 @@
 {id: handover-of-obligations}
-# 30. Manage the Handover: Carry Forward the Evidence and Obligations
+# 35. Manage the Handover: Carry Forward the Evidence and Obligations
 
-![Manage the Handover: Carry Forward the Evidence and Obligations — logo](private-techuity/posts/27-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg)
+![Manage the Handover: Carry Forward the Evidence and Obligations — logo](private-techuity/posts/33-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to keep the evidence while the work happens, to trace who receives money and who keeps ownership in each kind of deal, and to hand over the unfinished work together with the company.
 
-> **WHY INVESTORS CARE:** An investor in a private company owns part of it through **shares**, units of ownership that are not traded on a stock exchange. It often gets most of its money back only when it sells that part, its **stake**, in a later deal; some may come earlier as **distributions**, payments passed on to the owners while they still own the company. Either way, a handover with the evidence and the unfinished work attached supports the price and what the seller must tell the buyer. Surprises found afterwards can come back as **claims**, demands for compensation, and as damage to reputation.
+> **WHY INVESTORS CARE:** An investor in a private company owns part of it through **shares**, units of ownership that are not traded on a stock exchange. It often gets most of its money back only when it sells that part, its **stake**, in a later deal. Some may come earlier as **distributions**, payments passed on to the owners while they still own the company. Either way, a handover with the evidence and the unfinished work attached supports the price and what the seller must tell the buyer. Surprises found afterwards can come back as **claims**, demands for compensation, and as damage to reputation.
 
-> **WHY YOU SHOULD CARE:** The customer contracts, the half-finished migration and the postponed hire are still there the morning after a deal; if they are not handed over with the company, they are discovered by whoever inherits them.
+> **WHY YOU SHOULD CARE:** The customer contracts, the half-finished migration and the postponed hire are still there the morning after a deal. If they are not handed over with the company, whoever inherits them discovers them.
 
 > **KEY POINTS:**
 >
@@ -15,11 +15,13 @@
 > * **Follow who receives cash and who keeps ownership.** New investment, a sale of existing shares, a change among the investors in the fund that owns the company, a stock-market listing and a sale of control move money and authority differently. None tells you what the investors finally made until the money received, the stakes kept and the dates are known.
 > * **A handover is accepted when each open obligation has an accountable leader on the receiving side.** Hand over the record with its open work and continuing cost, agree any follow-up role explicitly, and treat later results as evidence to learn from rather than a verdict on the previous owners.
 
-On the morning after a company changes investors or owners, its signed customer contracts are still there. So are the recovery time it has promised customers, the half-finished move of customers onto a new system and the hire it postponed. The deal changed who owns the company, or who owns part of it. It did not change the work. This chapter is about handing that work over, not only the shares.
+On the morning after a company changes investors or owners, its signed customer contracts are still there. So are the recovery time it has promised customers, the half-finished move of customers onto a new system and the hire it postponed. The deal changed who owns the company, or who owns part of it. It did not change the work.
 
-These changes come in several forms, explained later in the chapter: new investment, a sale of existing shares, a change inside the fund that owns them, a stock-market listing and a sale of control. A sale is one possible event, not the inevitable next stage. The same record has to serve continued ownership, another round of investment and a change of controlling shareholder.
+These changes come in several forms, explained later in the chapter: new investment, a sale of existing shares, a change inside the fund that owns them, a stock-market listing and a sale of control. A sale is one possible event, not the inevitable next stage. The same evidence has to serve continued ownership, another round of investment and a change of controlling shareholder.
 
-The chapters [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped) and [Plan Layoffs: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) ended with dated decision records. This chapter follows such records into an ownership event, whichever form it takes. The Larkspur figures in this chapter are fictional and belong to the chain that runs from the chapter [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) through the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) to this handover. The delayed-financing and reduction chapters work a deliberately separate scenario with its own cash, spending, people and dates; their figures are not part of this record.
+The chapters [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped) and [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) ended with dated decision records. This chapter follows such records into an ownership event, whichever form it takes. It shows how to keep the evidence while the work happens, how to trace who receives cash and who keeps an interest in each kind of deal, and how to hand over the unfinished obligations together with the company.
+
+The Larkspur figures in this chapter are fictional. They are the same Larkspur figures that run from the chapter [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) through the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) to this handover. The delayed-financing and reduction chapters work a deliberately separate scenario with its own cash, spending, people and dates, so their figures do not appear here.
 
 {id: handover-of-obligations--keep-the-evidence-during-the-work}
 ## Keep the Evidence During the Work
@@ -33,7 +35,7 @@ The company should be able to explain:
 - its **material** risks, those important enough to change a buyer’s or investor’s decision;
 - who owns its software and other **intellectual property**, the legal rights to its code, designs, brand and inventions, and which businesses it has bought before.
 
-It should also be able to back up every claim that its technology work saved or earned money. The evidence differs by initiative:
+It should also be able to back up every claim that its technology work saved or earned money.
 
 - For a **cloud** initiative, work on the computing services the company rents from a provider instead of running its own servers: the starting cost, the changes made, the adjustment for how much usage grew or shrank, the costs after any offsetting savings, and the effect on the service (see the chapter [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#cheaper-cloud-bill)).
 - For a move to a new platform: the groups of customers moved, the customers lost, the cost of running the old and new systems at the same time, and the unfinished obligations.
@@ -41,7 +43,7 @@ It should also be able to back up every claim that its technology work saved or 
 
 These are stronger materials than a list of projects because they show the limits of what is known. A coherent story is useful only when its supporting evidence is available and its uncertainties stay visible.
 
-![A record of baselines, costs, results, uncertainty and unfinished work supports successive funding and ownership decisions.](private-techuity/posts/25-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg)
+![A record of baselines, costs, results, uncertainty and unfinished work supports successive funding and ownership decisions.](private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg)
 
 **Figure 1:** *Keep the evidence during the work so the next decision can examine what actually changed.*
 
@@ -54,7 +56,7 @@ Before the investment, the investor’s investigation of the company (**due dili
 
 At day 0 the board set an **envelope**: a limit of €500,000 of additional cash and 24 **engineer-weeks** (one engineer’s working time for one week) that the plan could commit over its first hundred days. It is an authorization limit, not a bank balance or money already spent. One part went to **ONB-1, the onboarding pilot**: a trial of one reusable setup step, which the plan’s model assumed would bring effort down to about 50 hours per customer. Two other projects, described below, took further parts. The rest stayed as a **reserve**, the part of the envelope not yet assigned to any work.
 
-The record keeps three money words apart. **Committed** means approved for named work. **Incurred** means the work or services have been received. **Paid** means the cash has actually left the company. An incurred cost is not necessarily paid; an invoice can still be open. After the day-100 review, the entry for D-3 and ONB-1 reads as follows (fictional figures):
+**Committed** means approved for named work. **Incurred** means the work or services have been received. **Paid** means the cash has actually left the company. An incurred cost is not necessarily paid; an invoice can still be open. After the day-100 review, the entry for D-3 and ONB-1 reads as follows (fictional figures):
 
 | Field | Entry |
 | --- | --- |
@@ -121,13 +123,13 @@ Transactions that look alike in a headline move money and authority differently.
 | Initial public offering (IPO): the company’s first sale of shares to the public, after which the shares are **listed** and traded on a stock exchange | The company for new shares; selling shareholders for existing shares | Public shareholders; founders and existing investors may keep shares, and share classes with extra votes or voting agreements can keep control with them | Cash from new shares, plus public reporting duties and new ways to raise money |
 | Sale of control: a buyer acquires enough shares to direct the company | The selling shareholders | The buyer; sellers may keep a **minority interest**, a stake too small to control decisions | Nothing directly; new authority over the plan |
 
-Two forms deserve care. “Secondary sale” is used both for a sale of company shares and for a sale of a fund interest. The first can bring a new shareholder with rights over the company. The second leaves the company’s shareholder, the fund, unchanged. What may change is the patience and the priorities of the investors behind that fund, which is why “nothing changes” is a stronger claim than the fact supports. Ask which is meant.
+“Secondary sale” is used both for a sale of company shares and for a sale of a fund interest. The first can bring a new shareholder with rights over the company. The second leaves the company’s shareholder, the fund, unchanged. What may change is the patience and the priorities of the investors behind that fund, which is why “nothing changes” is a stronger claim than the fact supports. Ask which is meant.
 
 A **continuation transaction** needs attention to price and to possible **conflicts of interest**: the manager stands on both sides, selling from the old fund and buying for the new one, while acting for the investors leaving and those rolling over. The Institutional Limited Partners Association (ILPA), which represents investors in private funds, treats these manager-led transfers as a governance issue in its principles. [S02: ILPA principles](https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf)
 
-Do not read what the investors actually made from a transaction announcement. Keep three figures apart. **Proceeds** are the money actually received from a sale. The **realized return** is the gain or loss on what was sold: the proceeds compared with the money originally invested, after fees and other costs, and allowing for when the money went in and came out. An investor that put in €100 and later receives €120 has €120 of proceeds but a €20 gain before fees and taxes; the same €20 is a better result earned in one year than in five. Any stake still held has only an estimated value until it, too, is sold.
+Do not read what the investors actually made from a transaction announcement. **Proceeds** are the money actually received from a sale. The **realized return** is the gain or loss on what was sold: the proceeds compared with the money originally invested, after fees and other costs, and allowing for when the money went in and came out. An investor that put in €100 and later receives €120 has €120 of proceeds but a €20 gain before fees and taxes; the same €20 is a better result earned in one year than in five. Any stake still held has only an estimated value until it, too, is sold.
 
-Follow the actual proceeds, the money invested, the stakes kept, the costs and the dates when money was passed on to fund investors. The return mechanics in the chapter [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) still apply when a company is described as an exit success. The cases show why. Hilton’s **financial sponsor**, the investment firm that owned it, described its final stake sale in 2018, while Visma’s 2023 announcement described another transaction within a continuing ownership relationship. [S24: Blackstone 2018 investor call](https://ir.blackstone.com/files/doc_events/BLACKSTONE-Second-Quarter-2018-Earnings-Investor-Call.pdf) [S30: Visma 2023 transaction](https://www.visma.com/newsroom/visma-attracts-new-investors-for-further-international-expansion-in-a-transaction-valuing-the-company-at-eur-19-billion-59703d9f) These are different contexts for turning an investment into money. Reconstruct which fund or company held the investment, and its **cash flows**, every dated payment in and out, before calling either a complete fund outcome; see the chapters [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) and [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+Follow the actual proceeds, the money invested, the stakes kept, the costs and the dates when money was passed on to fund investors. The return mechanics in the chapter [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) still apply when a company is described as an exit success. Hilton’s **financial sponsor**, the investment firm that owned it, described its final stake sale in 2018, while Visma’s 2023 announcement described another transaction within a continuing ownership relationship. [S24: Blackstone 2018 investor call](https://ir.blackstone.com/files/doc_events/BLACKSTONE-Second-Quarter-2018-Earnings-Investor-Call.pdf) [S30: Visma 2023 transaction](https://www.visma.com/newsroom/visma-attracts-new-investors-for-further-international-expansion-in-a-transaction-valuing-the-company-at-eur-19-billion-59703d9f) Reconstruct which fund or company held the investment, and its **cash flows**, every dated payment in and out, before calling either a complete fund outcome; see the chapters [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) and [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
 
 {id: handover-of-obligations--authority-changes-even-when-the-name-does-not}
 ## Authority Changes Even When the Name Does Not
@@ -153,7 +155,7 @@ The company leader’s success in a transition is a working handover with unders
 {id: handover-of-obligations--the-accepted-handover-record}
 ## The Accepted Handover Record
 
-A handover is accepted, not merely sent. The record lists, for each important initiative and open obligation: the baseline, the cost incurred to date, what has been paid and the continuing cost, the observed result and its uncertainty, the open work with its funding status, and the accountable leader on both sides. The receiving decision-maker signs for it. Tool 10 in the [Practical Tools for Ownership and Technology Decisions](#toolkit) gives the format.
+The record lists, for each important initiative and open obligation: the baseline, the cost incurred to date, what has been paid and the continuing cost, the observed result and its uncertainty, the open work with its funding status, and the accountable leader on both sides. The receiving decision-maker signs for it. Tool 10 in the [Practical Tools for Ownership and Technology Decisions](#toolkit) gives the format.
 
 In the Larkspur chain, the three entries above (ONB-1, KNW-1 and REC-1) and the whole-plan table form the record. The receiving side inherits the two reserve draws, the postponed expansion and the postponed hires as decisions with recorded reasons, not as gaps. If the receiving leader wants to reverse any of them, the record shows what evidence the reversal should answer.
 
@@ -179,11 +181,11 @@ Without the exception and the review date, the acknowledgment would be a receipt
 {id: handover-of-obligations--permitted-follow-up-and-learning}
 ## Permitted Follow-Up and Learning
 
-A handover is a chance for both company leaders and the investor to learn. Where public evidence or authorized access permits, revisit whether the company sustained its capabilities and whether the buyer experienced the promised benefits and the disclosed obligations.
+Where public evidence or authorized access permits, revisit whether the company sustained its capabilities and whether the buyer experienced the promised benefits and the disclosed obligations.
 
 Any involvement after a handover needs an agreed role and appropriate access; it is not a right that survives the transaction. The point is to check the durability claims made during ownership. Later deterioration does not automatically prove that the prior owners failed; market conditions and subsequent decisions matter. Later success does not prove that every prior intervention was necessary. A consistent record makes it possible to learn from the whole ownership period: what was expected, what was tried, what happened and what still needs work.
 
-Part V has followed the company leader through investigation ([Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan)), the early funded plan ([Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)), a delayed financing ([Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped)), the reduction it forced ([Plan Layoffs: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff)) and now the handover. Part VI tests these methods against company histories, starting with two contrasting exits: [LEARN: Lessons From the Field](#part-6) and [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+Part VII has followed the company leader through investigation ([Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan)), the early funded plan ([Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)) and now the handover; a delayed financing ([Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped), Part IV) and the reduction it can force ([Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff), Part V) were treated earlier. Part VIII tests these methods against company histories, starting with two contrasting exits: [LEARN: Lessons From the Field](#part-8) and [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
 
 {id: handover-of-obligations--questions-to-consider}
 ## Questions to Consider

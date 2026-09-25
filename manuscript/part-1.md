@@ -3,17 +3,17 @@
 
 ![UNDERSTAND: Financing and Ownership — logo](private-techuity/posts/part-1-intro/assets/images/part-1-intro/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Learn where a company’s money comes from, who receives it, on what terms, who may spend it and when.
+> **IN THIS SECTION, YOU WILL:** Learn where a company’s money comes from, who receives it and on what terms, and who may spend it and when.
 
-An investor has just been announced. Can the company now afford the two hires the planned work needs? Not until those questions are answered for this deal.
+An investor has just been announced. Can the company now afford the two hires that the planned work needs? You will not know until this deal’s financing and ownership questions have been answered in detail.
 
-**Financing** is how a company obtains money. Customers pay for what they buy. **Lenders** lend money that must be repaid. **Investors** supply money hoping for a gain and may lose it.
+**Financing** is how a company obtains money. Customers pay for what they buy. **Lenders** provide money that must be repaid. **Investors** supply money in the hope of a gain, and they may lose it.
 
-**Ownership** is who holds the company’s **shares**, its units of ownership; a **shareholder** is whoever owns them. Shares usually carry rights: a vote, or a portion of any **profit** (income left after expenses) paid out.
+**Ownership** is about who holds the company’s **shares**, its units of ownership; a **shareholder** is anyone who owns them. Shares usually carry rights, such as a vote or a portion of any **profit** (income left after expenses) that is paid out.
 
-Money paid to a selling shareholder does not fund company work. Many investors invest through a **fund**, a pool of money from its own investors, run by a manager; money promised to a fund but not yet paid is not company cash. A **valuation** is an estimate of what a business is worth, not cash.
+Money paid to a selling shareholder does not fund company work. Many investors put money in through a **fund**: a pool of money from the fund’s own investors, run by a manager. Money promised to a fund but not yet paid in is not company cash. A **valuation** is an estimate of what a business is worth; it is not cash either.
 
-Fund-backed buyouts, where an investment fund buys control of a company, get the most detail because the cases allow it; investments below half of the ownership, growth plans and ownership by another company also appear. Check actual cash, agreement terms and spending approvals; the investor’s category alone cannot establish them. Experienced readers can skim.
+This part covers fund-backed buyouts, in which an investment fund buys control of a company, in the most detail, because the cases allow it. It also covers investments in less than half of a company, growth plans and ownership by another company. Whatever the deal, check the actual cash, agreement terms and spending approvals; the type of investor alone will not tell you what they are. Experienced readers can skim.
 
 {id: part-1--the-learning-path}
 ## The Learning Path

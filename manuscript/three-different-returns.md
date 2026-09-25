@@ -7,7 +7,7 @@
 
 > **WHY INVESTORS CARE:** An investment **fund** pools its investors’ money; the fund’s **manager** chooses what to buy and reports the results to those investors. A reported return combines the company’s performance with the purchase price, the borrowing and the sale. So the manager works on all three, and needs any claim about engineering to be one it can defend in that report.
 
-> **WHY YOU SHOULD CARE:** Investor returns are often treated as a scorecard for product and engineering, yet price, borrowing and timing can change the result without any change in the work; that misreading shapes what you are asked to do.
+> **WHY YOU SHOULD CARE:** Investor returns are often treated as a scorecard for product and engineering, yet price, borrowing and timing can change the result without any change in the work. That misreading shapes what you are asked to do.
 
 > **KEY POINTS:**
 >
@@ -15,16 +15,18 @@
 > * **Hold the company’s performance fixed** and the money the fund receives at the sale, and its multiple of the money it invested, can still more than double, because only the price a buyer pays changed.
 > * Explain the **technology contribution step by step**. Evidence about customers, costs and cash is needed before assigning part of a sale gain to engineering.
 
-A company grows its earnings, yet its investor earns less than expected. Another company becomes more fragile while an investor receives a profit. To understand either result, we need to follow the investment as well as the business.
+A company can grow its earnings, yet its investor earns less than expected. Another company may become more fragile while an investor receives a profit. To understand either result, we need to follow the **investment** as well as the **business**.
 
-An **investment return** compares what an investor gets back — in cash received or in the value of what it still holds — with what it put in. There is no single way to measure it: some measures ask only how much came back, others also ask how long it took. And until an investment is sold, the value of what is still held is an estimate, so part of any reported return rests on a judgement rather than on cash in hand.
+An **investment return** compares what an investor gets back (in cash received or in the value of what it still holds) with what it put in. There is no single way to measure it. Some measures ask only **how much** came back, while others also ask **how long** it took. Until an investment is sold, the value of what is still held is an estimate, so part of any reported return rests on a judgement rather than on cash in hand.
 
-Leaders inside the company judge progress by customers served, products shipped and earnings. An investor judges the same company by the return on its holding, which also depends on the price it paid, the money it borrowed and when it sells. That is why an investor can press for a change that a product or engineering leader can’t justify from the business alone: the request often follows from the mechanics of the investment rather than from the product. Understanding those mechanics makes such requests easier to anticipate and to question.
+Leaders inside the company judge progress by customers served, products shipped and earnings. An investor judges the same company by the return on its holding, which also depends on the price it paid, the money it borrowed and when it sells. That is why an investor can press for a change that a product or engineering leader cannot justify from the business alone: the request often follows from the **mechanics of the investment** rather than from the product. Understanding those mechanics makes such requests easier to anticipate and to question.
+
+This chapter holds one company’s performance fixed and shows how the purchase price, borrowing, sale price and timing change what the investor gets back. It then explains why a sale gain cannot simply be credited to engineering, extends the example to dilution and a corporate owner, and ends with what product and technology can and cannot claim credit for.
 
 {id: three-different-returns--one-operating-result-three-investor-outcomes}
 ## One Operating Result, Three Investor Outcomes
 
-Here is the whole argument in one table. In a fictional **buyout**, a purchase of a controlling share of a company, a fund buys a company for €100 million, using €60 million of borrowed money and €40 million of its own. Investors call the purchase the **entry** and the eventual sale the **exit**.
+In a fictional **buyout**, a purchase of a controlling share of a company, a fund buys a company for €100 million, using €60 million of borrowed money and €40 million of its own. Investors call the purchase the **entry** and the eventual sale the **exit**.
 
 Over five years the company raises its annual **EBITDA** from €10 million to €15 million. EBITDA, earnings before interest, taxes, depreciation and amortization, is explained fully in the next section. For now, read it as the company’s operating earnings before borrowing costs, income taxes and certain accounting charges. It is not cash in the bank. The company also repays €20 million of the debt, which is a separate assumption about the cash left over after its necessary spending.
 
@@ -36,7 +38,7 @@ Everything about the company’s performance is now fixed. The only thing that v
 | 10× | €110m | 2.75× |
 | 12× | €140m | 3.5× |
 
-Same engineering team, same customers, same earnings growth, and a result that ranges from a modest gain to more than triple the money. The rest of the chapter teaches the arithmetic behind those three rows, then uses it to show what a product or engineering leader can and can’t claim credit for. The chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate) introduced the measures; this chapter follows the investment from purchase to sale.
+Same engineering team, same customers, same earnings growth, and a result that ranges from a modest gain to more than triple the money. The chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate) introduced the measures; this chapter follows the investment from purchase to sale.
 
 In the calculations, “earnings growth” means an increase in the specified earnings measure. It doesn’t by itself establish better products or customer service. Postponing maintenance, for example, can raise current earnings while creating problems later.
 
@@ -53,7 +55,7 @@ An **EBITDA multiple** is the price a buyer pays per euro of those annual earnin
 
 Enterprise value is the value of the operating business, and net debt is borrowings less the cash included in the calculation. Equity value is what is left for the owners. We leave out other rights to payment that a buyer would deduct, and the price adjustments negotiated in a sale contract, for this example.
 
-Now the base case in full. The fictional company has annual EBITDA of **€10 million**. A fund agrees to buy it at **10× EBITDA**, giving an **enterprise value of €100 million**. The purchase uses **€60 million of acquisition debt and €40 million of fund equity**. The debt is borrowed by the companies set up to make the purchase, and the business’s own cash is expected to pay the interest and the repayments. Using borrowing this way is called **leverage**; this example is a leveraged buyout. A buyout doesn’t have to use this level of borrowing.
+The fictional company has annual EBITDA of **€10 million**. A fund agrees to buy it at **10× EBITDA**, giving an **enterprise value of €100 million**. The purchase uses **€60 million of acquisition debt and €40 million of fund equity**. The debt is borrowed by the companies set up to make the purchase, and the business’s own cash is expected to pay the interest and the repayments. Using borrowing this way is called **leverage**; this example is a leveraged buyout. A buyout doesn’t have to use this level of borrowing.
 
 Five years pass. EBITDA reaches €15 million: earnings improved by half, and for now we take no view on whether the company itself got better. It also repays €20 million of debt from the cash left after its own spending, as assumed above. The fund sells at the same 10× multiple.
 
@@ -67,14 +69,14 @@ Assume no cash is available to offset debt at entry or exit. Ignore fees, taxes 
 | Net debt | 60 | Borrowed to fund the purchase | 40 | 60 − 20 repaid from cash |
 | Equity value | 40 | 100 − 60 | 110 | 150 − 40 |
 
-**Annual EBITDA and enterprise value each grew by 50%. The fund’s €40 million investment produced a €70 million gain, or 175%.** It put in €40 million and took out €110 million.
+**Annual EBITDA and enterprise value each grew by 50%. The fund’s €40 million investment produced a €70 million gain, or 175%.**
 
 The €70 million equity gain separates into two parts, reflecting both earnings and financing:
 
 - **€50 million** because the business earns more (€5m more EBITDA, at 10×)
 - **€20 million** because the debt shrank, so less of the sale price goes to lenders
 
-Two common measures describe this result. **MOIC**, the multiple on invested capital, is how many times the investor got its money back. It compares what the investor received, or still holds, with what it invested. In this example the holding has been sold in full, so MOIC is proceeds divided by total capital invested: €110m / €40m = **2.75×**.
+**MOIC**, the multiple on invested capital, is how many times the investor got its money back. It compares what the investor received, or still holds, with what it invested. In this example the holding has been sold in full, so MOIC is proceeds divided by total capital invested: €110m / €40m = **2.75×**.
 
 **IRR**, the internal rate of return, expresses the result as an annual rate that accounts for when each payment happened. With one investment and one receipt five years later, it is (110 / 40) raised to the power of 1/5, minus 1: about **22.4%**. If money is invested or received at several dates, the calculation must include each dated payment. MOIC tells you how much; IRR tells you how fast, given those payment dates. Neither tells you whether the company is better.
 
@@ -95,7 +97,7 @@ The same engineering team, the same customers, the same year-on-year earnings gr
 
 This exercise varies the multiple without saying why it moved. In practice a multiple can reflect the company’s prospects and a particular buyer’s expectations as well as general market conditions, which is exactly why the transaction alone can’t separate those explanations.
 
-Timing has the same effect. The time between purchase and sale is the **holding period**. Turning €40 million into €80 million is 2× either way, but do it in three years and that is about 26% a year; take seven years and it is about 10%. IRR exposes the speed, given the dates of the payments. It can’t tell you how much money was made, how much risk remains, or whether the business is any good.
+The time between purchase and sale is the **holding period**. Turning €40 million into €80 million is 2× either way, but do it in three years and that is about 26% a year; take seven years and it is about 10%. IRR exposes the speed, given the dates of the payments. It can’t tell you how much money was made, how much risk remains, or whether the business is any good.
 
 Leverage magnifies the change in value relative to the fund’s smaller initial equity contribution, and it magnifies losses too. For a **separate downside scenario**, assume enterprise value falls to €80 million and no debt is repaid, leaving €60 million owed. Equity value is then €20 million, against the fund’s original €40 million investment. **The business lost a fifth of its value; the fund lost half of its money.**
 
@@ -113,7 +115,7 @@ Now suppose earnings and price move together: EBITDA grows from €10m to €15m
 
 That third row is the awkward one. It exists only because both things changed together, and no rule says whether it belongs to the operating team or to the price. Assigning €60m to operations and €20m to the multiple is a **convention, not a measurement**, and a report that quietly folds the interaction into the operations column makes the same work look better.
 
-This is where a claim such as “our platform work created €30 million of company value” runs into trouble. **Platform work** means improving the shared software foundations on which the company’s products are built, such as the systems that store data or handle logins; customers rarely see it directly. Ask how the claim would be justified. At the entry multiple, the bridge attributes €50 million to higher earnings. Allocating the €10 million interaction row differently changes that accounting attribution; none of those conventions identifies engineering’s causal share. The bridge then stops. It separates earnings from price; it doesn’t separate the platform work from the pricing changes, sales hiring, cost reductions or postponed maintenance that also moved EBITDA over five years. A transaction bridge answers “how much of the gain came from earnings rather than from the multiple.” It can’t answer “how much of the earnings came from engineering.” That causal question needs evidence gathered on the way, not read off the sale.
+This is where a claim such as “our platform work created €30 million of company value” runs into trouble. **Platform work** means improving the shared software foundations on which the company’s products are built, such as the systems that store data or handle logins; customers rarely see it directly. At the entry multiple, the bridge attributes €50 million to higher earnings. Allocating the €10 million interaction row differently changes that accounting attribution; none of those conventions identifies engineering’s causal share. The bridge then stops. It separates earnings from price; it doesn’t separate the platform work from the pricing changes, sales hiring, cost reductions or postponed maintenance that also moved EBITDA over five years. It can’t answer “how much of the earnings came from engineering.” That causal question needs evidence gathered on the way, not read off the sale.
 
 The shortcut behind all this, enterprise value = EBITDA × multiple, is a negotiating and comparison device, not a law of nature. What a buyer will actually pay depends on expected future cash, growth, risk, market conditions and its alternatives. Keep three kinds of change distinct when reading any result:
 
@@ -155,9 +157,9 @@ A group-wide benefit isn’t automatically a local product budget. Ask the corpo
 {id: three-different-returns--what-product-and-technology-can-and-cannot-claim-credit-for}
 ## What Product and Technology Can and Cannot Claim Credit For
 
-Start with the observable change, not the sale price. Which customer task improved? What costs changed? What investment was required? A **chief financial officer**, or **CFO**, leads the financial work and can help connect those observations to company earnings and cash. The investment team can then examine their possible valuation implications. The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) develops that chain in Part III.
+Start with the observable change, not the sale price. Which customer task improved? What costs changed? What investment was required? A **chief financial officer**, or **CFO**, leads the financial work and can help connect those observations to company earnings and cash. The investment team can then examine their possible valuation implications. The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) develops that chain in Part IV.
 
-One distinction from the investor’s side helps in reading the pressure you receive. Where the owner is a fund, its manager reports to the fund’s investors, often called limited partners. The report shows both the cash it has already returned to them and its estimate of the value of holdings it hasn’t yet sold. The estimate can still move, and pressure on a company often comes from the gap between the two. A corporate owner or an individual shareholder has no such report, though each has its own reasons to watch the same gap.
+Where the owner is a fund, its manager reports to the fund’s investors, often called limited partners. The report shows both the cash it has already returned to them and its estimate of the value of holdings it hasn’t yet sold. The estimate can still move, and pressure on a company often comes from the gap between the two. A corporate owner or an individual shareholder has no such report, though each has its own reasons to watch the same gap.
 
 For optional depth, [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) explains the manager’s fee, the manager’s share of profits and the rules for paying money out to those investors, which together decide how much of a return reaches them. It also explains the ratios and borrowing arrangements behind the report.
 

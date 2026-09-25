@@ -1,32 +1,44 @@
 {class: part, id: part-4}
-# COLLABORATE: Get Useful Help From Your Investor
+# COMMIT: Turn Expectations Into Work You Can Deliver
 
-![COLLABORATE: Get Useful Help From Your Investor — logo](private-techuity/posts/part-4-intro/assets/images/part-4-intro/logo.jpeg)
+![COMMIT: Turn Expectations Into Work You Can Deliver — logo](private-techuity/posts/part-4-intro/assets/images/part-4-intro/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Connect the working arrangement with your investor to learning, useful help, the agreed terms of each piece of help and the people who provide it.
+> **IN THIS SECTION, YOU WILL:** Learn to turn investor expectations into commitments of your own: work the company can afford, staff and deliver, and promises to customers and teams you can keep.
 
-Part III connected investor expectations to work the company can deliver. Your plan may still need experience, a trusted specialist or access to prospective customers. You may also need encounters that challenge the assumptions behind the plan. Investors can sometimes provide these through their people and relationships; peers and independent sources can also help.
+Two kinds of commitment meet in this part. An **investor** commits money in the expectation of a financial gain, either by funding the company or by buying shares (units of ownership) from an existing owner; its **thesis** explains why it expects that gain. **Product and technology leaders** commit the company to work: a roadmap, a delivery date promised to customers, the time of a team. Part IV is about making the second kind of commitment fit the first.
 
-Start by agreeing **how the investor and company will work together**. Explore what you can learn through the relationship. Some work the company needs done reliably cannot yet be done by its own team; that is a capability gap. For each gap, compare sources of help and establish **what the company must contribute in return**, usually staff time, money and management attention. Learning experiences, specialist assignments and ongoing services require different commitments.
+Parts II and III established who decides, which approvals you need and how you work with the investor. This part turns the investor’s thesis into work within those limits. Before you commit, check that the money, the people and the authority are actually there. When a limit or an assumption has to change, go back for a decision rather than commit beyond your authority.
 
-The aim is a stronger company, whether your team learns to do the work itself or keeps using outside specialists whose cost and availability it can plan for. Continued reliance means the work stops if the provider leaves or is no longer paid, so choose it knowingly. Keep a way to question an offer, reshape it or choose another source of help.
+Suppose new customers struggle to get set up. What you can commit to depends on the situation. If further money is uncertain, a small trial must first show that customers want the fix. If the plan is expansion abroad, the fix must work there too. If another company owns the business, the fix may need to connect to the systems its sister companies use to sell to and serve customers. These are examples of assumptions to check, not fixed rules for each type of investor.
+
+Whatever you commit to, keep three things visible: **the benefit you expect, how long the available money covers the work, and which other work must wait**.
 
 {id: part-4--the-learning-path}
 ## The Learning Path
 
-![Six boxes stacked in reading order, each with a short description: plan support by agreeing the working arrangement; learn together through the investor’s network and peers; choose help by comparing sources of help for work your team cannot yet do; set the terms by agreeing the work, its cost and who takes it over afterwards; clarify what the investor’s adviser is asked to do; and meet the operating partners, the investor’s specialists who help its companies. A footer reads that learning and support come with company judgment and responsibility.](private-techuity/posts/part-4-intro/assets/images/part-4-intro/chapter-overview.jpeg)
+![Seven chapters in four moves under the heading COMMIT. First, agree what the work is for: adopt outcome thinking, pairing one customer outcome with one business outcome and the investor metric it feeds, then have your numbers ready: define, own and label the numbers investors read. Second, choose and justify the work: set priorities to fit cash and team time, test whether the change brings sales, then separate the three investment questions inside an AI strategy request (artificial intelligence is software that predicts or generates content from data): sell it, use it, or be replaced by it. Third, assess what delivery requires: find what the software and the team can support and what a transition would cost. Fourth, revise when the money is late: put cash and commitments on a calendar and choose one fallback in time. All lead to one outcome: fund feasible work and review the evidence.](private-techuity/posts/part-4-intro/assets/images/part-4-intro/chapter-overview.jpeg)
 
-**Figure 1:** *The six chapters connect learning and support with company judgment, accountability and understood commitments.*
+**Figure 1:** *One chapter agrees what the work is for and one holds the numbers ready; three establish what deserves money, one what delivery requires, one what changes when money is late.*
 
-The six chapters move from the working arrangement through learning and specific pieces of help to the people who provide them.
+**Agree what the work is for.**
 
-- [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints) connects investor involvement with company organization and offers four blueprints to adapt to the work, authority and resources available.
-- [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) explores knowledge sharing, events, peer communities and visits, then follows the learning back into the company.
-- [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) compares sources of help for one capability gap, including sources outside the investor’s network, and ends with a written request for that help.
-- [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement) turns that request into an engagement charter: a short written agreement recording the work, its cost, who decides and how the help ends. It then follows a scope change, meaning a change to the agreed work. Finally it tests the handover: either your team takes the work over, or it keeps a continuing service on known terms.
-- [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser) explains what an adviser sent by the investor is asked to do, how much influence they have and whom they report to. It also covers the shift from coaching your team to assessing it or doing the work themselves.
-- [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner) introduces technology operating partners: experienced specialists who work with an investor to help the companies it owns improve their technology and operations. It then examines how they work with company leaders and help with hiring. It also covers how they respond to artificial intelligence (AI), software that can draft text or find patterns in data.
+- [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking): which customer and business results does the work move, which investor metric does it feed, and on what timeline?
+- [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready): which numbers should you hold ready for the investor, for goals and for dashboards, and how do you define, own and label them?
 
-By the end, you should be able to choose a working arrangement, use learning opportunities, request useful help and agree how to review it. Company leaders retain responsibility for what becomes work.
+**Choose and justify the work.**
 
-Begin with [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints). Part V then follows your responsibilities through funding and ownership events, building on the financial, decision and support foundations already established.
+- [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything): which work fits the cash and team time?
+- [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue): does the change bring more sales, and should the trial continue?
+- [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions): artificial intelligence (AI) is software that predicts or generates content from data. Will customers pay for it, will staff work better with it, or could a rival product replace yours?
+
+**Assess what delivery requires.**
+
+- [Assess Capability: Can the Team Deliver?](#can-the-team-deliver): what can the software and team support, and what would a transition cost?
+
+**Revise when the money is late.**
+
+- [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped): when expected money arrives late, which commitments must change, by what date, and which fallback does the board choose?
+
+By the end, you should be able to explain which work deserves money and people, what you can responsibly commit to, and what evidence would change the plan. Benefit here includes customer results and capability, not only money.
+
+Begin with [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking). Part V then changes the team, the systems and the company’s boundary, and Part VI keeps the technology you already run worth its cost.

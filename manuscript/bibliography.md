@@ -1,5 +1,5 @@
 {id: bibliography}
-# 41. Bibliography and Evidence Guide
+# 45. Bibliography and Evidence Guide
 
 ![Bibliography and Evidence Guide — logo](private-techuity/posts/bibliography/assets/images/bibliography/logo.jpeg)
 
@@ -13,7 +13,7 @@
 
 This page lists the sources consulted for the book. Sources were consulted between September 12 and September 23, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where an individual date affects how a figure or a claim should be read, the entry gives it.
 
-Source identifiers are stable. **S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register currently runs to S118. Private inputs are described without publishing their contents or file details.
+**S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register currently runs to S118. Private inputs are described without publishing their contents or file details.
 
 {id: bibliography--topic-index}
 ## Topic Index
@@ -24,14 +24,14 @@ Use this table to find evidence by question. A source can appear under more than
 | --- | --- | --- |
 | Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate), [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
 | Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget) |
-| Governance, rights and incentives | S01, S02, S04, S61, S76 | [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets), [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring) |
-| Workforce reductions and employment process | S77, S78 | [Plan Layoffs: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) |
+| Governance, rights and incentives | S01, S02, S04, S61, S76 | [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets), [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring) |
+| Workforce reductions and employment process | S77, S78 | [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) |
 | Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75 | [Assess Capability: Can the Team Deliver?](#can-the-team-deliver), [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#cheaper-cloud-bill) |
 | Security and resilience | S17 | [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore) |
 | AI evidence | S18, S19, S20, S21, S63 | [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions) |
 | Investor support and advisers | S22, P01, P02 | [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser), [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) |
 | Investor-organized learning, peer communities and shared resources | S101–S105 | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) |
-| Data foundations, analytics practice and shared evidence | S106–S109 | [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment) |
+| Data foundations, analytics practice and shared evidence | S106–S109 | [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) |
 | Grounded Architecture applied across a portfolio | S106, S110–S115 | [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio) |
 | Technology operating partners, leadership roles and AI support | S79–S90 | [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner) |
 | Operating-model blueprints and investor–company working arrangements | S01, S91–S100 | [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints) |
@@ -53,21 +53,21 @@ Each entry has the same parts.
 - **Consulted scope** — what was actually examined: a whole short page, selected pages or sections, or only an abstract (the short summary at the start of a research paper). Limits specific to the source, such as partial access or a contradictory date inside the document, stay attached to the entry.
 - **Used in** — the chapters that cite the entry by its identifier, so a reader can move from a source to the argument it supports and back.
 
-Three general rules apply to every entry and are stated once here. Treat reported financial figures as figures under the named source’s period and definitions. Treat company and investor statements as accounts by interested parties. Treat empirical findings within their sample and design; historical studies and current technology experiments answer different questions. When a chapter draws an inference, the cited document supports its premises; it does not necessarily make or validate that inference.
+Treat reported financial figures as figures under the named source’s period and definitions. Treat company and investor statements as accounts by interested parties. Treat empirical findings within their sample and design; historical studies and current technology experiments answer different questions. When a chapter draws an inference, the cited document supports its premises; it does not necessarily make or validate that inference.
 
 For a first reading, follow the citations attached to the chapter you are studying and return here for a source’s date, scope or limits. Technical vocabulary is explained in [Glossary](#glossary).
 
 {id: bibliography--proposed-methods-and-empirical-evidence}
 ## Proposed Methods and Empirical Evidence
 
-The book contains two kinds of material, and this register supports them differently. The historical cases, filings and research studies are evidence about what happened in particular settings, within the limits each entry states. The templates, checklists, fictional calculations, the Larkspur examples and the Technology Principal example role are proposed methods: the author’s reasoning about how to work under the conditions the evidence describes. No source on this page validates those methods. The studies were not designed to test them, the guidance documents describe practices rather than measure their effect, and the private inputs supply ideas rather than operating results. Judge a method by whether it fits your decision, not by the citations near it.
+The historical cases, filings and research studies are evidence about what happened in particular settings, within the limits each entry states. The templates, checklists, fictional calculations, the Larkspur examples and the Technology Principal example role are proposed methods: the author’s reasoning about how to work under the conditions the evidence describes. No source on this page validates those methods. The studies were not designed to test them, the guidance documents describe practices rather than measure their effect, and the private inputs supply ideas rather than operating results. Judge a method by whether it fits your decision, not by the citations near it.
 
 {id: bibliography--evidence-used-versus-further-reading}
 ## Evidence Used Versus Further Reading
 
 The main chapters end with a “To Probe Further” list; the reading guide, the part introductions and the reference pages do not. Those lists are optional reading, chosen to help a reader go deeper on the chapter’s subject. Their one-sentence annotations were checked for scope, meaning that the description stays within what the resource covers. They are not part of this consulted-evidence register unless the same resource also carries an S identifier, and a chapter’s argument does not rest on them. Listing a resource there does not mean the author consulted it for the book’s claims. Where a chapter’s claim depends on a source, that source is cited inline with an S or P identifier and appears below.
 
-One annotation carries a figure precise enough to need its version stated. The chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate) cites Gornall and Strebulaev on unicorn valuations and says reported post-money valuations averaged “about 50%” above the authors’ modeled fair values. That is the figure in the [2017 NBER working paper](https://www.nber.org/papers/w23895), which reports an average of 50% above fair value with 15 of the 135 US unicorns more than 100% above. The version published in the *Journal of Financial Economics* 135(1), 2020, pp. 120–143 reports 48%, with 14 more than 100% above. The chapter links the working paper and names the journal version, and “about 50%” covers both estimates; the direction is the source’s own. Reported values average roughly half again above modeled fair value, which is not the same statement as fair values being 50% below reported values, and an average ratio cannot be inverted to obtain the average of the reverse ratio.
+The chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate) cites Gornall and Strebulaev on unicorn valuations and says reported post-money valuations averaged “about 50%” above the authors’ modeled fair values. That is the figure in the [2017 NBER working paper](https://www.nber.org/papers/w23895), which reports an average of 50% above fair value with 15 of the 135 US unicorns more than 100% above. The version published in the *Journal of Financial Economics* 135(1), 2020, pp. 120–143 reports 48%, with 14 more than 100% above. The chapter links the working paper and names the journal version, and “about 50%” covers both estimates; the direction is the source’s own. Reported values average roughly half again above modeled fair value, which is not the same statement as fair values being 50% below reported values, and an average ratio cannot be inverted to obtain the average of the reverse ratio.
 
 {id: bibliography--public-evidence}
 ## Public Evidence
@@ -205,7 +205,7 @@ DORA / Google Cloud. [2024 Accelerate State of DevOps Report](https://dora.dev/r
 
 **Evidence type:** Original industry survey. **Consulted scope:** Report landing page, findings summary, and errata consulted; no independent reanalysis of the full survey. Associations support questions about operating conditions, not automatic causal or financial claims.
 
-**Used in:** [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring).
+**Used in:** [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring).
 
 {id: bibliography--s16-finops-unit-economics}
 ### S16 — FinOps unit economics
@@ -745,7 +745,7 @@ Avalyn Pharma Inc. [Amended and Restated Investors' Rights Agreement, sections 3
 
 **Evidence type:** Filed contract between a company and its investors. **Consulted scope:** Section 3.2, read for a right granted to each major investor and its authorized representatives to visit and inspect the company's properties, examine its corporate and financial records and discuss its affairs, finances and accounts with its officers, during normal business hours, with carve-outs for trade secrets, confidential information and material whose disclosure would affect attorney-client privilege, and excluding investors the board has determined to be competitors. Section 5.4(g), read on September 16, 2026, which lists among the board matters requiring the preferred directors' approval the decision to "hire, terminate, or change the compensation of the executive officers, including approving any option grants or stock awards to executive officers". One filed example showing that such rights are commonly written down in advance; it does not establish what any other company's agreement grants.
 
-**Used in:** [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser), [Trace the Work: Headcount Is Not Capacity](#fix-decisions-before-hiring).
+**Used in:** [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser), [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring).
 
 {id: bibliography--s77-council-directive-98-59-ec}
 ### S77 — Council Directive 98/59/EC
@@ -754,7 +754,7 @@ Council of the European Union. [Council Directive 98/59/EC of 20 July 1998 on th
 
 **Evidence type:** Union legislation. **Consulted scope:** Article 1(1)(a), the definition (dismissals for reasons not related to the individual workers) and the two alternative tests member states choose between (over 30 days: at least 10 dismissals in establishments normally employing more than 20 and fewer than 100 workers, at least 10% in those employing at least 100 and fewer than 300, at least 30 in those employing 300 or more; or over 90 days: at least 20 whatever the establishment’s size); the second subparagraph of Article 1(1), under which other terminations on the employer’s initiative for reasons unrelated to the individual are assimilated to redundancies provided there are at least five redundancies; Article 2(1) and (2), consultation of workers’ representatives in good time with a view to reaching an agreement, covering ways of avoiding or reducing the redundancies and mitigating their consequences; Article 3(1), written notification of the competent public authority; Article 4(1), the 30-day period after notification before the redundancies take effect, without prejudice to individual notice rights; and Article 5, member states’ freedom to apply more favourable provisions. Rechecked September 16, 2026 for the band boundaries. Minimum requirements that member states transpose and may exceed; not the law of any particular country, and the book does not say which law governs the fictional company. Later amendments were not reviewed.
 
-**Used in:** [Plan Layoffs: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff).
+**Used in:** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff).
 
 {id: bibliography--s78-us-warn-act-29-u-s-c-21012102}
 ### S78 — US WARN Act, 29 U.S.C. §§ 2101–2102
@@ -763,7 +763,7 @@ United States Code, Title 29, Chapter 23. [§ 2101, Definitions; exclusions from
 
 **Evidence type:** Federal statute. **Consulted scope:** § 2101(a)(1), employer (100 or more employees excluding part-time employees, or 100 or more who in aggregate work at least 4,000 hours a week exclusive of overtime); (a)(2), plant closing (a shutdown of a single site, or of facilities or operating units within it, causing an employment loss for 50 or more employees excluding part-time employees within any 30-day period); (a)(3), mass layoff (a reduction in force not resulting from a plant closing that causes an employment loss at a single site within any 30-day period for at least 33 percent of the employees and at least 50 employees, or for at least 500, excluding part-time employees); (a)(8), part-time employee; § 2102(a), the 60-day written notice and its recipients (the employees’ representatives or the employees, the state’s rapid-response entity and the chief elected local official); § 2102(b), the reduced-notice exceptions (faltering company, unforeseeable business circumstances, natural disaster); and § 2102(d), aggregation of smaller employment losses within any 90-day period unless they arise from separate and distinct actions and causes. Rechecked September 16, 2026. The implementing regulations at 20 CFR Part 639 and state notice laws were not reviewed.
 
-**Used in:** [Plan Layoffs: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff).
+**Used in:** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff).
 
 {id: bibliography--s79-korn-ferry-on-technology-operating-partners}
 ### S79 — Korn Ferry on technology operating partners
@@ -1015,7 +1015,7 @@ Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introducti
 
 **Evidence type:** Author’s own practitioner method, stated as practice rather than study. **Consulted scope:** The chapter page, covering the data sources it curates (source-code repositories and commit history, public-cloud billing, incident reports, business and finance data) and its stated requirements that analytics be curated, current, credible, actionable and accessible. Documents a described practice for the technology landscape; it does not establish measured outcomes, and its extension to the investor relationship is this book’s proposal. The chapter explicitly identifies the author’s involvement.
 
-**Used in:** [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment), [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+**Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready), [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
 {id: bibliography--s107-building-lightweight-architectural-analytics}
 ### S107 — Building Lightweight Architectural Analytics
@@ -1024,7 +1024,7 @@ Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introducti
 
 **Evidence type:** Author’s own implementation account. **Consulted scope:** Implementation principles and lean techniques — structured data in version control, generation scripts, static pages, collaborative editing, maintainability by a small team. Read for the claim that the method requires curation rather than platform purchase; no deployment results or comparative tooling evidence are established.
 
-**Used in:** [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment).
+**Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) (formerly the removed appendix on data foundations).
 
 {id: bibliography--s108-grounded-architecture}
 ### S108 — Grounded Architecture
@@ -1033,7 +1033,7 @@ Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introducti
 
 **Evidence type:** Author’s own book, consulted for framing. **Consulted scope:** The site’s structure and the placement of Lightweight Architectural Analytics within the framework’s foundations. Recorded so readers can locate the practice in its original context; the present book restates the parts it uses.
 
-**Used in:** [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment).
+**Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) (formerly the removed appendix on data foundations).
 
 {id: bibliography--s109-product-operations}
 ### S109 — Product Operations
@@ -1042,7 +1042,7 @@ Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies B
 
 **Evidence type:** Practitioner framework from two product-operations practitioners, drawing on named company examples. **Consulted scope:** The three pillars — business data and insights, customer and market insights, process and governance — as described on the authors' book page and in a published secondary summary; the full book text was not read for this chapter. Documents a described discipline and its stated purpose; it does not establish comparative outcomes, and the mapping onto this book's three evidence areas, and its application to the investor relationship, are this book's own.
 
-**Used in:** [Appendix: Data Foundations for Alignment With Investors](#data-foundations-for-alignment).
+**Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) (formerly the removed appendix on data foundations).
 
 {id: bibliography--s110-grounded-architecture-framework-foundations}
 ### S110 — Grounded Architecture framework foundations
@@ -1144,7 +1144,7 @@ Both pages read. One role brief, not an industry-wide mandate. Heading/body titl
 
 Both domain overviews, technology-capability input and audit, structured record inventories, and selected substantive tutorials/models read. Not every repeated generated HTML/JSON prose field was read line by line. Proposals, example values, and null baselines are not verified operating results.
 
-**Used in:** No chapter cites P02 directly. It is recorded as an intellectual input to the drafting of the support and role chapters (Part IV); the book states its own reasoning in ordinary terms, and readers do not need to learn the Productscapes model.
+**Used in:** No chapter cites P02 directly. It is recorded as an intellectual input to the drafting of the support and role chapters (Part III); the book states its own reasoning in ordinary terms, and readers do not need to learn the Productscapes model.
 
 {id: bibliography--remaining-research-limits}
 ## Remaining Research Limits
