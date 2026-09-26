@@ -1,0 +1,112 @@
+manuscript/Book.txt
+  h_32d60cd4daf66e 2,4
+manuscript/acquisition-adds-work-first.md
+  h_32d60cd4daf66e 2
+manuscript/adopt-outcome-thinking.md
+  h_32d60cd4daf66e 2
+manuscript/ai-strategy-three-questions.md
+  h_32d60cd4daf66e 2
+manuscript/ai-worth-its-cost.md
+  h_32d60cd4daf66e 2
+manuscript/anatomy-of-a-layoff.md
+  h_32d60cd4daf66e 2
+manuscript/announcement-is-not-a-budget.md
+  h_32d60cd4daf66e 2
+manuscript/bibliography.md
+  h_32d60cd4daf66e 2
+manuscript/can-the-team-deliver.md
+  h_32d60cd4daf66e 2
+manuscript/cannot-fund-everything.md
+  h_32d60cd4daf66e 2
+manuscript/cheaper-cloud-bill.md
+  h_32d60cd4daf66e 2
+manuscript/customers-lenders-investors.md
+  h_32d60cd4daf66e 2
+manuscript/decide-who-decides.md
+  h_32d60cd4daf66e 2
+manuscript/different-bets.md
+  h_32d60cd4daf66e 2
+manuscript/diligence-corrects-the-plan.md
+  h_32d60cd4daf66e 2
+manuscript/export-manifest.json
+  h_32d60cd4daf66e 18-20,62-67,82-88,456,458,543-633,1791-1792,1794-1795,1797-1799,1804-1811,1813-1836,1844-1846,2016-2031,2034-2044
+manuscript/first-hundred-days.md
+  h_32d60cd4daf66e 2
+manuscript/fix-decisions-before-hiring.md
+  h_32d60cd4daf66e 2
+manuscript/fund-economics.md
+  h_32d60cd4daf66e 2
+manuscript/glossary.md
+  h_32d60cd4daf66e 2
+manuscript/grounded-architecture-portfolio.md
+  h_32d60cd4daf66e 2
+manuscript/growth-into-design.md
+  h_32d60cd4daf66e 2
+manuscript/handover-of-obligations.md
+  h_32d60cd4daf66e 2
+manuscript/have-your-numbers-ready.md
+  h_32d60cd4daf66e 2
+manuscript/help-that-changes-capability.md
+  h_32d60cd4daf66e 2
+manuscript/hilton-and-skype.md
+  h_32d60cd4daf66e 2,6,8,10,14-16,18,20-22,27,41,51,64,73,77,88,92,110,112,138
+manuscript/introduction.md
+  h_32d60cd4daf66e 29-30,151-152
+manuscript/investor-under-pressure.md
+  h_32d60cd4daf66e 2
+manuscript/investors-adviser.md
+  h_32d60cd4daf66e 2
+manuscript/learn-through-investors-network.md
+  h_32d60cd4daf66e 2
+manuscript/manage-technical-debt.md
+  h_32d60cd4daf66e 2
+manuscript/obligations-before-budget.md
+  h_32d60cd4daf66e 2
+manuscript/operating-model-blueprints.md
+  h_32d60cd4daf66e 2
+manuscript/part-8.md
+  h_32d60cd4daf66e 6,10,12,21,23-27
+manuscript/prove-you-can-restore.md
+  h_32d60cd4daf66e 2
+manuscript/raise-what-you-need.md
+  h_32d60cd4daf66e 2
+manuscript/roadmap-to-revenue.md
+  h_32d60cd4daf66e 2
+manuscript/scale-the-team-with-ai.md
+  h_32d60cd4daf66e 2
+manuscript/section-01.md
+  h_32d60cd4daf66e 1-4
+manuscript/success-for-whom.md
+  h_32d60cd4daf66e 2,6,8,10,14-16,18,20,22,27,29,41,70,94,120
+manuscript/teamsystem.md
+  h_32d60cd4daf66e 2,6,8,10,14-16,18-20,26,33,72,101,127,167,169,208
+manuscript/tech-operating-partner.md
+  h_32d60cd4daf66e 2
+manuscript/the-financing-slipped.md
+  h_32d60cd4daf66e 2
+manuscript/three-different-returns.md
+  h_32d60cd4daf66e 2
+manuscript/toolkit.md
+  h_32d60cd4daf66e 2
+manuscript/toys-r-us.md
+  h_32d60cd4daf66e 2,6,8,10,14-16,18,20,22,27,31,47,132,148,157,166,172
+manuscript/useful-engagement.md
+  h_32d60cd4daf66e 2
+manuscript/valuation-is-an-estimate.md
+  h_32d60cd4daf66e 2
+manuscript/visma.md
+  h_32d60cd4daf66e 2,6,8,10,14-16,18,20-22,29,54,61,63,72,76,114-115,133,138,141
+manuscript/where-investment-goes-wrong.md
+  h_32d60cd4daf66e 1-252
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b67bc3cde47f331268dd79f8387723654b9083ad",
+  "prompts": {},
+  "humans": {
+    "h_32d60cd4daf66e": {
+      "author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
