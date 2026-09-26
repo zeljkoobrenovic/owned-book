@@ -1,5 +1,5 @@
 {id: ai-worth-its-cost}
-# 32. Critically Evaluate AI Costs: Measure the Return per Task and per Period
+# 33. Critically Evaluate AI Costs: Measure the Return per Task and per Period
 
 ![Critically Evaluate AI Costs: Measure the Return per Task and per Period — logo](private-techuity/posts/30-ai-worth-its-cost/assets/images/30-ai-worth-its-cost/logo.jpeg)
 

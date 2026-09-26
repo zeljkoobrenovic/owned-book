@@ -1,5 +1,5 @@
 {id: toolkit}
-# 42. Practical Tools for Ownership and Technology Decisions
+# 43. Practical Tools for Ownership and Technology Decisions
 
 ![Practical Tools for Ownership and Technology Decisions — logo](private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg)
 

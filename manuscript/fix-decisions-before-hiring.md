@@ -1,5 +1,5 @@
 {id: fix-decisions-before-hiring}
-# 24. Scale the Team Up: Headcount Is Not Capacity
+# 25. Scale the Team Up: Headcount Is Not Capacity
 
 ![Scale the Team Up: Headcount Is Not Capacity — logo](private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/logo.jpeg)
 

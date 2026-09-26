@@ -1,5 +1,5 @@
 {id: tech-operating-partner}
-# 16. Understand Technology Operating Partners: How They Work With Your Team
+# 17. Understand Technology Operating Partners: How They Work With Your Team
 
 ![Understand Technology Operating Partners: How They Work With Your Team — logo](private-techuity/posts/14-tech-operating-partner/assets/images/tech-operating-partner/logo.png)
 

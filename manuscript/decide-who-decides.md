@@ -1,5 +1,5 @@
 {id: decide-who-decides}
-# 8. Clarify Authority: Decide Who Decides Before You Disagree
+# 9. Clarify Authority: Decide Who Decides Before You Disagree
 
 ![Clarify Authority: Decide Who Decides Before You Disagree — logo](private-techuity/posts/06-decide-who-decides/assets/images/06-decide-who-decides/logo.jpeg)
 

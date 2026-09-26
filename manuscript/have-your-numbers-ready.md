@@ -1,5 +1,5 @@
 {id: have-your-numbers-ready}
-# 18. Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards
+# 19. Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards
 
 ![Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards — logo](private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/logo.jpeg)
 

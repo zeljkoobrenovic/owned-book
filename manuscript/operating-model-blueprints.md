@@ -1,5 +1,5 @@
 {id: operating-model-blueprints}
-# 11. Plan Investor Support: Match the Help to Company Priorities
+# 12. Plan Investor Support: Match the Help to Company Priorities
 
 ![Plan Investor Support: Match the Help to Company Priorities — logo](private-techuity/posts/09-operating-model-blueprints/assets/images/operating-model-blueprints/logo.png)
 

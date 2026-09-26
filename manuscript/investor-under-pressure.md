@@ -1,5 +1,5 @@
 {id: investor-under-pressure}
-# 10. Assess Investor Fit: Behavior Under Pressure
+# 11. Assess Investor Fit: Behavior Under Pressure
 
 ![Assess Investor Fit: Behavior Under Pressure — logo](private-techuity/posts/08-investor-under-pressure/assets/images/08-investor-under-pressure/logo.jpeg)
 

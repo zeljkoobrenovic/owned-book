@@ -1,5 +1,5 @@
 {id: manage-technical-debt}
-# 29. Manage Technical Debt: Fund the Fix by the Cost, the Risk and the Speed It Buys
+# 30. Manage Technical Debt: Fund the Fix by the Cost, the Risk and the Speed It Buys
 
 ![Manage Technical Debt: Fund the Fix by the Cost, the Risk and the Speed It Buys — logo](private-techuity/posts/27-manage-technical-debt/assets/images/27-manage-technical-debt/logo.jpeg)
 

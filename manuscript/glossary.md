@@ -1,5 +1,5 @@
 {id: glossary}
-# 44. Glossary
+# 45. Glossary
 
 ![Glossary — logo](private-techuity/posts/glossary/assets/images/glossary/logo.jpeg)
 

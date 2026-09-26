@@ -1,5 +1,5 @@
 {id: first-hundred-days}
-# 34. Plan the First Hundred Days: Turn Expectations Into Funded Work
+# 35. Plan the First Hundred Days: Turn Expectations Into Funded Work
 
 ![Plan the First Hundred Days: Turn Expectations Into Funded Work — logo](private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg)
 

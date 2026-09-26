@@ -1,5 +1,5 @@
 {id: cheaper-cloud-bill}
-# 31. Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better
+# 32. Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better
 
 ![Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better — logo](private-techuity/posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/logo.jpeg)
 

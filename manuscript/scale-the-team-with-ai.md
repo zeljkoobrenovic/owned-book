@@ -1,5 +1,5 @@
 {id: scale-the-team-with-ai}
-# 26. Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount
+# 27. Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount
 
 ![Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount — logo](private-techuity/posts/24-scale-the-team-with-ai/assets/images/24-scale-the-team-with-ai/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: the-financing-slipped}
-# 23. Manage Funding Delays: Revise the Cash Plan and Commitments
+# 24. Manage Funding Delays: Revise the Cash Plan and Commitments
 
 ![Manage Funding Delays: Revise the Cash Plan and Commitments — logo](private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/logo.jpeg)
 

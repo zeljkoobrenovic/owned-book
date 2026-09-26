@@ -1,5 +1,5 @@
 {id: customers-lenders-investors}
-# 2. Understand Expectations: Customers, Lenders and Investors
+# 3. Understand Expectations: Customers, Lenders and Investors
 
 ![Understand Expectations: Customers, Lenders and Investors — logo](private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/logo.jpeg)
 

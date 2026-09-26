@@ -1,5 +1,5 @@
 {id: roadmap-to-revenue}
-# 20. Test Revenue Assumptions: Do Customers Respond as Expected?
+# 21. Test Revenue Assumptions: Do Customers Respond as Expected?
 
 ![Test Revenue Assumptions: Do Customers Respond as Expected? — logo](private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/logo.jpeg)
 

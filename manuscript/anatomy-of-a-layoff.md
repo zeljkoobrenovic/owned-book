@@ -1,5 +1,5 @@
 {id: anatomy-of-a-layoff}
-# 25. Scale the Team Down: Decide What Work Stops, Not Just Who Leaves
+# 26. Scale the Team Down: Decide What Work Stops, Not Just Who Leaves
 
 ![Scale the Team Down: Decide What Work Stops, Not Just Who Leaves — logo](private-techuity/posts/23-anatomy-of-a-layoff/assets/images/24-anatomy-of-a-layoff/logo.jpeg)
 

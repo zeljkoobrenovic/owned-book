@@ -1,5 +1,5 @@
 {id: different-bets}
-# 9. Compare Incentives and Stakes: Equity, Carry and Jobs
+# 10. Compare Incentives and Stakes: Equity, Carry and Jobs
 
 ![Compare Incentives and Stakes: Equity, Carry and Jobs — logo](private-techuity/posts/07-different-bets/assets/images/07-different-bets/logo.jpeg)
 

@@ -1,5 +1,3 @@
-{mainmatter}
-
 {id: introduction}
 # 1. Introduction & Reading Guide
 
@@ -27,6 +25,8 @@ The financial, legal, and general business aspects of outside investment are wel
 The same experience suggests what the gap costs. Inside companies it breeds **confusion**, and it **costs them opportunities**, because leaders who cannot read the arrangement cannot use it. It also **invites misuse**: a sentence that begins “investors want us to…” can carry an agenda nobody in the room has examined, sometimes without anyone knowing what the investors actually require or whether they were even asked.
 
 This book is the response, written from the company leader’s side: the vocabulary to read the arrangement, working methods to test such claims, and worked decisions that show what a commitment the team can keep looks like.
+
+The next post, [Where Investment Can Go Wrong](#where-investment-goes-wrong), puts names to recurring mistakes and missed opportunities, with patterns such as Spending the Press Release and The Dusty Address Book, and connects them to the parts that address them. Use it to recognize a situation in your company before choosing where to read in depth.
 
 This book is a living journal and a work in progress: a draft by [Željko Obrenović](https://obren.io), who keeps revising it as he learns more about its topics. Chapters change as better evidence, sharper examples, and reader questions arrive. Each chapter’s page carries a “View spec” link to the specification it was written against; the changelog at the end of that specification records what changed and why. Read the book as current thinking with its limits stated, not as a finished text.
 
@@ -147,6 +147,8 @@ The [Bibliography and Evidence Guide](#bibliography) records consultation scope 
 ## Contents
 
 The site navigation lists the same chapters; this list is here for lookup.
+
+- [Where Investment Can Go Wrong](#where-investment-goes-wrong) — an opening guide to the problems the eight parts address.
 
 {id: introduction--part-i-understand-financing-and-ownership}
 ### Part I — UNDERSTAND: Financing and Ownership

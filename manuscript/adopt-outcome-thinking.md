@@ -1,5 +1,5 @@
 {id: adopt-outcome-thinking}
-# 17. Adopt Outcome Thinking: Balance Customer and Business KPIs
+# 18. Adopt Outcome Thinking: Balance Customer and Business KPIs
 
 ![Adopt Outcome Thinking: Balance Customer and Business KPIs — logo](private-techuity/posts/15-adopt-outcome-thinking/assets/images/15-adopt-outcome-thinking/logo.jpeg)
 

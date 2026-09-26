@@ -1,5 +1,5 @@
 {id: can-the-team-deliver}
-# 22. Assess Capability: Can the Team Deliver?
+# 23. Assess Capability: Can the Team Deliver?
 
 ![Assess Capability: Can the Team Deliver? — logo](private-techuity/posts/20-can-the-team-deliver/assets/images/20-can-the-team-deliver/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: grounded-architecture-portfolio}
-# 41. Appendix: Grounded Architecture Across an Investment Portfolio
+# 42. Appendix: Grounded Architecture Across an Investment Portfolio
 
 ![Appendix: Grounded Architecture Across an Investment Portfolio — logo](private-techuity/posts/grounded-architecture-portfolio/assets/images/grounded-architecture-portfolio/logo.jpeg)
 

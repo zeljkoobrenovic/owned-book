@@ -1,5 +1,5 @@
 {id: raise-what-you-need}
-# 6. Understand Funding Choices: Match the Money to the Work
+# 7. Understand Funding Choices: Match the Money to the Work
 
 ![Understand Funding Choices: Match the Money to the Work — logo](private-techuity/posts/04-raise-what-you-need/assets/images/04-raise-what-you-need/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: valuation-is-an-estimate}
-# 4. Understand Valuation: An Estimate, Not a Fact
+# 5. Understand Valuation: An Estimate, Not a Fact
 
 ![Understand Valuation: An Estimate, Not a Fact — logo](private-techuity/posts/02-valuation-is-an-estimate/assets/images/02-valuation-is-an-estimate/logo.jpeg)
 

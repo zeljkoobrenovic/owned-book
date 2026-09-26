@@ -1,5 +1,5 @@
 {id: prove-you-can-restore}
-# 30. Build And Test Resilience: Backups Are Not Enough
+# 31. Build And Test Resilience: Backups Are Not Enough
 
 ![Build And Test Resilience: Backups Are Not Enough — logo](private-techuity/posts/28-prove-you-can-restore/assets/images/28-prove-you-can-restore/logo.jpeg)
 

@@ -1,5 +1,5 @@
 {id: fund-economics}
-# 43. Fund Economics: Fees, Distributions and Performance Reports
+# 44. Fund Economics: Fees, Distributions and Performance Reports
 
 ![Fund Economics: Fees, Distributions and Performance Reports — logo](private-techuity/posts/fund-economics/assets/images/fund-economics/logo.jpeg)
 

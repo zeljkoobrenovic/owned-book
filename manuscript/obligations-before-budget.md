@@ -1,5 +1,5 @@
 {id: obligations-before-budget}
-# 7. Understand Cash Flow: Confirm the Cash Before You Commit
+# 8. Understand Cash Flow: Confirm the Cash Before You Commit
 
 ![Understand Cash Flow: Confirm the Cash Before You Commit — logo](private-techuity/posts/05-obligations-before-budget/assets/images/05-obligations-before-budget/logo.jpeg)
 
