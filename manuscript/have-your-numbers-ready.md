@@ -5,21 +5,19 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn which measures matter when investors own part of your company, which of them you own and which you must merely understand, how to hold a small set of them ready before anyone asks, and how the same numbers serve the investor conversation, your goals and your dashboards.
 
-> **WHY INVESTORS CARE:** An investor relies on your reports for the work it does not see day to day. A figure that arrives late, is defined differently each quarter or blurs a projection into a result has to be given less weight, and that applies to your good news as well as your bad.
+> **WHY INVESTORS CARE:** An investor relies on your reports for the work it does not see day to day. A figure that arrives late, is defined differently each quarter or blurs a projection into a result must be given less weight, and that applies to your good news and bad.
 
 > **WHY YOU SHOULD CARE:** The questions arrive before the numbers exist. When they arrive, the answer is assembled in a hurry, each function brings its own version, and a disagreement about what to do turns into an argument about what is true. With the numbers ready, you can show what a commitment costs, what the last one produced and which assumption the plan rests on.
 
 > **KEY POINTS:**
 >
-> * **Know the catalogue, then keep a small set.** Money and runway, customers and growth, product outcomes, delivery, technology health and people each have a handful of standard measures. Know what each one tells and where it misleads. Report the dozen that your decisions and your outcome record actually need.
+> * **Know the catalogue, then keep a small set.** Money and runway, customers and growth, product outcomes, delivery, technology health and people each have a handful of standard measures. Know what each tells and where it misleads. Report the dozen that your decisions and your outcome record actually need.
 > * **Hold every number ready: defined once, owned by name, refreshed on a schedule, and labelled.** Each figure carries its definition, source, owner and context, and its kind: **actual, target, forecast** or **assumption**, or **committed** for a resource the board has authorized. The most expensive reporting mistake is an accurate projection read as an observed result.
 > * **One set of numbers, three uses.** The same measures feed the investor conversation, the goals teams work to and the dashboards used by the board, the leadership and the teams, each at its own level of detail. Every figure on the board’s page should trace down to work a team is doing.
 
 After an investment, requests for numbers arrive quickly: a reporting template from the investor, a question from an adviser, the papers for a board meeting a few weeks away. Most companies already hold much of the evidence, in their accounts, time records, incident logs and sales pipelines. But it is **scattered across systems**, defined differently by each function and rarely ready when someone asks. The usual result is a **scramble before every meeting** and an argument about whose figure is right, rather than about what to do.
 
 This chapter’s argument is not that better numbers produce agreement. It is that **ready numbers make disagreement useful**. Two people looking at the same defined, sourced and dated figures can disagree about what to do and find exactly **where their views part**: a volume assumption, a risk tolerance, a time horizon. Two people looking at different numbers, or at the same number understood differently, argue about reality and never reach the decision.
-
-The chapter starts from the sources a company already has and sets out a catalogue of what is worth measuring. It then shows how to pick a small set, hold each number ready and label what kind of number it is, and how the same set serves the investor conversation, team goals and dashboards. It ends with who does the work, the order in which to build it and what ready numbers do not fix.
 
 {id: have-your-numbers-ready--setting-up-the-example-two-requests-in-one-week}
 ## Setting Up the Example: Two Requests in One Week
@@ -48,7 +46,7 @@ For the technology part of that picture, the author has described one lightweigh
 {id: have-your-numbers-ready--the-catalogue-what-is-worth-measuring}
 ## The Catalogue: What Is Worth Measuring
 
-The measures below are the ones that come up, again and again, when a company works with investors. They are grouped in six families. The point of the catalogue is not that you report all of them. It is that you know what each one tells, who normally produces it and where it misleads, so that when one is asked for you are not meeting it for the first time.
+The measures below recur when a company works with investors. They are grouped in six families. The point of the catalogue is not that you report them all. It is that you know what each tells, who normally produces it and where it misleads, so when one is asked for you are not meeting it for the first time.
 
 A **measure** (or metric) is a defined way of counting something. A **key performance indicator (KPI)** is a measure chosen to track a result that matters. A **leading indicator** moves early and gives warning; a **lagging indicator** confirms later that the result happened. The chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) uses the same vocabulary.
 
@@ -169,7 +167,7 @@ Individual performance and pay stay internal; what an investor needs from this f
 {id: have-your-numbers-ready--pick-a-small-set}
 ## Pick a Small Set
 
-Nobody should report all of that. Fifteen measures nobody disputes are worth more than ninety nobody trusts.
+Nobody should report all that. Fifteen measures nobody disputes are worth more than ninety nobody trusts.
 
 - **Start from decisions, not from the template.** Ask what the next consequential decision needs. At Larkspur, the next decisions are whether to fund the setup work and, later, whether it worked; the numbers that matter are setup effort, the wait to first schedule and the cost of the work. The investor’s template still gets filled in, but the company’s own set starts from its decisions.
 - **Let the outcome record choose the product numbers.** The customer outcome, the business outcome and the measures between them ([Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking)) are the product and customer numbers worth having ready. The rest of the catalogue is context.
@@ -218,7 +216,7 @@ Priya’s setup proposal is a page of figures, and they look alike. They are not
 
 ![Five identical blank cards on a table, tagged actual, target, forecast, assumption and committed; only the actual card is anchored below the table. A line reads same typeface, different kinds.](private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/four-kinds-of-number.jpeg)
 
-**Figure 8:** *The kinds of statement look identical on a page. The label is what separates a measured result from a target, a calculation about the future, an input taken as given, and a resource already authorized.*
+**Figure 8:** *The kinds of statement look identical on a page. The label separates a measured result from a target, a calculation about the future, an input taken as given, and a resource already authorized.*
 
 | Kind | What it is | In Larkspur’s setup proposal |
 | --- | --- | --- |
@@ -236,8 +234,6 @@ The labelling rule is one line, and it is the highest-value habit in this chapte
 
 {id: have-your-numbers-ready--one-set-of-numbers-three-uses}
 ## One Set of Numbers, Three Uses
-
-The same measures serve three purposes, at three levels of detail. Keeping them as one set, rather than three, is what stops the board, the leadership team and the teams from running on different facts.
 
 {id: have-your-numbers-ready--in-the-investor-conversation}
 ### In the Investor Conversation
@@ -274,7 +270,7 @@ A dashboard is the same set of numbers, refreshed automatically and shown at the
 
 The test of the three layers is traceability: every figure on the board’s page should lead down to a leadership view and from there to the teams whose work moves it. A board number with nothing beneath it is a number nobody can act on; a team dashboard with nothing above it is work nobody can connect to the plan.
 
-**Automate the refresh, not the interpretation.** A repeatable process keeps a figure current; a person still has to say what it means, and the owner named in the measure record is that person.
+**Automate the refresh, not the interpretation.** A repeatable process keeps a figure current; a person must still say what it means, and the owner named in the measure record is that person.
 
 {id: have-your-numbers-ready--someone-has-to-do-this-work}
 ## Someone Has to Do This Work
@@ -289,14 +285,14 @@ Finance owns the accounts, not the definition of setup effort. Engineering owns 
 | **Customer and market insights** | Collects research from outside the company and passes it to the teams that need it | Product and customer outcomes, and the market assumptions behind forecasts |
 | **Process and governance** | Keeps consistent practices for how product work is planned, committed and reviewed | Delivery and execution, especially commitments against outcomes |
 
-**Standardized definitions are the mechanism, not a by-product**: two products can be compared only because both report on the same definition, and someone has to maintain it. And **product operations supplies evidence; it does not take the decisions**: the numbers exist so that the people with authority, established in [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), can decide well.
+**Standardized definitions are the mechanism, not a by-product**: two products can be compared only because both report on the same definition, and someone must maintain it. And **product operations supplies evidence; it does not take the decisions**: the numbers exist so the people with authority, established in [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), can decide well.
 
 A small company will not have a product operations team and does not need one to start. It needs the work assigned: a named owner per measure, as the record requires, and one person accountable for the board pack being consistent, current and honest as a whole. At Larkspur, Sam takes the board pack and the money family; Priya the product and customer numbers; Alex delivery and technology health. The function is what this becomes when doing it informally stops working.
 
 {id: have-your-numbers-ready--build-it-in-the-order-that-pays}
 ## Build It in the Order That Pays
 
-Nobody assembles all of this at once, and a company that tries produces a large document instead of ready numbers.
+Nobody assembles all this at once, and a company that tries produces a large document instead of ready numbers.
 
 1. **Start with the decision in front of you** and the numbers it needs.
 2. **Find where each number already lives**: time records, billing, the finance system, repositories, the cloud bill, incident records.
@@ -311,9 +307,7 @@ Nobody assembles all of this at once, and a company that tries produces a large 
 
 An investor and a company can look at the same well-defined figures and still want different things, because they are exposed differently ([Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets)). Numbers do not settle a disagreement about risk appetite, time horizon or what the company is for.
 
-A measure can be chosen because it flatters, a threshold set where it is easy to pass, a definition quietly revised in a bad quarter, and a comprehensive pack can bury a real problem in volume. More data makes several of these easier. The defences are the ones above — definitions that change rarely and visibly, thresholds agreed in advance, figures traceable to sources, a deliberately small set — plus a leader willing to report the number that is not flattering.
-
-What ready numbers do is narrower and still valuable: they move disagreement from what is true to what to do, make a plan’s assumptions visible before they fail, and let a leader show the cost of a commitment rather than merely assert it.
+A measure can be chosen because it flatters, a threshold set where it is easy to pass, a definition quietly revised in a bad quarter, and a comprehensive pack can bury a real problem in volume. More data makes several of these easier. The defences are those above — definitions that change rarely and visibly, thresholds agreed in advance, figures traceable to sources, a deliberately small set — plus a leader willing to report the number that is not flattering.
 
 {id: have-your-numbers-ready--what-to-say-when-the-investor-asks}
 ## What to Say When the Investor Asks

@@ -19,6 +19,10 @@ A company needs cash to pay people, buy supplies and develop its products, often
 
 Product and engineering leaders usually meet money as a **budget**: an approved amount that their team may spend on agreed work over a set period, typically a year. A budget shows how much may be spent, but not where the money came from or what the company owes in return. This chapter follows one need through three funding routes so that the terms behind a budget become as visible as the amount. It first sets up the example, then describes the four common ways cash reaches a business and what a share represents. It then compares the same need funded three ways, and ends with a brief look at public and private ownership and at investor labels.
 
+![Customers, a lender and a shareholder feed a financing arrangement whose terms (when, approvals, owed in return) sit behind the budget amount a team sees.](private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/financing-behind-the-budget.jpeg)
+
+**Figure 1:** *A budget shows the amount; the financing behind it sets when it may be spent, who must approve and what the company owes in return.*
+
 {id: customers-lenders-investors--setting-up-the-example-larkspur-needs-100-000}
 ## Setting Up the Example: Larkspur Needs €100,000
 
@@ -26,16 +30,14 @@ Larkspur is the fictional scheduling-software company used throughout this book.
 
 Three people have to decide where the money comes from: Ines, the chief executive officer (CEO), who runs the company; Sam, the chief financial officer (CFO), who manages its money; and Alex, the chief technology officer (CTO), who leads its four engineers.
 
-Every figure in this example is fictional, and the scenario is the earliest in the book: a small Larkspur owned by its **founders**, the people who started it, with no outside investor yet. Its existing subscriptions cover its current running costs: the salaries, the **hosting** (the computing services that run the software) and the customer support it already pays for. About €1,500 a month is left over, and nothing for new work. Later chapters give the same company larger, separately stated figures.
-
-When any new money is coming, the useful habit is to ask two questions together: **how much cash arrives**, and **what obligation or ownership change comes with it**?
+Every figure in this example is fictional, and the scenario is the earliest in the book: a small Larkspur owned by its **founders**, the people who started it, with no outside investor yet. Its existing subscriptions cover its current running costs: the salaries, the **hosting** (the computing services that run the software) and customer support. About €1,500 a month is left over, and nothing for new work. Later chapters give the same company larger, separately stated figures.
 
 {id: customers-lenders-investors--four-common-ways-cash-reaches-a-business}
 ## Four Common Ways Cash Reaches a Business
 
-**Customer payments.** Customers pay for the software, sometimes as a **prepayment** — money paid before the service has been delivered (e.g., annual subscriptions). The company must **provide** what it promised and may have **refund** obligations. After paying the costs of serving customers, it can use any remaining cash to fund further work. Larkspur could try to obtain €100,000 via a prepayment from customers wanting a new feature, which would, as a consequence, turn the 1 March feature date into a contractual promise.
+**Customer payments.** Customers pay for the software, sometimes as a **prepayment** — money paid before the service has been delivered (e.g., annual subscriptions). The company must **provide** what it promised and may have **refund** obligations. After paying the costs of serving customers, it can use any remaining cash to fund further work. Larkspur could try to obtain €100,000 via a prepayment from customers wanting a new feature, which would turn the 1 March feature date into a contractual promise.
 
-**Borrowing.** A lender, such as a bank, provides a loan. **Debt** means borrowing that must be repaid. The amount borrowed is the **principal**; **interest** is the charge for using that money, usually stated as a yearly percentage of the amount still owed. The loan agreement sets repayment dates and other conditions. A loan doesn't ordinarily give the lender shares in the company, but its conditions can restrict company decisions. Lenders are investors too: they invest by lending, and they expect repayment and the protections in the contract rather than ownership. Investor.gov describes a bond the same way: an investor lends money to the organization that issued the bond and receives interest plus the original amount back on an agreed date. [S72: Investor.gov bonds page](https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds) When this book says "investor" without qualification, it usually means a shareholder or the **investment fund** behind one (a pool of money invested on behalf of others); lenders are named as lenders. So Larkspur could also try to borrow €100,000, but with the likely consequence that debt repayments would start before the feature earns anything.
+**Borrowing.** A lender, such as a bank, provides a loan. **Debt** means borrowing that must be repaid. The amount borrowed is the **principal**; **interest** is the charge for using that money, usually stated as a yearly percentage of the amount still owed. The loan agreement sets repayment dates and other conditions. A loan doesn't ordinarily give the lender shares in the company, but its conditions can restrict company decisions. Lenders are investors too: they invest by lending, and they expect repayment and the protections in the contract rather than ownership. Investor.gov describes a bond the same way: an investor lends money to the organization that issued the bond and receives interest plus the original amount back on an agreed date. [S72: Investor.gov bonds page](https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds) When this book says "investor" without qualification, it usually means a shareholder or the **investment fund** behind one (a pool of money invested on behalf of others); lenders are named as lenders. So Larkspur could also try to borrow €100,000, but repayments would likely start before the feature earns anything.
 
 **Money from owners.** A founder or another investor contributes money in exchange for ownership. **Equity** means an ownership interest. Unlike a loan, it generally has no fixed repayment schedule. The shareholder can gain if the investment becomes more valuable, and can lose the money invested. For Larkspur, a new shareholder would gain rights over future decisions, not only over this feature.
 
@@ -45,7 +47,7 @@ These are four common routes, not an exhaustive list. **Grants**, awards of mone
 
 ![Four cash sources reach a company with different consequences: service obligations, loan repayment, ownership rights or giving up an asset.](private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/cash-arrives-with-obligations.jpeg)
 
-**Figure 1:** *Each source of cash changes what the company must deliver, repay, share or give up.*
+**Figure 2:** *Each source of cash changes what the company must deliver, repay, share or give up.*
 
 {id: customers-lenders-investors--what-a-share-represents}
 ## What a Share Represents
@@ -58,7 +60,7 @@ If an investor buys new shares from the company, the company receives the money.
 
 ![With new shares, the investor pays the company; with existing shares, the investor pays the selling shareholder.](private-techuity/posts/00-customers-lenders-investors/assets/images/00-customers-lenders-investors/new-shares-versus-existing-shares.jpeg)
 
-**Figure 2:** *A change in ownership supplies new company funding only when money reaches the company.*
+**Figure 3:** *A change in ownership supplies new company funding only when money reaches the company.*
 
 {id: customers-lenders-investors--the-same-100-000-three-ways}
 ## The Same €100,000, Three Ways
@@ -83,7 +85,7 @@ Whichever route supplies it, the money pays for the same things. Larkspur's four
 
 Alex estimates the feature at eight **engineer-weeks**: one engineer's work for eight weeks or, as Alex plans it, two engineers working full time for four weeks. Two engineers start on Monday 19 January 2026 and finish by Friday 13 February, two weeks before 1 March; the other two keep the existing product running with the contract engineer's help. Twelve engineer-weeks would end on 27 February with no margin left, which is why twelve is the limit.
 
-Under the prepayment, Ines countersigns the three orders on Friday 16 January and the customers pay within 14 days, so the cash is in the bank by 30 January. The licence and the contractors are ordered from 1 February, once the money has arrived; the engineers' own work needs no new cash, so it starts on 19 January, before then. The order of events is the same on every route: the build finishes on 13 February, the feature goes live for the customers on 1 March, and any loan repayment falls due at the end of each month, starting the month after the money arrives. Under the loan or the share issue, the cash would arrive in one sum at about the same date and be spent the same way. What changes under the loan is when the customers pay. They would sign ordinary annual subscriptions instead of prepaying, invoiced when the feature goes live on 1 March and payable within 30 days. They could pay on any day up to Tuesday 31 March. Sam's forecast counts on their €100,000 arriving on that deadline, not before it.
+Under the prepayment, Ines countersigns the three orders on Friday 16 January and the customers pay within 14 days, so the cash is in the bank by 30 January. The licence and the contractors are ordered from 1 February, once the money has arrived; the engineers' own work needs no new cash, so it starts on 19 January. The order of events is the same on every route: the build finishes on 13 February, the feature goes live for the customers on 1 March, and any loan repayment falls due at the end of each month, starting the month after the money arrives. Under the loan or the share issue, the cash would arrive in one sum at about the same date and be spent the same way. What changes under the loan is when the customers pay. They would sign ordinary annual subscriptions instead of prepaying, invoiced when the feature goes live on 1 March and payable within 30 days. They could pay on any day up to Tuesday 31 March. Sam's forecast counts on their €100,000 arriving on that deadline, not before it.
 
 If the feature is late under the prepayment, each customer gets one month's service back, about €8,300 across the three contracts. That refund comes out of the €10,000 reserve. If the reserve has already gone on overruns, the refund would take about six months of the €1,500 surplus to cover, and that is the risk Larkspur accepts.
 
@@ -92,7 +94,7 @@ If the feature is late under the prepayment, each customer gets one month's serv
 
 On this chapter's assumptions, the prepayment is the cheapest money and the tightest promise. The three customers pay Larkspur's standard annual price with no discount for paying early. What differs is what each route costs on top. The prepayment costs Larkspur the engineers' time and one risk, the one-month refund. The loan costs about €9,500 of interest over three years. The shares cost 10% of the company and the rights that come with it.
 
-Had the customers demanded 10% off for paying early, the same three contracts would bring in €90,000 against a €100,000 need, leaving a €10,000 gap to fill from somewhere else. The €10,000 given away would also exceed the loan's €9,500 of interest, so on cost alone the loan would then be cheaper. Cost and affordability are different tests, though: the loan's repayments fall due every month whether or not the customers have paid, and that is the test Larkspur applies to the loan below.
+Had the customers demanded 10% off for paying early, the same three contracts would bring in €90,000 against a €100,000 need, leaving a €10,000 gap. The €10,000 given away would also exceed the loan's €9,500 of interest, so on cost alone the loan would then be cheaper. Cost and affordability are different tests, though: the loan's repayments fall due every month whether or not the customers have paid, and that is the test Larkspur applies to the loan below.
 
 {id: customers-lenders-investors--the-decision}
 ### The Decision
@@ -112,9 +114,9 @@ Had the customers demanded 10% off for paying early, the same three contracts wo
 {id: customers-lenders-investors--what-would-reopen-it}
 ### What Would Reopen It
 
-In early January each customer signs an order that binds Larkspur only when Larkspur countersigns it; the order states the feature, the 1 March date and the one-month refund. On 15 January Sam counts the signed orders and Alex confirms the estimate. Two pieces of evidence would reopen the decision: fewer than three signed orders, or an estimate above twelve engineer-weeks. In either case Ines countersigns nothing, so no date is promised to anyone, until the plan has been made to fit.
+In early January each customer signs an order that binds Larkspur only when Larkspur countersigns it; the order states the feature, the 1 March date and the one-month refund. On 15 January Sam counts the signed orders and Alex confirms the estimate. Two pieces of evidence would reopen the decision: fewer than three signed orders, or an estimate above twelve engineer-weeks. In either case Ines countersigns nothing, so no date is promised until the plan fits.
 
-**What waits and what does not.** In every case Alex's two engineers start on 19 January: their salaries need no new cash, and Ines can direct the team's time on her own authority, so the work done is kept whichever plan is finally promised. What waits for a countersignature is the promise to a customer and any new spending. When the plan has to be reworked, Sam reduces it to a smaller first **release**, the version of the feature actually made available to customers, or to a later date, that the signed customers' cash can fund. Those customers receive a revised order and can accept it or walk away. Case by case:
+**What waits and what does not.** In every case Alex's two engineers start on 19 January: their salaries need no new cash, and Ines can direct the team's time on her own authority, so the work done is kept whichever plan is promised. What waits for a countersignature is the promise to a customer and any new spending. When the plan has to be reworked, Sam reduces it to a smaller first **release**, the version of the feature made available to customers, or to a later date, that the signed customers' cash can fund. Those customers receive a revised order and can accept it or walk away. Case by case:
 
 **Three orders, and an estimate of twelve engineer-weeks or fewer.** Ines countersigns on 16 January. From that moment 1 March is a contractual promise to all three customers, and moving it later would need their agreement.
 
@@ -126,7 +128,7 @@ In early January each customer signs an order that binds Larkspur only when Lark
 
 **Two orders: approval late, declined or the fit unconfirmed.** If the board has not approved the loan by 23 January, declines it, or Alex cannot confirm the fit, Sam reworks the plan before anything is countersigned. The two customers get a revised order for a smaller first release that their own cash can fund, or for the full feature on a later date.
 
-**One order or none.** One customer's €33,333 leaves a gap of €66,667, and a loan for that amount would cost about €2,030 a month, more than the whole surplus. Larkspur offers that customer a smaller first release its own cash can fund, or waits for the next customer or for a larger **funding round**, a separate occasion on which the company raises investment money, later.
+**One order or none.** One customer's €33,333 leaves a gap of €66,667, and a loan for that amount would cost about €2,030 a month, more than the whole surplus. Larkspur offers that customer a smaller first release its own cash can fund, or waits for the next customer or for a larger **funding round**, a separate occasion on which the company raises investment money.
 
 **An estimate above twelve engineer-weeks, whatever the signatures.** No order is countersigned until Alex and Sam have planned a release that fits the date, or agreed a later date with the customers.
 
@@ -134,8 +136,6 @@ The mix of debt and equity used to finance a business is its **capital structure
 
 {id: customers-lenders-investors--public-and-private-ownership-briefly}
 ## Public and Private Ownership, Briefly
-
-Larkspur's offers came from customers, a bank and one private investor. Larger companies meet the same questions in a different setting.
 
 A **stock exchange** is an organized market where investors buy and sell shares. A **publicly traded company** has shares admitted to such a market, or “listed”, so that anyone can buy and sell them; in this book, “public company” usually means that familiar arrangement. Once shares are listed, investors trading them normally pay one another. Each trade changes who owns the company; it doesn't put fresh cash into the business. Public companies also publish financial information, such as their income, expenses and debts, under the rules that apply to them, which is why much of the evidence in this book comes from listed companies or from private companies with public reporting obligations. [S55: Investor.gov public-company reporting](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/public-companies) The [Glossary](#glossary) covers the initial public offering (a company's first sale of shares to the public), audited statements (accounts checked by an independent examiner) and the reporting categories in more detail.
 
@@ -150,21 +150,19 @@ External investors, those from outside the company's current owners, can supply 
 
 | Label | Typical arrangement | What to check |
 | --- | --- | --- |
-| **Venture capital** | Buying a minority stake, less than half the shares, in a young business, often in several successive funding rounds | Whether further funding depends on evidence the product plan must produce |
-| **Growth equity** (expansion capital) | Funding for an established business entering markets or developing products; existing shareholders may keep control | Which rights and funding commitments the agreement actually contains |
+| **Venture capital** | Buying a minority stake, less than half the shares, in a young business, often in several funding rounds | Whether further funding depends on evidence the product plan must produce |
+| **Growth equity** (expansion capital) | Funding for an established business entering markets or developing products; existing shareholders may keep control | Which rights and funding commitments the agreement contains |
 | **Private equity**, **buyout** | Ownership investment outside public markets; a **buyout** purchases control of a company, and a **leveraged buyout** pays for much of that purchase with borrowing | How much of the company's cash must go to loan repayments before it can fund work |
 | **Corporate venture capital**, corporate ownership | Investment by a larger operating business, often with a commercial connection; buying the whole company is a different transaction from taking a minority stake | Which part of the investing company's business funds future work and how the local plan fits its operations |
 
 The British Business Bank describes the venture, expansion and corporate arrangements; the US Securities and Exchange Commission (SEC), the federal regulator for investing, includes both controlling and minority investments under private equity. [S58: Venture capital](https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/venture-capital) [S59: Expansion capital](https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/expansion-capital) [S60: Corporate venture capital](https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/corporate-venture-capital) [S01: SEC private equity guide](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity)
 
-Whichever label applies, the leadership consequence is a question to investigate, not a conclusion to assume from the label. The chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need) compares these arrangements against the work a company actually needs to fund.
+Whichever label applies, the leadership consequence is a question to investigate, not a conclusion to assume from the label. The chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need) compares these arrangements against the work a company needs to fund.
 
 {id: customers-lenders-investors--carry-the-funding-question-into-the-next-chapter}
 ## Carry the Funding Question Into the Next Chapter
 
-A product or technology proposal needs both a useful outcome and a way to pay for the work. Understanding financing helps you discuss the timing, obligations and decisions behind that funding.
-
-Larkspur's €100,000 was small enough for three people to trace in an afternoon. The next chapter starts from a €100 million investment announcement and asks the same two questions at that scale: who actually receives the money, and which body can authorize its use? The chapter [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) follows those questions through the organizations a larger transaction involves.
+Larkspur's €100,000 was small enough for three people to trace in an afternoon. The next chapter starts from a €100 million investment announcement and asks the same two questions: who actually receives the money, and which body can authorize its use? The chapter [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) follows those questions through the organizations a larger transaction involves.
 
 {id: customers-lenders-investors--questions-to-consider}
 ## Questions to Consider

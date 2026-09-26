@@ -7,7 +7,7 @@
 
 > **WHY INVESTORS CARE:** Larkspur’s investor agreed to fund growth on one assumption: the company can take on many more new customers without adding staff at the same rate. The work that tests that assumption needs the same engineers as an improvement the company has already promised. A plan that assigns the same people to both will later show up as delays, in front of the board on which the investor sits.
 
-> **WHY YOU SHOULD CARE:** A plan that fits the cash but not the team time, or that ignores an agreed obligation, will be overrun by the limit nobody counted. Choosing a combination the company can deliver is what makes its commitments worth something.
+> **WHY YOU SHOULD CARE:** A plan that fits the cash but not the team time, or that ignores an agreed obligation, will be overrun by the limit nobody counted. Choosing a combination the company can deliver makes its commitments worth something.
 
 > **KEY POINTS:**
 >
@@ -17,7 +17,7 @@
 
 After an investment, there is rarely a shortage of good ideas. The investor wants faster growth, product has features customers are asking for, technology has risks it wants to reduce, and the customer team has problems it sees every day. Each request can look worthwhile on its own. The difficulty is that they all compete for the same two limited resources: money, and the time of the people who would do the work. A plan that **checks only the budget** can look affordable and **still fail**, because the same engineers have been counted twice.
 
-A **company investment** commits resources now in the expectation of a future benefit. **Team capacity** is the time and capability people have available to do the work. Choosing investments therefore needs both a cash plan and a capacity plan, and a way to decide what goes first when the two cannot cover everything. This chapter shows one way to make that choice. It is a proposed working method rather than an established standard, illustrated with fictional figures to help you become familiar with the topic.
+A **company investment** commits resources now expecting a future benefit. **Team capacity** is the time and capability people have available to do the work. Choosing investments therefore needs both a cash plan and a capacity plan, and a way to decide what goes first when the two cannot cover everything. This chapter shows one way to make that choice. It is a proposed working method rather than an established standard, illustrated with fictional figures to help you become familiar with the topic.
 
 {id: cannot-fund-everything--setting-up-the-example-three-requests-one-team}
 ## Setting Up the Example: Three Requests, One Team
@@ -28,7 +28,7 @@ Larkspur is the fictional company this book follows; it sells scheduling softwar
 - Alex, the technology leader, wants to improve **recovery from system failures**.
 - The customer team wants **simpler setup** for new accounts.
 
-Each request has a plausible benefit, and the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) has already agreed which customer and business outcomes the work is for. But the requests cannot all use the same people at the same time. The next section sets out the limits the board has approved and what each request would need.
+Each request has a plausible benefit, and the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) has already agreed which customer and business outcomes the work is for. But the requests cannot all use the same people at the same time. The next section shows the limits the board has approved and what each request would need.
 
 {id: cannot-fund-everything--competing-requests-two-limits}
 ## Competing Requests, Two Limits
@@ -41,7 +41,7 @@ It is the same plan that the chapter [Plan the First Hundred Days: Turn Expectat
 
 Routine operating work is already budgeted. The envelope is a change budget: it pays for improvements. One of them is not optional, because it serves a requirement the company has already agreed. That **recovery requirement** has two parts. After a failure, dispatch must be working again within four hours; dispatch is the part of the product customers use to assign each day’s jobs. And no more than fifteen minutes of schedule updates may be lost.
 
-The cash estimates concern additional spending, such as specialist help and new services. Existing employees’ pay is already in the ordinary operating budget; their available time is shown separately. The amounts are one-time costs; the one continuing cost this plan creates appears in the decision record below. The identifiers in the table (REC-1, ONB-1, KNW-1) are the ones the diligence findings and the [Practical Tools for Ownership and Technology Decisions](#toolkit) use for the same work.
+The cash estimates concern additional spending, such as specialist help and new services. Existing employees’ pay is already in the ordinary operating budget; their available time is shown separately. The amounts are one-time costs; the one continuing cost this plan creates appears in the decision record below. The identifiers in the table (REC-1, ONB-1, KNW-1) are those the diligence findings and the [Practical Tools for Ownership and Technology Decisions](#toolkit) use for the same work.
 
 The table has five rows: four proposals that need additional cash, and one training item that needs none.
 
@@ -58,18 +58,16 @@ The money fits. The time does not: the four priced rows need 30 engineer-weeks, 
 
 The training row’s figure is in brackets because it is outside that comparison. It is about eight protected person-weeks, none of them from the 24: four from the specialist and about four from the second engineer. Those weeks were set aside before the 24 were counted. So they add nothing to the shortfall, and they can’t be used to close it.
 
-The second row concerns **setup**, the work of helping a new customer configure the product and start using it. Other chapters call the same work onboarding or implementation, and the people who do it the implementation team. The last two rows are stages of one idea: the portal research comes before a full build. The table shows what funding both stages would require; the company still has to decide whether the research justifies that later commitment.
+The second row concerns **setup**, the work of helping a new customer configure the product and start using it. Other chapters call the same work onboarding or implementation, and the people who do it the implementation team. The last two rows are stages of one idea: the portal research comes before a full build. The table shows what funding both stages would require; the company must still decide whether the research justifies that later commitment.
 
 The **scheduling engine** is the software that works out which job goes to which person and when. Diligence found that only one specialist could **release** it, meaning put a new version into use, and recover it after a failure. KNW-1 has that specialist teach a second engineer to do both. It needs no additional cash, because both people are existing employees paid from the operating budget.
 
-Being paid is not the same as being free, so the plan counts their time too. The specialist gives four weeks. The second engineer, who already works on the engine, spends about the same four weeks alongside the specialist during the first 60 days, on real releases and a recovery rehearsal. That makes about eight person-weeks in all, the figure in the table. None of it comes from the 24, which were counted after both people’s KNW-1 time had been set aside, so no week is counted twice. The price is paid in ordinary work: Alex postpones non-urgent changes to the scheduling engine for those weeks, and urgent fixes still come first. The row is in the table so that nothing else can claim that time.
+Being paid is not the same as being free, so the plan counts their time too. The specialist gives four weeks. The second engineer, who already works on the engine, spends about the same four weeks alongside the specialist during the first 60 days, on real releases and a recovery rehearsal. That makes about eight person-weeks in all, the figure in the table. None of it comes from the 24, which were counted after both people’s KNW-1 time had been set aside, so no week is counted twice. The price is paid in ordinary work: Alex postpones non-urgent changes to the scheduling engine for those weeks, and urgent fixes still come first. The row is in the table so nothing else can claim that time.
 
 Confirm that the required specialists are available in the weeks each project needs them. Twenty-four engineer-weeks spread across several teams or months may not support a plan that needs the same specialist for twelve consecutive weeks.
 
 {id: cannot-fund-everything--sort-the-rows-by-what-they-rest-on}
 ## Sort the Rows by What They Rest On
-
-The table gives every row the same shape; the rows are not the same kind of choice.
 
 **An agreed obligation.** Some work protects an existing commitment: continuing a contracted service, meeting an applicable requirement or resolving a risk the company has decided it can’t accept. At Larkspur the recovery requirement above is one: Ines approved it, and customers plan their mornings around it. The restoration row is what proving and meeting it costs. KNW-1 is the other obligation on the table: the company decided not to carry the risk of one person being the only one who can release and recover the scheduling engine. That doesn’t make every proposed security or maintenance project mandatory. Establish the specific obligation or failure scenario, the minimum acceptable result and the feasible alternatives, with specialist interpretation where necessary. The company still chooses how to meet the need.
 
@@ -92,8 +90,6 @@ A board that wants the expansion date without funding the necessary capacity has
 ## Select the Combination
 
 Suppose the recovery requirement is agreed, the setup problem is supported by customer evidence and the portal’s benefit remains uncertain. Ines proposes restoration, the smaller setup change and the customer research, with KNW-1’s protected time alongside them, and the board approves that plan. It commits €280,000 and 18 engineer-weeks, leaving €220,000 and six engineer-weeks uncommitted. That uncommitted part is the **reserve**: money and time held back for later decisions.
-
-Record the decision in full:
 
 - **Chosen:** restoration, REC-1 (€80,000, four weeks); the setup change, ONB-1 (€180,000, twelve weeks); the portal research (€20,000, two weeks); and KNW-1 (no additional cash; about eight protected person-weeks, four from the specialist and about four from the second engineer, all outside the 24).
 - **Rejected for now:** the full portal build. The unused money doesn’t make it feasible: its twelve engineer-weeks still exceed the remaining six, and its benefit still needs investigation. Deferred and recorded rather than rejected: hiring two implementation specialists (about €300,000 a year, recurring) and the second-country expansion, both waiting on the pilot’s evidence.
@@ -126,7 +122,7 @@ Can the company operate safely if it stops after the first? **Who maintains anyt
 {id: cannot-fund-everything--review-the-combination-not-just-each-project}
 ## Review the Combination, Not Just Each Project
 
-Restoration had been approved at €80,000 and four engineer-weeks. By the day-45 test all of it had been spent: on a **restore environment**, a separate set of systems on which the service can be rebuilt; on access to the **backups**, the saved copies of the company’s data; on backing up schedule data every fifteen minutes instead of once a night; and on the test itself.
+Restoration had been approved at €80,000 and four engineer-weeks. By the day-45 test it all had been spent: on a **restore environment**, a separate set of systems on which the service can be rebuilt; on access to the **backups**, the saved copies of the company’s data; on backing up schedule data every fifteen minutes instead of once a night; and on the test itself.
 
 The test failed both parts of the requirement. The service came back after eleven hours against the agreed four, for two reasons. The account that could read the backups belonged to an engineer who had left, so nobody held a working **credential**, the information that proves someone may access a system. And the backup could only be loaded by the version of the database software it was made with, which could no longer be installed. (The database stores and organizes the application’s data.)
 

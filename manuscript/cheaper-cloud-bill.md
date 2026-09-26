@@ -28,7 +28,7 @@ The chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#grow
 
 Larkspur is the fictional scheduling-software company this book follows. Its **board**, the small group of directors who oversee the company on the owners’ behalf, has approved an **operating plan** for 2026, a statement of the activity and spending expected for that year. That plan assumes cloud spending stays roughly flat against 2025 while the number of customer transactions grows by half. Morgan, the technology adviser working for Larkspur’s investor, has asked why last quarter’s bill rose 20%.
 
-The question is legitimate. It is also incomplete, because a rising bill can still mean cheaper service per task. Alex, the technology leader, has to show what the bill means for the service customers receive, and whether a saving that looks good at the next board meeting would still look good a year later.
+The question is legitimate. It is also incomplete, because a rising bill can still mean cheaper service per task. Alex, the technology leader, must show what the bill means for the service customers receive, and whether a saving that looks good at the next board meeting would still look good a year later.
 
 Two separate questions sit inside Morgan’s one: did the cost of a unit of useful work improve, and was the plan the board approved met? Answering either starts with the unit.
 
@@ -51,12 +51,12 @@ The two measures can also part company in the other direction. Suppose the bill 
 
 These simple examples show why a cost target should be attached to a service and demand assumption, and why it should be read against both the prior period and the plan. They don’t establish that all infrastructure costs vary in proportion to usage.
 
-A related trap is comparing the company with the investor’s other companies — its **portfolio**. Cloud cost as a percentage of **revenue**, the money earned from sales before costs are taken off, mixes together several different things: how efficiently the technology runs, what the company charges, how much of each sale is left after costs, how the product is delivered, and how far along the company is. Such a comparison can identify a question worth investigating, but it does not answer it. A **cohort**, a group selected for comparison, needs to match how the businesses earn money, their size, the computing work their systems perform, and which services are counted in the figure. Even then, a handful of companies is too few to draw a reliable conclusion from. A company may spend more because its product performs more valuable work, or because it is inefficient.
+A related trap is comparing the company with the investor’s other companies — its **portfolio**. Cloud cost as a percentage of **revenue**, the money earned from sales before costs are taken off, mixes several things: how efficiently the technology runs, what the company charges, how much of each sale is left after costs, how the product is delivered, and how far along the company is. Such a comparison can identify a question worth investigating, but it does not answer it. A **cohort**, a group selected for comparison, needs to match how the businesses earn money, their size, the computing work their systems perform, and which services are counted in the figure. Even then, a handful of companies is too few to draw a reliable conclusion from. A company may spend more because its product performs more valuable work, or because it is inefficient.
 
 {id: cheaper-cloud-bill--put-every-figure-on-the-same-basis}
 ## Put Every Figure on the Same Basis
 
-Comparing this month’s **invoice** — the supplier’s bill — with last month’s only works if both numbers mean the same thing. A monthly bill, a payment made in advance, and a bill reduced by supplier **credits** are three different measurements: they mix *when money leaves the account* with *which period the cost belongs to*. Before comparing, state which of four figures each number is:
+Comparing this month’s **invoice** — the supplier’s bill — with last month’s only works if both numbers mean the same thing. A monthly bill, a payment made in advance, and a bill reduced by supplier **credits** are three measurements: they mix *when money leaves the account* with *which period the cost belongs to*. Before comparing, state which of four figures each number is:
 
 | Basis | What it measures | Typical distortion |
 | --- | --- | --- |
@@ -78,7 +78,7 @@ Removing unused resources can yield fairly direct savings. **Rightsizing** means
 
 ![A cloud bill connects to three dials. Demand — how much work customers ask for, shown as completed appointments. Price agreed with the supplier for each unit of computing. Resource use, showing computing that does useful work beside computing left unused. A counter below records the appointments completed.](private-techuity/posts/29-cheaper-cloud-bill/assets/images/29-cheaper-cloud-bill/three-drivers-of-cloud-cost.jpeg)
 
-**Figure 1:** *Three dials move the bill. **Demand** is how much work customers ask for — for Larkspur, appointments to be scheduled. **Price** is what the supplier charges for each unit of computing. **Resource use** is how much computing that work actually consumes, which depends on the software design as well as on demand: the same 1,250 appointments cost more if the software leaves capacity idle. Separate the three before deciding whether the service became more efficient.*
+**Figure 1:** *Three dials move the bill. **Demand** is how much work customers ask for — for Larkspur, appointments to be scheduled. **Price** is what the supplier charges for each unit of computing. **Resource use** is how much computing that work actually consumes, which depends on the software design and on demand: the same 1,250 appointments cost more if the software leaves capacity idle. Separate the three before deciding whether the service became more efficient.*
 
 {id: cheaper-cloud-bill--a-multi-year-commitment-changes-future-spending}
 ## A Multi-Year Commitment Changes Future Spending
@@ -96,17 +96,13 @@ A discount on unused capacity is still an expense. A contract that makes switchi
 {id: cheaper-cloud-bill--the-decision-larkspur-makes}
 ### The Decision Larkspur Makes
 
-To decide, Larkspur states a demand range and a funding condition.
-
 **Demand range.** Throughout this decision, demand is measured as what the scheduling service’s usage *would* cost at flexible prices, so every option is compared against the same yardstick. Eighteen months of usage show that figure has never fallen below €30,000 a month. For the twelve months from 1 January to 31 December 2027, the board has approved a **demand forecast** — its view of how much work customers will ask for — putting that figure between €30,000 (new customers stop arriving and the largest one leaves) and €60,000 (the forecast growth arrives). The €20,000 case lies below that range; it is kept as a **stress case**: a deliberately harsh scenario used to test a decision, not a forecast.
 
-**Funding condition.** Alongside that forecast, the board has approved the **cash provision** for 2027: the money set aside to meet the supplier payments the forecast implies. Larkspur has cash in the bank plus customer receipts it expects on deliberately cautious assumptions, and together these cover the €21,000 a month Option C would commit to (€252,000 over the year), the flexible usage on top of it across the forecast range, and the reserve Sam sets aside for the final usage bill that arrives in January 2028. That is what pays the commitment: money the company already holds or can reasonably expect from customers it already serves, not money a new investor might provide.
+**Funding condition.** Alongside that forecast, the board has approved the **cash provision** for 2027: the money set aside to meet the supplier payments the forecast implies. Larkspur has cash in the bank plus customer receipts it expects on deliberately cautious assumptions, and together these cover the €21,000 a month Option C would commit to (€252,000 over the year), the flexible usage on top of it across the forecast range, and the reserve Sam sets aside for the final usage bill that arrives in January 2028. That pays the commitment: money the company already holds or can reasonably expect from customers it already serves, not money a new investor might provide.
 
 Three approvals therefore exist for 2027 — a demand forecast, the cash to meet it, and the chief executive’s standing permission to sign contracts of a year or less. One does not: the board has not yet set a **2027 spending target**, the equivalent of the flat €100,000 a month it set for 2026. That target is agreed in the autumn planning round, after this contract must be signed. So the commitment rests on approved purchasing authority and approved cash, not on an approved annual ceiling — a distinction the ending returns to.
 
 Beyond 31 December 2027, even that much is absent. The board has approved no forecast, no cash provision and no plan of any kind for 2028, and no investor or lender has promised further money. A three-year commitment would therefore oblige Larkspur to pay for two more years that nobody has yet shown it can fund — and would run past any change of ownership in that time.
-
-Three options are compared on the same basis:
 
 | Option | Cost at €30,000 demand | Cost at €50,000 demand | Cost at €60,000 demand | Cost at €20,000 stress case |
 | --- | ---: | ---: | ---: | ---: |
@@ -126,9 +122,9 @@ The bill for a month’s extra usage arrives the month after; the money leaves t
 
 The contract cannot be cancelled early: leaving in month three still leaves the remaining months payable in full. It cannot be transferred to another company without the provider’s written consent, which the provider is not obliged to give. And it expires on 31 December 2027 in the sense that no further minimum payment falls due and any renewal is a fresh negotiation, not an automatic extension.
 
-Expiry does not wipe out charges already incurred, though. December 2027’s extra usage is billed in January 2028 and paid in February 2028 — two months after the contract ends. Sam therefore reserves that final settlement inside the 2027 cash provision rather than treating 31 December as the last payment date, and confirms all of this before Ines signs.
+Expiry does not wipe out charges already incurred, though. December 2027’s extra usage is billed in January 2028 and paid in February 2028 — two months after the contract ends. Sam therefore reserves that final settlement inside the 2027 cash provision rather than treating 31 December as the last payment date, and confirms all this before Ines signs.
 
-**Why the other two are rejected.** Option B’s extra €6,000 a month of saving exists only at €50,000 of demand or above, and turns into a €14,000 a month disadvantage at the low end of the range. That extra saving is bought by owing money for two years beyond the period anyone has approved a plan for. Option A — simply staying flexible — is rejected because a €9,000 monthly saving with no downside inside the stated range is real money.
+**Why the other two are rejected.** Option B’s extra €6,000 a month of saving exists only at €50,000 of demand or above, and turns into a €14,000 a month disadvantage at the low end of the range. That extra saving is bought by owing money for two years beyond the period anyone has approved a plan for. Option A — staying flexible — is rejected because a €9,000 monthly saving with no downside inside the stated range is real money.
 
 **What a later review can and cannot change.** Four events reopen the decision: flexible-price usage falling below €30,000 a month for two consecutive months, rightsizing work that cuts the volume the commitment applies to, a proposal to sell the company or separate part of it, or the provider offering transfer rights.
 
@@ -143,9 +139,7 @@ Product and engineering leaders should involve **procurement**, the people respo
 {id: cheaper-cloud-bill--credits-minimum-spend-and-ownership-change-conditions}
 ## Credits, Minimum Spend and Ownership-Change Conditions
 
-Contract terms that change the invoice without changing the resources consumed belong together, because they distort the same comparison.
-
-**Temporary credits.** **Credits** are temporary reductions the supplier or a partner applies to the bill — not borrowed money, and not a sign that the service became cheaper to run. In a separate fictional Larkspur scenario, credits reduce a €30,000 monthly service bill to €5,000 for six months. The underlying service still consumes €30,000 of resources at the stated prices. A plan that extends beyond the six months has to show how the company will pay the full €30,000 once the credits stop. And before calling the service **profitable** — earning more than it costs — compare the revenue and costs of serving a customer both with and without the credits.
+**Temporary credits.** **Credits** are temporary reductions the supplier or a partner applies to the bill — not borrowed money, and not a sign that the service became cheaper to run. In a separate fictional Larkspur scenario, credits reduce a €30,000 monthly service bill to €5,000 for six months. The underlying service still consumes €30,000 of resources at the stated prices. A plan that extends beyond the six months must show how the company will pay the full €30,000 once the credits stop. And before calling the service **profitable** — earning more than it costs — compare the revenue and costs of serving a customer both with and without the credits.
 
 **Minimum spend and who signs.** An investor may introduce a provider, or a **corporate parent** — a company that owns this one — may offer a discount negotiated for all the companies it owns. Ask which company legally signs and therefore owes the payments, whether a **minimum spend** applies (an amount payable whether or not it is used), and who benefits from the lower price, and who pays for capacity nobody uses. The help can be useful while also creating an obligation the company must carry after the relationship changes.
 
@@ -175,8 +169,6 @@ A capacity reduction may avoid a forecast increase rather than reduce this month
 
 An initiative record should include the staff time spent making the change, fees paid to outside experts, tooling, the cost of running the old and new services side by side during the switch, and ongoing maintenance. A **payback calculation** — working out how long the accumulated savings take to repay what the change cost — must include **the work required to capture savings**. Comparable services and people who have faced the same decision, including through an investor’s network, are covered in the chapter [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability).
 
-A useful cost improvement has an explanation the company can check: what changed, on what basis it was measured, how demand affected the comparison, what the change cost to make, and whether service remained acceptable.
-
 Larkspur’s answer to Morgan’s question is not “the bill went up 20%” or “we found €15,000 a month.” It has two parts, and they belong to different time frames.
 
 **What already happened.** Unit cost per successful transaction fell 20% against 2025, so the service became more efficient. The 2026 flat-spend plan was still missed: last quarter’s spending ran €20,000 a month above the €100,000 that plan allowed, and unit cost was 20% above what it implied. Nothing signed now changes it, and the money is already spent.
@@ -187,7 +179,7 @@ The two do not cancel out, and the €9,000 is a smaller claim than it first loo
 
 Take the €50,000 case — roughly where last quarter ran — and compare it with the €100,000 the 2026 plan allowed: about €111,000 against €100,000 leaves €11,000 a month unexplained. That is an illustrative figure, not a fixed one. It assumes scheduling demand of €50,000, the other €70,000 holding steady, and the €100,000 benchmark.
 
-The board approved a 2027 demand forecast and the cash to meet it, which is what let Ines sign; it has not yet set a 2027 spending target. So €100,000 is the 2026 expectation being carried forward for want of a 2027 one. Alex owes the board two things at the autumn planning round: an account of what drives that €11,000, and a 2027 target to be measured against — either further changes that bring spending back to €100,000, or a case for a higher one. That is a contract choice set beside an honest comparison with the plan, not a savings announcement.
+The board approved a 2027 demand forecast and the cash to meet it, which let Ines sign; it has not yet set a 2027 spending target. So €100,000 is the 2026 expectation being carried forward for want of a 2027 one. Alex owes the board two things at the autumn planning round: an account of what drives that €11,000, and a 2027 target to be measured against — either further changes that bring spending back to €100,000, or a case for a higher one. That is a contract choice set beside an honest comparison with the plan, not a savings announcement.
 
 The commitment was tested against demand the company can observe, and the chapter [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore) judged spending whose benefit is harder to observe, protection against a failure. The next chapter applies this chapter’s method, a unit of useful work, one comparable basis, the reasons a bill changed and a commitment sized to a demand range, to the newest metered bill a company runs: [Critically Evaluate AI Costs: Measure the Return per Task and per Period](#ai-worth-its-cost).
 

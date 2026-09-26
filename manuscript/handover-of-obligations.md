@@ -3,7 +3,7 @@
 
 ![Manage the Handover: Carry Forward the Evidence and Obligations — logo](private-techuity/posts/33-handover-of-obligations/assets/images/25-handover-of-obligations/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Learn to keep the evidence while the work happens, to trace who receives money and who keeps ownership in each kind of deal, and to hand over the unfinished work together with the company.
+> **IN THIS SECTION, YOU WILL:** Learn to keep the evidence while the work happens, to trace who receives money and who keeps ownership in each kind of deal, and to hand over the unfinished work with the company.
 
 > **WHY INVESTORS CARE:** An investor in a private company owns part of it through **shares**, units of ownership that are not traded on a stock exchange. It often gets most of its money back only when it sells that part, its **stake**, in a later deal. Some may come earlier as **distributions**, payments passed on to the owners while they still own the company. Either way, a handover with the evidence and the unfinished work attached supports the price and what the seller must tell the buyer. Surprises found afterwards can come back as **claims**, demands for compensation, and as damage to reputation.
 
@@ -17,9 +17,7 @@
 
 On the morning after a company changes investors or owners, its signed customer contracts are still there. So are the recovery time it has promised customers, the half-finished move of customers onto a new system and the hire it postponed. The deal changed who owns the company, or who owns part of it. It did not change the work.
 
-These changes come in several forms, explained later in the chapter: new investment, a sale of existing shares, a change inside the fund that owns them, a stock-market listing and a sale of control. A sale is one possible event, not the inevitable next stage. The same evidence has to serve continued ownership, another round of investment and a change of controlling shareholder.
-
-The chapters [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped) and [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) ended with dated decision records. This chapter follows such records into an ownership event, whichever form it takes. It shows how to keep the evidence while the work happens, how to trace who receives cash and who keeps an interest in each kind of deal, and how to hand over the unfinished obligations together with the company.
+These changes come in several forms, explained later in the chapter: new investment, a sale of existing shares, a change inside the fund that owns them, a stock-market listing and a sale of control. A sale is one possible event, not the inevitable next stage. The same evidence must serve continued ownership, another round of investment and a change of controlling shareholder.
 
 The Larkspur figures in this chapter are fictional. They are the same Larkspur figures that run from the chapter [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) through the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) to this handover. The delayed-financing and reduction chapters work a deliberately separate scenario with its own cash, spending, people and dates, so their figures do not appear here.
 
@@ -40,8 +38,6 @@ It should also be able to back up every claim that its technology work saved or 
 - For a **cloud** initiative, work on the computing services the company rents from a provider instead of running its own servers: the starting cost, the changes made, the adjustment for how much usage grew or shrank, the costs after any offsetting savings, and the effect on the service (see the chapter [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#cheaper-cloud-bill)).
 - For a move to a new platform: the groups of customers moved, the customers lost, the cost of running the old and new systems at the same time, and the unfinished obligations.
 - For artificial intelligence (AI) work: which version of the tests assessed the system, and what each task actually costs and saves (see the chapter [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions)).
-
-These are stronger materials than a list of projects because they show the limits of what is known. A coherent story is useful only when its supporting evidence is available and its uncertainties stay visible.
 
 ![A record of baselines, costs, results, uncertainty and unfinished work supports successive funding and ownership decisions.](private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/evidence-carried-through-ownership.jpeg)
 
@@ -67,12 +63,12 @@ At day 0 the board set an **envelope**: a limit of €500,000 of additional cash
 | Still to come | About €90,000 over the next two quarters, to about day 280, for **templates**, saved sets of settings for the less common types of customer; the last 2 of the 12 engineer-weeks |
 | Continuing cost | €30,000 a year to maintain the setup step, from the operating budget (the budget for ordinary running costs) from the next **financial year**, the company’s twelve-month accounting period; nothing incurred yet |
 | Observed result | 62 hours per customer in a **cohort**, the measured group, of eight new customers, not the 50 the model assumed; about 40% of the remaining hours traced to poor customer data (missing or inconsistent records); customer waiting time unchanged; errors and customers’ requests for help did not rise |
-| Funded open work | A data-quality step, checking and correcting each customer’s data before setup: €40,000 and 4 engineer-weeks, approved from the reserve at the day-100 review; not yet built and nothing spent. With the earlier €20,000 and 2-week reserve draw for the recovery correction at about day 47, the reserve now stands at €160,000 and no unallocated engineer-weeks until the next quarter’s envelope. The six engineer-weeks already assigned, ONB-1’s last two and the data-quality step’s four, still have to be worked |
+| Funded open work | A data-quality step, checking and correcting each customer’s data before setup: €40,000 and 4 engineer-weeks, approved from the reserve at the day-100 review; not yet built and nothing spent. With the earlier €20,000 and 2-week reserve draw for the recovery correction at about day 47, the reserve now stands at €160,000 and no unallocated engineer-weeks until the next quarter’s envelope. The six engineer-weeks already assigned, ONB-1’s last two and the data-quality step’s four, still must be worked |
 | Decisions awaiting evidence | Second-country expansion: a proposed decision at the next quarterly review, about day 190, if the next cohort’s effort split and waiting time support 1.5 times the volume (50% more customers with the same staff). If that cohort has not finished by then, the board waits for it rather than deciding on partial results. The expansion itself not before month 13. Hiring two implementation specialists, about €300,000 a year: still postponed pending the same evidence |
 | Accountable leader | Priya |
 | Evidence that would change the next decision | The next cohort’s hours, split between customer-data problems and product limits, and its waiting time |
 
-This is what Priya hands to whoever decides next: the new board and its chief executive after a round, a buyer’s integration lead after a sale, or the same board after a change inside the fund. The receiving decision-maker can see that the pilot partly worked, and why. It can see what work has been received and what remains to be done and paid for, what the step costs to keep, and what was postponed rather than solved. The alternative, “onboarding automation delivered”, would be true and useless.
+Priya hands this to whoever decides next: the new board and its chief executive after a round, a buyer’s integration lead after a sale, or the same board after a change inside the fund. The receiving decision-maker can see that the pilot partly worked, and why. It can see what work has been received and what remains to be done and paid for, what the step costs to keep, and what was postponed rather than solved. The alternative, “onboarding automation delivered”, would be true and useless.
 
 {id: handover-of-obligations--the-other-two-entries-and-the-whole-plan}
 ### The other two entries and the whole plan
@@ -107,7 +103,7 @@ This does not mean all work must be complete before a transaction. Buyers can ac
 {id: handover-of-obligations--who-receives-cash-and-who-keeps-an-interest}
 ## Who Receives Cash and Who Keeps an Interest
 
-Two kinds of ownership need to be kept apart.
+Two kinds of ownership must be kept apart.
 
 - **Company ownership** is held as **shares**. Each share is a small piece of the company, and its owners are **shareholders**. A shareholder’s **stake**, holding or **interest** is the part of the company it owns. Here “interest” means ownership, not interest paid on a loan.
 - **Fund ownership** is one step removed. Many investors own companies through a **fund**: a pool of money from many **fund investors**, called **limited partners**, run by a **manager**, called the **general partner**. The fund buys and holds the company’s shares. A fund investor owns a **fund interest**, a share of the pool, not company shares. The fund, not its investors, is the company’s shareholder.
@@ -148,7 +144,7 @@ Obligations do not close at the transaction, but they are not all of one kind. A
 - **Accepted risks**, where an authorized person has decided to carry a known danger. REC-1’s remaining risk after the day-85 retest has three parts. A failure of the whole cloud region is not covered. Rehearsals run on weekdays only. And only two trained people, either of whom can carry out the emergency procedure for the system’s access credentials, can restore the service; if both are away, nobody can. Ines, the chief executive, accepted this on the board’s behalf with a quarterly retest.
 - **Options awaiting evidence**: possible future work. The second-country expansion and the two specialist hires. Nothing is owed here; what travels is the decision date and the evidence that will decide it.
 
-Only the first kind binds the company whatever anyone later decides, and only part of it is money owed, a **debt** in the ordinary sense; a promise to set up a customer is owed as work. The other three are decisions: approvals, accepted risks and possible future work. The record carries them as decisions with reasons so that the receiving side can revisit them knowingly rather than discover them. The chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first) shows the same point from the buyer’s side: an acquisition adds the work of combining or separating the businesses before it adds anything else.
+Only the first kind binds the company whatever anyone later decides, and only part of it is money owed, a **debt** in the ordinary sense; a promise to set up a customer is owed as work. The other three are decisions: approvals, accepted risks and possible future work. The record carries them as decisions with reasons so the receiving side can revisit them knowingly rather than discover them. The chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first) shows the same point from the buyer’s side: an acquisition adds the work of combining or separating the businesses before it adds anything else.
 
 The company leader’s success in a transition is a working handover with understood obligations. A sale price, a round’s **valuation** (the value the deal puts on the whole company) or an internal integration milestone can matter to the shareholders without establishing that the company’s work is complete.
 
@@ -157,14 +153,12 @@ The company leader’s success in a transition is a working handover with unders
 
 The record lists, for each important initiative and open obligation: the baseline, the cost incurred to date, what has been paid and the continuing cost, the observed result and its uncertainty, the open work with its funding status, and the accountable leader on both sides. The receiving decision-maker signs for it. Tool 10 in the [Practical Tools for Ownership and Technology Decisions](#toolkit) gives the format.
 
-In the Larkspur chain, the three entries above (ONB-1, KNW-1 and REC-1) and the whole-plan table form the record. The receiving side inherits the two reserve draws, the postponed expansion and the postponed hires as decisions with recorded reasons, not as gaps. If the receiving leader wants to reverse any of them, the record shows what evidence the reversal should answer.
-
 {id: handover-of-obligations--one-accepted-handover}
 ### One accepted handover
 
 Acceptance needs a named receiver with authority over the obligations, not a distribution list. Suppose, for the illustration, that the next event is a **follow-on round**, a later round of investment, that closes at day 130. It adds an investor with a board seat. It also lowers the limit up to which Ines may approve spending inside the approved plan, from €500,000 to €250,000 (fictional figures); above that, the board decides. The approval map from the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) is redone with the new figure. The remaining commitments, €90,000 and €40,000, are below either limit, and reserve draws stay with the board.
 
-What Ines receives is the day-100 record. The day-100 figures are not rewritten; Priya adds one dated line on the progress of the data-quality step and the next cohort since then. The acknowledgment then reads:
+Ines receives the day-100 record. The day-100 figures are not rewritten; Priya adds one dated line on the progress of the data-quality step and the next cohort since then. The acknowledgment then reads:
 
 | Field | Entry |
 | --- | --- |

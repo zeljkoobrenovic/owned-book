@@ -21,14 +21,12 @@ Take a simple proposal: making customer setup faster. It sounds useful, but what
 
 A **product roadmap** sets out intended product changes and their priorities. A roadmap item describes work; its **business case** explains the useful result expected from that work, what it will cost and how uncertain that result is.
 
-A product leader normally has to show that a change is useful. An investor, someone who has put money into the company in return for a share of it, may expect more: evidence that the change supports a particular financial target. Four terms describe those targets:
+A product leader must normally show that a change is useful. An investor, someone who has put money into the company in return for a share of it, may expect more: evidence that the change supports a particular financial target. Four terms describe those targets:
 
 - **Revenue** is the income a company earns from selling its product. It is recorded when it is earned, which can be before the customer pays.
-- **Profit** is what is left of revenue after the costs of the same period.
+- **Profit** is what remains of revenue after the costs of the same period.
 - **Margin** is a stated profit measure divided by revenue. A profit of €20 on revenue of €100 is a 20% margin.
 - **Retention** means keeping customers, or their revenue, over a stated period.
-
-The investor’s target might be faster revenue growth, a higher margin or better retention. Make that expectation explicit, then test whether the benefit and its timing are credible. The chain from work to result is what an investor’s adviser will examine, so the proposal must demonstrate it rather than assume it.
 
 {id: roadmap-to-revenue--setting-up-the-example-one-setup-change-at-larkspur}
 ## Setting Up the Example: One Setup Change at Larkspur
@@ -61,9 +59,9 @@ If the investor wants a different priority, **make the displaced work** and the 
 
 An **investment thesis** is the investor’s explanation of why the investment should succeed. It is a prediction that can be revised, not an instruction, and it identifies which result matters most. A thesis built on growth needs evidence that the product can win and serve more customers at acceptable cost. A thesis built on existing profit needs evidence that the profit survives once the company pays to maintain the product and puts money back into developing it (see the chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate)). Both depend on a product that works.
 
-**Reusable configuration** means settings and setup steps that can serve several customers, reducing the custom work each time. A **hypothesis** is an expectation stated so that it can be tested. Here the hypothesis is that one reusable setup step will shorten implementation, reduce effort and let more customers start useful work.
+**Reusable configuration** means settings and setup steps that can serve several customers, reducing the custom work each time. A **hypothesis** is an expectation stated so it can be tested. Here the hypothesis is that one reusable setup step will shorten implementation, reduce effort and let more customers start useful work.
 
-Reusable configuration should mean less implementation effort. Less effort should mean more customers ready to use the product, then earlier billing and useful product use, and in the end more sales, more customers staying and more cash. The same change also brings a development and maintenance cost, which takes away from that final result. The diagram shows the same chain:
+Reusable configuration should mean less implementation effort. Less effort should mean more customers ready to use the product, then earlier billing and useful product use, and in the end more sales, more customers staying and more cash. The same change also brings a development and maintenance cost, which reduces that final result. The diagram shows the same chain:
 
 ```mermaid
 flowchart TD
@@ -77,7 +75,7 @@ flowchart TD
 
 Each arrow is a hypothesis. Faster implementation may not increase sales if few people want to buy. **Billing**, sending the customer an invoice, may start earlier without keeping customers who don’t receive value. Reduced effort may free staff time without reducing the money the company spends. The new setup step will itself need upkeep, and that cost absorbs part of the benefit.
 
-**Read each arrow as a question to test.** If staff effort per customer setup falls but customers wait just as long, find out what else is keeping them waiting.
+**Read each arrow as a question to test.** If staff effort per customer setup falls but customers wait just as long, identify what else is keeping them waiting.
 
 {id: roadmap-to-revenue--six-kinds-of-benefit-to-examine}
 ## Six Kinds of Benefit to Examine
@@ -89,7 +87,7 @@ The table uses revenue, margin and retention as defined at the start of the chap
 | Revenue growth | Remove a product limit that stops an attractive group of customers from buying | Potential customers the change can help, actual purchases, use of the product and the additional financial contribution |
 | Retention | Improve a task that customers who leave often struggled with | Contract renewals in comparable customer groups, reasons for leaving and whether customers got the result they wanted |
 | Margin | Reduce the staff effort needed to set up or support each customer | Hours per customer, quality, and the full cost of those hours, including employment costs |
-| Cash received sooner | Shorten the time from a signed contract to a customer who is using the product and can be invoiced | When invoices can be sent, invoices still unpaid and cash actually received |
+| Cash received sooner | Shorten the time from a signed contract to a customer using the product and can be invoiced | When invoices can be sent, invoices still unpaid and cash actually received |
 | Lower risk | Make sure a critical service can be restored after a failure | Restore tests actually run, the failures the company has planned for and how long recovery really took |
 | More future choices | Separate the part of the product that would have to change for a new country | The new choices this opens, what each would cost to use and how long it would take |
 
@@ -116,7 +114,7 @@ A usable proposal therefore includes a **conversion plan**: how the released tim
 - Alex establishes which work the 3,000 hours could actually support.
 - Sam tests when money would reach the **cash forecast**, the dated projection of money coming in and going out: either more money received from customers or a supplier payment avoided.
 
-The plan names three possible conversions, and the review has to say which one happened. The released time serves waiting customers. Or it avoids a supplier’s invoice or a hire. Or it stays unused, because something else is holding customers up. The step that limits how fast the whole process can go is called the **bottleneck**.
+The plan names three possible conversions, and the review must say which one happened. The released time serves waiting customers. Or it avoids a supplier’s invoice or a hire. Or it stays unused, because something else is holding customers up. The step that limits how fast the whole process can go is called the **bottleneck**.
 
 ![Released staff time can support more customers, other product work or avoided future spending while current payroll continues.](private-techuity/posts/18-roadmap-to-revenue/assets/images/18-roadmap-to-revenue/freed-time-conversion-plan.jpeg)
 
@@ -196,8 +194,6 @@ Sixty-two hours is the middle band.
 | Upkeep of the setup step, from the next financial year | €30,000 a year | Operating budget |
 | Contract implementation specialist, months 1 to 12 | €150,000 | Operating budget, agreed before day zero; not a pilot cost |
 
-The reserve still reconciles: €200,000 before this decision and €160,000 after it. The contract specialist touches neither figure.
-
 The €90,000 already incurred cannot be recovered and argues neither way. What argues for the step is that the measurement points at one specific remaining bottleneck: about 40% of the remaining hours and the unchanged waiting time both sit with customer data. The test is also small beside the alternatives on the table. Two hires cost €300,000 a year, every year. The full customer portal costs €220,000 and twelve engineer-weeks, which the envelope no longer has.
 
 **The threshold for continuing.** A second cohort is set up after the data-quality step and measured at about month six. It must pass two tests:
@@ -210,8 +206,6 @@ The €90,000 already incurred cannot be recovered and argues neither way. What 
 **Who is in the group.** The second cohort is the first eight customers whose setup starts after the data-quality step is in service, taken in the order they signed. Nobody is removed later. A customer who has not finished by the review stays in the count at the hours and weeks reached so far, and both can only grow. If the unfinished customers could still change either result, the board waits for them. It does not decide on the customers who happened to finish first.
 
 Both tests must be met. Fifty hours with a median wait of nine weeks fails. So does a result that reaches 50 hours only by leaving data work uncounted, or by moving it to a supplier. Passing does not approve the next stage; it allows Priya to request it, with its full cost. If the cohort fails, the board approves no further stage. Commitments already made are handled separately: whatever remains of the pilot’s €90,000 is still owed. Hiring, narrowing the first-year target to customers with standard data, or reopening the financing conversation come back onto the table.
-
-The rest of the decision record:
 
 - **Rejected:** hiring two implementation specialists now, €300,000 a year on the cost basis above, against a benefit that has not yet converted. Also rejected: stopping the pilot, which would give up an observed 18-hour reduction whose shortfall has a specific explanation that €40,000 can test. The money already spent is not the reason to continue.
 - **Deferred with a date:** the decision on expanding to a second country moves to the next quarterly review, around day 190. The condition is that the next cohort’s effort split and waiting time support 1.5 times the volume with the same team. The expansion itself starts no earlier than month 13.

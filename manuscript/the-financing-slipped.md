@@ -3,7 +3,7 @@
 
 ![Manage Funding Delays: Revise the Cash Plan and Commitments — logo](private-techuity/posts/21-the-financing-slipped/assets/images/23-the-financing-slipped/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Follow one fictional company, Larkspur, whose new investment was expected in September and now looks likely in December. Learn to name how far the money has really got, put cash and commitments on a calendar, and choose one fallback in time.
+> **IN THIS SECTION, YOU WILL:** Follow one fictional company, Larkspur, whose new investment was expected in September and now looks likely in December. Learn to name how far the money has got, put cash and commitments on a calendar, and choose one fallback in time.
 
 > **WHY INVESTORS CARE:** New investment can slip on the investors’ side as well as the company’s, for example while it waits for an internal approval or a second investor. Investors need management to have a dated fallback ready, not a hope.
 
@@ -17,8 +17,6 @@
 
 Plans are often built on **money that has not arrived yet**. A new investment is expected by a certain date, and hires, contracts and customer promises are lined up to start when it lands. Then the date moves. The work may be going well, but the plan now spends money the company does not have, and every week of waiting brings it closer to its cash safety limit. The real risk is not the delay itself; it is letting job offers and signed contracts make the decision before anyone has made it deliberately.
 
-This chapter shows how to respond: name how far the expected money has really got, put cash and commitments on a calendar, find the last date a decision can still change them, and have the board choose one fallback in time. The chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days), in Part VII, builds a funded plan on money expected by a date; this chapter follows what happens when the money behind such a plan moves.
-
 {id: the-financing-slipped--setting-up-the-example-larkspurs-round-moves-to-december}
 ## Setting Up the Example: Larkspur’s Round Moves to December
 
@@ -26,7 +24,7 @@ Larkspur, the fictional company this book follows, sells scheduling software to 
 
 The plan for the second half of the year was built on that date. It included two hires starting on 1 September and a contract for a **customer portal**, a website where customers handle routine tasks themselves. By early July the talks still look serious, but closing now looks likely in mid-December.
 
-The work itself is on schedule. The **onboarding pilot**, a trial of a faster way to get new customers set up, continues. So does the **recovery work**, which makes sure the **dispatch service**, the software that sends field staff to their jobs, can be restored quickly after a failure. What has slipped is the funding, not the work, and the company must change its funding assumption before that assumption turns into a delivery promise it cannot keep.
+The work itself is on schedule. The **onboarding pilot**, a trial of a faster way to get new customers set up, continues. So does the **recovery work**, which makes sure the **dispatch service**, the software that sends field staff to their jobs, can be restored quickly after a failure. The funding has slipped, not the work, and the company must change its funding assumption before that assumption turns into a delivery promise it cannot keep.
 
 Every figure here is invented, and this example stands on its own: its cash, spending, hires and dates differ from the Larkspur figures in the chapters [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) and [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations).
 
@@ -35,7 +33,7 @@ Every figure here is invented, and this example stands on its own: its cash, spe
 
 The plan is what the existing investors backed when they put money in. They could also lend the company a **bridge**, a short-term loan meant to carry it until the round arrives, but lending more is an investment decision for them and needs their own approval. So before committing to anything that spends the expected money, establish three facts: what stage the money has reached, who has the authority to change the plan, and the date by which the choice must be made. Here that date is set by two job offers and a contract signature, described below.
 
-What changed is an assumption about money, so the first task is to name the stage that money has reached:
+An assumption about money changed, so the first task is to name the stage that money has reached:
 
 - **Expression of interest:** the investor says it wants to invest, but nothing binds it.
 - **Approval pending:** the proposal is waiting for the investor’s own decision body, such as its **investment committee**, the group inside an investment firm that approves each investment.
@@ -68,9 +66,7 @@ The second step sorts spending commitments by whether they can still be changed,
 | Committed and continuing | The onboarding pilot and the recovery work | Already inside the €200,000 monthly burn |
 | Planned, not yet committed | Two hires starting 1 September (€30,000 a month for the two together); the portal contract, €120,000 | Can still be changed until 16 August |
 
-What matters is not committed versus uncommitted spending in general. It is which spending can still be changed in July, and on what date each item stops being changeable.
-
-The two candidates have been told to expect written offers on 16 August, so that they can give notice to their current employers and start on 1 September. The portal supplier’s proposal, which holds its price and a delivery slot, expires on 16 August. Signing that day commits Larkspur to €120,000, invoiced at signature and paid on 15 September, with delivery over the following three months.
+The two candidates have been told to expect written offers on 16 August, so they can give notice to their current employers and start on 1 September. The portal supplier’s proposal, which holds its price and a delivery slot, expires on 16 August. Signing that day commits Larkspur to €120,000, invoiced at signature and paid on 15 September, with delivery over the following three months.
 
 Once an offer is accepted or the contract signed, stepping back costs money and trust. Larkspur treats both as commitments it will not reverse; the exact legal position depends on the country and the contract. So **15 August is the latest useful decision date**: the last day on which a decision still changes what happens on the 16th.
 
@@ -87,13 +83,13 @@ Alex, the chief technology officer (**CTO**), leads technology. He and Priya, wh
 
 The arithmetic behind A: by 30 November the baseline €600,000, less the €120,000 portal payment and three months of the two hires (€90,000), leaves about €390,000, below the reserve. With a mid-December closing, the round’s cash would arrive after the breach, and every week spent meeting closing conditions would be paid from the reserve.
 
-The March date for C rests on fictional loan terms, stated so that it can be checked:
+The March date for C rests on fictional loan terms, stated so it can be checked:
 
 - **Who pays, and when:** the existing investors lend €600,000, paid in one transfer that reaches Larkspur’s account by 30 November, before the December reserve date.
 - **What kind of loan:** a **convertible loan**, one that turns into shares when the round closes instead of being repaid in cash.
 - **Charges:** no **arrangement fee**, the one-off charge some lenders make for setting up a loan. Interest, the cost of borrowing, is added to the amount owed and converts into shares with it; none is paid in cash.
 - **Repayment:** nothing, neither the €600,000 nor interest nor any other charge, is payable in cash before the loan’s **maturity**, its due date, twelve months after the money arrives. That is later than every date in this chapter, including the late-May date below.
-- **If the round never closes:** there is nothing to convert. At maturity Larkspur owes the €600,000 plus the added interest, unless the investors agree to extend the loan or convert it on other terms. That debt falls outside the months tracked here, but any plan to continue without the round has to pay for it.
+- **If the round never closes:** there is nothing to convert. At maturity Larkspur owes the €600,000 plus the added interest, unless the investors agree to extend the loan or convert it on other terms. That debt falls outside the months tracked here, but any plan to continue without the round must pay for it.
 
 On those terms cash on 31 December is €1.0 million (€400,000 plus €600,000), and three further months at €200,000 reach the reserve on 31 March. Any fee or cash payment before March moves that date earlier by the amount paid divided by the monthly burn. Money arriving after 31 December does not prevent the breach. A promised amount is not a financing schedule until the payer, the amount that will actually arrive and the date are written down.
 
@@ -102,7 +98,7 @@ C adds three months to B if the money arrives in time, but in July C is not cash
 {id: the-financing-slipped--the-boards-authorized-fallback}
 ## The Board’s Authorized Fallback
 
-The decision needs one escalation, a request that takes it to the people with authority to make it, not a progress update. Ines, the chief executive officer (**CEO**), leads the company overall. She and Sam take the decision to the Larkspur board, which approves the operating plan under the approval map in the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), the record of which body approves which decisions. The escalation states three things: the **decision required** (choose A, B or C), the **latest useful date** (15 August) and the **consequence of delay** (A by default, with the reserve breached in late November). “The round has slipped” is not enough; the board needs to know which action changes the outcome and who carries it out.
+The decision needs one escalation, a request that takes it to the people with authority to make it, not a progress update. Ines, the chief executive officer (**CEO**), leads the company overall. She and Sam take the decision to the Larkspur board, which approves the operating plan under the approval map in the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), the record of which body approves which decisions. The escalation states three things: the **decision required** (choose A, B or C), the **latest useful date** (15 August) and the **consequence of delay** (A by default, with the reserve breached in late November). “The round has slipped” is not enough; the board must know which action changes the outcome and who carries it out.
 
 The board decides on 10 August:
 
@@ -119,7 +115,7 @@ The first reduction on that list is costed and decided now, because its own dead
 
 **Reduction 1 (R1):** Larkspur uses **contract engineers**, outside workers engaged through agreements rather than employed, on its **internal tooling**, the software its own staff use. Their agreements end on 31 October, and notice of non-renewal is due on 1 October, the day of the review. Not renewing saves **€50,000 a month from 1 November**. The onboarding pilot and the recovery work are staffed by employees and are unaffected; the customer contracts and the four-hour recovery requirement stay protected.
 
-The board does not leave R1 open until the review. It decides on 10 August that **R1’s notice goes out on 1 October unless cash already received by then passes the restart test below without it**. A signed agreement is still uncertain money, so it does not stop the notice. Serving the notice on time is what secures November’s saving: a failure discovered in November or December cannot bring back a month that has already been paid for.
+The board does not leave R1 open until the review. It decides on 10 August that **R1’s notice goes out on 1 October unless cash already received by then passes the restart test below without it**. A signed agreement is still uncertain money, so it does not stop the notice. Serving the notice on time secures November’s saving: a failure discovered in November or December cannot bring back a month that has already been paid for.
 
 | With R1 | Without the bridge | With the bridge received by 30 November |
 | --- | ---: | ---: |
@@ -164,12 +160,10 @@ With the bridge’s cash received, the same portal payment leaves €980,000 on 
 
 So at Larkspur **the offers and the portal signature wait until the round’s cash is in the account and Sam confirms it**. The bridge’s cash gives B its extra time but does not restart them, because it does not pass the test. A signed agreement the board authorizes counting lets Alex and Priya prepare: draft the offers, agree the portal terms and plan the work. If the agreement carries a closing condition that could take six weeks, the offers wait six weeks.
 
-Until the money reaches a stage that permits more, B is the plan. The question for 1 October is the question for 10 August: what stage has the money reached, and what does the calendar say if it stays there?
-
 {id: the-financing-slipped--if-the-money-does-not-come}
 ## If the Money Does Not Come
 
-The restart rule says what the money must reach before Larkspur spends more. The board also needs to know what happens if the money never gets there. “Run the fallback” is not an answer until it says which notices have already gone out, who decides next, what cash is left and when the next decision is due. Reaching the reserve is the board’s own limit, not an empty bank account, but the next decision belongs before that date, not after it.
+The restart rule says what the money must reach before Larkspur spends more. The board must also know what happens if the money never gets there. “Run the fallback” is not an answer until it says which notices have already gone out, who decides next, what cash is left and when the next decision is due. Reaching the reserve is the board’s own limit, not an empty bank account, but the next decision belongs before that date, not after it.
 
 | Case | Already done | Cash | Who decides next | Next decision |
 | --- | --- | --- | --- | --- |
@@ -179,7 +173,7 @@ The restart rule says what the money must reach before Larkspur spends more. The
 
 First, R1’s saving appears in every case only because its notice went out on 1 October, while the money was still uncertain. Had the board waited to see whether the bridge came, a failure found in November or December could not have recovered that month’s saving.
 
-Second, the deeper reduction appears in no row as a remedy. It needs its own board decision, and its notice periods and leaving payments come before its savings, so it has to be paid for from cash in hand first. The chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) shows that, at the terms Larkspur later costs, such a reduction makes the bridge last longer but cannot replace it. What Larkspur does if neither the bridge nor the round arrives, whether it finds another lender, sells the company or something else, is not decided in this chapter. Saying so is part of an honest fallback: on 10 August the board knows that B and R1 carry the company to about 20 January and no further.
+Second, the deeper reduction appears in no row as a remedy. It needs its own board decision, and its notice periods and leaving payments come before its savings, so it must be paid for from cash in hand first. The chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) shows that, at the terms Larkspur later costs, such a reduction makes the bridge last longer but cannot replace it. What Larkspur does if neither the bridge nor the round arrives, whether it finds another lender, sells the company or something else, is not decided in this chapter. Saying so is part of an honest fallback: on 10 August the board knows that B and R1 carry the company to about 20 January and no further.
 
 {id: the-financing-slipped--two-variations-on-the-same-decision}
 ## Two Variations on the Same Decision
@@ -194,7 +188,7 @@ Second, the deeper reduction appears in no row as a remedy. It needs its own boa
 
 In every variation, **continued ownership**, the same owners carrying on without the new money, is a real scenario. If the round never closes, the refinancing fails or the parent does not restore the budget, what useful business remains and what can it afford? B answers that question for Larkspur until 31 December. R1, with notice served on 1 October, carries it to about 20 January, and the bridge, once its cash is received, to about 20 May. What Larkspur does if neither arrives is still open. The level at which it could continue on collected revenue alone is costed for 1 October, and the board takes it up with that list in front of it in the chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff).
 
-The decision leaves a record: the assumption, the trigger, the alternatives, who decided, and the evidence that would change it. That record is what the next decision-maker inherits, whether the round closes, the existing investors continue, or the company changes hands. The chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) takes this scenario’s next decision, the reduction, through the people and the work it affects. The chapter [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations) then follows the record through an ownership change: what evidence to keep during the work, who receives cash and who keeps a share of ownership in each type of deal, and how to hand over the unfinished obligations rather than only the company.
+The decision leaves a record: the assumption, the trigger, the alternatives, who decided, and the evidence that would change it. The next decision-maker inherits that record, whether the round closes, the existing investors continue, or the company changes hands. The chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) takes this scenario’s next decision, the reduction, through the people and the work it affects. The chapter [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations) then follows the record through an ownership change: what evidence to keep during the work, who receives cash and who keeps a share of ownership in each type of deal, and how to hand over the unfinished obligations rather than only the company.
 
 {id: the-financing-slipped--questions-to-consider}
 ## Questions to Consider

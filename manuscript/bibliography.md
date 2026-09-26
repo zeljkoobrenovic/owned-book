@@ -11,9 +11,9 @@
 > * **Source interests and evidence strength matter.** Company announcements, investor accounts, guidance documents and original research answer different questions and need different qualifications.
 > * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are the author’s proposals.
 
-This page lists the sources consulted for the book. Sources were consulted between September 12 and September 23, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where an individual date affects how a figure or a claim should be read, the entry gives it.
+This page lists the sources consulted for the book. Sources were consulted between September 12 and September 23, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where a date affects how a figure or a claim should be read, the entry gives it.
 
-**S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register currently runs to S118. Private inputs are described without publishing their contents or file details.
+**S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register runs to S118. Private inputs are described without publishing their contents or file details.
 
 {id: bibliography--topic-index}
 ## Topic Index
@@ -45,8 +45,6 @@ The historical cases and the outcome research concern private equity. Venture, e
 
 {id: bibliography--how-to-read-and-use-an-entry}
 ## How to Read and Use an Entry
-
-Each entry has the same parts.
 
 - **Citation line** — author or organization, title, link, and the version or date consulted. Where the version matters (a working paper against a journal version, a revised estimate, a living web page), the entry says which one the book uses. **DOI** is a persistent identifier used for many research publications.
 - **Evidence type** — what kind of document it is. A company filing records reported information under a formal disclosure process. A company or investor account describes its own actions and may favor its own interpretation. A research study investigates a question using a stated method; its findings hold within its sample, period and design. A guidance document recommends or explains a practice; it does not show that every company follows it.
@@ -1148,13 +1146,5 @@ Both domain overviews, technology-capability input and audit, structured record 
 
 {id: bibliography--remaining-research-limits}
 ## Remaining Research Limits
-
-The analytics sources are the author’s own account of a practice he developed for the technology landscape. They describe a method and its requirements; they do not measure its effects, and no source establishes that shared definitions improve investor relationships. Extending the practice to investor alignment is this book’s proposal. The same limit applies to the Grounded Architecture framework pages (S110–S115): they describe a practice inside one organization, and applying it across an investment portfolio is the appendix’s proposal, illustrated by a fictional example rather than tested against one. The product-operations source describes a discipline and its pillars; it does not measure their effect, and the mapping of those pillars onto this book’s three evidence areas is the author’s.
-
-The investor-learning examples document activities and available resources. They do not establish later company results, causal investment returns or investor adoption of CTO Starter Kit. The learning brief and Northline example are the author’s proposals.
-
-The operating-model sources document selected practices, practitioner advice and stated leadership preferences. They do not establish a superior blueprint, a current distribution of operating models or the outcomes of the book’s fictional example.
-
-The technology operating partner sources describe practices and assignments. They do not establish a market-wide hiring trend, a universal division of leadership responsibilities or a causal investment-return premium.
 
 The research is broad but selective. It does not establish the typical return of a current fund, a complete financing history for every case, a universal charter for an investor’s technology adviser, or the causal effect of the book’s proposed support model. Full access to the Toys R Us fiscal 2016 10-K (S34) was not obtained. The editorial chronology of this register, meaning which revision added or rechecked which entries, is kept in the working notes rather than on this page; the dates that matter for reading a source are in its entry.

@@ -17,9 +17,7 @@
 
 New funding or an ownership change opens an early period in which expectations must become an agreed **operating plan**: what the business will do, who will do it and what money and time it needs. A hundred days is a useful planning horizon. It is neither enough to transform most businesses nor the right deadline for every commitment.
 
-A deal can change the company’s money, its owners’ rights, the expectations placed on it and its review timetable. Many of those expectations were formed during the investigation rather than inside the company. Not every deal adds cash to the company. When investors buy newly issued **shares** (units of ownership in a company), the money goes to the company. When they buy existing shares, it goes to the owners who sell. The first job is to establish which of these changed, and which of them actually change the company’s existing plan.
-
-This chapter shows how to turn those expectations into a funded plan. It starts by establishing what actually changed, confirms the inherited findings with the people who will deliver them, funds and sequences the work of the first hundred days, and ends with a day-100 review that judges the plan rather than its completion rate.
+A deal can change the company’s money, its owners’ rights, the expectations placed on it and its review timetable. Many of those expectations were formed during the investigation rather than inside the company. Not every deal adds cash to the company. When investors buy newly issued **shares** (units of ownership in a company), the money goes to the company. When they buy existing shares, it goes to the owners who sell. The first job is to establish which of these changed, and which actually change the company’s existing plan.
 
 {id: first-hundred-days--setting-up-the-example-larkspur-after-its-growth-investment}
 ## Setting Up the Example: Larkspur After Its Growth Investment
@@ -64,8 +62,6 @@ The chapter [Understand Funding Choices: Match the Money to the Work](#raise-wha
 ## Confirm the Inherited Finding With the People Who Will Deliver It
 
 Due diligence takes place with incomplete information and to a deal timetable. After closing, management can test assumptions more directly and involve people who were absent from the process.
-
-Three words in the finding’s record need a meaning first:
 
 - The **baseline** is the starting measurement that later results are compared with.
 - A **pilot** is a small trial: build one change, use it on a few customers and measure the result before spending more.
@@ -184,7 +180,7 @@ At day 100 the board asked what was learned and what the company can now do, not
 - *Implication:* 62 hours falls in the 60–70 band of the rule. The observed reduction is 8 × 18 = 144 hours; any annual figure built on it is a projection, and the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) shows how far it can be carried. With the same staff hours, 62 hours per implementation covers about 1.3 times as many customers (80 ÷ 62). The revised thesis needs 1.5 times, which would take about 53 hours.
 - *Money and time:* by day 100 ONB-1 had incurred about €90,000 of its €180,000 and used about ten of its twelve engineer-weeks.
 
-**Portal research.** Complete by day 100 inside its €20,000 and two engineer-weeks, all of it incurred. Its findings went to the review, and the build stays postponed.
+**Portal research.** Complete by day 100 inside its €20,000 and two engineer-weeks, all incurred. Its findings went to the review, and the build stays postponed.
 
 **The decision.** Sixty-two hours with unchanged waiting time fell in the middle band, so the board funded the next learning step and kept expansion and hiring postponed. That step is a **data-quality step**: checking and correcting each customer’s data before setup begins, because the measured split pointed there rather than at more product work. It costs €40,000 and four engineer-weeks from the reserve. That used the last unallocated engineer-weeks. Committed spending stood at €340,000 and 24 engineer-weeks, with €160,000 of cash and no engineering time left in the envelope.
 

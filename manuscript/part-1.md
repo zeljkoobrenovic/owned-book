@@ -7,7 +7,7 @@
 
 An investor has just been announced. Can the company now afford the two hires that the planned work needs? You will not know until this deal’s financing and ownership questions have been answered in detail.
 
-**Financing** is how a company obtains money. Customers pay for what they buy. **Lenders** provide money that must be repaid. **Investors** supply money in the hope of a gain, and they may lose it.
+**Financing** is how a company obtains money. **Customers** pay for what they buy. **Lenders** provide money that must be repaid. **Investors** supply money in the hope of a gain, and they may lose it.
 
 **Ownership** is about who holds the company’s **shares**, its units of ownership; a **shareholder** is anyone who owns them. Shares usually carry rights, such as a vote or a portion of any **profit** (income left after expenses) that is paid out.
 

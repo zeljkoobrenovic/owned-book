@@ -15,20 +15,18 @@
 > * Use the **access you actually have**: before signing (when the parties commit to the agreement), between signing and closing (when the money is paid and **shares**, the units of ownership in the company, actually change hands) where there is a gap, or after closing when earlier participation was impossible. Record the limit rather than pretending it away.
 > * **Complete the finding.** A **material finding**, one important enough to affect the decision, needs observed evidence separated from claims and interpretation, options with costs, an agreed response, the people authorized to approve it, an accountable company leader and the evidence that would change the decision. Carry its identifier into the early operating plan.
 
-Before an investor commits money to a company, it investigates the business to test whether the plan behind the deal is realistic. **Technical due diligence** is the part of that investigation that examines the company’s product and technology: what they depend on, what they cost and what could go wrong. It tests the product, technology and team assumptions behind the proposed investment. Its findings feed the price, the funding, the risks accepted, the conditions of the deal and the operating plan the company will later be held to. Product and engineering leaders who have access to the process and treat it as a test to pass miss the chance to influence the commitments they will afterwards have to deliver.
+Before an investor commits money to a company, it investigates the business to test whether the plan behind the deal is realistic. **Technical due diligence** is the part of that investigation that examines the company’s product and technology: what they depend on, what they cost and what could go wrong. It tests the product, technology and team assumptions behind the proposed investment. Its findings feed the price, the funding, the risks accepted, the conditions of the deal and the operating plan the company will later be held to. Product and engineering leaders who have access to the process and treat it as a test to pass miss the chance to influence the commitments they must later deliver.
 
 Whether new cash reaches the company depends on the **transaction form**, the way the deal is structured. If the investor buys newly issued shares, the money goes to the company. In a **secondary purchase** the investor buys existing shares from a current owner, and the money goes to that selling shareholder, as the chapter [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors) explains. Either way, the findings shape the plan management must deliver.
 
 That does not mean every diligence must find a reason to change the deal. It can confirm an important assumption. The requirement is to identify which assumption was tested, what evidence supports it and what uncertainty remains.
-
-Part III explained how to use investor support. Part VII follows the company leader through the ownership cycle, beginning before the deal is complete. Your role is to help the investigation understand the actual business, challenge unsupported assumptions and establish which work a credible plan would require. This chapter shows how the access you have shapes what you can do, then follows one finding from the evidence to a recorded decision. The following chapters carry that evidence into early ownership and later reviews.
 
 {id: diligence-corrects-the-plan--setting-up-the-example-the-onboarding-bottleneck-at-larkspur}
 ## Setting Up the Example: The Onboarding Bottleneck at Larkspur
 
 **Larkspur**, the fictional company this book follows, sells scheduling software to businesses whose staff work in the field. Every new customer needs **onboarding**, which this chapter also calls **implementation**. Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use, a moment called **go-live**. The people who do this work are the **implementation team**.
 
-An investor is considering an investment in Larkspur. Its **diligence report**, the written findings of its investigation, identifies a **bottleneck** in onboarding: much of the setup waits for one implementation specialist’s manual work. Yet the investment plan still assumes Larkspur can onboard twice as many customers a year with the same implementation team. The report has described a problem without resolving what it means for the deal. The assumption the technical diligence has to test is therefore whether Larkspur can double onboarding volume without a matching increase in implementation staff.
+An investor is considering an investment in Larkspur. Its **diligence report**, the written findings of its investigation, identifies a **bottleneck** in onboarding: much of the setup waits for one implementation specialist’s manual work. Yet the investment plan still assumes Larkspur can onboard twice as many customers a year with the same implementation team. The report has described a problem without resolving what it means for the deal. The assumption the technical diligence must test is therefore whether Larkspur can double onboarding volume without a matching increase in implementation staff.
 
 **Alex** is Larkspur’s **chief technology officer (CTO)**, the leader responsible for its technology. **Priya** leads product: what the software does and how it works for customers. **Morgan** is the investment firm’s technology adviser, who ran the technical part of the investigation.
 
@@ -88,8 +86,6 @@ Skype’s **registration filing**, the document a company files with the US secu
 
 A material finding needs a stable identifier, here **D-3**, so it can be followed into later plans and reviews. It also needs a record that separates what was observed from what someone reported, what the reviewer inferred and what remains unknown. “Technical debt: high”, a label for the future cost of past shortcuts in the software, conveys none of that. Every figure is fictional.
 
-First, four words the record uses:
-
 - A **pilot** is a limited trial before a wider commitment. Here it is one reusable setup step: a prepared setup that staff apply to a new customer instead of configuring everything by hand.
 - The **pilot cohort** is the group of customers set up with the new step, measured together.
 - A **baseline** is the starting measurement that later results are compared with.
@@ -122,8 +118,6 @@ If the notes cannot support a reliable estimate, the historical split stays unkn
 {id: diligence-corrects-the-plan--what-the-finding-changed}
 ## What the Finding Changed
 
-The finding changed the proposed growth plan in three places:
-
 - **The volume assumption** the price rests on fell for year one from 2× (twice as many implementations a year) to 1.5× (half as many again). The 1.5× is itself a forecast conditional on evidence.
 - **The second country** left the first-year plan and became conditional on evidence.
 - **The pilot** stopped being one proposal among several competing for the same money and became a condition the board funds early.
@@ -141,9 +135,7 @@ Funding the pilot does not establish any of these results; only the cohort measu
 {id: diligence-corrects-the-plan--the-decision-in-full}
 ## The Decision in Full
 
-State the decision in full, because that is what the next chapter inherits.
-
-**The chosen response.** Option (2), the funded pilot, together with the revised 1.5× assumption. Hiring two specialists is deferred pending the pilot’s evidence. At €300,000 a year, it would commit a recurring cost before anyone knows how much of the effort is a data problem and how much a product problem. Narrowing the target is not the plan, because it gives up volume the price assumes and leaves the dependency in place; its caution survives in the lower assumption.
+**The chosen response.** Option (2), the funded pilot, with the revised 1.5× assumption. Hiring two specialists is deferred pending the pilot’s evidence. At €300,000 a year, it would commit a recurring cost before anyone knows how much of the effort is a data problem and how much a product problem. Narrowing the target is not the plan, because it gives up volume the price assumes and leaves the dependency in place; its caution survives in the lower assumption.
 
 **Money and people.**
 
@@ -200,9 +192,7 @@ Conciseness works only when readers can inspect the basis. Keep links to finding
 {id: diligence-corrects-the-plan--hand-the-findings-to-the-people-who-will-act}
 ## Hand the Findings to the People Who Will Act
 
-At closing, ask for the material findings to be reviewed with the company leaders who will be accountable for the business plan. Ask each accountable leader to record agreement, disagreement or a need for more evidence. Receiving a report does not mean someone has accepted responsibility or funding for its recommendations. When new evidence changes the interpretation, keep the original reasoning and explain the revision, so that company leaders and the investor can later judge whether the investigation asked the right questions.
-
-Useful diligence either supports an important assumption with evidence or shows why the decision should change.
+At closing, ask for the material findings to be reviewed with the company leaders who will be accountable for the business plan. Ask each accountable leader to record agreement, disagreement or a need for more evidence. Receiving a report does not mean someone has accepted responsibility or funding for its recommendations. When new evidence changes the interpretation, keep the original reasoning and explain the revision, so company leaders and the investor can later judge whether the investigation asked the right questions.
 
 For Larkspur, the next question is what D-3 costs once it is inside a board-authorized budget, with two other findings competing for the same engineer-weeks. Priya records acceptance within ten days of closing. The finding then becomes a funded priority with its own budget, protected capacity, a baseline by day 20 and a day-90 cohort measurement that the board decides on at day 100: the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days).
 

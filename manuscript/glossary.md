@@ -91,7 +91,7 @@ These definitions support the comparisons in the chapter [Understand Funding Cho
 | Fully loaded cost | The full monthly or annual cost of an employee: salary plus employer charges, benefits, equipment and tools. It is the figure that changes when a person joins or leaves. |
 | One-off cost / recurring saving | A cost paid once (severance, a transition, a contract exit) against a saving that repeats each period once it has fully arrived. Compare them by date, not as two totals ([Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff)). |
 | Runway | Estimated time until available cash reaches a stated limit under a cash forecast. Cash divided by constant net burn is a simplifying illustration. |
-| Minimum operating reserve | The amount of cash a board agrees the company will not fall below, so that a slip can be absorbed while a decision is taken. Reaching it is a dated event a plan is measured against, not the moment the money runs out ([Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped)). |
+| Minimum operating reserve | The amount of cash a board agrees the company will not fall below, so a slip can be absorbed while a decision is taken. Reaching it is a dated event a plan is measured against, not the moment the money runs out ([Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped)). |
 | Bridge (bridge loan, bridge financing) | A shorter, smaller financing, often from the existing investors, meant to carry the company until a larger round or other event closes. It is an investment decision on the investor’s side, may carry conditions the company must meet before the money is transferred, and is not cash until it is drawn. |
 | Convertible loan | A loan whose repayment can be replaced by shares, typically in the next funding round at agreed terms. Interest may accrue and settle in shares rather than be paid in cash. |
 | Drawdown | The moment a committed loan or facility is actually transferred to the company’s account. Before it, the money is a commitment; after it, cash received. |
@@ -163,7 +163,7 @@ The chapters keep three questions separate: who owns shares, who is accountable 
 | Technology operating partner / technical operating partner | A senior practitioner working with an investment firm across technology assessment and operating support for its portfolio companies. The function may be internal, external or a team; company decision authority requires an explicit basis ([Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner)). |
 | AI operating partner | An investor-side operating specialist focused on AI-related investment questions and company capabilities. The role may be separate or combined with a technology operating partner; specialist expertise does not transfer company accountability ([Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner)). |
 | Technology Principal | This book’s supplied example of an investor’s technology adviser role, played by Morgan in the fictional Larkspur examples. A role description for teaching purposes, not evidence about how all advisers work. |
-| Operating team | People associated with an investment firm who help companies improve how they work. Actual services and availability vary; any authority over company decisions has to be granted, not assumed. |
+| Operating team | People associated with an investment firm who help companies improve how they work. Actual services and availability vary; any authority over company decisions must be granted, not assumed. |
 
 {id: glossary--earnings}
 ## Sales, Earnings and Cash
@@ -300,7 +300,7 @@ See the chapters [Set Priorities: You Cannot Fund Everything at Once](#cannot-fu
 | Handover | Transfer of the knowledge, information, evidence and obligations needed to continue work, including at a change of ownership ([Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations)). |
 | Headcount plan | The roles a plan funds, by period, and the roles that are conditional on money or evidence not yet received. Hires outside it, and reductions to it, need whoever approves the plan ([Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides)). |
 | Hiring freeze | A decision to fill no new or vacant roles for a period. It saves only what would otherwise have been spent; a freeze already in force adds nothing to a later reduction. |
-| Redeployment | Moving people from work that ends or stops to work that continues, so that a gap is filled without a hire and a role is kept without a dismissal. |
+| Redeployment | Moving people from work that ends or stops to work that continues, so a gap is filled without a hire and a role is kept without a dismissal. |
 | Reduction in force (layoff, redundancy) | Ending roles, and the employment of the people in them, because the work stops or the plan can no longer fund it. Choose the roles by the work that stops; the terms and the process belong to the jurisdiction ([Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff)). |
 | Notice period | The time between telling a person their employment ends and the end itself, set by contract or law and paid whether or not it is worked. It delays the saving from a reduction. |
 | Severance | A payment on ending employment, set by law, contract or company policy, paid before the saving from a reduction begins. |
@@ -333,7 +333,7 @@ The company-investment sequence begins at the chapters [Set Priorities: You Cann
 | Configuration / feature flag | Settings that change behavior / a control enabling or disabling selected behavior. |
 | Deployment | Putting a software version into use. |
 | Go-live | The date a customer, or a product, starts being used in production. A promise of go-live is a delivery commitment; a contractual termination right after a later date is a separate remedy, not agreement to that date. |
-| On-call rota | The schedule of engineers on standby for production problems outside working hours. Fewer people on it means more frequent duty for each, which a reduction has to account for. |
+| On-call rota | The schedule of engineers on standby for production problems outside working hours. Fewer people on it means more frequent duty for each, which a reduction must account for. |
 | End-to-end work lead time | Elapsed time from starting a change (for example, when work on it begins) to delivering it to users. Name the start and end points; it includes waiting, approvals and hand-offs. |
 | DORA change lead time | DORA’s defined measure: time from a code commit to that change running in production. Narrower than end-to-end lead time; do not use one number for both. |
 | Tenant isolation | Keeping customers’ data or workloads appropriately separated in a shared service. |
@@ -352,7 +352,7 @@ The company-investment sequence begins at the chapters [Set Priorities: You Cann
 | Recovery objective | An agreed target for how quickly service must resume and how much data may be lost; the fictional Larkspur objective is dispatch within four hours with under fifteen minutes of lost updates ([Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore)). |
 | Residual risk | Risk remaining after the chosen protections or actions. |
 | AI system | A machine-based system that, for explicit or implicit objectives, infers from the input it receives how to generate outputs such as predictions, content, recommendations or decisions. This covers both learned (machine-learning) and knowledge-based approaches; this book mainly discusses learning-based systems. |
-| Generative AI | AI systems whose output is new content, such as text, code or images, produced by models trained on large collections of examples. Correctness for the intended use has to be checked. |
+| Generative AI | AI systems whose output is new content, such as text, code or images, produced by models trained on large collections of examples. Correctness for the intended use must be checked. |
 | Model inference | Running a trained model on new input to produce output. It is a recurring operating cost, distinct from the cost of training, licensing or buying the model. |
 | Software as a service (SaaS) | Software accessed as an ongoing subscription service run by the supplier, rather than installed and operated by the customer. |
 | Information technology (IT) | The computing systems, networks and services a company runs, and the function that runs them. |

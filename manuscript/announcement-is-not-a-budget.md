@@ -5,7 +5,7 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn to trace who owns the company, who supplies its money and who can approve spending it.
 
-> **WHY INVESTORS CARE:** Investors and managers need to agree on what money is actually available and who may approve spending it, so that approvals apply to an agreed plan rather than to a headline figure.
+> **WHY INVESTORS CARE:** Investors and managers need to agree on what money is available and who may approve spending it, so that approvals apply to an agreed plan rather than to a headline figure.
 
 > **WHY YOU SHOULD CARE:** A hiring plan built on the announced figure is built on money the company may never see.
 
@@ -13,19 +13,17 @@
 >
 > * Find out **who receives the investment money**. Buying a founder’s shares pays the founder; buying new shares can put money into the company.
 > * **Separate the organizations involved**. The investment firm, its fund, the company used to hold the investment, and the business serving customers can each hold different money and carry different obligations.
-> * Distinguish **an estimate from a payment**. An investment that is said to be worth more has not paid its owners any cash, and a headline figure does not authorize a hire until the payer, the approver and the conditions are all known.
+> * Distinguish **an estimate from a payment**. An investment said to be worth more has not paid its owners any cash, and a headline figure does not authorize a hire until the payer, the approver and the conditions are known.
 
 Your company announces a €100 million investment. It is natural to expect a larger hiring or product **budget**: an amount of spending that someone with authority has approved. But an announcement describes a **transaction**, an agreed exchange between parties, not a budget. Before building a hiring plan on it, establish three things: **how much cash reaches the business, when it arrives and who can authorize spending it**.
 
 Start with the headline figure. It may be a **valuation**, an estimate of what the whole company is worth after the investment, or the amount that **changes hands** in the transaction. The two can differ widely, and even the amount that changes hands need not reach the business.
 
-Where that money goes depends on what is bought. A **share** is a unit of ownership in a company, and its holder is a **shareholder**. Money paid for **newly issued shares** goes to the company that issues them, which is called a **primary share issue**. Money paid for **existing shares** goes to the shareholder who sells them, which is called a **secondary share sale**. Part of the amount may also repay old loans or cover **transaction costs**, the legal and advisory fees of arranging the deal. Company cash can grow in other ways too: a lender may make the company a loan as part of the same arrangement, or an owner may separately agree to fund it.
+Where that money goes depends on what is bought. A **share** is a unit of ownership in a company, and its holder is a **shareholder**. Money paid for **newly issued shares** goes to the company that issues them, which is called a **primary share issue**. Money paid for **existing shares** goes to the shareholder who sells them, which is called a **secondary share sale**. Part of the amount may also repay old loans or cover **transaction costs**, the legal and advisory fees of arranging the deal. Company cash can grow in other ways: a lender may make the company a loan as part of the same arrangement, or an owner may separately agree to fund it.
 
 Timing matters as well. In this chapter’s examples, the money arrives at **closing**, the day the transaction is completed and the agreed payments are made, not on the day of the announcement.
 
 These questions apply under every ownership arrangement. A transaction changes the answers, because what reaches the business depends on how the deal is structured and on the conditions attached to it.
-
-This chapter shows how to map a funding arrangement before relying on its money. It separates the organizations involved in a fund-backed buyout, distinguishes a fund’s commitments from actual payments, and explains how fees and profit sharing shape incentives and why owning a company does not mean running it. It ends by completing a funding-and-authority record for one Larkspur hire.
 
 {id: announcement-is-not-a-budget--map-the-arrangement-before-relying-on-the-money}
 ## Map the Arrangement Before Relying on the Money
@@ -38,7 +36,7 @@ Consider three alternative fictional Larkspur announcements from the perspective
 | A fund buys the founder’s shares for €40m | The selling founder receives the purchase money | Whether separate company funding exists, and which payments any borrowing behind the purchase requires |
 | A corporate group buys Larkspur | Selling shareholders receive the agreed share price | Which group entity funds future work and how the local budget relates to the parent’s priorities |
 
-Whichever announcement applies, identify the **shareholder**, the organization supplying the cash, the **person authorized** to commit it and any **conditions** that must be met before payment. Also note the **date** by which a promised decision must arrive for the engineering plan to remain feasible.
+Whichever announcement applies, identify the **shareholder**, the organization supplying the cash, the **person authorized** to commit it and any **conditions** for payment. Also note the **date** by which a promised decision must arrive for the engineering plan to remain feasible.
 
 Every investment has its **own terms**, which do not follow automatically from earlier arrangements. If an existing investor joins another funding round, that does not mean every shareholder contributes again. If a corporate investor buys a minority stake (less than half of the shares), that does not automatically make the company part of the parent’s operating hierarchy. Draw the actual arrangement, and do not assume a fund, a holding company or a fixed sale deadline unless the deal has one.
 
@@ -72,13 +70,11 @@ flowchart TD
 
 In this diagram the future buyer purchases the **portfolio company's shares from the holding vehicle**, so the payment lands in the holding vehicle, which repays its lenders and passes what remains to the fund. In other transactions the buyer purchases the holding vehicle itself from the fund, and the payment goes to the fund directly with the borrowing still attached to what was bought. Either way, the buyer pays for existing shares; the payment comes from that buyer, not from the company's customers, and none of it is new money for the operating business unless the agreement says so. A real financing review also needs the intermediate companies, taxes, the lenders’ contractual protections (such as approval rights over particular actions) and any other investors.
 
-Two consequences follow from the map.
-
 **"The firm has capital" is not a statement about you.** Capital here means money available to invest. A firm may be raising a €2 billion (two thousand million) fund while the fund that owns your company has already placed all the money it may invest and is near the end of its agreed lifetime. An investment from the new fund would need its own justification and approvals under the relevant agreements; it isn't an automatic source of support for the older fund’s company.
 
 **Locate the borrowing as well as the cash.** Debt, money borrowed that must be repaid, can sit in a holding company, an operating company or several entities. The company’s **balance sheet**, a statement at one date of what it owns (its assets), what it owes and what is left for its owners (its equity), needs reading at the relevant level. Payments required elsewhere in the ownership structure may still depend on cash from the operating business. Ask finance to explain those connections.
 
-So before accepting a budget for a cloud migration, moving the software to another computing provider, ask **which entity pays the invoice** and who can commit its money. Before relying on a promise of support, ask **by what mechanism the capital would actually arrive**. Before sharing customer data with anyone at the owner, ask who is receiving it and under what authority. Common ownership answers none of these.
+So before accepting a budget for a cloud migration, moving the software to another computing provider, ask **which entity pays the invoice** and who can commit its money. Before relying on a promise of support, ask **how the capital would arrive**. Before sharing customer data with anyone at the owner, ask who is receiving it and under what authority. Common ownership answers none of these.
 
 ![An illustrative buyout separates the investment firm, which manages the fund; the fund, which owns the holding company; the holding company, which owns the operating company, receives loan cash from a lender and owes it repayments; and the operating company, which serves customers.](private-techuity/posts/01-announcement-is-not-a-budget/assets/images/01-announcement-is-not-a-budget/four-separate-organizations.jpeg)
 
@@ -89,7 +85,7 @@ So before accepting a budget for a cloud migration, moving the software to anoth
 
 The money in the fund comes from the limited partners: pension funds, which invest to pay future pensions; insurers, which invest premiums to pay future claims; and endowments. An **endowment** is a pool of assets invested to support an institution, such as a university. These investors supply the fund’s capital; whether any of it reaches a company’s product and technology budget depends on the transaction.
 
-Many funds are **partnerships**, a legal arrangement between partners governed by a **limited partnership agreement**. In that form, the **general partner**, or GP, holds the management responsibilities and powers under the fund arrangements. The investment firm often acts as the fund's manager under a separate agreement, and "GP" is used informally for the firm. Which body actually approves an investment is whatever those agreements say.
+Many funds are **partnerships**, a legal arrangement between partners governed by a **limited partnership agreement**. In that form, the **general partner**, or GP, holds the management responsibilities and powers under the fund arrangements. The investment firm often acts as the fund's manager under a separate agreement, and "GP" is used informally for the firm. The agreements determine which body approves an investment.
 
 In a common arrangement, an LP doesn't pay its entire promised investment at once. It makes a **commitment**: a promise to supply money when asked, under agreed conditions. When the fund needs money for an investment, it issues a capital call, and the LP pays the amount requested.
 
@@ -106,7 +102,7 @@ The row that matters is year 3. **A valuation increase pays nobody.** It's an es
 
 An agreement may let the fund reinvest proceeds or require an investor to return an earlier payment under stated conditions. The basic distinction stands: a promise, a payment and a valuation estimate are three different events.
 
-A fund's life includes fundraising, investing, supporting companies, selling investments or otherwise receiving proceeds, and eventually closing the fund. These phases overlap. The **investment period**, the years in which the fund may make new investments, and the fund's **term**, its overall planned lifetime, are different clocks; extensions of either and reinvestment provisions depend on the agreement. The **Institutional Limited Partners Association (ILPA)** represents investors in private funds, funds whose investors join under privately agreed terms rather than through a public market. Its principles are recommendations, not terms binding every fund. [S02: ILPA principles](https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf)
+A fund's life includes fundraising, investing, supporting companies, selling investments or otherwise receiving proceeds, and eventually closing the fund. These phases overlap. The **investment period**, the years in which the fund may make new investments, and the fund's **term**, its planned lifetime, are different clocks; extensions of either and reinvestment provisions depend on the agreement. The **Institutional Limited Partners Association (ILPA)** represents investors in private funds, funds whose investors join under privately agreed terms rather than through a public market. Its principles are recommendations, not terms binding every fund. [S02: ILPA principles](https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf)
 
 For a company leader, the relevant question isn't simply how long a **private-equity** fund, one that buys ownership of companies outside the public stock market, usually holds a company. It's how much time and flexibility this ownership structure has, and **what happens if an intended exit, the planned sale of the investment, is delayed**.
 
@@ -117,18 +113,16 @@ For a company leader, the relevant question isn't simply how long a **private-eq
 {id: announcement-is-not-a-budget--fees-and-profit-sharing-shape-incentives}
 ## Fees and Profit Sharing Shape Incentives
 
-The manager is paid through a **management fee**, a regular payment for managing the investments. The fee is usually calculated as a percentage of the money committed or invested, and it supports the manager's business. The manager may also receive **carried interest**, also called carry: a contractual share of investment profits, meaning the gain over what the fund paid after the deductions the agreement allows. The fund agreement sets the detailed rules for sharing investment proceeds between the investors and the manager, which practitioners call the distribution waterfall. Carry is different from a company's executive bonus and different again from **management equity**, the shares in that company that its executives own.
+The manager is paid through a **management fee**, a regular payment for managing the investments. The fee is usually calculated as a percentage of the money committed or invested, and it supports the manager's business. The manager may also receive **carried interest**, also called carry: a contractual share of investment profits, meaning the gain over what the fund paid after the deductions the agreement allows. The fund agreement sets the detailed rules for sharing investment proceeds between the investors and the manager, which practitioners call the distribution waterfall. Carry is different from a company's executive bonus and from **management equity**, the shares in that company that its executives own.
 
 These terms shape which requests a company receives and when. A fund near the end of its term, or a manager whose profit share depends on a sale that turns estimated value into cash, has reasons to prefer some kinds of work over others.
 
 The chapter [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets) examines those incentives, and [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) the ways an investment's gain is measured. The optional reference [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) works through the sharing rules and the terms that fine-tune them, for readers who want the mechanics.
 
-Fees, the way shared costs are split between the manager, its funds and their companies, and services bought from organizations connected to the manager also create conflicts. The US Securities and Exchange Commission (SEC), the federal regulator for investing, explicitly discusses in its guide the possibility that the manager's interests differ from those of its funds. [S01: SEC investor guide](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity) A company leader should therefore ask who funds an operating intervention and whether the provider has a financial interest in the recommendation. Useful support can still involve a conflict that needs to be understood.
+Fees, the way shared costs are split between the manager, its funds and their companies, and services bought from organizations connected to the manager also create conflicts. The US Securities and Exchange Commission (SEC), the federal regulator for investing, discusses in its guide the possibility that the manager's interests differ from those of its funds. [S01: SEC investor guide](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity) A company leader should therefore ask who funds an operating intervention and whether the provider has a financial interest in the recommendation. Useful support can still involve a conflict that needs to be understood.
 
 {id: announcement-is-not-a-budget--owning-a-company-does-not-mean-running-it}
 ## Owning a Company Does Not Mean Running It
-
-An owner’s influence over the company and an executive’s authority to act for it come from different roles and agreements.
 
 An **investment committee** is the body authorized to approve investments for the fund under its arrangements. A company’s **board** oversees the business within its own authority, while executives manage day-to-day work. Buying a company, approving its annual plan and signing a customer contract are different decisions. Share ownership alone doesn't give every shareholder authority to sign contracts for the company. Loan agreements may also require the lender's approval for particular actions. When someone says "the investor wants X," the useful reply is: which body, exercising which right, and can they actually require it?
 
@@ -137,7 +131,7 @@ Some investment firms employ an investor's technology adviser who may contribute
 {id: announcement-is-not-a-budget--alex-s-hire-the-completed-funding-and-authority-record}
 ## Alex's Hire: The Completed Funding-and-Authority Record
 
-Return to the first announcement: investors buy €8m of newly issued shares in Larkspur, less than half the company. The round was announced on 20 September, the day the **subscription agreement**, the contract under which the investors buy the new shares, was signed; the money arrived at closing on 3 October. Between those dates the €8m was a contractual commitment, not cash. Alex's first proposal, sent on the day of the announcement, was five onboarding engineers, on the assumption that part of the €8m was an innovation budget. Here is the one-page record Sam and Alex completed on 11 October, with the source of each entry and the proposal that went to Ines, the chief executive officer (CEO). All figures are fictional, and this scenario is separate from the Larkspur cash figures used in later chapters.
+Return to the first announcement: investors buy €8m of newly issued shares in Larkspur, less than half the company. The round was announced on 20 September, the day the **subscription agreement**, the contract under which the investors buy the new shares, was signed; the money arrived at closing on 3 October. Between those dates the €8m was a contractual commitment, not cash. Alex first proposed five onboarding engineers on the day of the announcement, assuming part of the €8m was an innovation budget. Here is the one-page record Sam and Alex completed on 11 October, with the source of each entry and the proposal that went to Ines, the chief executive officer (CEO). All figures are fictional, and this scenario is separate from the Larkspur cash figures used in later chapters.
 
 | Field | Entry | Where the information came from |
 | --- | --- | --- |
@@ -163,19 +157,17 @@ Return to the first announcement: investors buy €8m of newly issued shares in 
 
 Ordinary spending under the plan does not reopen it; the plan already assumes that cash falls. What reopens it is a shortfall against the forecast.
 
-Had the second announcement been the real one, the record would look different in its first three rows. The €40m paid the founder. Larkspur's own cash did not change. Any new hire would then have to be paid by Larkspur from its available cash and the cash it expects to generate from running the business. The only alternative is a separate funding commitment, which the record would have to name together with its own approver and conditions.
+Had the second announcement been the real one, the record would look different in its first three rows. The €40m paid the founder. Larkspur's own cash did not change. Any new hire would then have to be paid by Larkspur from its available cash and the cash it expects to generate from running the business. The only alternative is a separate funding commitment, which the record would have to name with its own approver and conditions.
 
 {id: announcement-is-not-a-budget--from-money-and-authority-to-value}
 ## From Money and Authority to Value
-
-Customer payments sustain the operating business. Investors, lenders and future buyers can also bring cash into the wider arrangement. Keeping those sources separate explains why an investor with plenty of money and a company short of cash can coexist.
 
 One question from the opening remains: what the €100 million meant. A headline may name the purchase price, new funding or a valuation, and the three can differ. The next chapter explains how to identify and interpret the valuation. That needs three basic financial ideas, sales, profit and cash, which we develop in the chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate).
 
 {id: announcement-is-not-a-budget--questions-to-consider}
 ## Questions to Consider
 
-1. *Can you complete the record above for your own arrangement: which entity pays, which figures are commitments, payments received or valuation estimates, who can commit the money and what conditions apply before payment?*
+1. *Can you complete the record above for your arrangement: which entity pays, which figures are commitments, payments received or valuation estimates, who can commit the money and what conditions apply before payment?*
 2. *When someone says “the investor has capital”, which pot are they describing: the fund that owns your company, a different fund or the firm’s own business?*
 3. *Where does the borrowing sit in your structure, and how much of the operating company’s incoming cash is needed to pay its interest, the charge for borrowing, and its repayment instalments, the scheduled portions of the amount borrowed?*
 4. *When you hear “the investor wants X”, do you know which body, exercising which right, is behind the request and whether it can actually require it?*
@@ -192,4 +184,4 @@ One question from the opening remains: what the €100 million meant. A headline
 - **[Eclipse of the Public Corporation](https://hbr.org/1989/09/eclipse-of-the-public-corporation)** — Michael C. Jensen, Harvard Business Review, 1989.  
   *The original case for the ownership structure this chapter maps, written by its most prominent advocate, so read it as advocacy rather than a test of the model. “Public corporation” in the title means a company whose shares trade on a stock market, not a state-owned one.*
 - **[Patient Capital: The Challenges and Promises of Long-Term Investing](https://press.princeton.edu/books/paperback/9780691217086/patient-capital)** — Victoria Ivashina and Josh Lerner, Princeton University Press, 2019 (paperback 2021).  
-  *The limited partners' side of the arrangement; patient capital means investment whose providers are willing to wait years for their return. It explains why a fund's life and exit timing create pressure on a company at all.*
+  *The limited partners' side of the arrangement; patient capital means investment whose providers are willing to wait years for their return. It explains why a fund's life and exit timing create pressure on a company.*

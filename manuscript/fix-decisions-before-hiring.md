@@ -11,15 +11,13 @@
 
 > **KEY POINTS:**
 >
-> * A company’s capacity includes **how people decide and coordinate**. New tools, locations or hires will not remove a queue that is made of unclear authority and concentrated knowledge.
+> * A company’s capacity includes **how people decide and coordinate**. New tools, locations or hires will not remove a queue made of unclear authority and concentrated knowledge.
 > * People changes have **transition costs and a knowledge-transfer test**. Compare the full delivery model, including recruitment, overlap, management effort and the receiving team’s demonstrated competence.
 > * The diagnosis should **produce a staffing decision**: hiring proceeds, changes shape or is deferred, with the remaining gap, its funding and the evidence that would reopen the choice named.
 
-New investment naturally opens room to hire. The money that funds the plan can also pay salaries, and investors often push for it to turn into people quickly: headcount is visible, easy to report and easy to compare with the plan. The pressure is understandable, but **hiring naively can backfire**. When work waits on unclear authority and on knowledge held by a few people, new hires join the same queue. They need training from the specialists who are already the bottleneck, they add coordination, and the waits can grow rather than shrink. The friction in how the company decides and delivers has to be found before the hiring plan is written.
+New investment naturally opens room to hire. The money that funds the plan can also pay salaries, and investors often push for it to turn into people quickly: headcount is visible, easy to report and easy to compare with the plan. The pressure is understandable, but **hiring naively can backfire**. When work waits on unclear authority and on knowledge held by a few people, new hires join the same queue. They need training from the specialists who are already the bottleneck, they add coordination, and the waits can grow rather than shrink. The friction in how the company decides and delivers must be found before the hiring plan is written.
 
 The plan funded new resources, but not the management time and decision changes needed to use them. An **operating model** is the arrangement of responsibilities, teams and processes through which work gets done. **Capability** is what that arrangement lets people do reliably. Every investment in the preceding chapters depends on people with the time, knowledge and authority to do the work. An investment case, the argument for committing money to a plan, is not complete if it funds the work without funding the capacity to do it.
-
-This chapter shows how to find what a queue is made of, change the decisions that cause it, and only then decide what hiring the plan needs. It also shows how to assess leaders in the system they work in, rather than in isolation.
 
 {id: fix-decisions-before-hiring--setting-up-the-example-a-three-week-pricing-change}
 ## Setting Up the Example: A Three-Week Pricing Change
@@ -37,7 +35,7 @@ Larkspur’s board, the group of directors that oversees the company on behalf o
 
 Start with the customer and operating work the company needs to perform. Who learns about customer needs? Who decides priorities? Who can release a change? Who supports it? Who resolves conflicts across product boundaries?
 
-An organization chart shows reporting lines; it does not capture these dependencies. Trace real pieces of work from request to outcome and record where they wait, where information is lost and which people have to intervene again and again. The purpose is diagnosis, not a time-and-motion exercise that treats every pause as waste. A deliberate review step may prevent expensive mistakes. **An unclear decision boundary** may cause avoidable delay. Distinguishing the two is more useful than announcing that the organization needs more autonomy or more control.
+An organization chart shows reporting lines; it does not capture these dependencies. Trace real pieces of work from request to outcome and record where they wait, where information is lost and which people must intervene repeatedly. The purpose is diagnosis, not a time-and-motion exercise that treats every pause as waste. A deliberate review step may prevent expensive mistakes. **An unclear decision boundary** may cause avoidable delay. Distinguishing the two is more useful than announcing that the organization needs more autonomy or more control.
 
 Here is one of Larkspur’s pricing changes, traced by Alex, who leads technology as chief technology officer (CTO), and Priya, who leads product. Two more people appear below: Ines, the chief executive, who leads the company, and Sam, who leads finance. The change touches the **invoicing module**, the part of the software that prepares customer invoices, the bills sent to customers. The figures are fictional.
 
@@ -61,7 +59,7 @@ The trace separates three constraints that “the team is too slow” had merged
 
 Two of the waits can be removed without hiring anyone, and each is removed by the person who holds the authority. In the week after the trace, Priya agrees a catalogue of pricing-rule types that the team may implement without a fresh commercial decision; only new rule types come back to her. Ines delegates the invoice sign-off to Sam’s finance team for changes inside that catalogue, with a monthly review of what was released. The control she introduced after the invoicing error is kept, but moved to the people who already reconcile invoices, which means checking them against the underlying records each month. If the finance check adds no queue of its own, these are forecast to remove about six of the thirteen waiting days. That is the initial forecast, not a result; Alex traces the next three pricing changes to confirm it. Neither change requires a new hire, which is not the same as costing nothing: the monthly review takes Ines’s time, and the sign-off takes finance’s.
 
-The specialists’ queue does not move. It is not a decision problem; it is a knowledge problem, and delegation cannot fix it. The forecast **end-to-end lead time**, measured from the customer’s request to the change running in production, is about ten working days, of which seven are still spent waiting for the two people who understand the invoicing module and who are interrupted by production work. That is the **capacity gap the plan actually has**: not a second product team’s worth of engineers, but a third person able to change the invoicing module, and protected time for the two who can.
+The specialists’ queue does not move. It is not a decision problem; it is a knowledge problem, and delegation cannot fix it. The forecast **end-to-end lead time**, measured from the customer’s request to the change running in production, is about ten working days, of which seven are still spent waiting for the two people who understand the invoicing module and are interrupted by production work. That is the **capacity gap the plan actually has**: not a second product team’s worth of engineers, but a third person able to change the invoicing module, and protected time for the two who can.
 
 {id: fix-decisions-before-hiring--decide-what-hiring-the-gap-needs}
 ## Decide What Hiring the Gap Needs
@@ -84,8 +82,6 @@ They choose the third: one billing engineer now, protected time for the transfer
 | Authority | Ines authorizes the hire under her delegation. The position is already in the headcount plan and its pay is in the approved budget, so assigning it to billing needs no new board decision. A position outside the plan would have been the board’s to approve (see the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides)). She takes the changed shape to the board, which had asked for a team and is asked to accept a conditional plan instead. Alex is accountable for the billing engineer and the transfer, Priya for the catalogue |
 | Rejected | The full second team, because it does not address the gap, adds to the queue and commits payroll (the recurring cost of employees’ pay) ahead of money not yet received. No hiring, because it leaves the plan dependent on two people |
 
-Three pieces of evidence would change the decision.
-
 - **The lead time is still above two weeks sixty days after the delegation changes.** The response is to trace the next changes, not to hire. If the approvals have gone but the queue persists, the capacity diagnosis is revisited. If the agreed changes were never made, the reasons and the accountability are addressed first.
 - **The second country signs customers faster than expected.** That satisfies the demand condition only. The five-person team still requires committed funding and board approval, and until both exist the one-engineer plan remains the authorized response.
 - **The billing engineer cannot release a rule change independently six months after starting.** The transfer has failed, and the role is reassessed rather than the specialists released.
@@ -97,7 +93,7 @@ That is the sense in which decisions come before people. It is not a rule that h
 
 A leader who built an early product may need support to lead a larger organization. A leader with large-company experience may introduce processes a small business cannot afford. Neither background establishes fit by itself.
 
-Describe the work the role requires: product judgment, technical direction, operational reliability, people leadership, commercial communication or integration. Assess the evidence in each area and the system around the person. A weak product function, the people and work that find out what customers need and choose what to build, shouldn’t automatically become a verdict on the CTO, and a three-week queue that turns out to be made of two sign-offs and an interrupted pair of specialists is not evidence that the CTO cannot lead. Equally, technical expertise doesn’t excuse an inability to develop people or make hard decisions.
+Describe the work the role requires: product judgment, technical direction, operational reliability, people leadership, commercial communication or integration. Assess the evidence in each area and the system around the person. A weak product function, the people and work that identify what customers need and choose what to build, shouldn’t automatically become a verdict on the CTO, and a three-week queue made of two sign-offs and an interrupted pair of specialists is not evidence that the CTO cannot lead. Equally, technical expertise doesn’t excuse an inability to develop people or make hard decisions.
 
 Changing a CTO can be necessary when the company’s needs have changed or leadership is ineffective. It can also be a convenient explanation for an unrealistic plan. Before recommending replacement, state a **hypothesis**, an explanation that can be checked: what must new leadership enable, and what evidence shows that capability is missing? Does the leader make sound decisions but lack product management support? Is delivery blocked by unstable commercial commitments? Has the board asked for incompatible outcomes? A diagnosis that begins and ends with the individual may miss the system around them, and a replacement who inherits the same system reproduces the failure while losing knowledge. The chapter [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets) adds one distortion to watch. A leader’s pay, or expectations about an **exit** (the eventual sale of the company or of the investors’ stake, when owners turn their shares into money), can shape how that leader is assessed.
 
@@ -114,11 +110,11 @@ Coaching or a delivery manager under Alex would leave release authority with the
 
 Investors take part in key appointments in five ways, and the ways carry different weight: proposing a role, introducing candidates, taking part in selection, approving compensation and assessing the people already in post. Only some of these are rights.
 
-**A formal approval right.** Larkspur’s fictional shareholders’ agreement is the contract between the company’s owners that sets out their rights. Under it, hiring or dismissing an executive officer (one of the company’s most senior managers, such as the head of technology, product or finance), or changing their pay, needs the consent of one particular director: the one appointed by the lead investor, the investor that led the negotiation of the last investment. Agreements often call a decision like this a **reserved matter**: it cannot go ahead without a specified additional approval. At Larkspur, then, the appointment is the board’s to make and one named director’s to consent to.
+**A formal approval right.** Larkspur’s fictional shareholders’ agreement is the contract between the company’s owners that states their rights. Under it, hiring or dismissing an executive officer (one of the company’s most senior managers, such as the head of technology, product or finance), or changing their pay, needs the consent of one particular director: the one appointed by the lead investor, the investor that led the negotiation of the last investment. Agreements often call a decision like this a **reserved matter**: it cannot go ahead without a specified additional approval. At Larkspur, then, the appointment is the board’s to make and one named director’s to consent to.
 
 Clauses of that shape exist in real agreements, and one filed example shows what they look like in practice. That agreement lists “hire, terminate, or change the compensation of the executive officers” among the board matters requiring the approval of the preferred directors. **Shares** are the units into which a company’s ownership is divided, so whoever holds them owns that fraction of the company. The preferred directors are elected by the holders of **preferred shares**, a class of shares carrying extra rights beyond ordinary ownership; in that filed agreement, it is the investors in the company that filed it who hold those shares. The real clause illustrates the shape of the mechanism; it does not supply Larkspur’s fictional rule, which turns on a single investor-appointed director rather than on a majority of preferred directors. [S76: Avalyn Pharma investors’ rights agreement](https://www.sec.gov/Archives/edgar/data/1540171/000119312526147573/ck0001540171-ex4_2.htm)
 
-**A funding condition.** A **term sheet** is the short document that sets out the main proposed terms of an investment before the full contracts are written. **Closing** is the point at which the investment is completed and the money is paid. A funding round whose term sheet makes “a chief product officer in place before closing” a condition attaches money to an appointment.
+**A funding condition.** A **term sheet** is the short document that states the main proposed terms of an investment before the full contracts are written. **Closing** is the point at which the investment is completed and the money is paid. A funding round whose term sheet makes “a chief product officer in place before closing” a condition attaches money to an appointment.
 
 **Influence.** Morgan is the technology adviser to Larkspur’s investor, and is not the investor-appointed director. An introduction from Morgan’s network, or the investor director’s view that Priya “has not run product at scale”, is influence: real, worth hearing, and not authority.
 
@@ -130,7 +126,7 @@ The investor director proposes a chief product officer (**CPO**), an executive w
 
 Ines neither accepts nor refuses the proposal. She treats it as the hypothesis test above, applied to a role that does not yet exist: what must a CPO enable that Larkspur cannot do today, and what evidence shows the capability is missing?
 
-The pricing trace found product decisions waiting for Priya, and the catalogue removed that wait; since then no product decision has been the queue. What the trace did not test is the thing the board is worried about: prioritizing across two teams and two countries, and building a product management function rather than doing product management. That is a gap in the future, not a failure in the present. Three responses are compared, with fictional figures:
+The pricing trace found product decisions waiting for Priya, and the catalogue removed that wait; since then no product decision has been the queue. The trace did not test the board’s concern: prioritizing across two teams and two countries, and building a product management function rather than doing product management. That is a gap in the future, not a failure in the present. Three responses are compared, with fictional figures:
 
 | Option | What it enables | Cost and timing | Risk |
 | --- | --- | --- | --- |
@@ -143,7 +139,7 @@ Ines chooses the third and the second together. The senior product manager is re
 The evidence is reviewed in six months, and what will count as evidence is agreed now, when the support begins, not chosen at the review. Ines will examine three records:
 
 - **Decisions made on time.** Each priority decision across the two teams is given a date when it is raised. Was it made by that date?
-- **Results checked.** Each decision states the result it is meant to produce, such as a shorter wait or a customer signed. Did someone go back and check whether that happened? Making a decision and checking its result are separate things, and the review looks for both.
+- **Results checked.** Each decision states the result it is meant to produce, such as a shorter wait or a customer signed. Did someone go back and check whether that happened? Making a decision and checking its result are separate, and the review looks for both.
 - **Customers’ waiting time.** How long do second-country customers wait for a requested change, measured by the same kind of trace as above? Did that wait stay within the target agreed at the start?
 
 The scenario gives that target no number. What matters is that the comparison is fixed before the results are known.
@@ -161,11 +157,11 @@ The first two — decisions made late, results left unchecked — point at the p
 
 So the response is another trace. It asks of each waiting day whether a product decision was late or whether the delay sat in engineering, knowledge or operations. It tests the product responsibilities the role design actually assigned — decisions made by their agreed dates, and their intended results checked — rather than lateness alone, because a decision made on time whose result nobody ever checked is a product failure too.
 
-Only where that trace finds those responsibilities unmet does the CPO hypothesis become testable. The role design is written now, so that a search, if one follows, follows a design rather than a candidate.
+Only where that trace finds those responsibilities unmet does the CPO hypothesis become testable. The role design is written now, so a search, if one follows, follows a design rather than a candidate.
 
 A candidate from the investor’s network is assessed against the company’s role design like any other, with references the company takes itself. And any relationship that could create a conflict of interest, such as a candidate the investor has worked with before, a search firm the investor pays or a director who would prefer a familiar face, is declared and recorded rather than assumed away. The company appoints and manages the person and remains accountable for the result; an investor who introduced the candidate does not thereby own the outcome.
 
-The implications for the rest of the organization are what the role design has to spell out, because the title says nothing about them:
+The role design must spell out the implications for the rest of the organization, because the title says nothing about them:
 
 | Responsibility | Today | With a senior product manager | With a CPO |
 | --- | --- | --- | --- |
@@ -182,18 +178,18 @@ Success for a role is assessed on what it was appointed to enable, stated at app
 
 An appointment made without that statement is judged, later, on whatever the board is worried about at the time.
 
-The opposite movement, a plan that has to shrink rather than grow, has its own chapter: [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) follows a reduction from the investor’s request to the people it affects.
+The opposite movement, a plan that must shrink rather than grow, has its own chapter: [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) follows a reduction from the investor’s request to the people it affects.
 
 {id: fix-decisions-before-hiring--cheaper-locations-do-not-automatically-save-money}
 ## Cheaper Locations Do Not Automatically Save Money
 
-Nearshoring and offshoring mean locating work in other countries, with “near” describing geographic or time-zone proximity. Cultural similarity is often assumed alongside it and has to be checked separately. The labels don’t determine the delivery model. A company can hire employees, use a supplier, open its own development office or combine arrangements.
+Nearshoring and offshoring mean locating work in other countries, with “near” describing geographic or time-zone proximity. Cultural similarity is often assumed alongside it and must be checked separately. The labels don’t determine the delivery model. A company can hire employees, use a supplier, open its own development office or combine arrangements.
 
 A wage comparison is only one input. Include recruitment, management, onboarding of new staff, travel, knowledge transfer, the supplier’s margin (what it charges above its own costs), legal and employment arrangements, departures, rework and the period of overlapping teams. Add the time before a new team can own useful outcomes.
 
 In a fictional case, replacing €1 million of annual external development spending with a €650,000 team of the company’s own appears to save €350,000. If the transition costs €250,000 and recurring coordination and specialist support add €150,000 a year, the recurring cost is €800,000 and the annual saving after transition falls to €200,000 before any quality or delivery effects. Even with a full year at the lower operating cost, the €250,000 transition payment makes first-year spending €1.05 million, €50,000 above the original. The comparison is between supplier invoices and the full cost of an employed team, not between two salary bills; the numbers illustrate the model, not a benchmark for any location.
 
-The more important question is **whether the work can be transferred coherently**. If every decision depends on a small group elsewhere, lower hourly cost may come with more waiting and rework; Larkspur’s queue would simply acquire a time zone. A bounded product or service responsibility, adequate context and a clear escalation path, the agreed route for getting help or a higher-level decision, can matter more than geography.
+The more important question is **whether the work can be transferred coherently**. If every decision depends on a small group elsewhere, lower hourly cost may come with more waiting and rework; Larkspur’s queue would acquire a time zone. A bounded product or service responsibility, adequate context and a clear escalation path, the agreed route for getting help or a higher-level decision, can matter more than geography.
 
 ![The cost of a team change includes transition spending and continuing coordination and support, as well as pay.](private-techuity/posts/22-fix-decisions-before-hiring/assets/images/22-fix-decisions-before-hiring/full-cost-of-a-team-change.jpeg)
 
