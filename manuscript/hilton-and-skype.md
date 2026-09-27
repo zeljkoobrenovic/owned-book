@@ -1,7 +1,7 @@
 {id: hilton-and-skype}
 # 37. Hilton and Skype: A Successful Exit Still Needs Explaining
 
-![Hilton and Skype: A Successful Exit Still Needs Explaining — logo](private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/logo.jpeg)
+![Hilton and Skype: A Successful Exit Still Needs Explaining — logo](private-techuity/posts/34-hilton-and-skype/assets/images/34-hilton-and-skype/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Follow Hilton from Blackstone's 2007 purchase through a downturn, debt restructuring and the final 2018 sale; then follow Skype from its 2009 technology-rights settlement to Microsoft's 2011 purchase.
 
@@ -128,13 +128,13 @@ The documented Skype sequence runs from a corporate owner to an investor group a
 
 Hilton supplies a different question: what happens to the operating plan when financing and the time needed for recovery change? The case supports examining those dependencies; it doesn’t tell a young company backed by start-up investors how to fund its next stage.
 
-![Hilton prompts separate questions about operations and financing; Skype adds technology rights and the product’s life across owners.](private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/two-histories-two-operating-questions.jpeg)
+![Hilton prompts separate questions about operations and financing; Skype adds technology rights and the product’s life across owners.](private-techuity/posts/34-hilton-and-skype/assets/images/34-hilton-and-skype/two-histories-two-operating-questions.jpeg)
 
 **Figure 1:** *Use each history to identify a specific operating question before transferring its lesson.*
 
 The lessons are mechanisms to investigate, not instructions to imitate. Both cases show that technology becomes investment-relevant through its relationship to business capability, ownership rights, financing and a buyer's needs. Use the histories to formulate questions for the current owner: **which capability must continue through the transaction**, which assumption has changed, and **who funds the unfinished work**?
 
-![A sale produces an investor payment record while product, customer and employee outcomes continue afterward.](private-techuity/posts/34-hilton-and-skype/assets/images/26-hilton-and-skype/sale-result-and-later-outcomes.jpeg)
+![A sale produces an investor payment record while product, customer and employee outcomes continue afterward.](private-techuity/posts/34-hilton-and-skype/assets/images/34-hilton-and-skype/sale-result-and-later-outcomes.jpeg)
 
 **Figure 2:** *An investor’s result from a completed sale and the company’s longer operating history need separate evidence.*
 

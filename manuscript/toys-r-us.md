@@ -1,7 +1,7 @@
 {id: toys-r-us}
 # 39. Toys R Us: Positive Operating Earnings, Too Little Cash
 
-![Toys R Us: Positive Operating Earnings, Too Little Cash — logo](private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/logo.jpeg)
+![Toys R Us: Positive Operating Earnings, Too Little Cash — logo](private-techuity/posts/36-toys-r-us/assets/images/36-toys-r-us/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Follow Toys R Us from its 2005 purchase by KKR, Bain Capital and Vornado through its technology plans, September 2017 supplier payment crisis and March 2018 plan to close the US stores.
 
@@ -24,7 +24,7 @@ A buying group associated with KKR, Bain Capital and Vornado acquired toy and ba
 
 In September 2017, management reported that suppliers alarmed by news of a possible bankruptcy were demanding earlier payment. Toys R Us entered **Chapter 11**, the US court process that allows a company to keep trading while trying to reorganize its debts. Court-authorized borrowing helped keep the stores and websites operating during that attempt. Six months later, after the company failed to find a buyer or agree a restructuring, it sought to wind down its US stores. [S36: Toys R Us bankruptcy note](https://www.sec.gov/Archives/edgar/data/1005414/000100541417000047/R9.htm) [S37: Reuters US liquidation report](https://www.business-standard.com/article/reuters/toys-r-us-to-close-doors-leaving-void-for-toy-lovers-118031500236_1.html)
 
-That sequence gives the technology question its urgency: could the retailer pay for stock, borrowing and existing operations until its proposed improvements produced a result? The documents show a funding problem; they do not establish that the technology plan would have rescued the business. After the successful sales and continued expansion in the preceding cases, this chapter follows a failed attempt to keep the US business trading. The chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget) explains how to examine the cash behind such a plan.
+That sequence gives the technology question its urgency: could the retailer pay for stock, borrowing and existing operations until its proposed improvements produced a result? The documents show a funding problem; they do not establish that the technology plan would have rescued the business. After the successful sales and continued expansion in the preceding cases, this chapter follows a failed attempt to keep the US business trading. The chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow) explains how to examine the cash behind such a plan.
 
 {id: toys-r-us--setting-up-the-case-earnings-cash-and-a-supplier-shock}
 ## Setting Up the Case: Earnings, Cash and a Supplier Shock
@@ -125,7 +125,7 @@ The mechanism holds even without accepting every estimate: the product on the sh
 
 A product improvement expected to pay off over several years can't supply cash for stock next week. Technology leaders should make the different clocks visible rather than accept one “transition timeline” that treats customer adoption, debt service, supplier payments and product delivery as interchangeable. In an engagement, that means a joint operating and cash review: which customer-critical projects can still finish, **which commitments can be reduced safely**, which suppliers are indispensable, and what evidence would trigger a change of plan.
 
-![A long-term improvement plan and near-term supplier and debt payments operate on different time horizons.](private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/long-term-plan-short-term-cash.jpeg)
+![A long-term improvement plan and near-term supplier and debt payments operate on different time horizons.](private-techuity/posts/36-toys-r-us/assets/images/36-toys-r-us/long-term-plan-short-term-cash.jpeg)
 
 **Figure 1:** *A valuable future capability cannot fund the payments required to reach it.*
 
@@ -161,7 +161,7 @@ Debt service reduces room for other uses of cash, all else equal. Competition ca
 
 The case evidence supports investigating that interaction. It doesn't prove that removing debt would have guaranteed success, that a better digital product would have overcome every constraint, or that the retailer was doomed regardless of ownership. The original financing and each later choice about refinancing, stores, technology and cost reductions were decisions made under uncertainty; judging them requires the expectations and alternatives at the time, not just knowledge of the outcome. The useful analytical questions are comparative: what investment was required to compete, could the company fund it if sales fell or payments arrived late, and which choices preserved options rather than consuming them?
 
-![Competition, the cost of carrying out improvements, debt service and supplier terms each press on the retailer's cash, which can lead to less cash available for investment; dashed links mark possible reinforcing effects, not measured ones.](private-techuity/posts/36-toys-r-us/assets/images/28-toys-r-us/interacting-business-and-financing-pressures.jpeg)
+![Competition, the cost of carrying out improvements, debt service and supplier terms each press on the retailer's cash, which can lead to less cash available for investment; dashed links mark possible reinforcing effects, not measured ones.](private-techuity/posts/36-toys-r-us/assets/images/36-toys-r-us/interacting-business-and-financing-pressures.jpeg)
 
 **Figure 2:** *Four pressures can reduce the cash available for investment; the dashed links are possible reinforcements, not measured causes.*
 
@@ -172,8 +172,8 @@ This is the history of a retailer bought with borrowed money under one set of lo
 
 Four practices follow from the mechanism, not from a claim that they would have saved this company.
 
-- **Ask for the cash and financing context before committing to a transformation timetable.** Use the bridge from earnings to available cash in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget): start from operating cash flow, check whether interest paid and working-capital movements are already inside it (here they were), then subtract capital expenditure and the scheduled repayments of principal or other financing payments not already counted. Each payment enters the calculation once. A technically feasible plan may be financially infeasible during its transition.
-- **Test the plan against a change in payment terms.** Suppliers and customers can move cash needs by months without any change in the product. The chapter [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped) works through a dated cash plan when expected money arrives late; the same method applies when cash is demanded early.
+- **Ask for the cash and financing context before committing to a transformation timetable.** Use the bridge from earnings to available cash in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow): start from operating cash flow, check whether interest paid and working-capital movements are already inside it (here they were), then subtract capital expenditure and the scheduled repayments of principal or other financing payments not already counted. Each payment enters the calculation once. A technically feasible plan may be financially infeasible during its transition.
+- **Test the plan against a change in payment terms.** Suppliers and customers can move cash needs by months without any change in the product. The chapter [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays) works through a dated cash plan when expected money arrives late; the same method applies when cash is demanded early.
 - **Define the full customer outcome.** Digital sales growth isn't the same as a competitive, profitable business whose stores and online services work together. Measure what the online channel earns after its costs, such as shipping, and what it depends on in stores, warehouses and systems, rather than treating a new sales channel as a sufficient answer.
 - **Distinguish a necessary intervention from a sufficient rescue.** A platform improvement may be worth doing while still unable to make the whole business pay. Leaders should say where that boundary lies, and keep the consequences of failure for employees and suppliers visible in the decision record.
 

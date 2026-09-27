@@ -26,9 +26,9 @@ A **minority investor** holds less than half the shares but may have negotiated 
 
 **Figure 1:** *Three chapters rest on shared evidence and lead to accountable decisions; pressure can reopen the arrangements.*
 
-- [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) asks who can decide and deliver: who proposes, approves, funds and delivers one piece of work.
-- [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets) asks what each party gains or risks: leaders through shares (equity), the fund manager through its share of investment profits (carry, short for carried interest), employees through jobs.
-- [Assess Investor Fit: Behavior Under Pressure](#investor-under-pressure) asks how the relationship handles pressure, judged by the investor's behavior when results fell short of the plan.
+- [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority) asks who can decide and deliver: who proposes, approves, funds and delivers one piece of work.
+- [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes) asks what each party gains or risks: leaders through shares (equity), the fund manager through its share of investment profits (carry, short for carried interest), employees through jobs.
+- [Assess Investor Fit: Behavior Under Pressure](#assess-investor-fit) asks how the relationship handles pressure, judged by the investor's behavior when results fell short of the plan.
 - The Part IV chapter [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) supplies the facts these three chapters assume: numbers from existing sources, defined once, kept accurate by a named person, with forecasts (what may happen) never read as results (what actually happened).
 
-Begin with [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides). Part III then sets up the working arrangement with the investor and the help it can bring; Part IV uses both to choose and deliver product and technology investments.
+Begin with [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority). Part III then sets up the working arrangement with the investor and the help it can bring; Part IV uses both to choose and deliver product and technology investments.

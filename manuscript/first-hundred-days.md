@@ -1,7 +1,7 @@
 {id: first-hundred-days}
 # 35. Plan the First Hundred Days: Turn Expectations Into Funded Work
 
-![Plan the First Hundred Days: Turn Expectations Into Funded Work — logo](private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/logo.jpeg)
+![Plan the First Hundred Days: Turn Expectations Into Funded Work — logo](private-techuity/posts/32-first-hundred-days/assets/images/32-first-hundred-days/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to turn one finding from **due diligence**, the investigation an investor makes before investing, into a plan with an accountable person, approved money, protected engineering time and decision dates, and let the day-100 review change that plan.
 
@@ -28,7 +28,7 @@ A deal can change the company’s money, its owners’ rights, the expectations 
 {id: first-hundred-days--setting-up-the-example-larkspur-after-its-growth-investment}
 ## Setting Up the Example: Larkspur After Its Growth Investment
 
-**Larkspur**, the fictional company this book follows, sells scheduling software: businesses use it to decide which of their field staff does which job, and when. Every new customer needs **onboarding**, also called **implementation**: Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use. The chapter [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan) followed the investigation before a **growth investment** in Larkspur, an investment meant to pay for the company’s expansion. That investigation produced three important findings.
+**Larkspur**, the fictional company this book follows, sells scheduling software: businesses use it to decide which of their field staff does which job, and when. Every new customer needs **onboarding**, also called **implementation**: Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use. The chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) followed the investigation before a **growth investment** in Larkspur, an investment meant to pay for the company’s expansion. That investigation produced three important findings.
 
 Five people and the board carry the example:
 
@@ -39,7 +39,7 @@ Five people and the board carry the example:
 - **Morgan** is the investor’s technology adviser, who ran the technical part of the investigation.
 - The **board** is the group of directors who oversee the company and approve its major decisions and spending.
 
-Every figure is fictional. The same Larkspur figures run through the chapters [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything), [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore), [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) and [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations). The first step is to establish what the investment actually changed at Larkspur.
+Every figure is fictional. The same Larkspur figures run through the chapters [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) and [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover). The first step is to establish what the investment actually changed at Larkspur.
 
 {id: first-hundred-days--what-actually-changed}
 ## What Actually Changed
@@ -62,7 +62,7 @@ Other arrangements change different things:
 - A **buyout** transfers control of the company to the buyer. When the purchase is partly paid with borrowed money, it may also add repayment obligations; establish which entity owes them, because the borrowing may sit with the buyer rather than with the company.
 - In a **corporate acquisition**, another operating company buys the business. It becomes the parent, and decisions about combining systems and teams follow.
 
-The chapter [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need) compares those arrangements. The method below is the same for each; begin with what changed in money, rights, dependencies and expectations. A further round does not necessarily replace the founder or management, and a buyout does not make every existing practice wrong.
+The chapter [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices) compares those arrangements. The method below is the same for each; begin with what changed in money, rights, dependencies and expectations. A further round does not necessarily replace the founder or management, and a buyout does not make every existing practice wrong.
 
 {id: first-hundred-days--confirm-the-inherited-finding-with-the-people-who-will-deliver-it}
 ## Confirm the Inherited Finding With the People Who Will Deliver It
@@ -105,7 +105,7 @@ The research item concerns a **customer portal**, a website where customers coul
 
 **Capacity.** The plan allocates 18 of the 24 engineer-weeks and keeps 6 in reserve. Two other demands on people sit outside the 24, and each is counted on its own.
 
-ONB-1 needs the implementation specialist for twelve consecutive weeks. That is implementation time, not engineering time, so it is neither part of ONB-1’s twelve engineer-weeks nor added to them. While the specialist works on the pilot, the ordinary setup queue goes to a **contract implementation specialist**, an outside person Larkspur engaged before day 0 to work through the queue for twelve months. That contract costs €150,000, paid from the operating budget, not from the envelope. The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) explains it.
+ONB-1 needs the implementation specialist for twelve consecutive weeks. That is implementation time, not engineering time, so it is neither part of ONB-1’s twelve engineer-weeks nor added to them. While the specialist works on the pilot, the ordinary setup queue goes to a **contract implementation specialist**, an outside person Larkspur engaged before day 0 to work through the queue for twelve months. That contract costs €150,000, paid from the operating budget, not from the envelope. The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) explains it.
 
 KNW-1 uses two existing people. The scheduling specialist gives four weeks to teaching. The second engineer, who already works on the engine, spends about the same four weeks alongside the specialist during the first 60 days, on real releases and a recovery rehearsal. That is about eight person-weeks, set aside from the operating team’s ordinary time before the 24 were counted, so no week is counted twice.
 
@@ -115,7 +115,7 @@ Both KNW-1 participants’ salaries are already in the operating budget, which i
 
 **Continuing cost.** Maintaining the setup step will cost €30,000 a year from the next **financial year**, the company’s next annual accounting period. That cost sits in the operating budget, not in the envelope, and it must not disappear from the continuing plan.
 
-**The recovery objective.** REC-1 tests against the objective agreed in the chapter [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore). **Dispatch**, customers’ daily assignment of jobs to their staff, must resume within four hours of a failure, with no more than fifteen minutes of schedule updates lost. It is an agreed fictional objective, not a legal standard.
+**The recovery objective.** REC-1 tests against the objective agreed in the chapter [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience). **Dispatch**, customers’ daily assignment of jobs to their staff, must resume within four hours of a failure, with no more than fifteen minutes of schedule updates lost. It is an agreed fictional objective, not a legal standard.
 
 **The decision rule, agreed before the pilot started.** Priya measures the cohort’s average staff hours per implementation at day 90, and reports customer waiting time beside it. The board will act on the average like this:
 
@@ -125,7 +125,7 @@ Both KNW-1 participants’ salaries are already in the operating budget, which i
 | 60 to 70 hours | Fund the next learning step; keep expansion and hiring postponed |
 | Over 70 hours, or no reduction | Reopen hiring, a narrower target or the question of how the work is financed |
 
-These are decision thresholds, not the target. The plan’s illustrative model, explained in the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), assumed the pilot would bring effort down to 50 hours.
+These are decision thresholds, not the target. The plan’s illustrative model, explained in the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), assumed the pilot would bring effort down to 50 hours.
 
 **Unselected work remains visible.** A short priority list is not permission to postpone an important risk without a decision. Larkspur **deferred**, or postponed with a recorded decision, three items: the full customer-portal build (€220,000 and 12 engineer-weeks; only the €20,000 of research is funded); second-country expansion (moved out of year one during diligence and conditional on ONB-1 evidence); and hiring two implementation specialists (about €300,000 a year, every year, pending pilot evidence). Distinguish active priorities, accepted risks, monitored conditions and later opportunities. Each postponed important risk still needs someone authorized to say it is accepted or monitored.
 
@@ -138,7 +138,7 @@ These are decision thresholds, not the target. The plan’s illustrative model, 
 
 This plan does not promise that the second country is open by day 100. It creates the evidence needed to **fund and sequence that expansion**. A short early plan should reduce uncertainty and establish capability, not disguise a multi-year program as a quick win.
 
-![Ideas become operating commitments when outcomes, responsibility, funding, capacity and review dates are agreed.](private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/priorities-become-commitments.jpeg)
+![Ideas become operating commitments when outcomes, responsibility, funding, capacity and review dates are agreed.](private-techuity/posts/32-first-hundred-days/assets/images/32-first-hundred-days/priorities-become-commitments.jpeg)
 
 **Figure 1:** *An early priority list becomes a plan through explicit decisions and resources.*
 
@@ -149,7 +149,7 @@ A **dependency** is something that must happen first. Map dependencies before pr
 
 Separate actions useful under several plausible plans from investments that depend on an assumption still being tested. REC-1 and KNW-1 are worthwhile whether or not the second country opens. ONB-1 is the learning step that improves the larger decision, which is why it was funded first and expansion was not.
 
-![Projects that depend on the same specialist or prerequisite need deliberate sequencing.](private-techuity/posts/32-first-hundred-days/assets/images/22-first-hundred-days/dependencies-before-parallel-projects.jpeg)
+![Projects that depend on the same specialist or prerequisite need deliberate sequencing.](private-techuity/posts/32-first-hundred-days/assets/images/32-first-hundred-days/dependencies-before-parallel-projects.jpeg)
 
 **Figure 2:** *Adding projects cannot create the capacity or prerequisites they depend on.*
 
@@ -162,7 +162,7 @@ The time records hold only totals, so the baseline added an estimate the sample 
 {id: first-hundred-days--investor-support-inside-the-plan}
 ## Investor Support Inside the Plan
 
-ONB-1 uses outside specialist support, agreed through the **engagement charter** developed in the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#useful-engagement). The charter is the written agreement for that support: the specialist’s days, the company engineering effort, the customer sessions, Priya as the accountable company leader, an investor-side sponsor named by role and a review at engagement week six.
+ONB-1 uses outside specialist support, agreed through the **engagement charter** developed in the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help). The charter is the written agreement for that support: the specialist’s days, the company engineering effort, the customer sessions, Priya as the accountable company leader, an investor-side sponsor named by role and a review at engagement week six.
 
 The specialist’s ten days over six weeks, capped at a fictional €1,500 a day, are €15,000, charged to ONB-1’s €180,000 rather than added to it. Engagement weeks count from day 21, when the specialist starts, after the baseline exists. Coordinate any investor-sponsored support through company leadership and one view of capacity, and make the purpose of any assessment clear to the people involved.
 
@@ -173,7 +173,7 @@ At day 100 the board asked what was learned and what the company can now do, not
 
 **REC-1, the restore.**
 
-- *Outcome:* the day-45 restore took eleven hours and missed the four-hour objective. It hit the same two obstacles as in the chapter [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore). First, the **credential**, the access information for the backup store, belonged to an engineer who had left. Second, the backups could only be loaded into one particular release of the **database** software, and that release was no longer available. The database is the program that stores the service’s data.
+- *Outcome:* the day-45 restore took eleven hours and missed the four-hour objective. It hit the same two obstacles as in the chapter [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience). First, the **credential**, the access information for the backup store, belonged to an engineer who had left. Second, the backups could only be loaded into one particular release of the **database** software, and that release was no longer available. The database is the program that stores the service’s data.
 - *Implication:* the €80,000 and four engineer-weeks had gone into the restore environment, access to the backup store, backups every fifteen minutes and the test itself. They could not be recovered, and they were not a reason to spend more; the correction was justified because the objective is still owed to customers. The restore environment is kept on the same database release as the **live service**, the one customers use. Credentials are held in a controlled store, with an emergency procedure that either of two named people can carry out. And the rehearsal is written down. It needed about €20,000 and two engineer-weeks more.
 - *Decision:* money from the reserve needs the board, so Ines took the request to the board, which approved it around day 47 with a retest by day 85. Committed spending rose to €300,000 and 20 engineer-weeks; the reserve fell to €200,000 and 4 engineer-weeks.
 - *Retest:* at day 85 dispatch resumed within four hours, with under fifteen minutes of lost updates. That proves recovery from one kind of failure: loss of the **application environment**, the servers, database and settings the service runs on. The test assumed the surrounding cloud **region** was still working. A region is one geographic group of the cloud provider’s data centres. An outage of the whole region was not tested. REC-1 closed at €100,000. Ines accepted the remaining risk on the board’s behalf, with a quarterly retest: a regional failure, a rehearsal run only on a weekday, and the fact that only two people can carry out the credential procedure. Finding the obstacles at day 45 gave the team time to correct them before a real failure.
@@ -183,7 +183,7 @@ At day 100 the board asked what was learned and what the company can now do, not
 **ONB-1, the pilot.**
 
 - *Outcome:* Priya measured the cohort of eight customers at day 90 against the day-20 baseline. Effort fell from 80 to 62 hours per implementation, short of the 50 hours the illustrative model assumed. About 40% of the remaining hours traced to customer data quality, so Alex’s explanation was partly supported and Morgan’s was not wrong either. Customer waiting time was unchanged, which only the separate measurement showed. Errors and customers’ requests for help did not rise.
-- *Implication:* 62 hours falls in the 60–70 band of the rule. The observed reduction is 8 × 18 = 144 hours; any annual figure built on it is a projection, and the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue) shows how far it can be carried. With the same staff hours, 62 hours per implementation covers about 1.3 times as many customers (80 ÷ 62). The revised thesis needs 1.5 times, which would take about 53 hours.
+- *Implication:* 62 hours falls in the 60–70 band of the rule. The observed reduction is 8 × 18 = 144 hours; any annual figure built on it is a projection, and the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) shows how far it can be carried. With the same staff hours, 62 hours per implementation covers about 1.3 times as many customers (80 ÷ 62). The revised thesis needs 1.5 times, which would take about 53 hours.
 - *Money and time:* by day 100 ONB-1 had incurred about €90,000 of its €180,000 and used about ten of its twelve engineer-weeks.
 
 **Portal research.** Complete by day 100 inside its €20,000 and two engineer-weeks, all incurred. Its findings went to the review, and the build stays postponed.
@@ -242,7 +242,7 @@ The handover record carries D-3 and ONB-1 forward with the baseline, the committ
 
 Completing every planned task is not success if the tasks addressed the wrong constraint. Revising a major assumption is a valuable outcome even when it reduces the original growth forecast, and the review should reward that judgment rather than the preservation of the deal story. The early period should leave a plan whose accountable leaders understand the work, whose funding and capacity are credible, and whose assumptions can be reviewed.
 
-The plan above assumes the money it was built on arrives when expected. The chapter [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped), in Part IV, takes the same kind of dated plan and asks what changes when financing slips. The continuing obligations this plan creates, including D-3 with its baseline and open work, are handed to the next owner in the next chapter, [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations).
+The plan above assumes the money it was built on arrives when expected. The chapter [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays), in Part IV, takes the same kind of dated plan and asks what changes when financing slips. The continuing obligations this plan creates, including D-3 with its baseline and open work, are handed to the next owner in the next chapter, [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
 
 {id: first-hundred-days--questions-to-consider}
 ## Questions to Consider

@@ -9,7 +9,7 @@
 >
 > * **Sources are listed because they were consulted.** Each entry identifies the document, the version and date consulted, the evidence type, the material limits on the reading and the chapters that cite it.
 > * **Source interests and evidence strength matter.** Company announcements, investor accounts, guidance documents and original research answer different questions and need different qualifications.
-> * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are the author’s proposals.
+> * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are my proposals.
 
 > **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
 >
@@ -26,27 +26,27 @@ Use this table to find evidence by question. A source can appear under more than
 
 | Topic | Identifiers | Start with |
 | --- | --- | --- |
-| Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate), [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
-| Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget) |
-| Governance, rights and incentives | S01, S02, S04, S61, S76 | [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets), [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring) |
+| Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [Understand Valuation: An Estimate, Not a Fact](#understand-valuation), [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
+| Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow) |
+| Governance, rights and incentives | S01, S02, S04, S61, S76 | [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) |
 | Trust, cooperation and team dysfunctions | S119 | [Where Investment Can Go Wrong](#where-investment-goes-wrong) |
-| Workforce reductions and employment process | S77, S78 | [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) |
-| Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75 | [Assess Capability: Can the Team Deliver?](#can-the-team-deliver), [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#cheaper-cloud-bill) |
-| Security and resilience | S17 | [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore) |
-| AI evidence | S18, S19, S20, S21, S63 | [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions) |
-| Investor support and advisers | S22, P01, P02 | [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser), [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability) |
+| Workforce reductions and employment process | S77, S78 | [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down) |
+| Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75 | [Assess Capability: Can the Team Deliver?](#assess-capability), [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs) |
+| Security and resilience | S17 | [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience) |
+| AI evidence | S18, S19, S20, S21, S63 | [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy) |
+| Investor support and advisers | S22, P01, P02 | [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role), [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help) |
 | Investor-organized learning, peer communities and shared resources | S101–S105 | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) |
 | Data foundations, analytics practice and shared evidence | S106–S109 | [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) |
 | Grounded Architecture applied across a portfolio | S106, S110–S115 | [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio) |
-| Technology operating partners, leadership roles and AI support | S79–S90 | [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner) |
-| Operating-model blueprints and investor–company working arrangements | S01, S91–S100 | [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints) |
+| Technology operating partners, leadership roles and AI support | S79–S90 | [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners) |
+| Operating-model blueprints and investor–company working arrangements | S01, S91–S100 | [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support) |
 | Case: Hilton and Skype | S23, S24, S25, S26, S27, S28, S29, S64, S65, S116, S117 | [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) |
 | Case: Visma | S30, S31, S32, S33, S43, S44, S62 | [Visma: Continuity of Manager Is Not Continuity of Money](#visma) |
 | Case: Toys R Us | S34, S35, S36, S37, S40, S41, S50, S51, S118 | [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us) |
 | Case: TeamSystem | S45, S46, S47, S48, S49, S66, S67, S68, S69, S70, S71 | [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) |
 | Wider research on ownership outcomes | S08, S09, S10, S11, S12, S39, S42 | [Success for Whom, and for How Long?](#success-for-whom) |
 
-The historical cases and the outcome research concern private equity. Venture, expansion and corporate funding are supported by institutional guidance (S58–S61) and introductory regulator material (S54–S57), which describe funding forms and the existence of distinct venture financing documents. Those sources support the book’s financial orientation; they do not establish comparative investor performance, and they are not additional case studies. Comparisons across ownership models elsewhere in the book use explicitly fictional scenarios and the author’s reasoning about stated constraints. Transferring a question about funding, rights or capacity to another ownership model is different from transferring a causal finding.
+The historical cases and the outcome research concern private equity. Venture, expansion and corporate funding are supported by institutional guidance (S58–S61) and introductory regulator material (S54–S57), which describe funding forms and the existence of distinct venture financing documents. Those sources support the book’s financial orientation; they do not establish comparative investor performance, and they are not additional case studies. Comparisons across ownership models elsewhere in the book use explicitly fictional scenarios and my reasoning about stated constraints. Transferring a question about funding, rights or capacity to another ownership model is different from transferring a causal finding.
 
 {id: bibliography--how-to-read-and-use-an-entry}
 ## How to Read and Use an Entry
@@ -63,14 +63,14 @@ For a first reading, follow the citations attached to the chapter you are studyi
 {id: bibliography--proposed-methods-and-empirical-evidence}
 ## Proposed Methods and Empirical Evidence
 
-The historical cases, filings and research studies are evidence about what happened in particular settings, within the limits each entry states. The templates, checklists, fictional calculations, the Larkspur examples and the Technology Principal example role are proposed methods: the author’s reasoning about how to work under the conditions the evidence describes. No source on this page validates those methods. The studies were not designed to test them, the guidance documents describe practices rather than measure their effect, and the private inputs supply ideas rather than operating results. Judge a method by whether it fits your decision, not by the citations near it.
+The historical cases, filings and research studies are evidence about what happened in particular settings, within the limits each entry states. The templates, checklists, fictional calculations, the Larkspur examples and the Technology Principal example role are proposed methods: my reasoning about how to work under the conditions the evidence describes. No source on this page validates those methods. The studies were not designed to test them, the guidance documents describe practices rather than measure their effect, and the private inputs supply ideas rather than operating results. Judge a method by whether it fits your decision, not by the citations near it.
 
 {id: bibliography--evidence-used-versus-further-reading}
 ## Evidence Used Versus Further Reading
 
-The main chapters end with a “To Probe Further” list; the reading guide, the part introductions and the reference pages do not. Those lists are optional reading, chosen to help a reader go deeper on the chapter’s subject. Their one-sentence annotations were checked for scope, meaning that the description stays within what the resource covers. They are not part of this consulted-evidence register unless the same resource also carries an S identifier, and a chapter’s argument does not rest on them. Listing a resource there does not mean the author consulted it for the book’s claims. Where a chapter’s claim depends on a source, that source is cited inline with an S or P identifier and appears below.
+The main chapters end with a “To Probe Further” list; the reading guide, the part introductions and the reference pages do not. Those lists are optional reading, chosen to help a reader go deeper on the chapter’s subject. Their one-sentence annotations were checked for scope, meaning that the description stays within what the resource covers. They are not part of this consulted-evidence register unless the same resource also carries an S identifier, and a chapter’s argument does not rest on them. Listing a resource there does not mean I consulted it for the book’s claims. Where a chapter’s claim depends on a source, that source is cited inline with an S or P identifier and appears below.
 
-The chapter [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate) cites Gornall and Strebulaev on unicorn valuations and says reported post-money valuations averaged “about 50%” above the authors’ modeled fair values. That is the figure in the [2017 NBER working paper](https://www.nber.org/papers/w23895), which reports an average of 50% above fair value with 15 of the 135 US unicorns more than 100% above. The version published in the *Journal of Financial Economics* 135(1), 2020, pp. 120–143 reports 48%, with 14 more than 100% above. The chapter links the working paper and names the journal version, and “about 50%” covers both estimates; the direction is the source’s own. Reported values average roughly half again above modeled fair value, which is not the same statement as fair values being 50% below reported values, and an average ratio cannot be inverted to obtain the average of the reverse ratio.
+The chapter [Understand Valuation: An Estimate, Not a Fact](#understand-valuation) cites Gornall and Strebulaev on unicorn valuations and says reported post-money valuations averaged “about 50%” above the authors’ modeled fair values. That is the figure in the [2017 NBER working paper](https://www.nber.org/papers/w23895), which reports an average of 50% above fair value with 15 of the 135 US unicorns more than 100% above. The version published in the *Journal of Financial Economics* 135(1), 2020, pp. 120–143 reports 48%, with 14 more than 100% above. The chapter links the working paper and names the journal version, and “about 50%” covers both estimates; the direction is the source’s own. Reported values average roughly half again above modeled fair value, which is not the same statement as fair values being 50% below reported values, and an average ratio cannot be inverted to obtain the average of the reverse ratio.
 
 {id: bibliography--public-evidence}
 ## Public Evidence
@@ -82,7 +82,7 @@ U.S. Securities and Exchange Commission, Investor.gov. [Private Equity Funds](ht
 
 **Evidence type:** Regulator education. **Consulted scope:** Guide consulted for fund structure, investment forms, illiquidity, and investor considerations. An introduction, not a particular fund agreement. Rechecked September 13, 2026 for the distinction between controlling and minority investment strategies. Fees, expense allocation and portfolio-company service-payment conflicts rechecked September 21, 2026 for the operating-model chapter; the guide does not determine a particular company’s charging arrangement.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics), [Glossary](#glossary), [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics), [Glossary](#glossary), [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s02-ilpa-principles}
 ### S02 — ILPA principles
@@ -91,7 +91,7 @@ Institutional Limited Partners Association (ILPA). [ILPA Principles 3.0: Fosteri
 
 **Evidence type:** LP industry guidance. **Consulted scope:** Selected sections on alignment, economics, governance, transparency, and continuation transactions. An LP perspective and voluntary principles, not law or proof of universal practice.
 
-**Used in:** [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets), [Assess Investor Fit: Behavior Under Pressure](#investor-under-pressure), [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations), [Glossary](#glossary).
+**Used in:** [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes), [Assess Investor Fit: Behavior Under Pressure](#assess-investor-fit), [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover), [Glossary](#glossary).
 
 {id: bibliography--s03-kaplan-and-stromberg}
 ### S03 — Kaplan and Strömberg
@@ -100,7 +100,7 @@ Steven N. Kaplan and Per Strömberg. [Leveraged Buyouts and Private Equity](http
 
 **Evidence type:** Academic synthesis. **Consulted scope:** Abstract, introduction, and selected discussion of mechanisms consulted. Cite this working-paper version; a journal version appeared in 2009. DOI: 10.3386/w14207. Historical evidence does not establish current market averages.
 
-**Used in:** [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns), [Glossary](#glossary).
+**Used in:** [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns), [Glossary](#glossary).
 
 {id: bibliography--s04-pe-practitioner-survey}
 ### S04 — PE practitioner survey
@@ -109,7 +109,7 @@ Paul Gompers, Steven N. Kaplan, and Vladimir Mukharlyamov. [What Do Private Equi
 
 **Evidence type:** Original survey research. **Consulted scope:** Working-paper abstract and indexed overview consulted, not the full underlying survey dataset. Self-reported practices of 79 firms; not independent verification of their performance. DOI: 10.3386/w21133.
 
-**Used in:** [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need), [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides).
+**Used in:** [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices), [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority).
 
 {id: bibliography--s05-ilpa-performance-guidance}
 ### S05 — ILPA performance guidance
@@ -127,7 +127,7 @@ U.S. Securities and Exchange Commission, Division of Corporation Finance. [Non-G
 
 **Evidence type:** Regulator staff guidance. **Consulted scope:** Relevant EBITDA and adjusted-measure interpretations consulted. US disclosure context; not a universal accounting definition for every private company.
 
-**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget), [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate), [Glossary](#glossary).
+**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Understand Valuation: An Estimate, Not a Fact](#understand-valuation), [Glossary](#glossary).
 
 {id: bibliography--s07-ias-38-overview}
 ### S07 — IAS 38 overview
@@ -136,7 +136,7 @@ IFRS Foundation. [IAS 38: Intangible Assets](https://www.ifrs.org/issued-standar
 
 **Evidence type:** Accounting standard issuer. **Consulted scope:** Public overview consulted for research expense and development recognition criteria. The overview was rechecked on September 13, 2026 to clarify that recognition criteria determine the treatment. The complete standard and any particular company's application were not audited.
 
-**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget), [Glossary](#glossary).
+**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Glossary](#glossary).
 
 {id: bibliography--s08-davis-et-al-2024-revision}
 ### S08 — Davis et al., 2024 revision
@@ -163,7 +163,7 @@ Shai Bernstein, Josh Lerner, and Filippo Mezzanotti. [Private Equity and Financi
 
 **Evidence type:** Original empirical research. **Consulted scope:** PDF abstract, introduction, sample and selected mechanism discussion consulted. UK financial-crisis setting and matched observational design limit generalization. Journal version appeared in 2019. DOI: 10.3386/w23626.
 
-**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget), [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Success for Whom, and for How Long?](#success-for-whom).
 
 {id: bibliography--s11-gupta-et-al-nursing-homes}
 ### S11 — Gupta et al., nursing homes
@@ -190,7 +190,7 @@ Nicole Forsgren, Margaret-Anne Storey, Chandra Maddila, Tom Zimmermann, Brian Ho
 
 **Evidence type:** Original research framework. **Consulted scope:** Author-hosted publication page and abstract consulted; ACM page was inaccessible. Supports a multidimensional productivity frame, not a formula assigning economic value to each dimension.
 
-**Used in:** [Assess Capability: Can the Team Deliver?](#can-the-team-deliver), [Glossary](#glossary).
+**Used in:** [Assess Capability: Can the Team Deliver?](#assess-capability), [Glossary](#glossary).
 
 {id: bibliography--s14-dora-metrics-guide}
 ### S14 — DORA metrics guide
@@ -199,7 +199,7 @@ DORA. [DORA's Software Delivery Performance Metrics](https://dora.dev/guides/dor
 
 **Evidence type:** Original practitioner research guidance. **Consulted scope:** Current guide consulted. Metric definitions have evolved; this draft notes five current delivery-performance metrics rather than treating the historical four as timeless.
 
-**Used in:** [Assess Capability: Can the Team Deliver?](#can-the-team-deliver), [Glossary](#glossary).
+**Used in:** [Assess Capability: Can the Team Deliver?](#assess-capability), [Glossary](#glossary).
 
 {id: bibliography--s15-dora-2024-report}
 ### S15 — DORA 2024 report
@@ -208,7 +208,7 @@ DORA / Google Cloud. [2024 Accelerate State of DevOps Report](https://dora.dev/r
 
 **Evidence type:** Original industry survey. **Consulted scope:** Report landing page, findings summary, and errata consulted; no independent reanalysis of the full survey. Associations support questions about operating conditions, not automatic causal or financial claims.
 
-**Used in:** [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring).
+**Used in:** [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up).
 
 {id: bibliography--s16-finops-unit-economics}
 ### S16 — FinOps unit economics
@@ -217,7 +217,7 @@ FinOps Foundation. [Unit Economics](https://www.finops.org/framework/capabilitie
 
 **Evidence type:** Practitioner framework. **Consulted scope:** Capability guidance consulted for connecting cost with business units and value. All manuscript euro examples are fictional calculations.
 
-**Used in:** [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#cheaper-cloud-bill), [Glossary](#glossary).
+**Used in:** [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs), [Glossary](#glossary).
 
 {id: bibliography--s17-nist-csf-2-0}
 ### S17 — NIST CSF 2.0
@@ -226,7 +226,7 @@ National Institute of Standards and Technology (NIST). [The NIST Cybersecurity F
 
 **Evidence type:** Government framework. **Consulted scope:** Framework overview, functions, governance, and implementation orientation consulted. A structure for risk management, not evidence that adopting it eliminates incidents. DOI: 10.6028/NIST.CSWP.29.
 
-**Used in:** [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore), [Glossary](#glossary).
+**Used in:** [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), [Glossary](#glossary).
 
 {id: bibliography--s18-nist-generative-ai-profile}
 ### S18 — NIST generative AI profile
@@ -235,7 +235,7 @@ Chloe Autio, Reva Schwartz, Jesse Dunietz, Shomik Jain, Martin Stanley, Elham Ta
 
 **Evidence type:** Government framework. **Consulted scope:** Risk categories and management orientation consulted. Applies as a question structure; no claim of certification or quantified loss reduction. DOI: 10.6028/NIST.AI.600-1.
 
-**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions).
+**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy).
 
 {id: bibliography--s19-peng-et-al-copilot-experiment}
 ### S19 — Peng et al., Copilot experiment
@@ -244,7 +244,7 @@ Sida Peng, Eirini Kalliamvakou, Peter Cihon, and Mert Demirer. [The Impact of AI
 
 **Evidence type:** Original controlled experiment. **Consulted scope:** Original abstract and task description consulted. A recheck on September 13, 2026 covered the [study design and results](https://arxiv.org/html/2302.06590v1): the experiment ran in 2022, and the 55.8% figure is a reduction in average completion time among those who completed the task. The bounded task, tool generation and industry affiliations limit interpretation.
 
-**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions).
+**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy).
 
 {id: bibliography--s20-metr-early-2025-experiment}
 ### S20 — METR early-2025 experiment
@@ -253,7 +253,7 @@ METR. [Measuring the Impact of Early-2025 AI on Experienced Open-Source Develope
 
 **Evidence type:** Original randomized experiment report. **Consulted scope:** Study report, setting, headline result, and limits consulted. Experienced developers on familiar repositories; not every developer, task, or later model.
 
-**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions).
+**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy).
 
 {id: bibliography--s21-metr-2026-update}
 ### S21 — METR 2026 update
@@ -262,7 +262,7 @@ Joel Becker, Nate Rush, Tom Cunningham, David Rein, and Khalid Mahamud; METR. [W
 
 **Evidence type:** Original research update. **Consulted scope:** Full update consulted. Selection and participation changes undermine a simple interpretation of later speed estimates; the chapter does not present those estimates as a settled current effect.
 
-**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions).
+**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy).
 
 {id: bibliography--s22-kkr-capstone-description}
 ### S22 — KKR Capstone description
@@ -271,7 +271,7 @@ KKR. [Capstone](https://www.kkr.com/approach/capstone). Undated capability page;
 
 **Evidence type:** Interested practitioner account. **Consulted scope:** Operating-support description consulted. Evidence of a stated offering and collaboration model; no causal attribution of returns or universal role charter. Rechecked September 13, 2026 for the investor-support chapters: management collaboration, specialist and partner networks, technology, growth and people support.
 
-**Used in:** [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), [Assess Investor Fit: Behavior Under Pressure](#investor-under-pressure), [Choose the Right Help: Compare Investor Support With Other Options](#help-that-changes-capability).
+**Used in:** [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), [Assess Investor Fit: Behavior Under Pressure](#assess-investor-fit), [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help).
 
 {id: bibliography--s23-hilton-registration-filing}
 ### S23 — Hilton registration filing
@@ -289,7 +289,7 @@ The Blackstone Group L.P. [Second Quarter 2018 Earnings Investor Call](https://i
 
 **Evidence type:** Interested investor account. **Consulted scope:** Hilton realization discussion consulted for sponsor-reported 3.1× multiple and $14 billion profit. Not an independently reconstructed net LP cash-flow series.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype), [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations).
+**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype), [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
 
 {id: bibliography--s25-pei-hilton-retrospective}
 ### S25 — PEI Hilton retrospective
@@ -316,7 +316,7 @@ Skype S.à r.l., to be converted into Skype S.A. [Amendment No. 3 to Form S-1 Re
 
 **Evidence type:** Company regulatory filing. **Consulted scope:** Prospectus summary pp. 1–4, recent developments, intellectual-property settlement, selected financial data and financing discussion consulted. Pro forma periods, adjusted EBITDA, and management claims require care.
 
-**Used in:** [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first), [Use Diligence: Correct the Plan Before It Is Signed](#diligence-corrects-the-plan), [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations), [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence), [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
 
 {id: bibliography--s28-microsoft-skype-completion}
 ### S28 — Microsoft Skype completion
@@ -343,7 +343,7 @@ Visma. [Visma Attracts New Investors for Further International Expansion in a Tr
 
 **Evidence type:** Company transaction announcement. **Consulted scope:** Transaction valuation, investors, and ownership narrative consulted. Valuation is not proof of cash realized by a particular fund.
 
-**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma), [Manage the Handover: Carry Forward the Evidence and Obligations](#handover-of-obligations).
+**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma), [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
 
 {id: bibliography--s31-visma-q4-2024-report}
 ### S31 — Visma Q4 2024 report
@@ -388,7 +388,7 @@ Toys R Us, Inc. [Toys R Us, Inc. Reports Results for the Full Year and Fourth Qu
 
 **Evidence type:** Company financial disclosure. **Consulted scope:** Release and financial tables consulted, including operating earnings, interest, cash flow, capex, sales, and e-commerce discussion. Fiscal year ended January 28, 2017; table units are USD millions.
 
-**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget), [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
 
 {id: bibliography--s36-toys-r-us-bankruptcy-note}
 ### S36 — Toys R Us bankruptcy note
@@ -532,7 +532,7 @@ International Private Equity and Venture Capital Valuation Board (IPEV). [Intern
 
 **Evidence type:** Industry valuation guidance. **Consulted scope:** Issuer landing page and selected primary PDF sections consulted: introduction, technique selection, revenue/earnings multiples, comparability, DCF and net assets (sections 3.1–3.9; especially pp. 21–25, 29 and 34–37). A recheck on September 13, 2026 additionally covered the enterprise-to-equity adjustments, surplus cash and debt treatment on sale. Not every application section was reviewed. This is fair-value reporting guidance, not a negotiated transaction price, legal standard or prescription for business strategy and architecture.
 
-**Used in:** [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate), [Glossary](#glossary).
+**Used in:** [Understand Valuation: An Estimate, Not a Fact](#understand-valuation), [Glossary](#glossary).
 
 {id: bibliography--s53-damodaran-growth-value-drivers}
 ### S53 — Damodaran growth value drivers
@@ -541,7 +541,7 @@ Aswath Damodaran, NYU Stern School of Business. [Growth companies—Value Driver
 
 **Evidence type:** Original author teaching material. **Consulted scope:** Full short page consulted on scalable revenue growth, sustainable margins and reinvestment. Used for the economic relationship, not as an empirical causal study of software architecture or a current market benchmark. Related growth pages were discovery leads, not additional cited publications.
 
-**Used in:** [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate).
+**Used in:** [Understand Valuation: An Estimate, Not a Fact](#understand-valuation).
 
 {id: bibliography--s54-investor-gov-stock-basics}
 ### S54 — Investor.gov stock basics
@@ -550,7 +550,7 @@ U.S. Securities and Exchange Commission, Investor.gov. [Stocks: FAQs](https://ww
 
 **Evidence type:** Regulator education. **Consulted scope:** Ownership, reasons for issuing shares, dividends and differences between common and preferred shares. Used for introductory definitions, not particular shareholder agreements.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors), [Glossary](#glossary).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), [Glossary](#glossary).
 
 {id: bibliography--s55-investor-gov-public-company-reporting}
 ### S55 — Investor.gov public-company reporting
@@ -559,7 +559,7 @@ U.S. Securities and Exchange Commission, Investor.gov. [Public Companies](https:
 
 **Evidence type:** Regulator education. **Consulted scope:** Different meanings of public company, public-reporting obligations and annual versus quarterly reports. US context; not a universal reporting schedule for every jurisdiction.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors), [Glossary](#glossary).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), [Glossary](#glossary).
 
 {id: bibliography--s56-sba-grant-overview}
 ### S56 — SBA grant overview
@@ -568,7 +568,7 @@ U.S. Small Business Administration. [Grants](https://www.sba.gov/loans/additiona
 
 **Evidence type:** Government program information. **Consulted scope:** Overview and research-and-development grant section. Establishes that eligible grants are another possible funding source; the book does not assess an individual company’s eligibility or promise general startup funding.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations).
 
 {id: bibliography--s57-damodaran-on-capital-structure}
 ### S57 — Damodaran on capital structure
@@ -577,7 +577,7 @@ Aswath Damodaran, NYU Stern School of Business. [Finding the Right Financing Mix
 
 **Evidence type:** Original author teaching material. **Consulted scope:** Introductory financing-choice and debt/equity-mix slides, especially slides 2–8. Used for the capital-structure definition, not historical tax examples, a mandatory company lifecycle or current financing recommendations.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors), [Glossary](#glossary).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), [Glossary](#glossary).
 
 {id: bibliography--s58-venture-capital}
 ### S58 — Venture capital
@@ -586,7 +586,7 @@ British Business Bank. [Venture capital](https://www.british-business-bank.co.uk
 
 **Evidence type:** Public development-bank business guidance. **Consulted scope:** Guide consulted for early-stage equity, minority participation and successive funding rounds. Not evidence of outcomes for the manuscript’s fictional examples; no universal funding or holding timetable is inferred.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations).
 
 {id: bibliography--s59-expansion-capital}
 ### S59 — Expansion capital
@@ -595,7 +595,7 @@ British Business Bank. [Expansion capital](https://www.british-business-bank.co.
 
 **Evidence type:** Public development-bank business guidance. **Consulted scope:** Guide consulted for equity supporting business expansion and possible retention of control. Its typical ranges are not applied as requirements or market-wide estimates.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations).
 
 {id: bibliography--s60-corporate-venture-capital}
 ### S60 — Corporate venture capital
@@ -604,7 +604,7 @@ British Business Bank. [Corporate venture capital (CVC)](https://www.british-bus
 
 **Evidence type:** Public development-bank business guidance. **Consulted scope:** Guide consulted for corporate funding, commercial purposes, expertise and network access. Not a review of corporate acquisition law, specific investor agreements or universal CVC behavior.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations).
 
 {id: bibliography--s61-nvca-model-document-overview}
 ### S61 — NVCA model-document overview
@@ -613,7 +613,7 @@ National Venture Capital Association. [Model Legal Documents — overview](https
 
 **Evidence type:** US venture industry model-document overview. **Consulted scope:** The overview and document list were consulted, including its description of time- or milestone-based financing mechanics. Individual downloadable agreements were not reviewed. The citation supports checking distinct rights, voting and purchase documentation, not a clause-level or jurisdiction-independent legal claim.
 
-**Used in:** [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides).
+**Used in:** [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority).
 
 {id: bibliography--s62-hg-2017-visma-announcement}
 ### S62 — Hg 2017 Visma announcement
@@ -712,7 +712,7 @@ U.S. Securities and Exchange Commission, Investor.gov. [Bonds](https://www.inves
 
 **Evidence type:** Regulator education. **Consulted scope:** The description of a bond as a loan to the issuer, which promises a stated rate of interest over the life of the bond and repayment of the principal, also called face or par value, at maturity. Used for the introductory point that a lender is an investor of a different kind; not a guide to any particular bond or loan agreement.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations).
 
 {id: bibliography--s73-ilpa-whole-of-fund-model-lpa}
 ### S73 — ILPA whole-of-fund model LPA
@@ -739,7 +739,7 @@ Fastly, Inc. [Fourth Quarter and Fiscal Year 2020 Shareholder Letter](https://ww
 
 **Evidence type:** Company financial communication filed with the SEC. **Consulted scope:** The definitions of the two retention measures: a dollar-based net expansion rate computed from customers who remained customers on the last day of the current period, and a separate net retention rate that reflects contraction and churn. Consulted as one filed example of a public software company defining these ratios its own way, which is why a plan should write its own definition down. One company's definitions, not a standard; no claim about Fastly's results or about the ratios' behavior anywhere else.
 
-**Used in:** [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets).
+**Used in:** [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes).
 
 {id: bibliography--s76-avalyn-pharma-investors-rights-agreement}
 ### S76 — Avalyn Pharma investors' rights agreement
@@ -748,7 +748,7 @@ Avalyn Pharma Inc. [Amended and Restated Investors' Rights Agreement, sections 3
 
 **Evidence type:** Filed contract between a company and its investors. **Consulted scope:** Section 3.2, read for a right granted to each major investor and its authorized representatives to visit and inspect the company's properties, examine its corporate and financial records and discuss its affairs, finances and accounts with its officers, during normal business hours, with carve-outs for trade secrets, confidential information and material whose disclosure would affect attorney-client privilege, and excluding investors the board has determined to be competitors. Section 5.4(g), read on September 16, 2026, which lists among the board matters requiring the preferred directors' approval the decision to "hire, terminate, or change the compensation of the executive officers, including approving any option grants or stock awards to executive officers". One filed example showing that such rights are commonly written down in advance; it does not establish what any other company's agreement grants.
 
-**Used in:** [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser), [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring).
+**Used in:** [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up).
 
 {id: bibliography--s77-council-directive-98-59-ec}
 ### S77 — Council Directive 98/59/EC
@@ -757,7 +757,7 @@ Council of the European Union. [Council Directive 98/59/EC of 20 July 1998 on th
 
 **Evidence type:** Union legislation. **Consulted scope:** Article 1(1)(a), the definition (dismissals for reasons not related to the individual workers) and the two alternative tests member states choose between (over 30 days: at least 10 dismissals in establishments normally employing more than 20 and fewer than 100 workers, at least 10% in those employing at least 100 and fewer than 300, at least 30 in those employing 300 or more; or over 90 days: at least 20 whatever the establishment’s size); the second subparagraph of Article 1(1), under which other terminations on the employer’s initiative for reasons unrelated to the individual are assimilated to redundancies provided there are at least five redundancies; Article 2(1) and (2), consultation of workers’ representatives in good time with a view to reaching an agreement, covering ways of avoiding or reducing the redundancies and mitigating their consequences; Article 3(1), written notification of the competent public authority; Article 4(1), the 30-day period after notification before the redundancies take effect, without prejudice to individual notice rights; and Article 5, member states’ freedom to apply more favourable provisions. Rechecked September 16, 2026 for the band boundaries. Minimum requirements that member states transpose and may exceed; not the law of any particular country, and the book does not say which law governs the fictional company. Later amendments were not reviewed.
 
-**Used in:** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff).
+**Used in:** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down).
 
 {id: bibliography--s78-us-warn-act-29-u-s-c-21012102}
 ### S78 — US WARN Act, 29 U.S.C. §§ 2101–2102
@@ -766,7 +766,7 @@ United States Code, Title 29, Chapter 23. [§ 2101, Definitions; exclusions from
 
 **Evidence type:** Federal statute. **Consulted scope:** § 2101(a)(1), employer (100 or more employees excluding part-time employees, or 100 or more who in aggregate work at least 4,000 hours a week exclusive of overtime); (a)(2), plant closing (a shutdown of a single site, or of facilities or operating units within it, causing an employment loss for 50 or more employees excluding part-time employees within any 30-day period); (a)(3), mass layoff (a reduction in force not resulting from a plant closing that causes an employment loss at a single site within any 30-day period for at least 33 percent of the employees and at least 50 employees, or for at least 500, excluding part-time employees); (a)(8), part-time employee; § 2102(a), the 60-day written notice and its recipients (the employees’ representatives or the employees, the state’s rapid-response entity and the chief elected local official); § 2102(b), the reduced-notice exceptions (faltering company, unforeseeable business circumstances, natural disaster); and § 2102(d), aggregation of smaller employment losses within any 90-day period unless they arise from separate and distinct actions and causes. Rechecked September 16, 2026. The implementing regulations at 20 CFR Part 639 and state notice laws were not reviewed.
 
-**Used in:** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff).
+**Used in:** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down).
 
 {id: bibliography--s79-korn-ferry-on-technology-operating-partners}
 ### S79 — Korn Ferry on technology operating partners
@@ -775,7 +775,7 @@ Korn Ferry. [Tech Titans in Private Equity](https://www.kornferry.com/institute/
 
 **Evidence type:** Executive-search practitioner commentary. **Consulted scope:** Web article on role scope, team models and cost allocation. The linked full report was not reviewed. Commercial perspective; no market-wide hiring series or causal return estimate established.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s80-ee-solutions-operating-partner-model}
 ### S80 — EE Solutions operating-partner model
@@ -784,7 +784,7 @@ EE Solutions Editorial Team. [What a Technology Operating Partner Does for Priva
 
 **Evidence type:** Technology-services provider commentary. **Consulted scope:** Definition, lifecycle, diligence continuity, post-close work, AI and shared portfolio capabilities. Describes a commercial service model; client examples and claimed benefits were not independently verified.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s81-redgrave-on-the-technology-operating-partner}
 ### S81 — Redgrave on the technology operating partner
@@ -793,7 +793,7 @@ Rind Bajwa, Redgrave. [Why Technology Operating Partners Are Becoming Essential 
 
 **Evidence type:** Executive-search practitioner commentary. **Consulted scope:** Role scope, company support, recruitment guidance, staff development, organizational design and matching leadership backgrounds to assignments. Talent-management section rechecked 2026-09-20. Commercial perspective; broad CIO/CTO characterizations are not universal job definitions. No market-wide growth rate inferred.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s82-vertex-cio-outsourced-operating-support}
 ### S82 — Vertex CIO outsourced operating support
@@ -802,7 +802,7 @@ Vertex CIO Advisory. [Technology Operating Partner for Private Equity](https://v
 
 **Evidence type:** Advisory-provider service description. **Consulted scope:** Lifecycle coverage, outsourced arrangements and distinction from a company fractional executive. Comparative performance claims, portfolio-size thresholds and suggested intervention timing were not adopted as evidence.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s83-acertitude-on-ai-and-technology-operating-partners}
 ### S83 — Acertitude on AI and technology operating partners
@@ -811,7 +811,7 @@ Jessica Tvelia, Acertitude. [Tech OPs vs. AI Solutions: The New Dilemma for PE O
 
 **Evidence type:** Executive-search practitioner commentary. **Consulted scope:** AI specialization and separate or blended roles. Commercial perspective. Hiring-growth figures and secondary survey statistics were not independently verified and are not used in the chapter.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s84-vaultinum-on-continuing-technology-review}
 ### S84 — Vaultinum on continuing technology review
@@ -820,7 +820,7 @@ Marine Yborra, Vaultinum. [Operating Partner: how to drive value creation during
 
 **Evidence type:** Technology-diligence provider commentary. **Consulted scope:** Revisiting acquisition assumptions during ownership, technology monitoring and exit preparation. The promoted service is not independently validated here. The asserted average holding period is not used.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s85-kkr-capstone-operating-function}
 ### S85 — KKR Capstone operating function
@@ -829,7 +829,7 @@ KKR. [Capstone](https://www.kkr.com/approach/capstone). Living organizational pa
 
 **Evidence type:** Investment firm description of its own practice. **Consulted scope:** Investment assessment, operating plans, implementation, cross-company programs and the digital/technology remit; recruitment, development and retention in the wider operating function. Talent remit rechecked 2026-09-20. Supports existence and stated scope of a function; no independent outcome or causal performance assessment.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s86-blackstone-on-ai-and-operating-support}
 ### S86 — Blackstone on AI and operating support
@@ -838,7 +838,7 @@ Blackstone; interview with John Stecher and Rodney Zemmel. [AI at Scale: A Conve
 
 **Evidence type:** Investment firm interview about its own practice. **Consulted scope:** Questions 2–4 on software diligence, investment workflows and the dedicated AI team. Firm-reported practice; productivity and financial-result claims and wider forecasts were not independently verified or adopted.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s87-gitlab-chief-product-officer-role}
 ### S87 — GitLab Chief Product Officer role
@@ -847,7 +847,7 @@ GitLab. [Chief Product Officer](https://handbook.gitlab.com/job-description-libr
 
 **Evidence type:** Company-published role description. **Consulted scope:** Role purpose and responsibilities: product direction, prioritization and collaboration with engineering. An example from one company, not a universal CPO charter or evidence about current staffing.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s88-ibm-on-varying-cio-and-cto-remits}
 ### S88 — IBM on varying CIO and CTO remits
@@ -856,7 +856,7 @@ IBM Institute for Business Value. [2021 CIO Study: The CIO Revolution](https://w
 
 **Evidence type:** Vendor-sponsored leadership study. **Consulted scope:** CIO–CTO collaboration discussion and “The 3 CIO Mandates” section on organizational variation. Historical framing only; survey percentages, causal claims and a current role-distribution estimate are not used.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s89-govs-005-technology-accountability-and-architecture}
 ### S89 — GovS 005 technology accountability and architecture
@@ -865,7 +865,7 @@ UK Government Digital Service. [Government Functional Standard — GovS 005: Dig
 
 **Evidence type:** UK government functional standard. **Consulted scope:** Scope and sections 4.5.5–4.5.6, particularly the technology accountable officer and supporting Chief Architect. Illustrates one public-sector allocation of responsibilities; its requirements are not applied to private companies.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s90-mackey-on-building-an-operating-partner-track-record}
 ### S90 — Mackey on building an operating-partner track record
@@ -874,7 +874,7 @@ David Mackey, Partner at Albany. [Want to become a tech operating partner at a P
 
 **Evidence type:** Recruiter practitioner commentary on LinkedIn; supplied text copy. **Consulted scope:** Full supplied post text consulted on 2026-09-20: interim, fractional and advisory assignments as a route to portfolio experience; technical diagnosis, versatility, communication and results. Original page, linked graphic, comments and publication date were not independently verified. A recruiter’s practice account, not measured hiring outcomes or a guaranteed route to appointment.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#tech-operating-partner).
+**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
 
 {id: bibliography--s91-mckinsey-on-operating-group-arrangements}
 ### S91 — McKinsey on operating-group arrangements
@@ -883,7 +883,7 @@ McKinsey & Company. [Private equity operating groups and the pursuit of “portf
 
 **Evidence type:** Consultancy survey of operating groups. **Consulted scope:** 2018 survey of 45 firms: variation in team composition, internal and external arrangements, and advisory work. Historical sample, not a current census. No trend estimate from the differently sized 2015/2018 samples, causal return claim or validation of the book’s four blueprints.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s92-mckinsey-on-investment-firm-internal-operations}
 ### S92 — McKinsey on investment-firm internal operations
@@ -892,7 +892,7 @@ McKinsey & Company. [How private equity is tackling operational complexity](http
 
 **Evidence type:** Consultancy survey and practitioner analysis. **Consulted scope:** Opening scope and back-/middle-office discussion, including fund administration and outsourcing. Used to distinguish the investment firm’s own operations from portfolio-company support. Historical scale thresholds, efficiency comparisons and promised digital returns are not adopted.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s93-vistas-shared-operating-capabilities}
 ### S93 — Vista’s shared operating capabilities
@@ -901,7 +901,7 @@ Vista Equity Partners. [Value Creation](https://www.vistaequitypartners.com/abou
 
 **Evidence type:** Investment firm description of its own practice. **Consulted scope:** Value Creation Approach sections: AI engineers working alongside portfolio companies, operating methods, partnerships and peer learning. Establishes an offered capability; performance, preferred pricing and other benefit claims are not independently verified. No universal adoption prescription.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s94-bain-on-operating-improvement-and-integrated-diligence}
 ### S94 — Bain on operating improvement and integrated diligence
@@ -910,7 +910,7 @@ Hugh MacArthur, Claudia Bianchi, Brian Kmet and Brenda Rainey; Bain & Company. [
 
 **Evidence type:** Consultancy industry analysis. **Consulted scope:** Selected discussion of changing deal economics and multidisciplinary diligence linking commercial, operating and technology opportunities. Context for the design problem. Illustrative return arithmetic, forecasts and the claimed outcomes of named deals are not adopted; the full report was not reviewed.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s95-mckinsey-on-company-leaders-using-investor-support}
 ### S95 — McKinsey on company leaders using investor support
@@ -919,7 +919,7 @@ McKinsey & Company. [A playbook for newly minted private equity portfolio-compan
 
 **Evidence type:** Consultancy practitioner guidance informed by interviews. **Consulted scope:** Sections on board engagement, feasible plans and available operating teams, functional experts, advisers and peer networks. Descriptions of arrangements, not universal board authority or an empirically validated operating model. Return targets, prescribed replacement rates and performance multipliers are not used.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s96-spencer-stuart-on-the-investorceo-working-agreement}
 ### S96 — Spencer Stuart on the investor–CEO working agreement
@@ -928,7 +928,7 @@ Jason Hancock, Emily Amdurer, Ali Angier and Harleen Kaur; Spencer Stuart. [Part
 
 **Evidence type:** Executive-search practitioner guidance informed by interviews. **Consulted scope:** Support needs, rules of engagement, jointly developed plans, agreed metrics, reporting and meeting cadence. Commercial practitioner perspective; the chapter’s cadence and blueprint record are proposals. Psychometric claims, rapid-replacement prescriptions and causal performance claims are not adopted.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s97-mckinsey-on-board-involvement-between-meetings}
 ### S97 — McKinsey on board involvement between meetings
@@ -937,7 +937,7 @@ McKinsey & Company. [Climbing the private-equity learning curve](https://www.mck
 
 **Evidence type:** Consultancy commentary informed by CEO interviews. **Consulted scope:** Key differences and learning-curve discussion, particularly engagement between formal meetings and debate over plans. Used as an example of active oversight. Stock-ownership ranges, universal governance assertions, adjustment timelines and causal outperformance claims are not adopted.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s98-mckinsey-on-cash-and-financing-constraints}
 ### S98 — McKinsey on cash and financing constraints
@@ -946,7 +946,7 @@ McKinsey & Company. [The PE company CFO: Essentials for success](https://www.mck
 
 **Evidence type:** Consultancy practitioner guidance informed by interviews. **Consulted scope:** Get clear about the economics and the performance-review discussion: balance sheet, cash flow and relevant debt conditions. Not a claim that every investor-backed company uses acquisition debt. Broad assertions about data quality and specific technology-result examples are not adopted.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s99-mckinsey-on-dedicated-transformation-capacity}
 ### S99 — McKinsey on dedicated transformation capacity
@@ -955,7 +955,7 @@ McKinsey & Company. [Unlocking full potential: Five practices reshaping PE value
 
 **Evidence type:** Consultancy industry and practitioner analysis. **Consulted scope:** Adaptive plans, coordination burden and full-time transformation leadership inside portfolio companies, especially Invest in full-time transformation leadership. Chief transformation officer is distinguished from chief technology officer. Productivity percentages, return claims, execution-speed multipliers and self-funding assertions are not used.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s100-spencer-stuart-on-leaders-stated-partnership-preferences}
 ### S100 — Spencer Stuart on leaders’ stated partnership preferences
@@ -964,7 +964,7 @@ Emily Amdurer, Jason Baumgarten and Jason Hancock; Spencer Stuart. [Private Equi
 
 **Evidence type:** Executive-search survey of 1,015 senior leaders. **Consulted scope:** Sample description and discussion of culture and partnership approach when considering PE roles. Stated preferences in a hypothetical opportunity assessment, not observed operating-model outcomes, a representative view of all employees or evidence of superior investor returns.
 
-**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#operating-model-blueprints).
+**Used in:** [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s101-prosuss-china-learning-visit}
 ### S101 — Prosus’s China learning visit
@@ -1007,7 +1007,7 @@ Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introducti
 
 Željko Obrenović. [CTO Starter Kit start page](https://ctostarter.com/start/index.html) and [GitHub repository](https://github.com/zeljkoobrenovic/cto-starter-kit). Living project; consulted 2026-09-22.
 
-**Evidence type:** Author’s own public resource project. **Consulted scope:** Start-page HTML, repository README and first-90-days configuration. Documents the resource collection, communities directory and controls dashboards. An investor community’s use of this approach is proposed; adoption and effectiveness are not claimed. The chapter explicitly identifies the author’s involvement.
+**Evidence type:** My own public resource project. **Consulted scope:** Start-page HTML, repository README and first-90-days configuration. Documents the resource collection, communities directory and controls dashboards. An investor community’s use of this approach is proposed; adoption and effectiveness are not claimed. I identify my involvement in the chapter.
 
 **Used in:** [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network).
 
@@ -1016,7 +1016,7 @@ Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introducti
 
 Željko Obrenović. [Lightweight Architectural Analytics](https://grounded-architecture.io/analytics), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-22.
 
-**Evidence type:** Author’s own practitioner method, stated as practice rather than study. **Consulted scope:** The chapter page, covering the data sources it curates (source-code repositories and commit history, public-cloud billing, incident reports, business and finance data) and its stated requirements that analytics be curated, current, credible, actionable and accessible. Documents a described practice for the technology landscape; it does not establish measured outcomes, and its extension to the investor relationship is this book’s proposal. The chapter explicitly identifies the author’s involvement.
+**Evidence type:** My own practitioner method, stated as practice rather than study. **Consulted scope:** The chapter page, covering the data sources it curates (source-code repositories and commit history, public-cloud billing, incident reports, business and finance data) and its stated requirements that analytics be curated, current, credible, actionable and accessible. Documents a described practice for the technology landscape; it does not establish measured outcomes, and its extension to the investor relationship is this book’s proposal. I identify my involvement in the chapter.
 
 **Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready), [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
@@ -1025,7 +1025,7 @@ Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introducti
 
 Željko Obrenović. [Building Lightweight Architectural Analytics](https://grounded-architecture.io/data-website), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-22.
 
-**Evidence type:** Author’s own implementation account. **Consulted scope:** Implementation principles and lean techniques — structured data in version control, generation scripts, static pages, collaborative editing, maintainability by a small team. Read for the claim that the method requires curation rather than platform purchase; no deployment results or comparative tooling evidence are established.
+**Evidence type:** My own implementation account. **Consulted scope:** Implementation principles and lean techniques — structured data in version control, generation scripts, static pages, collaborative editing, maintainability by a small team. Read for the claim that the method requires curation rather than platform purchase; no deployment results or comparative tooling evidence are established.
 
 **Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) (formerly the removed appendix on data foundations).
 
@@ -1034,7 +1034,7 @@ Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introducti
 
 Željko Obrenović. [Grounded Architecture: Redefining IT Architecture Practice](https://grounded-architecture.io/). Living book site; consulted 2026-09-22.
 
-**Evidence type:** Author’s own book, consulted for framing. **Consulted scope:** The site’s structure and the placement of Lightweight Architectural Analytics within the framework’s foundations. Recorded so readers can locate the practice in its original context; the present book restates the parts it uses.
+**Evidence type:** My own book, consulted for framing. **Consulted scope:** The site’s structure and the placement of Lightweight Architectural Analytics within the framework’s foundations. Recorded so readers can locate the practice in its original context; the present book restates the parts it uses.
 
 **Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) (formerly the removed appendix on data foundations).
 
@@ -1052,7 +1052,7 @@ Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies B
 
 Željko Obrenović. [Grounded Architecture Framework: Foundations](https://grounded-architecture.io/grounded-architecture), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
 
-**Evidence type:** Author’s own practitioner framework, stated as practice rather than study. **Consulted scope:** The framework overview: its definition, the problem it addresses (architecture disconnected from the organization becoming process theater, document production or central bottlenecking) and its three elements — Lightweight Architectural Analytics, Collaborative Networks and the Operating Model. Describes the framework; establishes no measured outcomes. The appendix that cites it identifies the author’s involvement.
+**Evidence type:** My own practitioner framework, stated as practice rather than study. **Consulted scope:** The framework overview: its definition, the problem it addresses (architecture disconnected from the organization becoming process theater, document production or central bottlenecking) and its three elements — Lightweight Architectural Analytics, Collaborative Networks and the Operating Model. Describes the framework; establishes no measured outcomes. I identify my involvement in the appendix that cites it.
 
 **Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
@@ -1061,7 +1061,7 @@ Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies B
 
 Željko Obrenović. [People Foundations: Collaborative Networks](https://grounded-architecture.io/people), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
 
-**Evidence type:** Author’s own practitioner method. **Consulted scope:** The people foundation: the claim that architecture scales through people rather than organization charts, the scarcity of architects, the centralized, federated and hybrid models with the hybrid recommended, the responsibilities of a small central team and a distributed network, community formats (regular forums, an annual summit, ad hoc workshops) and the practical principles, including identifying people already doing architecture work regardless of title. A described practice inside one organization; its extension to a portfolio is this book’s proposal.
+**Evidence type:** My own practitioner method. **Consulted scope:** The people foundation: the claim that architecture scales through people rather than organization charts, the scarcity of architects, the centralized, federated and hybrid models with the hybrid recommended, the responsibilities of a small central team and a distributed network, community formats (regular forums, an annual summit, ad hoc workshops) and the practical principles, including identifying people already doing architecture work regardless of title. A described practice inside one organization; its extension to a portfolio is this book’s proposal.
 
 **Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
@@ -1070,7 +1070,7 @@ Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies B
 
 Željko Obrenović. [Operating Model: Introduction](https://grounded-architecture.io/operating-model), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
 
-**Evidence type:** Author’s own practitioner framework. **Consulted scope:** The introduction to the operating model: its purpose of turning insight and relationships into repeatable decisions, coordinated action and visible impact; its parts (general principles, governance, transformation support, generative AI); and the statement that people and data come first and process second. Read for the framework’s own ordering of its elements; establishes no outcomes.
+**Evidence type:** My own practitioner framework. **Consulted scope:** The introduction to the operating model: its purpose of turning insight and relationships into repeatable decisions, coordinated action and visible impact; its parts (general principles, governance, transformation support, generative AI); and the statement that people and data come first and process second. Read for the framework’s own ordering of its elements; establishes no outcomes.
 
 **Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
@@ -1079,7 +1079,7 @@ Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies B
 
 Željko Obrenović. [Operating Model: General Principles](https://grounded-architecture.io/operating-model-principles), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
 
-**Evidence type:** Author’s own practitioner principles. **Consulted scope:** The general principles: engagement mindset, data-informed contributions, distributed decision authority, the general decision policy of deciding in the organization’s best interests, and clear rules of engagement. Read for the mapping of these principles onto the investor–company setting, which is this book’s adaptation, including the change it requires to the decision policy.
+**Evidence type:** My own practitioner principles. **Consulted scope:** The general principles: engagement mindset, data-informed contributions, distributed decision authority, the general decision policy of deciding in the organization’s best interests, and clear rules of engagement. Read for the mapping of these principles onto the investor–company setting, which is this book’s adaptation, including the change it requires to the decision policy.
 
 **Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
@@ -1088,7 +1088,7 @@ Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies B
 
 Željko Obrenović. [Governance Principles: Nudges, Taxation, Mandates](https://grounded-architecture.io/governance), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
 
-**Evidence type:** Author’s own practitioner framework. **Consulted scope:** The three governance instruments — nudges, taxation (economic incentives) and mandates and bans — with their examples (principles and golden paths, cloud cost cross-charging, compliance-driven restrictions), the argument for a balanced hybrid and the rejection of a one-size-fits-all model. The portfolio table that reassigns each instrument to its source of authority and cost is this book’s adaptation.
+**Evidence type:** My own practitioner framework. **Consulted scope:** The three governance instruments — nudges, taxation (economic incentives) and mandates and bans — with their examples (principles and golden paths, cloud cost cross-charging, compliance-driven restrictions), the argument for a balanced hybrid and the rejection of a one-size-fits-all model. The portfolio table that reassigns each instrument to its source of authority and cost is this book’s adaptation.
 
 **Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
@@ -1097,7 +1097,7 @@ Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies B
 
 Željko Obrenović. [Putting Everything Together: Transforming Organizations with Grounded Architecture](https://grounded-architecture.io/transforming), in *Grounded Architecture: Redefining IT Architecture Practice*. Living book site; consulted 2026-09-23.
 
-**Evidence type:** Author’s own practitioner framework. **Consulted scope:** The five stated impact areas (executing at scale, adaptability, evidence-based decision-making, organizational alignment, continuous learning), including the transparency claim that shared access to the same data reduces misunderstanding and increases trust. Stated as the framework’s intended effects inside an organization, not measured results; reading them as potential benefits between a company and its investor is this book’s proposal.
+**Evidence type:** My own practitioner framework. **Consulted scope:** The five stated impact areas (executing at scale, adaptability, evidence-based decision-making, organizational alignment, continuous learning), including the transparency claim that shared access to the same data reduces misunderstanding and increases trust. Stated as the framework’s intended effects inside an organization, not measured results; reading them as potential benefits between a company and its investor is this book’s proposal.
 
 **Used in:** [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
@@ -1147,7 +1147,7 @@ Supplied private role brief; organization omitted from reader-facing prose. *Tec
 
 Both pages read. One role brief, not an industry-wide mandate. Heading/body title variation and actual decision rights require clarification. Exact file and page mapping remain in private editorial notes.
 
-**Used in:** [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#investors-adviser).
+**Used in:** [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role).
 
 {id: bibliography--p02-productscapes-hypothesis}
 ### P02 — Productscapes hypothesis

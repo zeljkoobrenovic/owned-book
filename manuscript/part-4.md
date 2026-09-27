@@ -34,17 +34,17 @@ Whatever you commit to, keep three things visible: **the benefit you expect, how
 
 **Choose and justify the work.**
 
-- [Set Priorities: You Cannot Fund Everything at Once](#cannot-fund-everything): which work fits the cash and team time?
-- [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue): does the change bring more sales, and should the trial continue?
-- [Clarify AI Strategy: Three Different Investment Questions](#ai-strategy-three-questions): artificial intelligence (AI) is software that predicts or generates content from data. Will customers pay for it, will staff work better with it, or could a rival product replace yours?
+- [Set Priorities: You Cannot Fund Everything at Once](#set-priorities): which work fits the cash and team time?
+- [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions): does the change bring more sales, and should the trial continue?
+- [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy): artificial intelligence (AI) is software that predicts or generates content from data. Will customers pay for it, will staff work better with it, or could a rival product replace yours?
 
 **Assess what delivery requires.**
 
-- [Assess Capability: Can the Team Deliver?](#can-the-team-deliver): what can the software and team support, and what would a transition cost?
+- [Assess Capability: Can the Team Deliver?](#assess-capability): what can the software and team support, and what would a transition cost?
 
 **Revise when the money is late.**
 
-- [Manage Funding Delays: Revise the Cash Plan and Commitments](#the-financing-slipped): when expected money arrives late, which commitments must change, by what date, and which fallback does the board choose?
+- [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays): when expected money arrives late, which commitments must change, by what date, and which fallback does the board choose?
 
 By the end, you should be able to explain which work deserves money and people, what you can responsibly commit to, and what evidence would change the plan. Benefit here includes customer results and capability, not only money.
 

@@ -27,12 +27,12 @@ This part covers fund-backed buyouts, in which an investment fund buys control o
 
 **Figure 1:** *Six chapters in three stages, each linked below.*
 
-- [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors) explains what each expects in return.
-- [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) asks who receives the money and who may spend it.
-- [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate) shows how sales, profit and cash feed a valuation.
-- [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) follows one fictional fund through three possible sale prices.
-- [Understand Funding Choices: Match the Money to the Work](#raise-what-you-need) weighs the costs, obligations and ownership effects of each kind of money.
-- [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget) subtracts taxes and loan payments, then allows for money customers still owe.
+- [Understand Expectations: Customers, Lenders and Investors](#understand-expectations) explains what each expects in return.
+- [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control) asks who receives the money and who may spend it.
+- [Understand Valuation: An Estimate, Not a Fact](#understand-valuation) shows how sales, profit and cash feed a valuation.
+- [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns) follows one fictional fund through three possible sale prices.
+- [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices) weighs the costs, obligations and ownership effects of each kind of money.
+- [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow) subtracts taxes and loan payments, then allows for money customers still owe.
 
 Distributions are a fund’s payouts to its investors; the optional [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) reference covers them.
 

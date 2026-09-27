@@ -1,7 +1,7 @@
 {id: visma}
 # 38. Visma: Continuity of Manager Is Not Continuity of Money
 
-![Visma: Continuity of Manager Is Not Continuity of Money — logo](private-techuity/posts/35-visma/assets/images/27-visma/logo.jpeg)
+![Visma: Continuity of Manager Is Not Continuity of Money — logo](private-techuity/posts/35-visma/assets/images/35-visma/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Follow the investors entering and leaving Visma from 2006 to 2023, then examine its 33 acquisitions in 2024 and the €11.665 million adjustment that changes its reported profit for that year.
 
@@ -68,7 +68,7 @@ The manager’s name is constant from 2006 to 2023. Behind it, Hg names two fund
 
 What the map cannot show is equally important: the cash each fund paid in and took out, the net return any fund realized (what its investors got back relative to what they put in, after costs), the conflicts examined in each transaction, and how much of any round reached the company as new funding rather than paying departing shareholders. The €19 billion valuation is not cash distributed to investors, and it is not cash for the company.
 
-![A company and investment firm can maintain a long relationship while the underlying funds and investors change.](private-techuity/posts/35-visma/assets/images/27-visma/continuity-with-changing-investors.jpeg)
+![A company and investment firm can maintain a long relationship while the underlying funds and investors change.](private-techuity/posts/35-visma/assets/images/35-visma/continuity-with-changing-investors.jpeg)
 
 **Figure 1:** *Continuity of familiar people does not establish that the investment and decision rights are unchanged.*
 
@@ -77,7 +77,7 @@ What the map cannot show is equally important: the cash each fund paid in and to
 
 In its March 2025 account of 2024, Visma describes local businesses with substantial autonomy, meaning the acquired and local companies make many of their own product and market decisions, supported by shared infrastructure (common technical foundations, such as hosting and security services that many products use) and shared knowledge. It reports 33 acquisitions during 2024, an average of 2.75 a month, and says it spends close to 20% of revenue (its sales) on product development while buying other businesses. These are company-reported descriptions and measures, not independent proof that the model works. [S32: Visma annual-report announcement](https://www.visma.com/newsroom/visma-releases-annual-and-sustainability-reports-for-2024-7f5c9f37)
 
-The described mechanism, keeping local product and market knowledge while sharing capabilities that would be expensive to assemble separately, resembles the boundaries examined in the chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#acquisition-adds-work-first). The consulted sources contain no documented intervention, with a local decision, a support action, its cost and an observed customer outcome, so this chapter treats the operating model as **a question the case raises**, not as a demonstrated success mechanism. Visma is a corporate group: it owns the businesses it supports. An investment manager offering shared support across separate portfolio companies, the different companies its funds own, has different authority and different economics. And “autonomy” can describe useful accountability or insufficient integration, while “shared capability” can describe valuable expertise or an expensive central service. The label alone cannot decide.
+The described mechanism, keeping local product and market knowledge while sharing capabilities that would be expensive to assemble separately, resembles the boundaries examined in the chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations). The consulted sources contain no documented intervention, with a local decision, a support action, its cost and an observed customer outcome, so this chapter treats the operating model as **a question the case raises**, not as a demonstrated success mechanism. Visma is a corporate group: it owns the businesses it supports. An investment manager offering shared support across separate portfolio companies, the different companies its funds own, has different authority and different economics. And “autonomy” can describe useful accountability or insufficient integration, while “shared capability” can describe valuable expertise or an expensive central service. The label alone cannot decide.
 
 The acquisition count establishes a reason to read the earnings definitions closely. Buying a company has costs beyond the purchase price: finding it, checking it, negotiating and completing the deal, typically with fees to advisers, lawyers and accountants. A strategy of buying dozens of companies a year makes those costs a standing part of the group’s activity. The count says nothing about when in the year each purchase happened; it says that the cost of buying is not a one-off.
 
@@ -118,7 +118,7 @@ Suppose the leaders of a fictional group like this one are setting next year’s
 - **The decision.** How much to set aside next year for buying and integrating companies, and whether the shared platform and security teams that serve the acquired products keep their funding.
 - **What the adjusted measure tells them.** What the businesses earned before deal costs: one basis for comparing operating performance across product lines, to be read alongside the full cost of the strategy.
 - **What it does not tell them.** Whether next year’s deal costs will again be around €11.665 million; whether the work of integrating last year’s purchases (connecting systems, moving customers, aligning contracts) is funded and staffed; and which earnings definition the lenders apply when they test net debt against earnings. An earnings measure records past expenses; it cannot budget future work. If a group’s adjusted measure also excluded integration expenses, the same caution would apply to them, but that is a separate question from this bridge: Visma’s reported line covers M&A expenses, and its report does not say that integration costs are excluded.
-- **What the decision needs instead.** A cash plan: the expected number of transactions, the cost of each, the integration capacity in **engineer-weeks** (one engineer for one week, a measure of effort rather than of calendar time), the interest and repayment obligations from the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget), and the defined earnings measure in the loan agreement.
+- **What the decision needs instead.** A cash plan: the expected number of transactions, the cost of each, the integration capacity in **engineer-weeks** (one engineer for one week, a measure of effort rather than of calendar time), the interest and repayment obligations from the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), and the defined earnings measure in the loan agreement.
 - **Who owns it.** A named leader accountable for the integration budget, and a stated authority, usually the board or a committee it appoints, for approving the next acquisition.
 
 None of this is an assertion about Visma’s internal planning; it is the decision any reader of the two numbers still must make.
@@ -127,7 +127,7 @@ An integration team can be charged to a central acquisition program while local 
 
 The chapter [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) adds a different angle on the same measurement problem: a later owner inheriting accumulated acquisition work and a partial reporting period.
 
-![Repeated acquisitions draw on reusable checks before buying, integration choices and shared support while requiring explicit local decision rights.](private-techuity/posts/35-visma/assets/images/27-visma/repeat-acquisitions-as-capability.jpeg)
+![Repeated acquisitions draw on reusable checks before buying, integration choices and shared support while requiring explicit local decision rights.](private-techuity/posts/35-visma/assets/images/35-visma/repeat-acquisitions-as-capability.jpeg)
 
 **Figure 2:** *When acquisitions recur, their support and integration demands belong in the operating model and its cash plan. “Repeatable diligence” in the figure means the checks a buyer runs on a company before purchase, reused from deal to deal.*
 

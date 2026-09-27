@@ -14,7 +14,7 @@ Blackstone, the investment firm that bought Hilton in 2007, reported about $14 b
 
 Part VII followed funding and ownership changes; this part examines their consequences. The cases concentrate on **private equity**: investment firms pool investors' money to buy ownership in companies, often with borrowing, aiming to sell later. Skype also passed through a **strategic acquisition**: Microsoft bought it for its own business. These are selected histories, not a representative sample.
 
-Read each case as **what happened**, what might explain it and what a leader could change. Separate company accounts, investor claims and the author's inference; **leave missing customer, employee and technical evidence unknown**.
+Read each case as **what happened**, what might explain it and what a leader could change. Separate company accounts, investor claims and my inference; **leave missing customer, employee and technical evidence unknown**.
 
 {id: part-8--the-learning-path}
 ## The Learning Path

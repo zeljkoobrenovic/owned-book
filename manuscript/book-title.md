@@ -14,4 +14,4 @@ toc-part-number-format: name
 
 ![OWNED: Product & Engineering Leadership Under Investors — logo](private-techuity/assets/pexels-chairs-2181916.jpg)
 
-A practical guide to making product and engineering decisions when investors shape the money, authority and expectations around your company. This is a living journal and a work in progress: a draft built by [Željko Obrenović](https://obren.io), who keeps evolving it as he learns more about the topics it covers.
+A practical guide to making product and engineering decisions when investors shape the money, authority and expectations around your company. This is a living journal and a work in progress: I revise it as I learn more through [my work](https://obren.io).
