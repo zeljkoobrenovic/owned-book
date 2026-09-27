@@ -15,6 +15,11 @@
 > * Examine the **terms behind the investor’s label**. The terms of the funding and the investor’s expectations affect the pace, the tolerated losses and the time available for the plan; the category alone does not.
 > * Product and engineering leaders who **inherit the arrangement** can still act: bring the scope with its cost, a cash requirement and an alternative to the people who can renegotiate it. Changing the financing, changing the plan or continuing without a new owner can each be the right answer.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Ratchet Roadmap** — Sizes the work, transition costs and uncertainty before choosing the funding and commitments.
+> * **Spending the Press Release** — Tests funding terms and timing against the work the company actually needs to pay for.
+
 A business has customers and a useful product. Its founder might want money to expand it, or might want to retire and sell their shares, the units of ownership in the company. Those are different needs, even if both conversations begin with “we need an investor.”
 
 The preceding chapters explained funding, ownership, valuation (what a business is estimated to be worth) and returns (what an investor gets back for the money put in). This chapter uses them to answer a narrower question: **how much money does the next piece of work actually need**, and which arrangement can supply it without attaching **conditions** the work cannot meet?

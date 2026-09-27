@@ -15,6 +15,11 @@
 > * Distinguish **freed time from money saved**. If the same people are still paid, less effort frees time for other work but does not reduce spending. It becomes a result only when a plan puts the time to use.
 > * Check the **whole chain against evidence**. Count the full cost, both what has been agreed and what has been used so far. Compare like groups. Keep measured hours apart from yearly estimates, name the explanations you cannot rule out, and let the measured result change the next commitment.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Squeezing the Balloon** — Distinguishes time freed from money saved and counts the full cost of producing the result.
+> * **The Ratchet Roadmap** — Requires customer evidence and a credible path to a useful outcome before expanding a commitment.
+
 Product and technology teams are often asked to **justify their work in the investor’s language**: what will it do for **revenue**, **margin** or **retention**? The honest answer is rarely a single number. A product change reaches a business result through a chain of steps: it changes what customers can do, which changes how they behave, which eventually shows up in the company’s income and costs. Each step can break, and each needs its own evidence. This chapter follows one change along that chain, from the customer need to the measured result, and shows how that result should shape the next commitment.
 
 Take a simple proposal: making customer setup faster. It sounds useful, but what exactly is the benefit? Customers might start using the product sooner. Staff might serve more customers. The company might collect payment earlier. Each possibility needs a different piece of evidence.

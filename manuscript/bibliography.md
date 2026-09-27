@@ -11,9 +11,13 @@
 > * **Source interests and evidence strength matter.** Company announcements, investor accounts, guidance documents and original research answer different questions and need different qualifications.
 > * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are the author’s proposals.
 
-This page lists the sources consulted for the book. Sources were consulted between September 12 and September 23, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where a date affects how a figure or a claim should be read, the entry gives it.
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Exit Halo** — Identifies source interests, consulted evidence and limits before a success or failure story becomes a general verdict.
 
-**S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register runs to S118. Private inputs are described without publishing their contents or file details.
+This page lists the sources consulted for the book. Sources were consulted between September 12 and September 27, 2026; each entry carries its own consultation date. Each entry states the version and the material consulted; access to a document does not imply that every page was reviewed, and publication dates and study periods differ from the consultation dates. Where a date affects how a figure or a claim should be read, the entry gives it.
+
+**S** marks a public source and **P** a supplied private input; the numbers identify, they do not rank. Identifiers are never reassigned, so gaps stay (there is no S38) and a citation in a chapter keeps meaning the same document. The register runs to S119. Private inputs are described without publishing their contents or file details.
 
 {id: bibliography--topic-index}
 ## Topic Index
@@ -25,6 +29,7 @@ Use this table to find evidence by question. A source can appear under more than
 | Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [Understand Valuation: An Estimate, Not a Fact](#valuation-is-an-estimate), [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
 | Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget), [Understand Cash Flow: Confirm the Cash Before You Commit](#obligations-before-budget) |
 | Governance, rights and incentives | S01, S02, S04, S61, S76 | [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides), [Compare Incentives and Stakes: Equity, Carry and Jobs](#different-bets), [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring) |
+| Trust, cooperation and team dysfunctions | S119 | [Where Investment Can Go Wrong](#where-investment-goes-wrong) |
 | Workforce reductions and employment process | S77, S78 | [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#anatomy-of-a-layoff) |
 | Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75 | [Assess Capability: Can the Team Deliver?](#can-the-team-deliver), [Test Revenue Assumptions: Do Customers Respond as Expected?](#roadmap-to-revenue), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#cheaper-cloud-bill) |
 | Security and resilience | S17 | [Build And Test Resilience: Backups Are Not Enough](#prove-you-can-restore) |
@@ -1122,6 +1127,15 @@ Toys R Us, Inc. [Debtor-in-Possession Financing: Note to Interim Financial State
 **Evidence type:** Company regulatory disclosure. **Consulted scope:** Financing note consulted for the composition of the combined $3,125 million post-petition financing approved by the final order of October 24, 2017: a $1,850 million revolving and $450 million first-in-last-out facility for the US and Canadian trading companies, whose borrowings repaid the pre-petition ABL facility and Tranche A-1 loan in full; a $450 million term facility; and $375 million of notes issued by another group company, with staged releases. Security consisted of superpriority claims and priming liens whose ranking differed by facility and by asset. Consulted for package composition, repayment uses and security priority only; not a review of the loan agreements or court orders themselves.
 
 **Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+
+{id: bibliography--s119-lencioni-s-five-dysfunctions-of-a-team}
+### S119 — Lencioni's Five Dysfunctions of a Team
+
+The Table Group. [The Five Dysfunctions of a Team](https://www.tablegroup.com/product/dysfunctions/), official summary of Patrick Lencioni's model. Undated web page; consulted 2026-09-27.
+
+**Evidence type:** Practitioner model, summarized by its originating organization. **Consulted scope:** The five dysfunction definitions and the listed characteristics of effective teams, including willingness to admit mistakes and ask for help. The full book was not reviewed. The opening guide's comparison with investment decisions and its constructive and damaging scenarios are this book's interpretation, not findings established by this source.
+
+**Used in:** [Where Investment Can Go Wrong](#where-investment-goes-wrong).
 
 {id: bibliography--supplied-private-inputs}
 ## Supplied Private Inputs

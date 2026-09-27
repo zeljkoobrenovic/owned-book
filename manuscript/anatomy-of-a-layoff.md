@@ -15,6 +15,12 @@
 > * **Reconcile the reduction by date.** People who leave are paid through their notice period and receive a leaving payment before any saving appears. At Larkspur’s terms and dates the reduction cannot replace the late investment; it only makes the bridging loan last longer. Elsewhere the answer depends on the costs, the savings and the funding dates, so show cash month by month under each plan before anyone is told.
 > * **Choose roles by the work that stops, and plan for both sides of the door.** The people who leave need notice, a leaving payment and a record of what they knew. The people who remain need a published list of what is no longer expected of them, a plan for who answers problems out of hours, and the evidence that would restore the plan.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Squeezing the Balloon** — Counts notice and leaving payments, then names the work and risk the remaining team would carry.
+> * **The Ghost Veto** — Distinguishes a loan condition, a director’s decision and an adviser’s comparison before responding.
+> * **The Ratchet Roadmap** — Requires an explicit list of work that stops when the company removes roles.
+
 Outside investment **cuts both ways for a team**. It can let a company hire much faster than customer revenue alone would allow: a round of new investment can pay for roles that revenue would not cover for years, and a headcount plan can grow by a third in a quarter.
 
 The same money arrives with obligations and expectations attached: a minimum cash balance to keep, loans with conditions, a growth or profit target, a date by which the plan must show results. When the money behind the plan moves, **the pressure to cut costs can arrive as quickly as the money to add them did**, and that is how layoffs happen in companies that were hiring a year earlier. Layoffs are unpopular and, when done badly, damaging: they remove capacity the investment was meant to build, they cost the trust of the people who remain, and the savings arrive later than the board expects.

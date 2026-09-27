@@ -5,6 +5,11 @@
 
 > **IN THIS SECTION, YOU WILL:** Follow five companies through purchases, debt problems, investor changes and sales in four case chapters, then compare what happened to their investors, businesses and people.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Exit Halo** — Examines who gained, over which period and under which conditions before drawing a lesson from a case.
+> * **Clean Slate Syndrome** — Follows product work and obligations across successive ownership periods.
+
 Blackstone, the investment firm that bought Hilton in 2007, reported about $14 billion of profit after selling its last shares, units of ownership in Hilton, in 2018. Toys R Us reported positive **operating earnings**, accounting profit before borrowing costs and tax, in its last full year before **bankruptcy**, a court process for debts a company cannot pay. Neither explains itself: a gain needs its causes traced; accounting profit is not spendable cash.
 
 Part VII followed funding and ownership changes; this part examines their consequences. The cases concentrate on **private equity**: investment firms pool investors' money to buy ownership in companies, often with borrowing, aiming to sell later. Skype also passed through a **strategic acquisition**: Microsoft bought it for its own business. These are selected histories, not a representative sample.

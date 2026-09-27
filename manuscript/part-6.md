@@ -5,6 +5,11 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn to keep the technology the company already runs worth its cost: its technical debt, its resilience, its cloud bill and its AI bill.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Never Fixing the Roof** — Turns recurring technology costs and failed recovery tests into funded improvements.
+> * **Squeezing the Balloon** — Compares cost, useful service and risk together before accepting a saving.
+
 Parts IV and V chose the work and changed the company’s size with one discipline: the benefit you expect, the money and time before payback, and the work that waits. The technology the company already runs keeps raising questions, often from the investor: what do its accumulated shortcuts cost, risk and slow, would it survive a failure, what does it cost to run, does its AI earn its bill. The first chapter puts the estate on those columns; the others deepen one each.
 
 A **backup** is a saved copy of data; a **restore** puts it back into a working service, and only a tested restore proves a backup worth its cost. **Cloud** computing is capacity rented from a supplier and billed by use. **Tokens** are the units in which AI services meter what a model reads and writes, so an AI bill moves with how a feature is built and with use.

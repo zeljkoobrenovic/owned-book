@@ -5,6 +5,13 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn to turn investor expectations into commitments of your own: work the company can afford, staff and deliver, and promises to customers and teams you can keep.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Ratchet Roadmap** — Tests promises against customer evidence, money and the team’s available time.
+> * **Spending the Press Release** — Revises commitments when the funding they depend on has not arrived.
+> * **The Nodding Room** — Connects investor expectations to specific customer and business outcomes.
+> * **Never Fixing the Roof** — Turns recurring constraints into chosen, funded work with a review date.
+
 Two kinds of commitment meet in this part. An **investor** commits money expecting a financial gain, either by funding the company or by buying shares (units of ownership) from an existing owner; its **thesis** explains why it expects that gain. **Product and technology leaders** commit the company to work: a roadmap, a delivery date promised to customers, the time of a team. Part IV is about making the second kind of commitment fit the first.
 
 Parts II and III established who decides, which approvals you need and how you work with the investor. This part turns the investor’s thesis into work within those limits. Before you commit, check that the money, the people and the authority are actually there. When a limit or an assumption must change, go back for a decision rather than commit beyond your authority.

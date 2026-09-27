@@ -15,6 +15,10 @@
 > * Sort the requests by **what they rest on**: an agreed obligation, tested customer evidence or an assumption. A growth target starts the discussion; it does not choose the project.
 > * Make the **next review part of the decision**, and revise the whole combination, not just one project, when a test fails or new evidence arrives.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Ratchet Roadmap** — Chooses a combination that fits both cash and people, then revisits the whole combination when evidence changes.
+
 After an investment, there is rarely a shortage of good ideas. The investor wants faster growth, product has features customers are asking for, technology has risks it wants to reduce, and the customer team has problems it sees every day. Each request can look worthwhile on its own. The difficulty is that they all compete for the same two limited resources: money, and the time of the people who would do the work. A plan that **checks only the budget** can look affordable and **still fail**, because the same engineers have been counted twice.
 
 A **company investment** commits resources now expecting a future benefit. **Team capacity** is the time and capability people have available to do the work. Choosing investments therefore needs both a cash plan and a capacity plan, and a way to decide what goes first when the two cannot cover everything. This chapter shows one way to make that choice. It is a proposed working method rather than an established standard, illustrated with fictional figures to help you become familiar with the topic.

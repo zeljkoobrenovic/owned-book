@@ -15,6 +15,10 @@
 > * **Hold the company’s performance fixed** and the money the fund receives at the sale, and its multiple of the money it invested, can still more than double, because only the price a buyer pays changed.
 > * Explain the **technology contribution step by step**. Evidence about customers, costs and cash is needed before assigning part of a sale gain to engineering.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Exit Halo** — Holds company performance fixed while changing sale price and timing, showing why investor gains cannot grade engineering alone.
+
 A company can grow its earnings, yet its investor earns less than expected. Another company may become more fragile while an investor receives a profit. To understand either result, follow the **investment** as well as the **business**.
 
 An **investment return** compares what an investor gets back (in cash received or in the value of what it still holds) with what it put in. There is no single way to measure it. Some measures ask only **how much** came back, while others also ask **how long** it took. Until an investment is sold, the value of what is still held is an estimate, so part of any reported return rests on a judgement rather than on cash in hand.

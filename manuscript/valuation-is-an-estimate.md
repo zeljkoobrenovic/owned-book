@@ -15,6 +15,11 @@
 > * A valuation is an **estimate for a date and a purpose**. Its assumptions can become growth, margin and cost targets, which leaders should examine before accepting them.
 > * The **value of the business and the value of its shares** differ. The gap is made up of debt and any other claims that must be paid before shareholders receive anything.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Spending the Press Release** — Distinguishes sales, profit and estimated value from cash available to fund work.
+> * **The Nodding Room** — Makes the growth and cost assumptions behind a valuation explicit before teams accept its targets.
+
 Product and engineering leaders rarely need to produce a **valuation**, but they need to understand one. Valuations drive ambitions, and the goals derived from them decide which work gets funded and which gets questioned.
 
 Suppose someone tells you a company is **worth** €60 million. Reading such valuation starts with two questions. **What is being valued**: the operating business, or the shares its owners hold? And **how was the estimate made**? Neither can be answered without understanding the business’s numbers, so this chapter has two stages:

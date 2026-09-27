@@ -15,6 +15,11 @@
 > * **Separate the organizations involved**. The investment firm, its fund, the company used to hold the investment, and the business serving customers can each hold different money and carry different obligations.
 > * Distinguish **an estimate from a payment**. An investment said to be worth more has not paid its owners any cash, and a headline figure does not authorize a hire until the payer, the approver and the conditions are known.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Spending the Press Release** — Turns the headline amount into a record of the actual payer, cash, conditions and spending approval.
+> * **The Ghost Veto** — Identifies who can authorize spending instead of relying on a general claim about investor wishes.
+
 Your company announces a €100 million investment. It is natural to expect a larger hiring or product **budget**: an amount of spending that someone with authority has approved. But an announcement describes a **transaction**, an agreed exchange between parties, not a budget. Before building a hiring plan on it, establish three things: **how much cash reaches the business, when it arrives and who can authorize spending it**.
 
 Start with the headline figure. It may be a **valuation**, an estimate of what the whole company is worth after the investment, or the amount that **changes hands** in the transaction. The two can differ widely, and even the amount that changes hands need not reach the business.

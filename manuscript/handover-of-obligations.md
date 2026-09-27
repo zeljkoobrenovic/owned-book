@@ -15,6 +15,11 @@
 > * **Follow who receives cash and who keeps ownership.** New investment, a sale of existing shares, a change among the investors in the fund that owns the company, a stock-market listing and a sale of control move money and authority differently. None tells you what the investors finally made until the money received, the stakes kept and the dates are known.
 > * **A handover is accepted when each open obligation has an accountable leader on the receiving side.** Hand over the record with its open work and continuing cost, agree any follow-up role explicitly, and treat later results as evidence to learn from rather than a verdict on the previous owners.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Clean Slate Syndrome** — Requires a named receiving leader for every open obligation and its continuing cost.
+> * **The Exit Halo** — Keeps cash received, ownership retained and later company outcomes separate when judging a sale.
+
 On the morning after a company changes investors or owners, its signed customer contracts are still there. So are the recovery time it has promised customers, the half-finished move of customers onto a new system and the hire it postponed. The deal changed who owns the company, or who owns part of it. It did not change the work.
 
 These changes come in several forms, explained later in the chapter: new investment, a sale of existing shares, a change inside the fund that owns them, a stock-market listing and a sale of control. A sale is one possible event, not the inevitable next stage. The same evidence must serve continued ownership, another round of investment and a change of controlling shareholder.

@@ -15,6 +15,12 @@
 > * A **share percentage is only the beginning**. What an award can pay depends on who is paid first, when the rights are earned, how many new shares are issued later and what happens if the holder leaves. The rules that divide a company’s sale money are also separate from the rules that divide a fund’s profits.
 > * Pair a target with **the measure it could damage**, and change the payout rule if it still rewards the damaging choice. Measurement alone cannot correct an incentive.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Nodding Room** — Shows what executives, investors, employees and customers each gain or risk from one proposal.
+> * **Squeezing the Balloon** — Pairs a target with the harm it could reward and asks who carries the resulting burden.
+> * **The Exit Halo** — Keeps the fund’s payout, an executive’s shares and an employee’s job as distinct outcomes.
+
 “We are all shareholders now” can describe a useful common interest. It can also conceal **very different risks, rights and time frames**.
 
 The chapter [Clarify Authority: Decide Who Decides Before You Disagree](#decide-who-decides) established who may decide. **Incentives** are the rewards and consequences that encourage a particular choice. An investment can add three things to the rewards and risks already shaping company decisions: **new share arrangements** for leaders, an expected **date for the exit**, and the **fund manager’s own pay**. Product and engineering leaders must understand this added layer, because it shapes **which proposals get approved** and which behavior their own targets reward.

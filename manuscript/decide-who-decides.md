@@ -15,6 +15,11 @@
 > * Fill in the record with **names, thresholds and dates**. “Management recommends, the board approves” tells nobody whom to call on a Tuesday, or by when.
 > * Plan the **missed-deadline branch**. If the approval does not arrive, take the remaining options back to the person authorized to decide and tell the team which funded plan it is executing.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Ghost Veto** — Records the named approver, authority and deadline behind a decision.
+> * **The Accidental Gatekeeper** — Separates suggestions from authorized instructions and assigns responsibility for the result.
+
 When a company takes on an investor, more people seem to have a say in its decisions. A new board member, an adviser from the investment firm or a lender may each make a request, and it is not always clear which requests are instructions and which are only ideas. If nobody has written down who proposes, approves, funds and carries out a decision, a passing remark can start a project nobody approved. An approval that nobody tracks can arrive too late and quietly turn into a delivery failure.
 
 This is a problem of **governance**: the arrangements for making decisions, overseeing them and holding people responsible. Good intentions cannot replace an agreed decision process.

@@ -15,6 +15,11 @@
 > * **Pair one customer outcome with one business outcome, and write down the chain between them.** Each outcome breaks into the factors that drive it and the measures that track them. The record says which measures the product team is accountable for, which it only influences, and which belong to sales and to customer success, the team that helps existing customers get value from the software.
 > * **Connect the business outcome to the investor’s numbers on an honest timetable.** Say which investor measure it feeds, when the effect can first be observed, and refuse to grade a slow effect on a fast clock.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Nodding Room** — Defines the customer outcome, business outcome and timetable behind a shared goal.
+> * **The Ratchet Roadmap** — Makes proposed work justify its contribution to an outcome before it becomes a commitment.
+
 A new investment usually makes it easier to grow a team and start new work. **More money** and **more people** make more activity possible, but **being busy** is not the same as getting results. A team can deliver everything on its plan and still leave customers, the company and the investor no better off than before. Turning the extra capacity into results that matter, while balancing the different interests of customers, the company and its investors, takes an **evidence-based way** of deciding what the work is *for* and checking whether it had the intended effect.
 
 Investors often ask for this in a single question: “What is your north star?” A **north star** is one guiding measure the whole company steers by. Answered with a feature list, it tells the investor nothing; answered with a single number, it tells the team nothing. This chapter answers it with an **outcome record**: one change for customers, one business result that change should feed, the measures between them, who is responsible for each measure, and the dates on which they are reviewed.

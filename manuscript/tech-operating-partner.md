@@ -15,6 +15,12 @@
 > * **The work runs across the whole investment.** It can link the checks made before buying, the work the company funds, leadership and hiring, specialist help, learning across companies and preparation for a sale. One person rarely supplies all the expertise needed.
 > * **Judge the contribution by company results and clearer decisions.** Agree authority, availability, costs and evidence for each assignment; a senior title settles none of them.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Dusty Address Book** — Shows where an operating partner can connect the company with peers, specialists and hiring experience.
+> * **The Accidental Gatekeeper** — Separates portfolio support from company leadership and agrees authority for each assignment.
+> * **All Bulk, No Muscle** — Tests hiring and AI proposals against the work and capability the company actually needs.
+
 Imagine an investment plan that assumes a software company can serve twice as many customers, absorb a business it has bought and launch a product that uses **artificial intelligence (AI)**, software that can, for example, draft text or find patterns in data. Each ambition feeds into the **financial forecast**, the investor’s estimate of future sales, costs and profit. Someone must work out what the company’s systems and people can actually support, what needs funding, and what should change when the evidence contradicts the forecast.
 
 That role is the **technology operating partner**, sometimes called a **technical operating partner**: a senior practitioner who works with an investment firm and its **portfolio companies**, the businesses it has invested in. The partner brings technical and operating judgment to investment decisions, then helps company leaders deliver the improvements those decisions depend on. EE Solutions describes this link between assessing and delivering as central to the role. [S80: EE Solutions, technology operating partner](https://www.eesolutions.io/insights/technology-operating-partner-private-capital/) A firm may employ one partner, build a specialist team or bring in outside support.

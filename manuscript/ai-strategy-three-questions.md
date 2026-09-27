@@ -15,6 +15,12 @@
 > * Measure the **complete workflow**: preparation, production, review, correction and operation. A tool in use is not a useful result, and capacity freed is not cash saved until a dated spending decision converts it.
 > * Keep **experimental results attached to their conditions**. Dated studies of coding assistants point in different directions; test the local effect before an estimate becomes a commitment.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Nodding Room** — Separates product opportunity, internal improvement and competitive threat into three different decisions.
+> * **All Bulk, No Muscle** — Tests changes to the complete workflow instead of counting tool adoption as capability.
+> * **Squeezing the Balloon** — Includes preparation, review, correction and operation when judging an apparent AI saving.
+
 Few requests arrive with more pressure and less definition than a request for an “**AI strategy**.” The phrase can mean a new feature customers will pay for, a cheaper way to run the company, or a defence against a competitor that could make the product unnecessary. Each is a different investment, with its own evidence, costs and accountable people, and funding them as one decision puts money behind the wrong question. This chapter separates the three questions and gives each its own test.
 
 **Artificial intelligence (AI)** means software that classifies information, makes predictions or generates content from learned patterns, rather than following rules a person wrote out step by step. **Generative AI** is the part of AI that produces new text, images or code rather than sorting or scoring what already exists. An **AI model** is the component that learns patterns from data and produces the outputs; its output needs evaluating in the task where it will be used. An **AI agent** is software that carries out a sequence of steps on its own. That differs from a company’s **support agents**, the people who answer customer problems; where this chapter counts agents, it means people unless it says otherwise.

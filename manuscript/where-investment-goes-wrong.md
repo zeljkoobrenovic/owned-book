@@ -3,23 +3,26 @@
 
 ![Where Investment Can Go Wrong — logo](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Put names to recurring mistakes and missed opportunities around outside investment and find the parts of the book that help you examine them.
+> **IN THIS SECTION, YOU WILL:** See how investment can strengthen or weaken cooperation, recognize twelve recurring mistakes and missed opportunities, and find the parts that help address them.
 
 > **KEY POINTS:**
 >
-> * Investment can **expose or amplify existing problems** and create new demands. More money does not settle questions about authority, priorities or the ability to deliver.
-> * Watch for **missed opportunities as well as damage**. Available relationships, time and expertise can go unused even when the investment itself runs smoothly.
+> * Investment can **strengthen or erode trust and cooperation**. Credible promises and clear responsibilities help build confidence; unexplained reversals and misplaced blame can undermine it.
+> * Watch for **missed opportunities as well as damage**. Available relationships, time and expertise can go unused even when the investment runs smoothly.
 > * Start with the pattern you recognize. **One problem can draw on several parts** of the book, and several problems can share a cause.
 
 Outside investors put money into a company, hoping for a financial gain. Sometimes that money funds the company's work. Sometimes it buys shares, the units of ownership in the company, from their owners.
 
-An investment can **fund useful work**, **bring experience** into the company and open **doors to customers and peers**. It also **introduces expectations** that product and engineering leaders, who decide what the company builds and oversee building it, must interpret. Problems begin when the company acts on those expectations without examining what they require.
+An investment can **fund useful work**, **bring experience** and open **doors to customers and peers**. It also **introduces expectations** that product and engineering leaders, who decide what the company builds and oversee building it, must interpret. Problems begin when the company acts on those expectations without examining what they require.
 
-Some problems predate the investor. **Unclear** decisions, **unreliable** numbers and **overloaded** teams may already be familiar. A growth target or pressure to cut costs can make their consequences harder to avoid. Other problems arise in the relationship: an adviser gives instructions nobody authorized, or management invokes “what the investors want” to close a discussion.
+Some problems predate the investor: **unclear** decisions, **unreliable** numbers and **overloaded** teams. A growth target or pressure to cut costs can make their consequences harder to avoid. Other problems arise in the relationship: an adviser gives instructions nobody authorized, or management invokes “what the investors want” to close a discussion.
 
-An investment can also deliver less value than it could because useful **opportunities remain unexplored**. The investor's **network** goes unused, confirmed funding never creates time to **remove a recurring constraint**, or a specialist completes an assignment without passing on knowledge the team needs. Each deserves a decision about what the company could gain and what it would need to contribute.
+**Opportunities can also remain unexplored**. The investor's **network** goes unused, confirmed funding never creates time to **remove a recurring constraint**, or a specialist completes an assignment without passing on knowledge the team needs. Decide what the company could gain from each and what it would need to contribute.
 
-Disagreement and uncertainty are normal. They become dysfunctional when the company repeatedly avoids resolving them while making promises. The names below are shorthand for observable behavior; the situations are illustrative. Use the names to open a discussion and the linked parts to work through it.
+{id: where-investment-goes-wrong--twelve-dysfunctions-to-recognize}
+## Twelve Dysfunctions to Recognize
+
+Disagreement and uncertainty are normal. They become dysfunctional when the company repeatedly avoids resolving them while making promises. The names below are shorthand for observable behavior; the situations are illustrative.
 
 | Pattern | The warning sign |
 | --- | --- |
@@ -33,113 +36,113 @@ Disagreement and uncertainty are normal. They become dysfunctional when the comp
 | **The Ratchet Roadmap** | New promises are added; existing commitments are never reconsidered. |
 | **All Bulk, No Muscle** | More people, tools or purchases of other businesses are assumed to mean more capability. |
 | **Squeezing the Balloon** | The reported cost falls while work and risk move elsewhere. |
-| **Year Zero** | New owners bring a fresh plan and lose the unfinished work. |
+| **Clean Slate Syndrome** | New owners bring a fresh plan and lose the unfinished work. |
 | **The Exit Halo** | A profitable sale is treated as proof that everything worked. |
 
 {id: where-investment-goes-wrong--spending-the-press-release}
-## Spending the Press Release
+### Spending the Press Release
 
 “The investment was announced. We can start hiring.”
 
-The company commits to salaries, suppliers and delivery dates as soon as an investment is announced. The money may be real, but payment can still be weeks away or depend on unmet conditions. Some of the announced amount may also go to existing owners in exchange for their shares instead of funding company work.
+The company commits to salaries, suppliers and delivery dates as soon as an investment is announced. The money may be real, but payment can be weeks away or depend on unmet conditions. Some of the announced amount may buy existing owners' shares instead of funding company work.
 
 ![A timeline puts salaries and supplier payments after the announcement but before cash becomes available.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/spending-the-press-release.jpeg)
 
 **Figure 1:** *An announcement starts expectations; payments can fall due before the company can spend the money.*
 
-Those commitments create payments that may fall due before the funding arrives. Even a temporary delay then becomes a cash or delivery problem: the company has promised work on a timetable its available money cannot support.
+Even a temporary delay becomes a cash or delivery problem: the company has promised work on a timetable its available money cannot support.
 
-Trace the money and its conditions before making the commitment. **Which money can the company actually spend, when, and with whose approval?**
+Trace the money and its conditions before committing. **Which money can the company actually spend, when, and with whose approval?**
 
 **Read further:** [UNDERSTAND: Financing and Ownership](#part-1) and [COMMIT: Turn Expectations Into Work You Can Deliver](#part-4).
 
 {id: where-investment-goes-wrong--the-nodding-room}
-## The Nodding Room
+### The Nodding Room
 
 “We all agreed that growth comes first.”
 
-Everyone nods as the plan is presented. The investor means a stronger sale price in a few years. The founder means entering a new market. For the product team, which decides what to build, growth means keeping existing customers. The engineering team, which builds and maintains the software, hears permission to replace an ageing system.
+Everyone nods as the plan is presented. The investor means a higher sale price in a few years. The founder means entering a new market. For the product team, which decides what to build, growth means keeping existing customers. The engineering team, which builds and maintains the software, hears permission to replace an ageing system.
 
 ![Four people agree on growth while imagining a sale price, a new market, retained customers and a replacement system.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/the-nodding-room.jpeg)
 
 **Figure 2:** *The same word can win four nods while committing people to four different plans.*
 
-The apparent agreement lasts until the first choice between those outcomes. By then, teams may have committed to incompatible work. Another workshop produces the same broad words, and the underlying differences in rewards, risks and timing remain untouched.
+The apparent agreement lasts until the first choice between those outcomes. By then, teams may have committed to incompatible work. Another workshop repeats the broad words without resolving differences in rewards, risks and timing.
 
 Make agreement specific enough to test against a decision. **Which outcome takes priority when we cannot have them all, and what does each party stand to gain or lose?**
 
 **Read further:** [ALIGN: Clarify Who Decides and What Is at Stake](#part-2) and [COMMIT: Turn Expectations Into Work You Can Deliver](#part-4).
 
 {id: where-investment-goes-wrong--the-ghost-veto}
-## The Ghost Veto
+### The Ghost Veto
 
 “The investors won't like it.”
 
-The objection closes discussion without identifying which investor objected, what they actually said or which authority they hold. An informal comment hardens into a restriction. A manager's reluctance to consider an option acquires the investor's supposed backing. People stop exploring options because they assume an absent decision maker has already ruled them out.
+The objection closes discussion without identifying which investor objected, what they said or which authority they hold. An informal comment hardens into a restriction. A manager's reluctance to consider an option acquires the investor's supposed backing. People stop exploring options, assuming an absent decision maker has ruled them out.
 
 ![A manager invokes an absent investor, and a dashed assumed-veto sign blocks alternative plans.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/the-ghost-veto.jpeg)
 
 **Figure 3:** *An assumed objection can stop a decision even when nobody can identify who actually objected.*
 
-Sometimes the requirement is real. A condition attached to funding or a decision by someone with approval authority can constrain the company's options. The dysfunction is allowing an unexamined claim to carry that same weight, leaving teams accountable for work nobody can trace to a decision.
+A condition attached to funding or a decision by someone with approval authority can constrain the company's options. The dysfunction is letting an unexamined claim carry that same weight, leaving teams accountable for work nobody can trace to a decision.
 
 **Which investor has actually objected, what did they say, and is this a preference, a funding condition or an authorized decision?**
 
 **Read further:** [ALIGN: Clarify Who Decides and What Is at Stake](#part-2).
 
 {id: where-investment-goes-wrong--the-accidental-gatekeeper}
-## The Accidental Gatekeeper
+### The Accidental Gatekeeper
 
 “Just run it past the adviser first.”
 
-The expert begins by reviewing a plan. Teams then start seeking their agreement before making changes; eventually, work waits for their approval. Nobody updates the adviser's agreed assignment or agrees that decision rights have moved. Company leaders remain responsible for results while decisions gradually move elsewhere.
+The expert begins by reviewing a plan. Teams then seek their agreement before making changes; eventually, work waits for their approval. Nobody updates the adviser's agreed assignment or agrees that decision rights have moved. Company leaders remain responsible for results while decisions gradually move elsewhere.
 
 ![Across advice, review and approval, an adviser moves from beside the work path to a barrier where plans queue.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/the-accidental-gatekeeper.jpeg)
 
 **Figure 4:** *A helpful review becomes a gate when the team starts waiting for permission nobody agreed was required.*
 
-This can happen with a capable, well-intentioned specialist and managers relieved to hand over a difficult problem. Each extra review seems helpful, until the team treats outside agreement as a requirement. The role has changed without anyone deciding whether that change serves the company.
+This can happen with a capable, well-intentioned specialist and managers relieved to hand over a difficult problem. Each extra review seems helpful, until the team treats outside agreement as a requirement.
 
 **When did we agree to this approval step, and does the expert's role still match the authority and responsibility we intended?**
 
 **Read further:** [COLLABORATE: Get Useful Help From Your Investor](#part-3).
 
 {id: where-investment-goes-wrong--the-dusty-address-book}
-## The Dusty Address Book
+### The Dusty Address Book
 
 “We only need the investor for money.”
 
-Leaders confine the relationship to reporting and approvals. A peer who has solved a similar problem, a useful customer introduction or a specialist's experience stays out of reach because nobody explores what is available. The company pays to relearn something it could have investigated through a conversation.
+Leaders confine the relationship to reporting and approvals. A peer who has solved a similar problem, a customer introduction or a specialist's experience stays out of reach because nobody asks. The company pays to relearn something it could have explored in a conversation.
 
 ![A dusty, closed address book sits beside an unused phone and unconnected routes to a peer, a customer and a specialist.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/the-dusty-address-book.jpeg)
 
 **Figure 5:** *Useful people can be within reach while the conversation that could help never begins.*
 
-Independence becomes isolation when every offer is dismissed as interference. The reverse can waste time: attending every event without bringing a question or taking learning back to the team. Both leave the value of the relationship unexplored.
+Independence becomes isolation when every offer is dismissed as interference. The reverse can waste time: attending every event without bringing a question or taking learning back to the team.
 
 Start with a real need and check what help exists, including outside the investor's network. **Who could help us understand this problem, and what would we need to contribute or agree in return?**
 
 **Read further:** [COLLABORATE: Get Useful Help From Your Investor](#part-3).
 
 {id: where-investment-goes-wrong--never-fixing-the-roof}
-## Never Fixing the Roof
+### Never Fixing the Roof
 
 “Now we're funded, we can finally fix what keeps slowing us down.”
 
-The investment gives the company spendable cash and time to tackle a recurring constraint. Yet the improvement stays an aspiration. Nobody is made responsible for completing it, no time is protected for it and no date is set to review progress. Everyday requests consume the extra capacity. At the next funding discussion, the company is still explaining the same manual work, repeated service outages or slow customer setup.
+The investment gives the company spendable cash and time to tackle a recurring constraint. Yet the improvement stays an aspiration. Nobody is made responsible for completing it, no time is protected and no date is set to review progress. Everyday requests consume the extra capacity. At the next funding discussion, the company is still explaining the same manual work, repeated service outages or slow customer setup.
 
 ![People repeatedly empty buckets under a leaking roof while a funded repair kit, spare tiles and a ladder stand unused.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/never-fixing-the-roof.jpeg)
 
 **Figure 6:** *Funding creates room to repair the roof, but recurring work can still consume all the attention.*
 
-The missed opportunity is to turn financial breathing room into a lasting improvement. Consider what has become affordable, then fund an improvement with a defined scope and finish point, whose effect the company can check.
+Consider what has become affordable, then fund an improvement with a defined scope and finish point, whose effect the company can check.
 
 **Which recurring problem can we now afford to fix, and what work will wait so we can actually fix it?**
 
 **Read further:** [COMMIT: Turn Expectations Into Work You Can Deliver](#part-4) and [SUSTAIN: Keep the Technology You Run Worth Its Cost](#part-6).
 
 {id: where-investment-goes-wrong--borrowed-brains}
-## Borrowed Brains
+### Borrowed Brains
 
 “The specialist solved it. Job done.”
 
@@ -149,14 +152,14 @@ A specialist introduced by the investor solves a difficult problem. The team acc
 
 **Figure 7:** *A useful result can arrive without the knowledge the team needs to handle the next similar problem.*
 
-Where the company needs to do the work itself, the assignment has missed a chance to build capability. Make learning and handover part of the work. Continuing external support can also be a sound choice when its responsibilities, cost and availability are understood.
+Where the company needs to do the work itself, the assignment misses a chance to build capability. Make learning and handover part of the work. Continuing external support can be a sound choice when its responsibilities, cost and availability are understood.
 
 **What should our people be able to do after this engagement, and where is the time to learn and practise it?**
 
 **Read further:** [COLLABORATE: Get Useful Help From Your Investor](#part-3).
 
 {id: where-investment-goes-wrong--the-ratchet-roadmap}
-## The Ratchet Roadmap
+### The Ratchet Roadmap
 
 “We need this too. Keep the existing dates.”
 
@@ -173,7 +176,7 @@ Define the result, choose what fits and revise commitments when their assumption
 **Read further:** [COMMIT: Turn Expectations Into Work You Can Deliver](#part-4).
 
 {id: where-investment-goes-wrong--all-bulk-no-muscle}
-## All Bulk, No Muscle
+### All Bulk, No Muscle
 
 “Twice the team, twice the output.”
 
@@ -190,11 +193,11 @@ Check the work behind the arithmetic and fund the transition. **Which constraint
 **Read further:** [SCALE: Change the Team, the Systems and the Company Deliberately](#part-5) and [COMMIT: Turn Expectations Into Work You Can Deliver](#part-4).
 
 {id: where-investment-goes-wrong--squeezing-the-balloon}
-## Squeezing the Balloon
+### Squeezing the Balloon
 
 “The bill is down, so efficiency is up.”
 
-A cost target is met in one team's budget by pushing work and risk elsewhere. The bill for running servers and software falls, but engineers spend more time keeping the cheaper setup running. Roles are removed while the remaining staff absorb their work. Maintenance is postponed, and its consequences return as outages or other service failures, manual work and slower changes. The reported saving hides the displaced burden.
+A cost target is met in one team's budget by pushing work and risk elsewhere. The bill for running servers and software falls, but engineers spend more time keeping the cheaper setup running. Roles are removed while the remaining staff absorb their work. Maintenance is postponed, and its consequences return as outages or other service failures, manual work and slower changes.
 
 ![Hands squeeze the reported-cost end of one balloon while its extra-work and later-risk sections expand.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/squeezing-the-balloon.jpeg)
 
@@ -206,25 +209,25 @@ Compare cost, risk and useful results on the same basis. **What became cheaper f
 
 **Read further:** [SUSTAIN: Keep the Technology You Run Worth Its Cost](#part-6).
 
-{id: where-investment-goes-wrong--year-zero}
-## Year Zero
+{id: where-investment-goes-wrong--clean-slate-syndrome}
+### Clean Slate Syndrome
 
 “The deal is done. We need a fresh plan.”
 
-The investigation before the investment identifies problems, but the findings never become funded work. A new plan arrives without accounting for existing customer promises. Later, the company raises new investment in another funding round, or is sold again. Another presentation then replaces the record of what was tried, paid for and left unfinished.
+The investigation before the investment identifies problems, but the findings never become funded work. A new plan arrives without accounting for existing customer promises. Later, the company raises new investment in another funding round, or is sold again. Another presentation replaces the record of what was tried, paid for and left unfinished.
 
 ![A fresh plan covers the previous records, but a continuous cord still connects customer promises, unfinished work and known problems.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/year-zero.jpeg)
 
 **Figure 11:** *A new plan can hide the record; it does not finish the work or release the promises.*
 
-Without a deliberate handover, the company repeatedly discovers the same constraints while teams and customers carry obligations that the new plan barely mentions. Changing owners can change priorities and approvals; it does not complete the outstanding work.
+Without a deliberate handover, the company rediscovers the same constraints while teams and customers carry obligations the new plan barely mentions. Changing owners can change priorities and approvals; it does not complete the outstanding work.
 
 Carry evidence into the early plan and unresolved commitments into the next arrangement. **What must the next decision maker know, fund, finish or explicitly reconsider?**
 
 **Read further:** [LEAD: Manage Funding and Ownership Changes](#part-7).
 
 {id: where-investment-goes-wrong--the-exit-halo}
-## The Exit Halo
+### The Exit Halo
 
 “That investor made a large gain. We should copy the approach.”
 
@@ -234,19 +237,55 @@ An **exit** is an investor selling its investment. The halo appears when a profi
 
 **Figure 12:** *A profitable sale answers one question; the effects on customers, employees and the company still need examining.*
 
-Inside the company, one measure can also stand in for everyone's outcome. Investors may gain while employees lose jobs; a product may continue while obligations grow. Those outcomes need to be examined separately before calling the whole arrangement successful.
+Inside the company, one measure can also stand in for everyone's outcome. Investors may gain while employees lose jobs; a product may continue while obligations grow. Examine those outcomes separately before calling the arrangement successful.
 
 Trace what happened and examine whose outcome the story measures. **What does this case establish, for whom and over what period, and which conditions resemble ours?**
 
 **Read further:** [LEARN: Lessons From the Field](#part-8) and [ALIGN: Clarify Who Decides and What Is at Stake](#part-2).
 
-{id: where-investment-goes-wrong--use-the-patterns-to-open-a-discussion}
-## Use the Patterns to Open a Discussion
+{id: where-investment-goes-wrong--how-investment-can-strengthen-or-weaken-the-company}
+## How Investment Can Strengthen or Weaken the Company
 
-Choose a recent decision that people can examine together. Identify the unchecked assumption, the unresolved disagreement or the commitment whose conditions changed. Then name the cost: delayed work, wasted money, avoidable risk or a promise passed to an already overloaded team.
+Investment changes **what people expect from one another**. Credible commitments, clear responsibilities and open discussion give people reasons to trust the arrangement and contribute to it. When promises repeatedly collapse, decisions remain unexplained and responsibility shifts, people may learn to protect themselves. These experiences affect trust in investors and company leaders, and between colleagues.
 
-Patterns can reinforce each other. Spending the Press Release adds promises to the Ratchet Roadmap before the money arrives. The Ghost Veto protects those promises from challenge. The next owner starts at Year Zero, losing the evidence that should have changed the plan while its customer promises remain.
+The same investment can strengthen cooperation or amplify habits that undermine it:
+
+| Quality | How investment can strengthen it | How dysfunctions can erode it |
+| --- | --- | --- |
+| **Trust** | Leaders explain funding conditions and uncertainty, keep promises and acknowledge mistakes. | Unexplained reversals invite suspicion about what leaders or investors are withholding. |
+| **Open disagreement** | Investor involvement brings other experience and opportunities to question assumptions before committing. | “The investors want it” ends discussion; people stop raising concerns they expect to be dismissed. |
+| **Commitment** | People understand priorities, available resources and which work will wait. | Everything stays urgent; people nod to plans they no longer believe they can deliver. |
+| **Accountability** | Each party knows what it has promised, who can decide and how progress will be reviewed. | Teams carry blame for decisions they could not influence, while those who made them avoid scrutiny. |
+| **Capability and confidence** | Funding removes recurring obstacles; outside help creates opportunities to learn and practise. | Problems persist, expertise stays outside and people feel their judgement is being displaced. |
+| **Shared purpose** | Different interests are made explicit, and participants agree which company outcomes to pursue together. | Celebrated financial results obscure burdens carried by employees, customers or other teams. |
+
+Consider **Spending the Press Release**. An investment announcement raises expectations of new colleagues, better tools or relief from an exhausting workload. When those promises become freezes or cancellations without a clear explanation, disappointment can become suspicion: “We were told the money was there. What aren't they telling us?” People may imagine deals behind closed doors even when the explanation is an ordinary funding condition. They can lose confidence in investors, company leaders or both, and become less motivated to support the next plan.
+
+Scaling offers two illustrative paths. **Investment can support considered growth:** leaders identify where more people would help, test assumptions and agree when to review results. If those assumptions fail, they acknowledge the error and revise commitments. Funding a recurring improvement and helping people learn from a specialist can also make daily work easier. Follow-through gives people evidence that their concerns matter and the company can improve.
+
+![Six scenes show clear funding conditions building trust, questions welcomed before decisions, priorities that fit resources, authority matched to responsibility, expertise shared with the team, and different interests contributing to agreed outcomes.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/investment-builds-trust-detailed.jpeg)
+
+**Figure 13:** *Investment can build trust and cooperation through clear conditions, open discussion, realistic commitments, accountable decisions, shared learning and agreed outcomes.*
+
+**Poorly planned growth can undermine that confidence.** The company hires rapidly, assumes more people will mean more output and leaves existing obstacles untouched. Unrealistic expectations can drive these decisions even without an explicit promise. Results disappoint; layoffs follow. If leaders blame execution while the remaining employees inherit the same promises, people may feel that management treats them as disposable. Some blame investors, some lose trust in managers, and teams may compete to protect their positions. An explanation alone cannot repair that damage: leaders need to change the decisions and commitments that produced it.
+
+![Six detailed scenes show lack of trust through unexplained reversals, fear of disagreement when investor wishes close discussion, lack of commitment under unrealistic expectations and promises, avoidance of accountability through displaced blame, lack of capability and confidence, and lack of shared purpose.](private-techuity/posts/where-investment-goes-wrong/assets/images/where-investment-goes-wrong/investment-erodes-trust-detailed.jpeg)
+
+**Figure 14:** *Unexplained reversals, silenced concerns, unrealistic expectations or promises, misplaced blame, missed learning and narrow measures of success can erode trust and cooperation.*
+
+**Weaker trust can mean fewer concerns raised, poorer decisions and further disappointment.** Credible responses to concerns can support the opposite cycle: people speak sooner, leaders learn more and commitments become more realistic. A difficult decision can still cause harm; what follows depends partly on whether people see responsibility accepted and working conditions improve.
+
+Patrick Lencioni's model in *The Five Dysfunctions of a Team* examines trust, conflict, commitment, accountability and attention to collective results. In his model, trust means willingness to show vulnerability, including admitting mistakes and asking for help. [S119: The Table Group's model summary](https://www.tablegroup.com/product/dysfunctions/). This comparison is an interpretation: distrust of investors or managers can make people less willing to admit uncertainty, question a plan or accept a commitment. The twelve dysfunctions above describe company situations that can contribute to those difficulties; several can affect the same relationship.
+
+{id: where-investment-goes-wrong--use-the-dysfunctions-to-open-a-discussion}
+## Use the Dysfunctions to Open a Discussion
+
+Choose a recent decision to examine together. Identify the unchecked assumption, unresolved disagreement or commitment whose conditions changed. Then name the cost: delayed work, wasted money, avoidable risk or a promise passed to an already overloaded team.
+
+**Are people less willing to raise a concern, ask for help or believe the next commitment?** Identify whose trust has been affected and what action would give them a reason to reconsider.
+
+Dysfunctions can reinforce each other. Spending the Press Release adds promises to the Ratchet Roadmap before the money arrives. The Ghost Veto protects those promises from challenge. The next owner starts at Clean Slate Syndrome, losing the evidence that should have changed the plan while its customer promises remain.
 
 For a missed opportunity, identify the unused resource, the improvement it could support and a small next step: a peer conversation, time reserved for a funded change, or working alongside a specialist. Agree what the company will contribute and how it will judge whether the opportunity is useful.
 
-Use the relevant parts to separate those questions and decide what must change first. The purpose is to make a specific company decision better; a label alone changes nothing.
+Use the linked parts to decide what must change first. The purpose is to improve a specific company decision; a label alone changes nothing.

@@ -11,6 +11,12 @@
 > * **Design investor involvement and company organization separately, then connect them.** Shared investor expertise can support locally managed businesses. A company can centralize a service while its investor works mainly through the board.
 > * **A usable blueprint includes commitments from both sides.** Name who decides, who supplies people and funding, which company work is set aside to make room, and when the arrangement will be reviewed or ended.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Nodding Room** — Connects business priorities to explicit commitments from both the investor and the company.
+> * **The Accidental Gatekeeper** — Separates oversight, advice and delivery roles, with authority agreed for each.
+> * **The Ratchet Roadmap** — Names which company work must make room for the support being offered.
+
 Suppose an investor, a firm that has put money into the business expecting a financial return, offers the company “the full operating platform”. The platform includes access to a technology partner, a pricing specialist, an acquisition team and a standard reporting package. The **chief executive officer**, the person who leads the company overall, welcomes the help. The **chief technology officer**, the executive responsible for technology, sees four new streams of work arriving for the same engineers. Before anyone adds that work to the **roadmap** (the product work the company has planned, and when it expects to do it), the company must establish two things: what the offer would actually make possible, and how the people involved will decide what happens.
 
 An **operating model** is the arrangement of people, responsibilities, decisions, work and information through which a business carries out its strategy. A blueprint makes that arrangement specific enough to discuss and test. It describes the work people will do together, including the resources and authority that work depends on.

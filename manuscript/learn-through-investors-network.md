@@ -15,6 +15,11 @@
 > * **Match the experience to the learning.** A seminar, a recurring peer group and a visit to an unfamiliar business setting offer different kinds of access. Consider who will be there, how deep it goes, how much time it takes and whether you can follow up.
 > * **Bring the context and relationships home.** Share what you observed, examine what could transfer and keep useful conversations alive. Company leaders decide what becomes funded work.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Dusty Address Book** — Turns access to events, peers and unfamiliar businesses into purposeful conversations and continuing relationships.
+> * **Borrowed Brains** — Brings outside learning and its context back to the team instead of leaving it with one participant.
+
 In April 2026, Prosus, a global technology investor, took 20 founders of technology companies on a five-day visit to Shenzhen, Shanghai and Beijing. The purpose was to explore China’s ecosystem for artificial intelligence (AI): the connected companies, people and services around software that learns patterns from data and produces predictions, text or suggestions. Prosus’s account of the trip describes participants **reconsidering their assumptions** about how technology reaches everyday use, and **reflecting on their own companies**. [S101: Prosus, A Window on China. A Mirror on Ourselves.](https://www.prosus.com/news-insights/2026/a-window-on-china-a-mirror-on-ourselves)
 
 On a trip like this, the organizer provides **access to unfamiliar people and practices**; the participants work out what those encounters might mean for them.

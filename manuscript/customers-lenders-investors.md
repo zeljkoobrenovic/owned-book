@@ -15,6 +15,13 @@
 > * Buying a share means **buying part of a company**. Only newly issued shares put money into the company; buying existing shares pays the seller.
 > * A budget tells you how much you may spend. **The funding terms tell you when you may spend it, which approvals you need and what the company must deliver in return.** Establish the actual arrangement before turning new funding or a change of ownership into a product commitment.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Spending the Press Release** — Shows which payments reach the company and what conditions come with them.
+> * **The Nodding Room** — Distinguishes what customers, lenders and shareholders expect from the same company.
+
+  
+a
 A company needs cash to pay people, buy supplies and develop its products, often before its customers pay. **Financing** means arranging that money, and the source matters because each one brings different costs, expectations and rights.
 
 Product and engineering leaders usually meet money as a **budget**: an approved amount that their team may spend on agreed work over a set period, typically a year. A budget shows how much may be spent, but not where the money came from or what the company owes in return. This chapter follows one need through three funding routes so that the terms behind a budget become as visible as the amount. It first sets up the example, then describes the four common ways cash reaches a business and what a share represents. It then compares the same need funded three ways, and ends with a brief look at public and private ownership and at investor labels.

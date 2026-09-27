@@ -11,6 +11,13 @@
 > * Record **cost, responsibility and uncertainty** alongside ambition. A template is useful when it changes a decision or preserves evidence, not merely when every field is filled.
 > * **Follow one finding through**: evidence → options → an authorized initiative → an observed result → a revised decision → a handover. The fictional Larkspur chain below shows what each stage adds.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Ghost Veto** — Provides records that name who approves a decision and what authority it rests on.
+> * **The Ratchet Roadmap** — Records the money, capacity and alternatives behind an initiative before it becomes a promise.
+> * **Borrowed Brains** — Makes the result, company contribution and handover test explicit in the support agreement.
+> * **Clean Slate Syndrome** — Keeps one finding connected to its funded work, observed results and unfinished obligations through handover.
+
 These are **proposed working tools** for company leaders applying the book’s financial, decision and support concepts. They haven’t been validated as a universal operating standard. Start with the smallest record that improves a real decision, and drop fields that add work without changing understanding or accountability.
 
 {id: toolkit--minimum-use}

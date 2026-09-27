@@ -15,6 +15,12 @@
 > * **External help consumes internal time.** Ten specialist days, capped at €15,000, need six engineering days, two customer-team sessions and the product leader’s review; without those, the specialist’s availability does not make the engagement feasible.
 > * **Let the review change the work.** When evidence shows a different constraint, the charter says who may redirect the remaining days, which work stops and whether the budget still fits. The engagement ends with a capability, a decision or an understood continuing service.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Borrowed Brains** — Builds learning and a tested handover, or an understood continuing service, into the assignment.
+> * **The Accidental Gatekeeper** — Records who directs the work and who may authorize a change in its scope.
+> * **The Ratchet Roadmap** — Budgets the company’s own time and names the work that stops when the engagement changes.
+
 Larkspur, the fictional software company this book follows, sells scheduling software. Every new customer must be **onboarded**: set up on the software and made ready to use it. Today one employee does most of that work: Larkspur’s **implementation specialist**, who configures each new customer by hand. If that person is away or leaves, onboarding stalls. (Two later chapters, [Assess Capability: Can the Team Deliver?](#can-the-team-deliver) and [Scale the Team Up: Headcount Is Not Capacity](#fix-decisions-before-hiring), show how to find and measure such a dependence; this chapter takes it as given.)
 
 The investor now offers help: an **outside specialist** from the investment firm’s own team, lent to Larkspur for a few weeks to make the setup work repeatable. So two specialists appear in this chapter. The *implementation specialist* is Larkspur’s employee, the dependence the company wants to reduce; the *outside specialist* is the help brought in to reduce it.

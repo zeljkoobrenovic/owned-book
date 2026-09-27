@@ -11,6 +11,11 @@
 > * **Reuse the foundations for understanding.** Lightweight analytics and collaborative networks build a shared, evidence-based view of technology and of the people behind it. Both are highly transferable because neither depends on authority.
 > * **Adapt the mechanisms for acting.** An investment portfolio is not one organization. Decision rights, company autonomy, time horizons and investment objectives differ from company to company, so the operating model must be designed around them rather than copied from a corporate group.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Dusty Address Book** — Maps expertise across companies and creates routes for people to ask one another for help.
+> * **The Accidental Gatekeeper** — Builds shared understanding and support around each company’s authority instead of creating a central approval bottleneck.
+
 An investor holds stakes in a dozen software companies. Each has its own systems, its own cloud bills, its own engineers and its own way of describing all three. The investor wants to know where the technology risks are, where money is being spent twice, which companies could help each other and where its support would do the most good. The companies, meanwhile, want to run their own businesses without answering the same questionnaire every quarter.
 
 In large, decentralized technology groups, the ones I have practised architecture in, no single team owns the landscape either. Business units choose their own technologies, hundreds of teams ship independently and the central architecture function is at constant risk of becoming either an ivory tower that nobody consults or a bottleneck that everybody resents. **Grounded Architecture** is the framework I developed to work in that setting: an approach that keeps architecture embedded in the organization by prioritizing human interaction and current data over rigid processes and heavy tooling. It rests on three elements: **Lightweight Architectural Analytics** (its data foundation), **Collaborative Networks** (its people foundation) and an **Operating Model** that turns insight and relationships into decisions and action. [S110: Grounded Architecture, framework foundations](https://grounded-architecture.io/grounded-architecture)

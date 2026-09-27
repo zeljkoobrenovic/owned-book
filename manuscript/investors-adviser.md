@@ -15,6 +15,11 @@
 > * Separate **influence from authority**. Proximity to the investor gives a suggestion weight. It does not give the right to decide. That right comes from four sources: an executive role, the board of directors that oversees company leadership, rights agreed with the shareholders who own the company, or an explicit assignment. An adviser holds only what those sources grant.
 > * Treat a **change of role as a new agreement**. When coaching becomes assessment, or advice becomes delivery, ask what the information is for, what the investor’s existing rights already cover, who authorized anything new and what employees will be told.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Accidental Gatekeeper** — Treats a change from advice to assessment or delivery as a change that needs an explicit agreement.
+> * **The Ghost Veto** — Checks the adviser’s actual authority instead of treating proximity to the investor as permission to decide.
+
 A technology specialist employed by the investor joins your planning meeting. They understand the product and offer useful ideas. Your engineers want to know whether the ideas are suggestions, a new assessment or instructions they should act on.
 
 An **investor’s technology adviser** is a person the investment firm employs or engages to form its own view of a company’s technology and, often, to help improve it. In this book, that role is called the **Technology Principal**, and Morgan holds it in the fictional Larkspur scenarios. A **chief technology officer (CTO)** leads technology inside the company. At Larkspur, that is Alex. The adviser can test assumptions and help improve the company’s work, but the company’s own leader keeps the continuing operating responsibility.

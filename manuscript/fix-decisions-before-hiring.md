@@ -15,6 +15,12 @@
 > * People changes have **transition costs and a knowledge-transfer test**. Compare the full delivery model, including recruitment, overlap, management effort and the receiving team’s demonstrated competence.
 > * The diagnosis should **produce a staffing decision**: hiring proceeds, changes shape or is deferred, with the remaining gap, its funding and the evidence that would reopen the choice named.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **All Bulk, No Muscle** — Follows the work through decision and knowledge bottlenecks before deciding what hiring would help.
+> * **Borrowed Brains** — Requires the receiving team to demonstrate competence after knowledge transfer.
+> * **Squeezing the Balloon** — Includes overlap, management effort and transition work when comparing cheaper delivery locations.
+
 New investment naturally opens room to hire. The money that funds the plan can also pay salaries, and investors often push for it to turn into people quickly: headcount is visible, easy to report and easy to compare with the plan. The pressure is understandable, but **hiring naively can backfire**. When work waits on unclear authority and on knowledge held by a few people, new hires join the same queue. They need training from the specialists who are already the bottleneck, they add coordination, and the waits can grow rather than shrink. The friction in how the company decides and delivers must be found before the hiring plan is written.
 
 The plan funded new resources, but not the management time and decision changes needed to use them. An **operating model** is the arrangement of responsibilities, teams and processes through which work gets done. **Capability** is what that arrangement lets people do reliably. Every investment in the preceding chapters depends on people with the time, knowledge and authority to do the work. An investment case, the argument for committing money to a plan, is not complete if it funds the work without funding the capacity to do it.

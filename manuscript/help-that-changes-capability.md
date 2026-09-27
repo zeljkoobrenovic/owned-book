@@ -15,6 +15,11 @@
 > * **Compare the investor’s access with the alternatives.** An investor may reach relevant people faster. A peer, an independent specialist or a hire may fit better. Judge each route by availability, company effort, cost and relevant experience.
 > * **Borrow experience with its context attached**, and make any continuing dependence explicit. Finish with a written request that names the result, the source and the accountable company leader.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Dusty Address Book** — Starts with a capability gap and compares useful introductions with other sources of help.
+> * **Borrowed Brains** — Makes the capability sought and any continuing dependence explicit in the request.
+
 Sooner or later, many companies find a gap they cannot close alone: work that fails or takes too long because nobody inside has done it well before. Many investors offer help with such gaps, through their own specialists, the other companies they have invested in and their wider contacts. That help can be fast and relevant. It can also be the help available rather than the help the gap needs, and accepting it still costs scarce team time. The useful question is therefore not whether to accept the investor’s help, but which source of help, inside or outside the investor’s network, will leave the company able to do the work itself.
 
 A **stronger company is worth more**, which raises the value of the investor’s holding: the ownership stake it bought and will one day sell. But a firm that runs a shared team of advisers also wants three other things: that team busy enough to **justify its cost**, the goodwill of the other companies it has invested in, and a reputation that attracts the next founder. Its offer of help is genuine, but it is not disinterested, and neither fact makes it the best route.

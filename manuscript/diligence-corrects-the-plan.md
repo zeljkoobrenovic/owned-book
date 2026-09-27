@@ -15,6 +15,11 @@
 > * Use the **access you actually have**: before signing (when the parties commit to the agreement), between signing and closing (when the money is paid and **shares**, the units of ownership in the company, actually change hands) where there is a gap, or after closing when earlier participation was impossible. Record the limit rather than pretending it away.
 > * **Complete the finding.** A **material finding**, one important enough to affect the decision, needs observed evidence separated from claims and interpretation, options with costs, an agreed response, the people authorized to approve it, an accountable company leader and the evidence that would change the decision. Carry its identifier into the early operating plan.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Clean Slate Syndrome** — Carries each significant finding into the early operating plan under a stable identifier.
+> * **Never Fixing the Roof** — Turns a known constraint into costed options, an agreed response and an accountable company leader.
+
 Before an investor commits money to a company, it investigates the business to test whether the plan behind the deal is realistic. **Technical due diligence** is the part of that investigation that examines the company’s product and technology: what they depend on, what they cost and what could go wrong. It tests the product, technology and team assumptions behind the proposed investment. Its findings feed the price, the funding, the risks accepted, the conditions of the deal and the operating plan the company will later be held to. Product and engineering leaders who have access to the process and treat it as a test to pass miss the chance to influence the commitments they must later deliver.
 
 Whether new cash reaches the company depends on the **transaction form**, the way the deal is structured. If the investor buys newly issued shares, the money goes to the company. In a **secondary purchase** the investor buys existing shares from a current owner, and the money goes to that selling shareholder, as the chapter [Understand Expectations: Customers, Lenders and Investors](#customers-lenders-investors) explains. Either way, the findings shape the plan management must deliver.

@@ -15,6 +15,12 @@
 > * Carry the diligence findings in **by identifier**. Confirm each one with the people who will do the work. The investigation had incomplete access, and when management’s evidence differs, that evidence should change the funding or the order of work.
 > * **Review the plan, not its completion rate.** The day-100 review should confirm or revise the plan on evidence: an assumption kept or replaced, a postponement kept or lifted, money moved from the reserve with the board’s approval. Finishing every task is not the test.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Clean Slate Syndrome** — Starts from inherited findings and checks them with the people who will do the work.
+> * **Never Fixing the Roof** — Gives each improvement approved money, protected time, a responsible person and a decision date.
+> * **The Ratchet Roadmap** — Records postponed work and revises the funded plan when its assumptions change.
+
 New funding or an ownership change opens an early period in which expectations must become an agreed **operating plan**: what the business will do, who will do it and what money and time it needs. A hundred days is a useful planning horizon. It is neither enough to transform most businesses nor the right deadline for every commitment.
 
 A deal can change the company’s money, its owners’ rights, the expectations placed on it and its review timetable. Many of those expectations were formed during the investigation rather than inside the company. Not every deal adds cash to the company. When investors buy newly issued **shares** (units of ownership in a company), the money goes to the company. When they buy existing shares, it goes to the owners who sell. The first job is to establish which of these changed, and which actually change the company’s existing plan.

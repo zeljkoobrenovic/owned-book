@@ -11,6 +11,11 @@
 > * A fund performance report **separates what has been distributed from estimated value still held**: DPI counts distributions (all cash in this page's example), RVPI the remaining net value at its current estimate, and TVPI adds the two. Gross, net and borrowing-adjusted figures differ.
 > * For a company leader, these mechanics explain **the timing and kind of requests** a company receives. A higher valuation is not itself a cash distribution; ask whether a reported result was received or estimated.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Nodding Room** — Explains how fund-manager incentives and payment timing can differ from the company’s priorities.
+> * **The Exit Halo** — Distinguishes money distributed from value still estimated, with fees and borrowing made explicit.
+
 This page is optional depth behind the chapters [Understand Funding and Control: An Investment Announcement Is Not a Budget](#announcement-is-not-a-budget) and [Understand Investor Returns: Same Performance, Different Outcomes](#three-different-returns) in Part I: what a fund's investors and its manager are paid, and how a fund reports its results. Nothing here is needed to follow the main chapters; the [Glossary](#glossary) defines each term in one line. The examples are deliberately simple, and every rate is an illustrative assumption rather than a typical or recommended term.
 
 {id: fund-economics--how-fees-and-profit-sharing-work}

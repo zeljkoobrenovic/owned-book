@@ -15,6 +15,11 @@
 > * Judge the technology and the team by **their consequences for that work**, and record strengths as well as constraints. An old system is not, by itself, a bad investment; a fashionable one is not a good one.
 > * End with **a finding the next decisions can use**: the obstacle that most limits the plan, the evidence behind it, what is uncertain, and what a transition would cost, over what period, and when its first benefit could appear.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **All Bulk, No Muscle** — Tests what the technology and team can deliver against the actual requirements of the plan.
+> * **Never Fixing the Roof** — Identifies the recurring constraint and the funded transition needed to remove it.
+
 Investment plans often **fix a destination and a date** before anyone has looked closely at the technology: a new market next year, twice as many customers, a new product line. That does not make the plan wrong. It does mean that someone must check whether the company’s software, and the people who build and run it, can **actually carry the plan**, and what it would take if they cannot. That answer should arrive before the company commits money or makes promises to customers, not after a missed deadline.
 
 This chapter shows how to make that assessment. It starts from what the plan requires, judges the systems and the team by their consequences for that work, and ends with a **finding**: the obstacle that most limits the plan, the evidence for it, and what a transition would cost in money and time. The assessment covers people as well as software, because the people who run the systems are part of what the company can do. It works the same way whether the systems are built in-house, bought from suppliers or assembled from both.

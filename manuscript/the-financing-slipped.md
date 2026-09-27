@@ -15,6 +15,11 @@
 > * **Work the decision by date.** Put cash, monthly spending and every planned commitment on a calendar. Find the last date a decision can still change them, and compare the alternatives by when each falls below the minimum cash the board wants to keep.
 > * **Authorize one fallback.** The board chooses the plan that runs now, names who pursues the missing money and sets in advance what must happen before deferred spending restarts. Customers and the team are told which plan is running.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **Spending the Press Release** — Puts cash arrivals and payment commitments on a calendar and authorizes a fallback before money runs short.
+> * **The Ratchet Roadmap** — Changes the work and dates when funding slips, with explicit conditions for restarting deferred commitments.
+
 Plans are often built on **money that has not arrived yet**. A new investment is expected by a certain date, and hires, contracts and customer promises are lined up to start when it lands. Then the date moves. The work may be going well, but the plan now spends money the company does not have, and every week of waiting brings it closer to its cash safety limit. The real risk is not the delay itself; it is letting job offers and signed contracts make the decision before anyone has made it deliberately.
 
 {id: the-financing-slipped--setting-up-the-example-larkspurs-round-moves-to-december}

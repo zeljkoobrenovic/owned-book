@@ -5,6 +5,12 @@
 
 > **IN THIS SECTION, YOU WILL:** Establish who can authorize a decision, what each party stands to gain or lose, and which evidence everyone should use.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Nodding Room** — Makes competing interests, time frames and evidence explicit before people agree to a plan.
+> * **The Ghost Veto** — Traces approval rights to the people and agreements that actually grant them.
+> * **The Accidental Gatekeeper** — Distinguishes an adviser’s influence from an agreed right to decide.
+
 Part I established whose money is involved. This part establishes who decides what, which matters most when the plan is under pressure.
 
 **Decision rights** can come from shares (units of ownership), from a **seat on the board** that oversees the company, or from **loan conditions** that limit what the company may do. An **advisory** role may bring access and influence without any decision right. Behind every right sits an agreement, a rule or permission from someone authorized to grant it; a **job title settles nothing**.

@@ -15,6 +15,12 @@
 > * **Hold every number ready: defined once, owned by name, refreshed on a schedule, and labelled.** Each figure carries its definition, source, owner and context, and its kind: **actual, target, forecast** or **assumption**, or **committed** for a resource the board has authorized. The most expensive reporting mistake is an accurate projection read as an observed result.
 > * **One set of numbers, three uses.** The same measures feed the investor conversation, the goals teams work to and the dashboards used by the board, the leadership and the teams, each at its own level of detail. Every figure on the board’s page should trace down to work a team is doing.
 
+> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+>
+> * **The Nodding Room** — Gives teams and investors common definitions, sources and time periods for their measures.
+> * **Spending the Press Release** — Keeps actual cash, forecasts, assumptions and authorized resources visibly distinct.
+> * **Squeezing the Balloon** — Separates spending, staff time and operational measures so one favourable number cannot hide the rest.
+
 After an investment, requests for numbers arrive quickly: a reporting template from the investor, a question from an adviser, the papers for a board meeting a few weeks away. Most companies already hold much of the evidence, in their accounts, time records, incident logs and sales pipelines. But it is **scattered across systems**, defined differently by each function and rarely ready when someone asks. The usual result is a **scramble before every meeting** and an argument about whose figure is right, rather than about what to do.
 
 This chapter’s argument is not that better numbers produce agreement. It is that **ready numbers make disagreement useful**. Two people looking at the same defined, sourced and dated figures can disagree about what to do and find exactly **where their views part**: a volume assumption, a risk tolerance, a time horizon. Two people looking at different numbers, or at the same number understood differently, argue about reality and never reach the decision.
