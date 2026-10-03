@@ -5,7 +5,7 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn to choose a combination of work that fits both the cash and the team time available, and revise the whole combination when a test fails.
 
-> **WHY INVESTORS CARE:** Larkspur’s investor agreed to fund growth on one assumption: the company can take on many more new customers without adding staff at the same rate. The work that tests that assumption needs the same engineers as an improvement the company has already promised. A plan that assigns the same people to both will later show up as delays, in front of the board on which the investor sits.
+> **WHY INVESTORS CARE:** Rotaline’s investor agreed to fund growth on one assumption: the company can take on many more new customers without adding staff at the same rate. The work that tests that assumption needs the same engineers as an improvement the company has already promised. A plan that assigns the same people to both will later show up as delays, in front of the board on which the investor sits.
 
 > **WHY YOU SHOULD CARE:** A plan that fits the cash but not the team time, or that ignores an agreed obligation, will be overrun by the limit nobody counted. Choosing a combination the company can deliver makes its commitments worth something.
 
@@ -15,7 +15,7 @@
 > * Sort the requests by **what they rest on**: an agreed obligation, tested customer evidence or an assumption. A growth target starts the discussion; it does not choose the project.
 > * Make the **next review part of the decision**, and revise the whole combination, not just one project, when a test fails or new evidence arrives.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Ratchet Roadmap** — Chooses a combination that fits both cash and people, then revisits the whole combination when evidence changes.
 
@@ -26,18 +26,18 @@ A **company investment** commits resources now expecting a future benefit. **Tea
 {id: set-priorities--setting-up-the-example-three-requests-one-team}
 ## Setting Up the Example: Three Requests, One Team
 
-Larkspur is the fictional company this book follows; it sells scheduling software to maintenance businesses. Its investor wants faster growth, and three requests are competing for the same people:
+Rotaline is the fictional company this book follows; it sells scheduling software to maintenance businesses. Its investor wants faster growth, and three requests are competing for the same people:
 
 - Priya, the product leader, wants a **new customer portal**, an online workspace where customers manage their own work.
 - Alex, the technology leader, wants to improve **recovery from system failures**.
 - The customer team wants **simpler setup** for new accounts.
 
-Each request has a plausible benefit, and the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) has already agreed which customer and business outcomes the work is for. But the requests cannot all use the same people at the same time. The next section shows the limits the board has approved and what each request would need.
+Each request has a plausible benefit, the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) has agreed which customer and business outcomes the work is for, and [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) has defined the numbers that will test it. But the requests cannot all use the same people at the same time. The next section shows the limits the board has approved and what each request would need.
 
 {id: set-priorities--competing-requests-two-limits}
 ## Competing Requests, Two Limits
 
-In this **fictional planning exercise**, Larkspur’s board sets one limit for the first hundred days after **closing**, the day the investment is completed. The board is the group of directors who oversee the company and approve its major decisions; the investor has a seat on it. The limit is up to €500,000 of additional cash and 24 engineer-weeks. This book calls that approved limit the **envelope**. One **engineer-week** means one person’s working time for one week; it’s a planning estimate, not a guarantee that people are interchangeable.
+In this **fictional planning exercise**, Rotaline’s board sets one limit for the first hundred days after **closing**, the day the investment is completed. The board is the group of directors who oversee the company and approve its major decisions; the investor has a seat on it. The limit is up to €500,000 of additional cash and 24 engineer-weeks. This book calls that approved limit the **envelope**. One **engineer-week** means one person’s working time for one week; it’s a planning estimate, not a guarantee that people are interchangeable.
 
 The envelope limits what the company may **commit** in those hundred days: the money it agrees to spend and the weeks it assigns to named work. It does not promise that the work is finished, or every invoice paid, by day 100. Some approved work and some payments run past that date, so the record keeps three things apart: committed, spent and finished.
 
@@ -73,9 +73,9 @@ Confirm that the required specialists are available in the weeks each project ne
 {id: set-priorities--sort-the-rows-by-what-they-rest-on}
 ## Sort the Rows by What They Rest On
 
-**An agreed obligation.** Some work protects an existing commitment: continuing a contracted service, meeting an applicable requirement or resolving a risk the company has decided it can’t accept. At Larkspur the recovery requirement above is one: Ines approved it, and customers plan their mornings around it. The restoration row is what proving and meeting it costs. KNW-1 is the other obligation on the table: the company decided not to carry the risk of one person being the only one who can release and recover the scheduling engine. That doesn’t make every proposed security or maintenance project mandatory. Establish the specific obligation or failure scenario, the minimum acceptable result and the feasible alternatives, with specialist interpretation where necessary. The company still chooses how to meet the need.
+**An agreed obligation.** Some work protects an existing commitment: continuing a contracted service, meeting an applicable requirement or resolving a risk the company has decided it can’t accept. At Rotaline the recovery requirement above is one: Ines approved it, and customers plan their mornings around it. The restoration row is what proving and meeting it costs. KNW-1 is the other obligation on the table: the company decided not to carry the risk of one person being the only one who can release and recover the scheduling engine. That doesn’t make every proposed security or maintenance project mandatory. Establish the specific obligation or failure scenario, the minimum acceptable result and the feasible alternatives, with specialist interpretation where necessary. The company still chooses how to meet the need.
 
-**An expected result.** An **investment thesis** is the investor’s explanation of why the investment should succeed; it is a revisable prediction, not an instruction. Larkspur’s says the company can grow faster. “Grow faster” could mean winning more customers, getting customers who have already signed started on the product, or helping existing customers buy additional services. Those are different problems, and more marketing won’t fix a setup process that can’t handle the customers already sold. For each row, ask what evidence supports the intended result: a customer request, a measured problem and a guess deserve different confidence.
+**An expected result.** An **investment thesis** is the investor’s explanation of why the investment should succeed; it is a revisable prediction, not an instruction. Rotaline’s says the company can grow faster. “Grow faster” could mean winning more customers, getting customers who have already signed started on the product, or helping existing customers buy additional services. Those are different problems, and more marketing won’t fix a setup process that can’t handle the customers already sold. For each row, ask what evidence supports the intended result: a customer request, a measured problem and a guess deserve different confidence.
 
 **Dependencies and displaced work.** The **opportunity cost** of a choice is the benefit of the best alternative you give up. If two rows need the same specialist, approving one delays the other even when both have funding. Include preparation, transition, the cost of keeping the result running afterwards and the work each row pushes aside.
 
@@ -84,7 +84,7 @@ Confirm that the required specialists are available in the weeks each project ne
 {id: set-priorities--the-condition-that-applies-here}
 ## The Condition That Applies Here
 
-Having an investor changes the conditions of the decision. Establish the actual funding, authority and deadline before committing. Larkspur’s growth funding, the money the investor put in to pay for expansion, was agreed on a plan with one central assumption: the company can set up many more new customers without the implementation team growing at the same rate. The plan’s own test is one and a half times as many new customers with the same team.
+Having an investor changes the conditions of the decision. Establish the actual funding, authority and deadline before committing. Rotaline’s growth funding, the money the investor put in to pay for expansion, was agreed on a plan with one central assumption: the company can set up many more new customers without the implementation team growing at the same rate. The plan’s own test is one and a half times as many new customers with the same team.
 
 That gives the setup row a priority the company’s own view might not. The setup change is run as a **pilot**, a limited trial, with a first **cohort**: a group of customers set up the new way and measured together. The pilot’s evidence is a condition of the next expansion step. Other funding arrangements set other conditions; the chapter [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices) compares them, and the [Introduction & Reading Guide](#introduction) explains how the book’s alternative scenarios relate to each other.
 
@@ -146,7 +146,7 @@ Those can only come from the reserve, and the reserve is the board’s. Ines’s
 
 The retest at day 85 passed both parts: dispatch was working again within four hours, with under fifteen minutes of schedule updates lost. It proved that for one kind of failure: the loss of the application environment, meaning the servers, database and configuration the service runs on.
 
-Larkspur rents its computing from a cloud provider, and a **cloud region** is one geographic group of that provider’s computing facilities. In the retest the region itself kept working, and Larkspur rebuilt its own systems inside it from the backups. If the whole region were unavailable, there would be nowhere in it to rebuild, and the service would have to come back in another location. That larger failure was not tested, and the record lists it as a risk that remains.
+Rotaline rents its computing from a cloud provider, and a **cloud region** is one geographic group of that provider’s computing facilities. In the retest the region itself kept working, and Rotaline rebuilt its own systems inside it from the backups. If the whole region were unavailable, there would be nowhere in it to rebuild, and the service would have to come back in another location. That larger failure was not tested, and the record lists it as a risk that remains.
 
 At the day-100 review the board approved another €40,000 and the last four unallocated engineer-weeks for a data-quality step: checking and correcting each customer’s data before setup begins. The first setup cohort had pointed there, because about 40% of the setup hours that remained traced to problems in customers’ data. That took the envelope to €340,000 committed and all 24 engineer-weeks allocated, with €160,000 of cash still uncommitted.
 

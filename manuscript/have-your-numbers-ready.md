@@ -15,7 +15,7 @@
 > * **Hold every number ready: defined once, owned by name, refreshed on a schedule, and labelled.** Each figure carries its definition, source, owner and context, and its kind: **actual, target, forecast** or **assumption**, or **committed** for a resource the board has authorized. The most expensive reporting mistake is an accurate projection read as an observed result.
 > * **One set of numbers, three uses.** The same measures feed the investor conversation, the goals teams work to and the dashboards used by the board, the leadership and the teams, each at its own level of detail. Every figure on the board’s page should trace down to work a team is doing.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Nodding Room** — Gives teams and investors common definitions, sources and time periods for their measures.
 > * **Spending the Press Release** — Keeps actual cash, forecasts, assumptions and authorized resources visibly distinct.
@@ -28,9 +28,9 @@ This chapter’s argument is not that better numbers produce agreement. It is th
 {id: have-your-numbers-ready--setting-up-the-example-two-requests-in-one-week}
 ## Setting Up the Example: Two Requests in One Week
 
-Larkspur, the fictional scheduling-software company this book follows, has just agreed its outcome record in the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking): the one-page record of the change customers should see, the business result it should produce and the measures that connect the two. In the same week, Larkspur receives two requests.
+Rotaline, the fictional scheduling-software company this book follows, has just agreed its outcome record in the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking): the one-page record of the change customers should see, the business result it should produce and the measures that connect the two. In the same week, Rotaline receives two requests.
 
-Larkspur’s investor is a fund: a pool of money gathered from many investors and used to buy parts of companies. The fund’s portfolio team, the people who follow the companies it has invested in, sends its standard quarterly reporting template: two pages of financial and operating measures, several of which Larkspur has never calculated. Meanwhile, Morgan, the investor’s technology adviser, asks Priya a simpler question: how long does it take to set up a new customer, and how does she know?
+Rotaline’s investor is a fund: a pool of money gathered from many investors and used to buy parts of companies. The fund’s portfolio team, the people who follow the companies it has invested in, sends its standard quarterly reporting template: two pages of financial and operating measures, several of which Rotaline has never calculated. Meanwhile, Morgan, the investor’s technology adviser, asks Priya a simpler question: how long does it take to set up a new customer, and how does she know?
 
 The raw material for both answers exists. Sam, who leads finance, has monthly accounts. Priya has the specialist’s time records. Alex, the chief technology officer (CTO), has incident records, the cloud bill (the monthly charge for the rented computing the software runs on) and the code repositories. Sales has its pipeline, the list of deals in progress.
 
@@ -101,9 +101,9 @@ These are the product leader’s own, and the ones most often missing from the b
 
 | Measure | What it tells you | Where it misleads |
 | --- | --- | --- |
-| **Time to first value** (at Larkspur: weeks from signed contract to the first real schedule) | How quickly a customer starts getting what they bought | An average is dragged by one slow customer; the median, the middle value, is steadier |
-| **Activation** (reaching a defined starting point — at Larkspur, as in the outcome record, the day the customer’s account is ready to use; the first real schedule, which can come days or weeks later, is first value) and **depth of use** (how much of the work then runs through the product — at Larkspur, the share of a customer’s technicians scheduled in it) | Activation: whether customers reach a working start, and the date from which early use and month-one support requests are counted. Depth: whether they use the product for the job they bought it for | Logins and clicks count activity, not value |
-| **Cost to serve** (at Larkspur, starting with human hours per customer setup — effort, one part of the cost) | What it costs to set up and support one customer | It shrinks by moving work to suppliers unless every hour counts, whoever pays for it |
+| **Time to first value** (at Rotaline: weeks from signed contract to the first real schedule) | How quickly a customer starts getting what they bought | An average is dragged by one slow customer; the median, the middle value, is steadier |
+| **Activation** (reaching a defined starting point — at Rotaline, as in the outcome record, the day the customer’s account is ready to use; the first real schedule, which can come days or weeks later, is first value) and **depth of use** (how much of the work then runs through the product — at Rotaline, the share of a customer’s technicians scheduled in it) | Activation: whether customers reach a working start, and the date from which early use and month-one support requests are counted. Depth: whether they use the product for the job they bought it for | Logins and clicks count activity, not value |
+| **Cost to serve** (at Rotaline, starting with human hours per customer setup — effort, one part of the cost) | What it costs to set up and support one customer | It shrinks by moving work to suppliers unless every hour counts, whoever pays for it |
 | **Support requests** per customer | Where customers struggle, especially in the first month after activation | Fewer requests can mean customers gave up asking |
 | **Customer feedback scores** | How customers say they feel | A score without the reasons behind it tells you little about what to change |
 
@@ -149,7 +149,7 @@ The engineering leader owns these outright, and here the absence of a number is 
 | **Security findings** (known weaknesses) by severity and age | The protections in place and the obligations still open | A count without age hides the finding that has been open for a year |
 | **Technology cost** per customer and as a share of revenue | Whether the cloud bill and software licence fees grow slower than the business | A total not split by product or customer cannot be weighed against the value they bring ([Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs)) |
 | **Technical debt register** | Where past shortcuts now slow specific future work | A general complaint about quality is not a register ([Manage Technical Debt: Fund the Fix by the Cost, the Risk and the Speed It Buys](#manage-technical-debt)) |
-| **Key-person concentration** | Which systems only one person can release or recover | Invisible until that person is away; at Larkspur, diligence — the checks the investor made before investing — found that only one specialist could release the scheduling engine, the part of the software that builds the schedules, and recover it after a failure; releasing means making a new version available to customers |
+| **Key-person concentration** | Which systems only one person can release or recover | Invisible until that person is away; at Rotaline, diligence — the checks the investor made before investing — found that only one specialist could release the scheduling engine, the part of the software that builds the schedules, and recover it after a failure; releasing means making a new version available to customers |
 
 ![A service cabinet in the centre surrounded by six objects: a reliability gauge, a backup box stamped as restore tested, a shield of security findings by age, coins for cost per customer, a technical debt register, and one key on a single hook for the system only one person can release.](private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/technology-health-and-cost.jpeg)
 
@@ -175,7 +175,7 @@ Individual performance and pay stay internal; what an investor needs from this f
 
 Nobody should report all that. Fifteen measures nobody disputes are worth more than ninety nobody trusts.
 
-- **Start from decisions, not from the template.** Ask what the next consequential decision needs. At Larkspur, the next decisions are whether to fund the setup work and, later, whether it worked; the numbers that matter are setup effort, the wait to first schedule and the cost of the work. The investor’s template still gets filled in, but the company’s own set starts from its decisions.
+- **Start from decisions, not from the template.** Ask what the next consequential decision needs. At Rotaline, the next decisions are whether to fund the setup work and, later, whether it worked; the numbers that matter are setup effort, the wait to first schedule and the cost of the work. The investor’s template still gets filled in, but the company’s own set starts from its decisions.
 - **Let the outcome record choose the product numbers.** The customer outcome, the business outcome and the measures between them ([Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking)) are the product and customer numbers worth having ready. The rest of the catalogue is context.
 - **Add a measure only when a decision needs it.** A measure that has never changed a decision should be retired.
 
@@ -186,11 +186,11 @@ A reasonable shape for the investor conversation is a dozen or so numbers: a few
 
 A number is ready when anyone who doubts it can trace it back to its source in under ten minutes, and when everyone who quotes it means the same thing. Most reporting disputes are definition disputes in disguise. Someone reports retention at 94% and someone else at 88% — one counting customers kept, the other the revenue they represent, over different periods — and an hour that should have gone into deciding something disappears into reconciling the two.
 
-For each measure in the set, record five things — plus, for a figure reported for a group, how the individual records are combined — and keep them with the measure rather than in a document nobody opens. Larkspur’s first entry is the one Morgan asked about:
+For each measure in the set, record five things — plus, for a figure reported for a group, how the individual records are combined — and keep them with the measure rather than in a document nobody opens. Rotaline’s first entry is the one Morgan asked about:
 
-| Field | Larkspur’s setup-effort measure |
+| Field | Rotaline’s setup-effort measure |
 | --- | --- |
-| Definition | All human hours spent setting up one customer, end to end — Larkspur’s own staff, the contract implementation specialist and any bought-in data-entry help, whoever pays them — including all time spent checking and correcting the customer’s data |
+| Definition | All human hours spent setting up one customer, end to end — Rotaline’s own staff, the contract implementation specialist and any bought-in data-entry help, whoever pays them — including all time spent checking and correcting the customer’s data |
 | Source | The implementation team’s time records, reconstructed per customer |
 | Owner | Priya, the product leader |
 | Aggregation | The average per setup: total included hours for a group of setups divided by the number of setups in the group |
@@ -208,7 +208,7 @@ Define a measure once and change it rarely. When a definition must change, resta
 
 “80 hours” says nothing until the reader knows what it is compared with, how many observations it rests on and what it is for. Four pieces of context turn a number into something a board can use:
 
-- **Baseline**: what it was before, on the same definition. Larkspur’s 80 hours is, this week, the average of the five setups Morgan examined during diligence, three of which needed the specialist’s manual configuration. It is provisional. Days in this book count from day 0, the board meeting that adopts the operating plan shortly after the investment. The baseline the company will use is to be reconstructed by day 20 from the time records of all twelve setups of the previous two quarters, and the report says so.
+- **Baseline**: what it was before, on the same definition. Rotaline’s 80 hours is, this week, the average of the five setups Morgan examined during diligence, three of which needed the specialist’s manual configuration. It is provisional. Days in this book count from day 0, the board meeting that adopts the operating plan shortly after the investment. The baseline the company will use is to be reconstructed by day 20 from the time records of all twelve setups of the previous two quarters, and the report says so.
 - **Comparison**: what it was expected to be. The setup proposal aims at an average of 50 hours per setup.
 - **Direction and confidence**: which way it is moving and how much weight it carries. Five observations are a starting point, not a trend.
 - **Decision link**: what the figure is used to decide. The plan the board adopts sets the rule in advance for the average of the first group of eight pilot customers (a small trial of the changed setup). The average is measured at day 90 and goes to the board’s review at day 100. Under 60 hours supports a request for the next stage, which the board must still approve; 60 to 70 hours, including exactly 60 or 70, supports a smaller corrective step; over 70 reopens the plan ([Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)).
@@ -224,7 +224,7 @@ Priya’s setup proposal is a page of figures, and they look alike. They are not
 
 **Figure 8:** *The kinds of statement look identical on a page. The label separates a measured result from a target, a calculation about the future, an input taken as given, and a resource already authorized.*
 
-| Kind | What it is | In Larkspur’s setup proposal |
+| Kind | What it is | In Rotaline’s setup proposal |
 | --- | --- | --- |
 | **Actual** | Observed and recorded, on a stated definition | An average of about 80 staff hours per setup and a median wait of about ten weeks from signing to first real schedule; provisional until the day-20 baseline |
 | **Target** | The result the plan sets out to reach, and by when — a desired outcome, not a promise | 50 hours per setup for the first pilot group, measured at day 90 |
@@ -293,7 +293,7 @@ Finance owns the accounts, not the definition of setup effort. Engineering owns 
 
 **Standardized definitions are the mechanism, not a by-product**: two products can be compared only because both report on the same definition, and someone must maintain it. And **product operations supplies evidence; it does not take the decisions**: the numbers exist so the people with authority, established in [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), can decide well.
 
-A small company will not have a product operations team and does not need one to start. It needs the work assigned: a named owner per measure, as the record requires, and one person accountable for the board pack being consistent, current and honest as a whole. At Larkspur, Sam takes the board pack and the money family; Priya the product and customer numbers; Alex delivery and technology health. The function is what this becomes when doing it informally stops working.
+A small company will not have a product operations team and does not need one to start. It needs the work assigned: a named owner per measure, as the record requires, and one person accountable for the board pack being consistent, current and honest as a whole. At Rotaline, Sam takes the board pack and the money family; Priya the product and customer numbers; Alex delivery and technology health. The function is what this becomes when doing it informally stops working.
 
 {id: have-your-numbers-ready--build-it-in-the-order-that-pays}
 ## Build It in the Order That Pays
@@ -328,7 +328,7 @@ A measure can be chosen because it flatters, a threshold set where it is easy to
 
 **“What is your €225,000 worth in cash?”** Nothing yet. It is a forecast of staff time, resting on three assumptions: about 100 setups a year, €75 an hour, and setups reaching 50 hours and staying there. It becomes cash only on the date a scheduled payment is actually avoided, or when additional customers pay more than serving them costs.
 
-With the numbers ready and labelled, Larkspur can choose among its requests against the cash and team time the board approves. That is where [Set Priorities: You Cannot Fund Everything at Once](#set-priorities) begins.
+With the numbers ready and labelled, Rotaline can choose among its requests against the cash and team time the board approves. That is where [Set Priorities: You Cannot Fund Everything at Once](#set-priorities) begins.
 
 {id: have-your-numbers-ready--questions-to-consider}
 ## Questions to Consider

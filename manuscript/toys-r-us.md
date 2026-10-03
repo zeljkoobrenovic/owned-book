@@ -15,7 +15,7 @@
 > * **Nearly 40% of suppliers tightened payment terms in September 2017**, according to management's court declaration. Some wanted cash before shipping or on delivery. The same stock needed money sooner, while the proposed technology program would take years. [S50: Brandon declaration](https://profhayesuwla.com/wp-content/uploads/2017/09/toys-r-us-first-day-dec-chairman.pdf)
 > * **The March 2018 US liquidation plan put roughly 33,000 jobs at risk.** Liquidation means selling assets and winding down operations. Hasbro separately recorded $60.4 million of costs associated with the bankruptcy in 2018. These are employee and supplier consequences, separate from whatever the owners received. [S37: Reuters US liquidation report](https://www.business-standard.com/article/reuters/toys-r-us-to-close-doors-leaving-void-for-toy-lovers-118031500236_1.html) [S51: Hasbro 2018 annual report](https://www.annualreports.com/HostedData/AnnualReportArchive/h/NYSE_HAS_2018.pdf)
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **Spending the Press Release** — Tests the cash and payment dates behind a technology plan instead of treating positive earnings as funding.
 > * **The Exit Halo** — Examines the interacting pressures and separate stakeholder consequences behind a failure.

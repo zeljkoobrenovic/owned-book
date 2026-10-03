@@ -15,7 +15,7 @@
 > * Use the **access you actually have**: before signing (when the parties commit to the agreement), between signing and closing (when the money is paid and **shares**, the units of ownership in the company, actually change hands) where there is a gap, or after closing when earlier participation was impossible. Record the limit rather than pretending it away.
 > * **Complete the finding.** A **material finding**, one important enough to affect the decision, needs observed evidence separated from claims and interpretation, options with costs, an agreed response, the people authorized to approve it, an accountable company leader and the evidence that would change the decision. Carry its identifier into the early operating plan.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **Clean Slate Syndrome** — Carries each significant finding into the early operating plan under a stable identifier.
 > * **Never Fixing the Roof** — Turns a known constraint into costed options, an agreed response and an accountable company leader.
@@ -26,14 +26,14 @@ Whether new cash reaches the company depends on the **transaction form**, the wa
 
 That does not mean every diligence must find a reason to change the deal. It can confirm an important assumption. The requirement is to identify which assumption was tested, what evidence supports it and what uncertainty remains.
 
-{id: use-diligence--setting-up-the-example-the-onboarding-bottleneck-at-larkspur}
-## Setting Up the Example: The Onboarding Bottleneck at Larkspur
+{id: use-diligence--setting-up-the-example-the-onboarding-bottleneck-at-rotaline}
+## Setting Up the Example: The Onboarding Bottleneck at Rotaline
 
-**Larkspur**, the fictional company this book follows, sells scheduling software to businesses whose staff work in the field. Every new customer needs **onboarding**, which this chapter also calls **implementation**. Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use, a moment called **go-live**. The people who do this work are the **implementation team**.
+**Rotaline**, the fictional company this book follows, sells scheduling software to businesses whose staff work in the field. Every new customer needs **onboarding**, which this chapter also calls **implementation**. Rotaline’s staff set the software up with that customer’s settings and data until it is ready for real use, a moment called **go-live**. The people who do this work are the **implementation team**.
 
-An investor is considering an investment in Larkspur. Its **diligence report**, the written findings of its investigation, identifies a **bottleneck** in onboarding: much of the setup waits for one implementation specialist’s manual work. Yet the investment plan still assumes Larkspur can onboard twice as many customers a year with the same implementation team. The report has described a problem without resolving what it means for the deal. The assumption the technical diligence must test is therefore whether Larkspur can double onboarding volume without a matching increase in implementation staff.
+An investor is considering an investment in Rotaline. Its **diligence report**, the written findings of its investigation, identifies a **bottleneck** in onboarding: much of the setup waits for one implementation specialist’s manual work. Yet the investment plan still assumes Rotaline can onboard twice as many customers a year with the same implementation team. The report has described a problem without resolving what it means for the deal. The assumption the technical diligence must test is therefore whether Rotaline can double onboarding volume without a matching increase in implementation staff.
 
-**Alex** is Larkspur’s **chief technology officer (CTO)**, the leader responsible for its technology. **Priya** leads product: what the software does and how it works for customers. **Morgan** is the investment firm’s technology adviser, who ran the technical part of the investigation.
+**Alex** is Rotaline’s **chief technology officer (CTO)**, the leader responsible for its technology. **Priya** leads product: what the software does and how it works for customers. **Morgan** is the investment firm’s technology adviser, who ran the technical part of the investigation.
 
 {id: use-diligence--what-you-can-do-depends-on-when-you-have-access}
 ## What You Can Do Depends on When You Have Access
@@ -48,14 +48,14 @@ The company leader’s access varies with the transaction, and the title’s pro
 | Between signing and closing, where that gap exists | Confirm material findings with the people who were absent from the process; prepare the acceptance record; agree who acts from day one. The signed terms now govern the price, including any adjustment after closing they provide for; the plan is still open. | Which findings management accepts, disputes or needs more evidence on; who is accountable for each. |
 | After closing, when earlier participation was impossible | Ask the **board**, the group of directors that oversees the company’s major decisions, for the material findings; record the access limit; ask for an early review. When the current owners run the sale themselves, or restrict who may see sensitive information, managers can be kept out until closing. | The access limit itself, the date of first review, and the findings accepted or disputed on first sight. |
 
-Larkspur’s case is a **growth investment**, meant to finance the company’s expansion. Alex and Priya took part before signing, so the finding below was resolved while the terms could still move. Where you cannot inspect a conclusion or take part before the transaction, the same record is made after closing. The difference is that management’s immediate operating levers are then the plan and its funding.
+Rotaline’s case is a **growth investment**, meant to finance the company’s expansion. Alex and Priya took part before signing, so the finding below was resolved while the terms could still move. Where you cannot inspect a conclusion or take part before the transaction, the same record is made after closing. The difference is that management’s immediate operating levers are then the plan and its funding.
 
 Whether any price adjustment or claim is still possible after closing depends on the signed terms, not on the strength of a finding made later. Some purchase agreements, for example, adjust the price once the company’s **working capital** has been measured at closing. In this book’s simplified terms, working capital is what customers owe the company plus the goods it holds for sale, minus what it owes suppliers.
 
 {id: use-diligence--one-investment-question-matched-to-the-transaction}
 ## One Investment Question, Matched to the Transaction
 
-An **investment thesis** explains why an investment should succeed and what must be true for that to happen. Larkspur’s thesis for this transaction says the company can double onboarding volume without a matching increase in implementation staff. As a company leader, ask the reviewers to make that proposition explicit and help test it. Which onboarding steps are reusable? Which depend on settings made by hand for one customer? How much effort comes from limits in the product rather than from poor customer data? Who must change the process?
+An **investment thesis** explains why an investment should succeed and what must be true for that to happen. Rotaline’s thesis for this transaction says the company can double onboarding volume without a matching increase in implementation staff. As a company leader, ask the reviewers to make that proposition explicit and help test it. Which onboarding steps are reusable? Which depend on settings made by hand for one customer? How much effort comes from limits in the product rather than from poor customer data? Who must change the process?
 
 The question changes with the transaction:
 
@@ -67,7 +67,7 @@ In each case, ask which decision the investor is making and which operating prom
 
 A generic checklist of how the software is built can still contribute, but it should not set the agenda independently of the thesis. The same technical condition can be acceptable in a stable business that already brings in more cash than it spends, and serious in a plan that depends on rapid change.
 
-**Valuation** is an estimate of what the company, or the part of its ownership being bought, is worth. It informs the price the parties negotiate; it does not set that price by itself. It also tells the reviewer where an unsupported assumption could matter financially. Suppose the price came from comparing Larkspur’s **revenue**, its sales income, with that of similar companies, and assumes rapid expansion. Then investigate whether the software and the implementation team can support that expansion. Suppose instead it came from comparing **earnings**, a measure of profit, and assumes stable costs. Then investigate the development, support and reliability spending needed to keep costs stable. The same software can support one plan and constrain another; the difference needs evidence, not a generic score.
+**Valuation** is an estimate of what the company, or the part of its ownership being bought, is worth. It informs the price the parties negotiate; it does not set that price by itself. It also tells the reviewer where an unsupported assumption could matter financially. Suppose the price came from comparing Rotaline’s **revenue**, its sales income, with that of similar companies, and assumes rapid expansion. Then investigate whether the software and the implementation team can support that expansion. Suppose instead it came from comparing **earnings**, a measure of profit, and assumes stable costs. Then investigate the development, support and reliability spending needed to keep costs stable. The same software can support one plan and constrain another; the difference needs evidence, not a generic score.
 
 A demonstration of onboarding can support a discussion of how easy the software is to use. It cannot by itself justify a forecast of doubled volume or a claim that the system is ready for a second country. Priya and Alex should separate what is working, what the plan assumes and the funded work needed to close the gap, and **record the conditions** before the story becomes an unconditional commitment.
 
@@ -103,9 +103,9 @@ A material finding needs a stable identifier, here **D-3**, so it can be followe
 | Inferred (reviewer’s interpretation) | Morgan: the dependency on one person’s manual configuration is built into how setup work is organized, so it will not ease as sales grow, whatever share of the hours customer data explains. |
 | Not established | Whether the sample represents other customer types and countries; how much of the effort each explanation accounts for. The two explanations are compatible, so the open question is their size, not which one is true. |
 | Business consequence | The thesis assumes onboarding volume doubles with the same implementation team. |
-| Options | (1) Hire two implementation specialists, about €300,000 a year, recurring. (2) Fund one reusable setup step as a pilot: €180,000 to build, €30,000 a year to maintain, 12 engineer-weeks (the pilot costed in [Set Priorities: You Cannot Fund Everything at Once](#set-priorities)). (3) Narrow the first-year target to customers whose data already fits Larkspur’s standard format. |
+| Options | (1) Hire two implementation specialists, about €300,000 a year, recurring. (2) Fund one reusable setup step as a pilot: €180,000 to build, €30,000 a year to maintain, 12 engineer-weeks (the pilot costed in [Set Priorities: You Cannot Fund Everything at Once](#set-priorities)). (3) Narrow the first-year target to customers whose data already fits Rotaline’s standard format. |
 | Agreed response | The investment proceeds. The first-year onboarding-volume assumption is revised from 2× to 1.5×, a forecast conditional on the pilot’s evidence rather than a result that funding the pilot establishes. Second-country expansion moves out of year one and becomes conditional on that evidence. Option (2) becomes a funded condition of the early operating plan. |
-| Approvers | Investment side: the **investment committee**, the group inside the investment firm authorized to approve its investments, approves the transaction terms only. Company side: the Larkspur board adopts the **operating plan**, the company’s plan of work, people and money, and its funding at the board meeting that follows closing (day 0 of the first hundred days). |
+| Approvers | Investment side: the **investment committee**, the group inside the investment firm authorized to approve its investments, approves the transaction terms only. Company side: the Rotaline board adopts the **operating plan**, the company’s plan of work, people and money, and its funding at the board meeting that follows closing (day 0 of the first hundred days). |
 | Accountable company leader | Priya, because the fix is a change to the product. |
 | Recorded disagreement | Alex disputes Morgan’s view that the dependency is the main constraint, attributing about 40% of the effort to customer data. The explanations are compatible; the disagreement is about their size, and therefore about where the next money should go. |
 | Evidence to resolve it | Priya’s day-90 measurement of the pilot cohort: average effort per implementation and the estimated share of the remaining hours that traces to customer data and to product limitation. The measurement sizes both explanations; it does not declare one person right. |
@@ -129,7 +129,7 @@ If the notes cannot support a reliable estimate, the historical split stays unkn
 
 None of this required the deal to fail; it required the plan to match what was observed.
 
-**An illustrative capacity check.** The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) uses a round teaching model, not Larkspur’s measured workload: 100 implementations a year at 80 hours each, or 8,000 hours. Treat those 8,000 hours as the assumed capacity of today’s implementation team, not a measured staffing figure. On that model:
+**An illustrative capacity check.** The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) uses a round teaching model, not Rotaline’s measured workload: 100 implementations a year at 80 hours each, or 8,000 hours. Treat those 8,000 hours as the assumed capacity of today’s implementation team, not a measured staffing figure. On that model:
 
 - 150 implementations (1.5×) at the pilot’s 50-hour target would use 7,500 hours, within the assumed capacity.
 - 150 implementations at today’s 80 hours would need 12,000 hours.
@@ -146,7 +146,7 @@ Funding the pilot does not establish any of these results; only the cohort measu
 
 - **Building the step:** €180,000, **committed**, meaning authorized to be spent, not yet paid. It sits inside the **envelope**, the overall spending limit the board authorizes for the first hundred days.
 - **Upkeep:** €30,000 a year from the **operating budget**, the money for the company’s ordinary running costs, starting in the **financial year**, the company’s twelve-month accounting period, after the step ships.
-- **Scarce capacity:** 12 engineer-weeks, and the time of Larkspur’s own implementation specialist, whose knowledge the step needs. Neither can be spent twice.
+- **Scarce capacity:** 12 engineer-weeks, and the time of Rotaline’s own implementation specialist, whose knowledge the step needs. Neither can be spent twice.
 - **Temporary cover:** while the specialist works on the pilot, a **contract implementation specialist**, an outside person engaged for a fixed term, works through the customer queue for months 1 to 12. That costs about €150,000, agreed before day 0 and paid from the operating budget, as the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) records. It is not part of the pilot’s €180,000 or the envelope. It is temporary cover, not one of the two permanent hires, which stay deferred.
 
 **Who decides and who answers for it.** The investment committee approves the transaction terms. The board approves the plan and its funding. Priya is accountable for the result. Alex’s disagreement stays on the record.
@@ -190,7 +190,7 @@ This is a proposed assessment structure, not a tested score that predicts outcom
 {id: use-diligence--the-one-page-thesis-summarizes-the-findings}
 ## The One-Page Thesis Summarizes the Findings
 
-The finding record above holds evidence, options and a response for one important issue. The **Technology Investment Thesis** is a one-page statement of what the investment depends on from product, technology and people: the technology advantage, main constraint, required investment, leadership needs, AI opportunity or threat, expected business outcome and serious uncertainties. It does not repeat the findings; it summarizes and links them. For Larkspur, the constraint line points at D-3, the leadership line at D-5 and the uncertainty line at D-6, each with the agreed response and the evidence still needed. The [Practical Tools for Ownership and Technology Decisions](#toolkit) shows the finding record, the thesis page and the initiative record moving through the same stages.
+The finding record above holds evidence, options and a response for one important issue. The **Technology Investment Thesis** is a one-page statement of what the investment depends on from product, technology and people: the technology advantage, main constraint, required investment, leadership needs, AI opportunity or threat, expected business outcome and serious uncertainties. It does not repeat the findings; it summarizes and links them. For Rotaline, the constraint line points at D-3, the leadership line at D-5 and the uncertainty line at D-6, each with the agreed response and the evidence still needed. The [Practical Tools for Ownership and Technology Decisions](#toolkit) shows the finding record, the thesis page and the initiative record moving through the same stages.
 
 Conciseness works only when readers can inspect the basis. Keep links to findings, scenario assumptions, source dates and specialist assessments. **Include the downside**: if the pilot takes twice as long, can the company still operate within the money it has? If Alex, the CTO, leaves, which assumptions become invalid?
 
@@ -199,7 +199,7 @@ Conciseness works only when readers can inspect the basis. Keep links to finding
 
 At closing, ask for the material findings to be reviewed with the company leaders who will be accountable for the business plan. Ask each accountable leader to record agreement, disagreement or a need for more evidence. Receiving a report does not mean someone has accepted responsibility or funding for its recommendations. When new evidence changes the interpretation, keep the original reasoning and explain the revision, so company leaders and the investor can later judge whether the investigation asked the right questions.
 
-For Larkspur, the next question is what D-3 costs once it is inside a board-authorized budget, with two other findings competing for the same engineer-weeks. Priya records acceptance within ten days of closing. The finding then becomes a funded priority with its own budget, protected capacity, a baseline by day 20 and a day-90 cohort measurement that the board decides on at day 100: the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days).
+For Rotaline, the next question is what D-3 costs once it is inside a board-authorized budget, with two other findings competing for the same engineer-weeks. Priya records acceptance within ten days of closing. The finding then becomes a funded priority with its own budget, protected capacity, a baseline by day 20 and a day-90 cohort measurement that the board decides on at day 100: the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days).
 
 {id: use-diligence--questions-to-consider}
 ## Questions to Consider

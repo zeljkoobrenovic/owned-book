@@ -15,7 +15,7 @@
 > * **Blackstone inherited Hilton's OnQ hotel-operations system.** Hilton introduced it in 2003, four years before the purchase. Later filings describe improvements without measuring their contribution to the eventual gain, so the return cannot simply be credited to an owner-created platform. [S64: Hilton 2003 annual filing](https://www.sec.gov/Archives/edgar/data/47580/000104746904007535/a2128996z10-k.htm)
 > * **Skype settled its core technology-rights dispute in 2009 and was sold to Microsoft in 2011.** Microsoft paid $8.5 billion and wanted Skype inside its own communications business. The settlement and the buyer's stated plans help explain the sequence; the price alone does not measure either one's contribution. [S27: Skype registration filing](https://www.sec.gov/Archives/edgar/data/1498209/000119312511096544/ds1a.htm) [S28: Microsoft Skype completion](https://news.microsoft.com/source/2011/10/13/microsoft-officially-welcomes-skype/)
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Exit Halo** — Separates financing, inherited technology, legal rights and buyer intentions from the final sale price.
 > * **Spending the Press Release** — Shows why an announced debt reduction cannot be read as cash available for technology work.

@@ -3,21 +3,23 @@
 
 ![Understand Investor Returns: Same Performance, Different Outcomes — logo](private-techuity/posts/03-understand-investor-returns/assets/images/03-understand-investor-returns/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** See how the same company performance produces three different investor returns, and learn what engineering can and cannot claim credit for in a sale gain.
+> **IN THIS SECTION, YOU WILL:** See how the same company performance produces three different investor returns, and learn what engineering can and cannot claim of a sale gain.
 
-> **WHY INVESTORS CARE:** An investment **fund** pools its investors’ money; the fund’s **manager** chooses what to buy and reports the results to those investors. A reported return combines the company’s performance with the purchase price, the borrowing and the sale. So the manager works on all three, and must be able to defend any engineering claim in that report.
+> **WHY INVESTORS CARE:** A **fund** pools investors’ money; its **manager** chooses what to buy and reports the results. Those investors want to know how much of a return came from a better company and how much from purchase price, borrowing and timing. A manager who credits product and engineering with part of the gain must be able to show it.
 
-> **WHY YOU SHOULD CARE:** Investor returns are often treated as a scorecard for product and engineering, yet price, borrowing and timing can change the result without changing the work. That misreading shapes what you are asked to do.
+> **WHY YOU SHOULD CARE:** A strong return is often read as proof that product and engineering did well, and a weak one as proof they did not. Yet price, borrowing and timing can move the return without any change in your work, so you can be credited, blamed or redirected for results you did not cause.
 
 > **KEY POINTS:**
 >
-> * Improving the business is **only part of an investment result**. Purchase price, borrowing, sale price, timing and changes in the investor’s ownership percentage also decide what the investor gets back.
-> * **Hold the company’s performance fixed** and the money the fund receives at the sale, and its multiple of the money it invested, can still more than double, because only the price a buyer pays changed.
-> * Explain the **technology contribution step by step**. Evidence about customers, costs and cash is needed before assigning part of a sale gain to engineering.
+> * Improving the business is **only part of an investment result**. Purchase price, borrowing, sale price, timing and changes in the investor’s stake also decide what the investor gets back.
+> * **Hold the company’s performance fixed** and the fund’s sale proceeds, and its multiple of money invested, can still more than double when only the buyer’s price changes.
+> * Explain the **technology contribution step by step**. Assigning part of a sale gain to engineering requires evidence about customers, costs and cash.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
-> * **The Exit Halo** — Holds company performance fixed while changing sale price and timing, showing why investor gains cannot grade engineering alone.
+> * **The Exit Halo** — Holds company performance fixed while changing sale price and timing, showing why investor gains alone cannot grade engineering.
+
+The previous chapter treated a valuation as an estimate for one date. An investor lives with two: the price paid on entry and the price received on exit, and the gap between them shapes the return.
 
 A company can grow its earnings, yet its investor earns less than expected. Another company may become more fragile while an investor receives a profit. To understand either result, follow the **investment** as well as the **business**.
 
@@ -30,7 +32,7 @@ Leaders inside the company judge progress by customers served, products shipped 
 
 In a fictional **buyout**, a purchase of a controlling share of a company, a fund buys a company for €100 million, using €60 million of borrowed money and €40 million of its own. Investors call the purchase the **entry** and the eventual sale the **exit**.
 
-Over five years the company raises its annual **EBITDA** from €10 million to €15 million. EBITDA, earnings before interest, taxes, depreciation and amortization, is explained fully in the next section. For now, read it as the company’s operating earnings before borrowing costs, income taxes and certain accounting charges. It is not cash in the bank. The company also repays €20 million of the debt, which is a separate assumption about the cash left after its necessary spending.
+Over five years the company raises its annual **EBITDA** from €10 million to €15 million. EBITDA, earnings before interest, taxes, depreciation and amortization, was introduced in the previous chapter and is recapped in the next section. For now, read it as the company’s operating earnings before borrowing costs, income taxes and certain accounting charges. It is not cash in the bank. The company also repays €20 million of the debt, which is a separate assumption about the cash left after its necessary spending.
 
 Everything about the company’s performance is now fixed. The only thing that varies is the price a buyer pays at the exit, expressed as a **multiple** of EBITDA: how many euros of price per euro of annual EBITDA. Amounts are in millions of euros, written €m.
 
@@ -131,7 +133,7 @@ The shortcut behind all this, enterprise value = EBITDA × multiple, is a negoti
 {id: understand-investor-returns--a-minority-investors-return-can-change-with-further-funding}
 ### A Minority Investor’s Return Can Change With Further Funding
 
-The buyout used borrowing. A **minority investment**, one that buys less than half of a company’s shares, shows a different mechanism without borrowing. In a separate fictional example, Larkspur has 800 identical shares; a **share** is one unit of ownership, and here every share carries the same rights. A new investor pays €2m for 200 new shares, giving it 20% of the resulting 1,000 shares. This corresponds to an equity value of €8m before the new investment, the **pre-money valuation**, and €10m after it, the **post-money valuation**, as explained in the previous chapter.
+The buyout used borrowing. A **minority investment**, one that buys less than half of a company’s shares, shows a different mechanism without borrowing. Return to the smaller Rotaline's first outside round from the previous chapter: it has 800 identical shares; a **share** is one unit of ownership, and here every share carries the same rights. A new investor pays €2m for 200 new shares, giving it 20% of the resulting 1,000 shares. This corresponds to an equity value of €8m before the new investment, the **pre-money valuation**, and €10m after it, the **post-money valuation**, as explained in the previous chapter.
 
 Later, the company creates and sells 250 new shares to another investor, a **share issue**. The first investor buys none. It still owns 200 shares, but the total is now 1,250, so its holding falls to 16%. This reduction in ownership percentage is **dilution**. The company receives additional capital in that round; the first investor hasn’t received a payment.
 
@@ -146,7 +148,7 @@ An increase in company value therefore doesn’t translate mechanically into the
 {id: understand-investor-returns--a-corporate-owner-may-expect-benefits-elsewhere}
 ### A Corporate Owner May Expect Benefits Elsewhere
 
-In a fictional strategic acquisition, the buyer wants Larkspur’s scheduling product to help retain customers of its maintenance equipment. The buyer may value that effect even if Larkspur’s separate profit changes little. Alex, Larkspur’s technology leader, and Priya, its product leader, still need to establish the chain from action to benefit: which customers will use the combined offering, what must be connected between the two products, and who funds support and development.
+In a fictional strategic acquisition, the buyer wants Rotaline’s scheduling product to help retain customers of its maintenance equipment. The buyer may value that effect even if Rotaline’s separate profit changes little. Alex, Rotaline’s technology leader, and Priya, its product leader, still need to establish the chain from action to benefit: which customers will use the combined offering, what must be connected between the two products, and who funds support and development.
 
 A group-wide benefit isn’t automatically a local product budget. Ask the corporate owner to name the business unit accountable for the expected benefit and to fund the work and continuing obligations. Keep direct shareholder returns, expected group benefits and the company’s own operating results visible separately. The proposed mechanism must be tested; a strategic rationale doesn’t prove it works. A corporate parent’s internal investment review can also use different measures from a fund, and it need not involve any payment to outside investors or a planned sale.
 

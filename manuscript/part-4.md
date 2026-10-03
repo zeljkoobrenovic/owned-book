@@ -5,7 +5,7 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn to turn investor expectations into commitments of your own: work the company can afford, staff and deliver, and promises to customers and teams you can keep.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Ratchet Roadmap** — Tests promises against customer evidence, money and the team’s available time.
 > * **Spending the Press Release** — Revises commitments when the funding they depend on has not arrived.

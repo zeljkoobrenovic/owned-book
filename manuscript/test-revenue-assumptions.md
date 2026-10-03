@@ -15,7 +15,7 @@
 > * Distinguish **freed time from money saved**. If the same people are still paid, less effort frees time for other work but does not reduce spending. It becomes a result only when a plan puts the time to use.
 > * Check the **whole chain against evidence**. Count the full cost, both what has been agreed and what has been used so far. Compare like groups. Keep measured hours apart from yearly estimates, name the explanations you cannot rule out, and let the measured result change the next commitment.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **Squeezing the Balloon** — Distinguishes time freed from money saved and counts the full cost of producing the result.
 > * **The Ratchet Roadmap** — Requires customer evidence and a credible path to a useful outcome before expanding a commitment.
@@ -33,10 +33,10 @@ A product leader must normally show that a change is useful. An investor, someon
 - **Margin** is a stated profit measure divided by revenue. A profit of €20 on revenue of €100 is a 20% margin.
 - **Retention** means keeping customers, or their revenue, over a stated period.
 
-{id: test-revenue-assumptions--setting-up-the-example-one-setup-change-at-larkspur}
-## Setting Up the Example: One Setup Change at Larkspur
+{id: test-revenue-assumptions--setting-up-the-example-one-setup-change-at-rotaline}
+## Setting Up the Example: One Setup Change at Rotaline
 
-Larkspur is the fictional company this book follows; it sells scheduling software. **Onboarding** is the setup and help a customer needs before using that software successfully, and one customer’s setup is called an **implementation**. In the chapter [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), Larkspur chose a smaller setup change over a full customer portal because customer evidence supported it. This chapter looks at that one change: how could it produce a useful customer and business result, and did it?
+Rotaline is the fictional company this book follows; it sells scheduling software. **Onboarding** is the setup and help a customer needs before using that software successfully, and one customer’s setup is called an **implementation**. In the chapter [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), Rotaline chose a smaller setup change over a full customer portal because customer evidence supported it. This chapter looks at that one change: how could it produce a useful customer and business result, and did it? The outcome record from the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) already names the measures it should move, from staff hours per setup to renewals; this chapter tests whether it moves them and what that is worth.
 
 **The people.** Priya leads product and is accountable for the setup change. Alex leads engineering. Sam leads finance. Morgan advises the investor on technology. The **board**, the directors who oversee the company’s major decisions, approves the money. Days are counted from **day zero**: the board meeting, held just after the investment was completed, that adopted the company’s operating plan.
 
@@ -49,7 +49,7 @@ A company can efficiently build features customers don’t need. It can cut the 
 
 Begin with the customers the company intends to serve, and the groups with shared needs among them, called **segments**. What progress are they paying for? Why do they choose this product? Which needs remain poorly served? Which requests look attractive individually but undermine a repeatable product?
 
-At Larkspur the need is a queue. Customers who have already bought are waiting for setup. Most of them need the same implementation specialist to enter their settings by hand before they can use the product. The investor’s growth funding assumes the number of new customers will rise without a matching rise in implementation staff. So the setup change serves customers who exist now and a target the investor has stated. That is the expectation to make explicit: more customers set up, less staff effort per customer, within the plan’s first year.
+At Rotaline the need is a queue. Customers who have already bought are waiting for setup. Most of them need the same implementation specialist to enter their settings by hand before they can use the product. The investor’s growth funding assumes the number of new customers will rise without a matching rise in implementation staff. So the setup change serves customers who exist now and a target the investor has stated. That is the expectation to make explicit: more customers set up, less staff effort per customer, within the plan’s first year.
 
 When owners press for results, product management can turn into a desk that takes orders: from the investor, from sales, from a business the company has just bought. The remedy isn’t to reject those voices. It is to apply the same customer and economic test to each.
 
@@ -103,13 +103,13 @@ These benefits overlap, but **their financial effects should not simply be added
 
 This is a **separate, smaller pilot example**. A **pilot** is a limited trial run before a wider commitment. We are testing the benefit of one reusable setup step, not costing the €1 million onboarding program in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow).
 
-**The assumptions.** Larkspur performs 100 customer implementations a year. That is a round planning assumption for this model, not Larkspur’s measured workload; the measured records used later cover twelve implementations in two quarters. Each implementation uses 80 hours of Larkspur staff time. The hours count everyone’s work on that customer’s setup, not only the specialist’s. The specialist’s manual configuration is only part of them, but it is the part that holds the queue, because only one person can do it.
+**The assumptions.** Rotaline performs 100 customer implementations a year. That is a round planning assumption for this model, not Rotaline’s measured workload; the measured records used later cover twelve implementations in two quarters. Each implementation uses 80 hours of Rotaline staff time. The hours count everyone’s work on that customer’s setup, not only the specialist’s. The specialist’s manual configuration is only part of them, but it is the part that holds the queue, because only one person can do it.
 
 **The price of an hour.** The model uses a **fully loaded planning cost** of €75 per hour: pay plus the other costs of employing someone. At 2,000 working hours a year, that prices one full-time implementation specialist at €150,000 a year and two at €300,000. This book uses the same basis wherever it costs the pilot, the hires it defers and the time it releases.
 
-**The sum.** One hundred implementations at 80 hours is 8,000 hours, worth €600,000 a year at the planning rate. On this basis that is the work of four full-time people. It is a model of total team effort, not a count of Larkspur’s staff. The proposal assumes the step reduces effort to 50 hours, which brings the requirement down to €375,000. The difference is 3,000 hours, or €225,000.
+**The sum.** One hundred implementations at 80 hours is 8,000 hours, worth €600,000 a year at the planning rate. On this basis that is the work of four full-time people. It is a model of total team effort, not a count of Rotaline’s staff. The proposal assumes the step reduces effort to 50 hours, which brings the requirement down to €375,000. The difference is 3,000 hours, or €225,000.
 
-That figure is an estimate of **capacity**: staff time available for work. It is not cash. If the same staff are employed and the same suppliers are paid, Larkspur has not spent €225,000 less. The company could use the time to serve more customers, reduce overtime, improve quality or, eventually, avoid hiring. Each of these has a different financial meaning.
+That figure is an estimate of **capacity**: staff time available for work. It is not cash. That is why the chapter [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) labels it a forecast. If the same staff are employed and the same suppliers are paid, Rotaline has not spent €225,000 less. The company could use the time to serve more customers, reduce overtime, improve quality or, eventually, avoid hiring. Each of these has a different financial meaning.
 
 The pilot has costs of its own. Building it is a commitment of €180,000 and twelve engineer-weeks. Maintaining it costs €30,000 a year, starting in the **financial year**, the company’s twelve-month accounting period, after it ships. Reporting €225,000 of yearly profit without showing those costs, and without showing whether the freed time produced anything, would mislead. So would dismissing the work because the **payroll**, the money paid to employees, didn’t immediately fall. Serving more paying customers can be the more valuable use of the freed time.
 
@@ -132,7 +132,7 @@ A **baseline** records the starting situation used for comparison. Establish it 
 
 Where practical, introduce the change to one group of customers first and compare them with a similar group that hasn’t received it yet. Where that isn’t possible, document the timing and the competing explanations. A **counterfactual** is an estimate of what would have happened without the change; finance can check the calculation, but it can’t supply a missing comparison by reviewing the numbers.
 
-Larkspur’s pilot is the realistic small-company case. The comparison is eight pilot customers against the twelve implementations from the two quarters (six months) before, in one country. The baseline of 80 hours was reconstructed at day 20 from the specialist’s time records; it was not measured in advance for all twelve.
+Rotaline’s pilot is the realistic small-company case. The comparison is eight pilot customers against the twelve implementations from the two quarters (six months) before, in one country. The baseline of 80 hours was reconstructed at day 20 from the specialist’s time records; it was not measured in advance for all twelve.
 
 That comparison leaves differences that “comparable customers” does not remove:
 
@@ -167,9 +167,9 @@ The same pilot is the funded first-hundred-days commitment ONB-1 in the chapter 
 Against the conversion plan:
 
 - **Serving waiting customers:** no. The team spent 18 fewer hours on each setup, but customers still waited for their own data to be ready, so the queue moved no faster. The bottleneck is somewhere else.
-- **Avoiding a supplier’s invoice or a hire:** not yet. No contract spending had been cancelled by day 100. Larkspur has engaged a contract implementation specialist, an outside person who works through the queue for twelve months while the step is built and proved. The saving the plan puts a date on is not extending that contract after month twelve, and only if the queue is moving by then. At day 100 it wasn’t, so the specialist was still needed. Ending the work earlier would not by itself avoid a payment: that depends on the contract’s notice and payment terms, which this scenario does not set. The hire of two specialists was already deferred, which is spending avoided, not spending reduced.
+- **Avoiding a supplier’s invoice or a hire:** not yet. No contract spending had been cancelled by day 100. Rotaline has engaged a contract implementation specialist, an outside person who works through the queue for twelve months while the step is built and proved. The saving the plan puts a date on is not extending that contract after month twelve, and only if the queue is moving by then. At day 100 it wasn’t, so the specialist was still needed. Ending the work earlier would not by itself avoid a payment: that depends on the contract’s notice and payment terms, which this scenario does not set. The hire of two specialists was already deferred, which is spending avoided, not spending reduced.
 
-**Where the contract specialist’s cost sits.** The contract specialist is an extra person who works alongside Larkspur’s own implementation specialist. The twelve months cost €150,000, one full-time year at the planning rate. The figure is imported from the chapter [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices), which prices the same engagement inside its own, separate financing example. Here the engagement was agreed before day zero and is paid from the **operating budget**, the money for the company’s ordinary running costs. It is not part of the pilot’s €180,000 and takes nothing from the board’s first-hundred-days money described below.
+**Where the contract specialist’s cost sits.** The contract specialist is an extra person who works alongside Rotaline’s own implementation specialist. The twelve months cost €150,000, one full-time year at the planning rate. The figure is imported from the chapter [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices), which prices the same engagement inside its own, separate financing example. Here the engagement was agreed before day zero and is paid from the **operating budget**, the money for the company’s ordinary running costs. It is not part of the pilot’s €180,000 and takes nothing from the board’s first-hundred-days money described below.
 
 That does not tip the day-100 choice, because the engagement runs to month twelve under every option the board weighed. It matters afterwards: extending it would cost a further €150,000 a year, and not extending it is the first real reduction in spending the pilot could produce.
 
@@ -203,7 +203,7 @@ The €90,000 already incurred cannot be recovered and argues neither way. What 
 
 **The threshold for continuing.** A second cohort is set up after the data-quality step and measured at about month six. It must pass two tests:
 
-- **Effort:** an average of 50 hours or less per setup. The hours are counted end to end, and they count whoever works them. They include all time spent checking and correcting customer data, before or during setup: by Larkspur’s staff, by the contract specialist, or by bought-in help.
+- **Effort:** an average of 50 hours or less per setup. The hours are counted end to end, and they count whoever works them. They include all time spent checking and correcting customer data, before or during setup: by Rotaline’s staff, by the contract specialist, or by bought-in help.
 - **Waiting time:** a median wait of eight weeks or less, against about ten weeks now. It is the same measure as the ten weeks above. The board uses the median, not the average, because in a group of eight one very slow customer would drag an average a long way. Two weeks is the smallest improvement the board judged worth a further stage.
 
 **Bought-in work.** In the chapter [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices) the €40,000 buys an outside data-checking service and temporary data-entry help. Paying someone else to do the same work buys capacity; it does not reduce effort. So the helpers’ hours go into the 50: fifty staff hours plus 20 bought-in hours per customer is 70, and fails. Checking that the service does by machine has no hours, so it is counted as money. Priya reports what keeping the service and any help would cost per customer and per year. A request for a further stage must carry that cost, beside the €30,000 of upkeep.
@@ -219,7 +219,7 @@ Both tests must be met. Fifty hours with a median wait of nine weeks fails. So d
 
 The link from setup step to effort held as far as the comparison can show: the reduction can’t be credited to the product change alone, but the evidence supports it. The link from released effort to customers served did not hold. The measurement did its job, because it changed the next commitment instead of decorating the last one. The [Practical Tools for Ownership and Technology Decisions](#toolkit)’s outcome and contribution ledger (Tool 6) is where the baseline, the committed and incurred cost, the observed result, the projection and the open work are recorded so the next review starts from them.
 
-The remaining hours sit with customer data and with one specialist’s knowledge, and the plan still assumes onboarding volume grows. Whether the software and the team can deliver repeatable setup at that volume is the question of the chapter [Assess Capability: Can the Team Deliver?](#assess-capability); the organizational response, the chapter [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), opens Part V.
+The remaining hours sit with customer data and with one specialist’s knowledge, and the plan still assumes onboarding volume grows. The same assumption, that the cost of setting up and supporting each customer falls as the company grows, returns in the next chapter, [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy), bundled with two others into a request for an “AI strategy”. Whether the software and the team can deliver repeatable setup at that volume is the question of the chapter [Assess Capability: Can the Team Deliver?](#assess-capability); the organizational response, the chapter [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), opens Part V.
 
 {id: test-revenue-assumptions--questions-to-consider}
 ## Questions to Consider

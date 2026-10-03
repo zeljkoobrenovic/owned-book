@@ -15,7 +15,7 @@
 > * Choose a **unit that reflects useful service**, and read it against the plan as well as the prior period. Cost per completed transaction or comparable customer can reveal more than total spending alone, and unit cost can improve while the approved spending plan is still missed.
 > * **Commit only to the demand you can defend**. Test a promise to buy a fixed amount against a stated range of likely demand and against the period the company can already afford to pay for, and keep service quality as the final check on any saving.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **Squeezing the Balloon** — Checks comparable demand, unit cost, commitments and service quality before calling a lower bill an improvement.
 
@@ -27,10 +27,10 @@ The chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#plan
 
 **Unit economics** means examining money earned or spent for one meaningful unit of activity, such as a completed transaction or a customer account. **FinOps** is the practice of managing technology’s financial value through collaboration among engineering, finance and business teams. The name joins *Finance* with *DevOps*, the practice of having the people who build software and the people who run it work as one team. The FinOps Foundation’s unit-economics guidance connects technology costs to organizational outcomes and distinguishes efficient use of computing resources from measures of business results. [FinOps Foundation: unit economics](https://www.finops.org/framework/capabilities/unit-economics/) For a company leader, it bridges infrastructure work and the questions about cash and about **margin** (the money left from a sale after the costs being counted) discussed in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow).
 
-{id: evaluate-cloud-costs--setting-up-the-example-why-larkspurs-cloud-bill-rose-20}
-## Setting Up the Example: Why Larkspur’s Cloud Bill Rose 20%
+{id: evaluate-cloud-costs--setting-up-the-example-why-rotalines-cloud-bill-rose-20}
+## Setting Up the Example: Why Rotaline’s Cloud Bill Rose 20%
 
-Larkspur is the fictional scheduling-software company this book follows. Its **board**, the small group of directors who oversee the company on the owners’ behalf, has approved an **operating plan** for 2026, a statement of the activity and spending expected for that year. That plan assumes cloud spending stays roughly flat against 2025 while the number of customer transactions grows by half. Morgan, the technology adviser working for Larkspur’s investor, has asked why last quarter’s bill rose 20%.
+Rotaline is the fictional scheduling-software company this book follows. Its **board**, the small group of directors who oversee the company on the owners’ behalf, has approved an **operating plan** for 2026, a statement of the activity and spending expected for that year. That plan assumes cloud spending stays roughly flat against 2025 while the number of customer transactions grows by half. Morgan, the technology adviser working for Rotaline’s investor, has asked why last quarter’s bill rose 20%.
 
 The question is legitimate. It is also incomplete, because a rising bill can still mean cheaper service per task. Alex, the technology leader, must show what the bill means for the service customers receive, and whether a saving that looks good at the next board meeting would still look good a year later.
 
@@ -39,7 +39,7 @@ Two separate questions sit inside Morgan’s one: did the cost of a unit of usef
 {id: evaluate-cloud-costs--choose-a-unit-that-explains-the-business}
 ## Choose a Unit That Explains the Business
 
-Cost per **virtual machine**, a software-defined computer running on shared hardware, can help an infrastructure team. Cost per completed **customer transaction** — one piece of work a customer asked for and received, which for Larkspur means one appointment successfully scheduled — may help management understand what serving a customer actually costs. Cost per active account may help a subscription product, provided accounts use similar amounts of computing. No single unit works for every product.
+Cost per **virtual machine**, a software-defined computer running on shared hardware, can help an infrastructure team. Cost per completed **customer transaction** — one piece of work a customer asked for and received, which for Rotaline means one appointment successfully scheduled — may help management understand what serving a customer actually costs. Cost per active account may help a subscription product, provided accounts use similar amounts of computing. No single unit works for every product.
 
 In 2025 the company spent €100,000 a month to process one million successful transactions: €0.10 each. The board’s plan for 2026 kept spending flat at €100,000 while volume grew by half, to 1.5 million transactions: about €0.067 each. Last quarter’s monthly figures — the three months just closed, in 2026 — show the volume arriving on plan, but spending at €120,000: €0.08 each. All three rows are monthly figures on the same basis, cost assigned to the period (defined in the next section), so the comparison is like for like.
 
@@ -82,12 +82,12 @@ Removing unused resources can yield fairly direct savings. **Rightsizing** means
 
 ![A cloud bill connects to three dials. Demand — how much work customers ask for, shown as completed appointments. Price agreed with the supplier for each unit of computing. Resource use, showing computing that does useful work beside computing left unused. A counter below records the appointments completed.](private-techuity/posts/29-evaluate-cloud-costs/assets/images/29-evaluate-cloud-costs/three-drivers-of-cloud-cost.jpeg)
 
-**Figure 1:** *Three dials move the bill. **Demand** is how much work customers ask for — for Larkspur, appointments to be scheduled. **Price** is what the supplier charges for each unit of computing. **Resource use** is how much computing that work actually consumes, which depends on the software design and on demand: the same 1,250 appointments cost more if the software leaves capacity idle. Separate the three before deciding whether the service became more efficient.*
+**Figure 1:** *Three dials move the bill. **Demand** is how much work customers ask for — for Rotaline, appointments to be scheduled. **Price** is what the supplier charges for each unit of computing. **Resource use** is how much computing that work actually consumes, which depends on the software design and on demand: the same 1,250 appointments cost more if the software leaves capacity idle. Separate the three before deciding whether the service became more efficient.*
 
 {id: evaluate-cloud-costs--a-multi-year-commitment-changes-future-spending}
 ## A Multi-Year Commitment Changes Future Spending
 
-Larkspur’s scheduling service is the largest part of the €120,000 monthly bill. At **flexible prices** — paying only for what is used, month by month, with no minimum — it needs €50,000 of resources each month. The provider offers a 30% price reduction in return for a **commitment**: a promise to pay a fixed amount every month for three years, whether or not the company uses that much. The 30% and the fixed amounts used in this chapter are assumptions for the example, not a supplier’s published prices; the conclusions below hold for these quoted terms and the stated range of demand, not for every contract. The right comparison includes plausible demand paths, alternative designs, any plan to buy another company, and the possibility of selling or separating part of the business.
+Rotaline’s scheduling service is the largest part of the €120,000 monthly bill. At **flexible prices** — paying only for what is used, month by month, with no minimum — it needs €50,000 of resources each month. The provider offers a 30% price reduction in return for a **commitment**: a promise to pay a fixed amount every month for three years, whether or not the company uses that much. The 30% and the fixed amounts used in this chapter are assumptions for the example, not a supplier’s published prices; the conclusions below hold for these quoted terms and the stated range of demand, not for every contract. The right comparison includes plausible demand paths, alternative designs, any plan to buy another company, and the possibility of selling or separating part of the business.
 
 Assume a fixed €35,000 a month replaces the €50,000 flexible bill. At unchanged demand, the saving is €15,000 a month. If demand falls so that flexible prices would cost only €20,000, the same commitment costs €15,000 more a month, assuming it can’t be reduced or used elsewhere. The €35,000 is the cost assigned to each month; whether the company pays it monthly or in advance changes when cash leaves the account, not this comparison.
 
@@ -97,16 +97,16 @@ A discount on unused capacity is still an expense. A contract that makes switchi
 
 **Figure 2:** *The same €35,000 commitment saves €15,000 a month against €50,000 of flexible spending and costs €15,000 more against €20,000. Test the commitment against lower demand as well as the forecast that makes it attractive.*
 
-{id: evaluate-cloud-costs--the-decision-larkspur-makes}
-### The Decision Larkspur Makes
+{id: evaluate-cloud-costs--the-decision-rotaline-makes}
+### The Decision Rotaline Makes
 
 **Demand range.** Throughout this decision, demand is measured as what the scheduling service’s usage *would* cost at flexible prices, so every option is compared against the same yardstick. Eighteen months of usage show that figure has never fallen below €30,000 a month. For the twelve months from 1 January to 31 December 2027, the board has approved a **demand forecast** — its view of how much work customers will ask for — putting that figure between €30,000 (new customers stop arriving and the largest one leaves) and €60,000 (the forecast growth arrives). The €20,000 case lies below that range; it is kept as a **stress case**: a deliberately harsh scenario used to test a decision, not a forecast.
 
-**Funding condition.** Alongside that forecast, the board has approved the **cash provision** for 2027: the money set aside to meet the supplier payments the forecast implies. Larkspur has cash in the bank plus customer receipts it expects on deliberately cautious assumptions, and together these cover the €21,000 a month Option C would commit to (€252,000 over the year), the flexible usage on top of it across the forecast range, and the reserve Sam sets aside for the final usage bill that arrives in January 2028. That pays the commitment: money the company already holds or can reasonably expect from customers it already serves, not money a new investor might provide.
+**Funding condition.** Alongside that forecast, the board has approved the **cash provision** for 2027: the money set aside to meet the supplier payments the forecast implies. Rotaline has cash in the bank plus customer receipts it expects on deliberately cautious assumptions, and together these cover the €21,000 a month Option C would commit to (€252,000 over the year), the flexible usage on top of it across the forecast range, and the reserve Sam sets aside for the final usage bill that arrives in January 2028. That pays the commitment: money the company already holds or can reasonably expect from customers it already serves, not money a new investor might provide.
 
 Three approvals therefore exist for 2027 — a demand forecast, the cash to meet it, and the chief executive’s standing permission to sign contracts of a year or less. One does not: the board has not yet set a **2027 spending target**, the equivalent of the flat €100,000 a month it set for 2026. That target is agreed in the autumn planning round, after this contract must be signed. So the commitment rests on approved purchasing authority and approved cash, not on an approved annual ceiling — a distinction the ending returns to.
 
-Beyond 31 December 2027, even that much is absent. The board has approved no forecast, no cash provision and no plan of any kind for 2028, and no investor or lender has promised further money. A three-year commitment would therefore oblige Larkspur to pay for two more years that nobody has yet shown it can fund — and would run past any change of ownership in that time.
+Beyond 31 December 2027, even that much is absent. The board has approved no forecast, no cash provision and no plan of any kind for 2028, and no investor or lender has promised further money. A three-year commitment would therefore oblige Rotaline to pay for two more years that nobody has yet shown it can fund — and would run past any change of ownership in that time.
 
 | Option | Cost at €30,000 demand | Cost at €50,000 demand | Cost at €60,000 demand | Cost at €20,000 stress case |
 | --- | ---: | ---: | ---: | ---: |
@@ -116,11 +116,11 @@ Beyond 31 December 2027, even that much is absent. The board has approved no for
 
 Option B saves €15,000 a month at or above forecast demand but costs €5,000 more at the low end of the range and €15,000 more in the stress case. Option C saves €9,000 a month at every point in the stated range, costs €1,000 more in the stress case, and ends when the funded year ends.
 
-**Larkspur chooses Option C.** Alex, the technology leader, proposes it, using eighteen months of usage history and the plan’s demand range as evidence. Sam, the finance leader, checks that the company can pay for it and reads the contract terms, set out below. Ines, the chief executive, approves it: the board has given her standing permission to sign supplier contracts that run for a year or less without returning to them, and Option C fits inside that permission.
+**Rotaline chooses Option C.** Alex, the technology leader, proposes it, using eighteen months of usage history and the plan’s demand range as evidence. Sam, the finance leader, checks that the company can pay for it and reads the contract terms, set out below. Ines, the chief executive, approves it: the board has given her standing permission to sign supplier contracts that run for a year or less without returning to them, and Option C fits inside that permission.
 
-**What the contract actually says.** In this fictional example, the agreement is signed by Larkspur Software B.V. — *besloten vennootschap*, the Dutch private limited company form, which makes it a company in its own right, responsible for its own debts. It is the operating company itself that signs, not its owner.
+**What the contract actually says.** In this fictional example, the agreement is signed by Rotaline Software B.V. — *besloten vennootschap*, the Dutch private limited company form, which makes it a company in its own right, responsible for its own debts. It is the operating company itself that signs, not its owner.
 
-Larkspur pays the €21,000 minimum **in advance**, on the first of each month from 1 January to 31 December 2027 — €252,000 in total, owed whether or not the service is used. Usage above what that €21,000 buys is **settled in arrears**, meaning paid after the service has been used rather than before: the provider measures each month’s extra usage, issues the bill on the first working day of the following month, and payment falls due 30 days after that bill. January’s extra usage is therefore billed in early February and paid in early March.
+Rotaline pays the €21,000 minimum **in advance**, on the first of each month from 1 January to 31 December 2027 — €252,000 in total, owed whether or not the service is used. Usage above what that €21,000 buys is **settled in arrears**, meaning paid after the service has been used rather than before: the provider measures each month’s extra usage, issues the bill on the first working day of the following month, and payment falls due 30 days after that bill. January’s extra usage is therefore billed in early February and paid in early March.
 
 The bill for a month’s extra usage arrives the month after; the money leaves the account the month after that. February 2027 is the first bill that shows a full month under the new arrangement — January’s €21,000 was paid on 1 January, and January’s extra usage appears in the February bill.
 
@@ -132,7 +132,7 @@ Expiry does not wipe out charges already incurred, though. December 2027’s ext
 
 **What a later review can and cannot change.** Four events reopen the decision: flexible-price usage falling below €30,000 a month for two consecutive months, rightsizing work that cuts the volume the commitment applies to, a proposal to sell the company or separate part of it, or the provider offering transfer rights.
 
-If demand collapses in March, Larkspur still owes the remaining monthly payments; it cannot cancel, and it cannot hand the contract to someone else unless the provider agrees. If the company changes hands, the buyer inherits an operating company that is still liable for those payments.
+If demand collapses in March, Rotaline still owes the remaining monthly payments; it cannot cancel, and it cannot hand the contract to someone else unless the provider agrees. If the company changes hands, the buyer inherits an operating company that is still liable for those payments.
 
 What management can actually do is bounded to four moves: stop adding flexible usage on top of the commitment, look for other computing work to run inside the €21,000 it is already paying for, ask the provider — who has no obligation to say yes — for a transfer or a restructure, and decline to renew on 31 December 2027. That last option is precisely why the obligation was kept to one year in the first place.
 
@@ -143,7 +143,7 @@ Product and engineering leaders should involve **procurement**, the people respo
 {id: evaluate-cloud-costs--credits-minimum-spend-and-ownership-change-conditions}
 ## Credits, Minimum Spend and Ownership-Change Conditions
 
-**Temporary credits.** **Credits** are temporary reductions the supplier or a partner applies to the bill — not borrowed money, and not a sign that the service became cheaper to run. In a separate fictional Larkspur scenario, credits reduce a €30,000 monthly service bill to €5,000 for six months. The underlying service still consumes €30,000 of resources at the stated prices. A plan that extends beyond the six months must show how the company will pay the full €30,000 once the credits stop. And before calling the service **profitable** — earning more than it costs — compare the revenue and costs of serving a customer both with and without the credits.
+**Temporary credits.** **Credits** are temporary reductions the supplier or a partner applies to the bill — not borrowed money, and not a sign that the service became cheaper to run. In a separate fictional Rotaline scenario, credits reduce a €30,000 monthly service bill to €5,000 for six months. The underlying service still consumes €30,000 of resources at the stated prices. A plan that extends beyond the six months must show how the company will pay the full €30,000 once the credits stop. And before calling the service **profitable** — earning more than it costs — compare the revenue and costs of serving a customer both with and without the credits.
 
 **Minimum spend and who signs.** An investor may introduce a provider, or a **corporate parent** — a company that owns this one — may offer a discount negotiated for all the companies it owns. Ask which company legally signs and therefore owes the payments, whether a **minimum spend** applies (an amount payable whether or not it is used), and who benefits from the lower price, and who pays for capacity nobody uses. The help can be useful while also creating an obligation the company must carry after the relationship changes.
 
@@ -156,7 +156,7 @@ None of these terms is a problem in itself. The test is whether the company can 
 
 The easiest way to reduce some costs is to reduce the service. Whether that’s acceptable is a product decision. Less **redundancy** — fewer spare components or alternative ways to keep operating when something fails — longer allowed times to finish processing, or help available over fewer hours, can change the customer’s experience and the company’s risk.
 
-Define service conditions alongside the cost target. Track successful work completed; **latency**, the time a user waits for a response, where it matters; the share of requests that fail; how quickly service is restored after a failure; and customer complaints. The exact measures should follow what the product promised. Larkspur, for instance, promises that an appointment is confirmed within two seconds and that the service is available 99.9% of the month. A low-cost service that can’t complete a customer’s essential workflow has poor economics even if the infrastructure dashboard looks efficient.
+Define service conditions alongside the cost target. Track successful work completed; **latency**, the time a user waits for a response, where it matters; the share of requests that fail; how quickly service is restored after a failure; and customer complaints. The exact measures should follow what the product promised. Rotaline, for instance, promises that an appointment is confirmed within two seconds and that the service is available 99.9% of the month. A low-cost service that can’t complete a customer’s essential workflow has poor economics even if the infrastructure dashboard looks efficient.
 
 {id: evaluate-cloud-costs--prove-the-saving-actually-arrived}
 ## Prove the Saving Actually Arrived
@@ -173,13 +173,13 @@ A capacity reduction may avoid a forecast increase rather than reduce this month
 
 An initiative record should include the staff time spent making the change, fees paid to outside experts, tooling, the cost of running the old and new services side by side during the switch, and ongoing maintenance. A **payback calculation** — working out how long the accumulated savings take to repay what the change cost — must include **the work required to capture savings**. Comparable services and people who have faced the same decision, including through an investor’s network, are covered in the chapter [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help).
 
-Larkspur’s answer to Morgan’s question is not “the bill went up 20%” or “we found €15,000 a month.” It has two parts, and they belong to different time frames.
+Rotaline’s answer to Morgan’s question is not “the bill went up 20%” or “we found €15,000 a month.” It has two parts, and they belong to different time frames.
 
 **What already happened.** Unit cost per successful transaction fell 20% against 2025, so the service became more efficient. The 2026 flat-spend plan was still missed: last quarter’s spending ran €20,000 a month above the €100,000 that plan allowed, and unit cost was 20% above what it implied. Nothing signed now changes it, and the money is already spent.
 
 **What is expected to happen next.** From 1 January 2027, the one-year commitment on the scheduling service is expected to reduce future monthly spending by €9,000 at every point in the approved demand range, and to cost €1,000 more a month if demand falls to the €20,000 stress case. That is a projection, not yet an observation: nobody has seen a post-change bill. The first one covering a full month under the new arrangement arrives in early February 2027, and until then the €9,000 belongs in the “opportunity” column above, not the “observed net effect” one.
 
-The two do not cancel out, and the €9,000 is a smaller claim than it first looks. It is a constant saving *against buying the same usage flexibly* — €9,000 a month at every demand level in the range. Total cloud spending still moves with demand: holding the roughly €70,000 a month outside the scheduling service steady, Larkspur spends about €91,000 a month if scheduling demand sits at the bottom of the range, €111,000 at €50,000 of demand, and €121,000 at the top.
+The two do not cancel out, and the €9,000 is a smaller claim than it first looks. It is a constant saving *against buying the same usage flexibly* — €9,000 a month at every demand level in the range. Total cloud spending still moves with demand: holding the roughly €70,000 a month outside the scheduling service steady, Rotaline spends about €91,000 a month if scheduling demand sits at the bottom of the range, €111,000 at €50,000 of demand, and €121,000 at the top.
 
 Take the €50,000 case — roughly where last quarter ran — and compare it with the €100,000 the 2026 plan allowed: about €111,000 against €100,000 leaves €11,000 a month unexplained. That is an illustrative figure, not a fixed one. It assumes scheduling demand of €50,000, the other €70,000 holding steady, and the €100,000 benchmark.
 

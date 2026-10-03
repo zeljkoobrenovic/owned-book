@@ -5,12 +5,12 @@
 
 > **IN THIS SECTION, YOU WILL:** Follow five companies through purchases, debt problems, investor changes and sales in four case chapters, then compare what happened to their investors, businesses and people.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Exit Halo** — Examines who gained, over which period and under which conditions before drawing a lesson from a case.
 > * **Clean Slate Syndrome** — Follows product work and obligations across successive ownership periods.
 
-Blackstone, the investment firm that bought Hilton in 2007, reported about $14 billion of profit after selling its last shares, units of ownership in Hilton, in 2018. Toys R Us reported positive **operating earnings**, accounting profit before borrowing costs and tax, in its last full year before **bankruptcy**, a court process for debts a company cannot pay. Neither explains itself: a gain needs its causes traced; accounting profit is not spendable cash.
+A buyout firm reported about $14 billion of profit from a hotel group it took through the financial crisis. A retailer reported positive **operating earnings**, accounting profit before borrowing costs and tax, in its last full year before **bankruptcy**, a court process for debts a company cannot pay. Neither explains itself: a gain needs its causes traced; accounting profit is not spendable cash.
 
 Part VII followed funding and ownership changes; this part examines their consequences. The cases concentrate on **private equity**: investment firms pool investors' money to buy ownership in companies, often with borrowing, aiming to sell later. Skype also passed through a **strategic acquisition**: Microsoft bought it for its own business. These are selected histories, not a representative sample.
 
@@ -31,4 +31,4 @@ Read each case as **what happened**, what might explain it and what a leader cou
 | [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) | 2000–2017; follow-up to 2024 | The software group passed through four owners. What product work and borrowing did each inherit? |
 | [Success for Whom, and for How Long?](#success-for-whom) | Comparison and fictional application | Compare investor gains, product continuity and losses to employees and suppliers. Who benefited, and for how long? |
 
-Read in order, then apply the lessons with [Practical Tools for Ownership and Technology Decisions](#toolkit).
+Begin with [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype), read the cases in order, then apply the lessons with [Practical Tools for Ownership and Technology Decisions](#toolkit).

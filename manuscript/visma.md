@@ -15,7 +15,7 @@
 > * **Visma reported 33 acquisitions in 2024**, alongside local product decisions and shared technical support. At that pace, arranging purchases and making acquired businesses work together belong in the continuing budget. The company account does not establish that every acquisition benefited customers or employees. [S32: Visma annual-report announcement](https://www.visma.com/newsroom/visma-releases-annual-and-sustainability-reports-for-2024-7f5c9f37)
 > * **The same year's profit appears as €893 million and €904 million.** The later calculation excludes €11.665 million of costs of carrying out acquisitions. Both are versions of EBITDA, a profit measure explained below; the higher figure reflects a changed definition and adds no cash to the acquisition budget. [S43: Visma 2024 annual report](https://cdn.prod.website-files.com/69787181d8720ea08c1f22fe/69787181d8720ea08c1f460b_Visma-Annual-Report-2024.pdf) [S44: Visma 2025 annual report, p. 96](https://cdn.prod.website-files.com/69787181d8720ea08c1f22fe/69bb9fc407e856cb8d6f7726_Visma%20Annual%20Report%202025.pdf)
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **All Bulk, No Muscle** — Examines the continuing integration and support work behind repeated acquisitions.
 > * **Clean Slate Syndrome** — Tracks changes among investors even when the same investment firm stays involved.

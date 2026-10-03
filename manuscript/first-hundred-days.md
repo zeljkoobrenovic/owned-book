@@ -15,7 +15,7 @@
 > * Carry the diligence findings in **by identifier**. Confirm each one with the people who will do the work. The investigation had incomplete access, and when management’s evidence differs, that evidence should change the funding or the order of work.
 > * **Review the plan, not its completion rate.** The day-100 review should confirm or revise the plan on evidence: an assumption kept or replaced, a postponement kept or lifted, money moved from the reserve with the board’s approval. Finishing every task is not the test.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **Clean Slate Syndrome** — Starts from inherited findings and checks them with the people who will do the work.
 > * **Never Fixing the Roof** — Gives each improvement approved money, protected time, a responsible person and a decision date.
@@ -25,10 +25,10 @@ New funding or an ownership change opens an early period in which expectations m
 
 A deal can change the company’s money, its owners’ rights, the expectations placed on it and its review timetable. Many of those expectations were formed during the investigation rather than inside the company. Not every deal adds cash to the company. When investors buy newly issued **shares** (units of ownership in a company), the money goes to the company. When they buy existing shares, it goes to the owners who sell. The first job is to establish which of these changed, and which actually change the company’s existing plan.
 
-{id: first-hundred-days--setting-up-the-example-larkspur-after-its-growth-investment}
-## Setting Up the Example: Larkspur After Its Growth Investment
+{id: first-hundred-days--setting-up-the-example-rotaline-after-its-growth-investment}
+## Setting Up the Example: Rotaline After Its Growth Investment
 
-**Larkspur**, the fictional company this book follows, sells scheduling software: businesses use it to decide which of their field staff does which job, and when. Every new customer needs **onboarding**, also called **implementation**: Larkspur’s staff set the software up with that customer’s settings and data until it is ready for real use. The chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) followed the investigation before a **growth investment** in Larkspur, an investment meant to pay for the company’s expansion. That investigation produced three important findings.
+**Rotaline**, the fictional company this book follows, sells scheduling software: businesses use it to decide which of their field staff does which job, and when. Every new customer needs **onboarding**, also called **implementation**: Rotaline’s staff set the software up with that customer’s settings and data until it is ready for real use. The chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) followed the investigation before a **growth investment** in Rotaline, an investment meant to pay for the company’s expansion. That investigation produced three important findings.
 
 Five people and the board carry the example:
 
@@ -39,14 +39,14 @@ Five people and the board carry the example:
 - **Morgan** is the investor’s technology adviser, who ran the technical part of the investigation.
 - The **board** is the group of directors who oversee the company and approve its major decisions and spending.
 
-Every figure is fictional. The same Larkspur figures run through the chapters [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) and [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover). The first step is to establish what the investment actually changed at Larkspur.
+Every figure is fictional. The same Rotaline figures run through the chapters [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) and [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover). The first step is to establish what the investment actually changed at Rotaline.
 
 {id: first-hundred-days--what-actually-changed}
 ## What Actually Changed
 
-The investor’s original thesis was that Larkspur could double the number of customers it onboards without a matching increase in the implementation staff who set them up. The investigation cut that expectation before the deal was signed. The thesis the investor invested on is 50% more customers in the first year with the same team, and a second country only if a pilot’s evidence supports it. The pilot in this chapter tests whether even the 50% holds.
+The investor’s original thesis was that Rotaline could double the number of customers it onboards without a matching increase in the implementation staff who set them up. The investigation cut that expectation before the deal was signed. The thesis the investor invested on is 50% more customers in the first year with the same team, and a second country only if a pilot’s evidence supports it. The pilot in this chapter tests whether even the 50% holds.
 
-Larkspur’s deal was a growth investment, so it did bring new money into the company, along with new expectations and a review timetable.
+Rotaline’s deal was a growth investment, so it did bring new money into the company, along with new expectations and a review timetable.
 
 **Closing** is the day the investment legally completes. Within days of it the board met and adopted the plan in this chapter. That meeting is **day 0**, and every day number below counts from it.
 
@@ -91,7 +91,7 @@ The other two findings were confirmed the same way. **D-5**: the **scheduling en
 {id: first-hundred-days--a-funded-plan-for-the-first-hundred-days}
 ## A Funded Plan for the First Hundred Days
 
-A common starting proposal is to choose three to five important early moves. That is a useful limit on attention, not a universal rule. A company in serious financial difficulty, or a business being separated from a larger group by a fixed date, may need a different structure. Larkspur’s three priorities, plus one small research item, fit the envelope.
+A common starting proposal is to choose three to five important early moves. That is a useful limit on attention, not a universal rule. A company in serious financial difficulty, or a business being separated from a larger group by a fixed date, may need a different structure. Rotaline’s three priorities, plus one small research item, fit the envelope.
 
 The research item concerns a **customer portal**, a website where customers could handle some setup and requests for help themselves. The research tests whether customers need it before anyone builds it. All figures are fictional.
 
@@ -105,7 +105,7 @@ The research item concerns a **customer portal**, a website where customers coul
 
 **Capacity.** The plan allocates 18 of the 24 engineer-weeks and keeps 6 in reserve. Two other demands on people sit outside the 24, and each is counted on its own.
 
-ONB-1 needs the implementation specialist for twelve consecutive weeks. That is implementation time, not engineering time, so it is neither part of ONB-1’s twelve engineer-weeks nor added to them. While the specialist works on the pilot, the ordinary setup queue goes to a **contract implementation specialist**, an outside person Larkspur engaged before day 0 to work through the queue for twelve months. That contract costs €150,000, paid from the operating budget, not from the envelope. The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) explains it.
+ONB-1 needs the implementation specialist for twelve consecutive weeks. That is implementation time, not engineering time, so it is neither part of ONB-1’s twelve engineer-weeks nor added to them. While the specialist works on the pilot, the ordinary setup queue goes to a **contract implementation specialist**, an outside person Rotaline engaged before day 0 to work through the queue for twelve months. That contract costs €150,000, paid from the operating budget, not from the envelope. The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) explains it.
 
 KNW-1 uses two existing people. The scheduling specialist gives four weeks to teaching. The second engineer, who already works on the engine, spends about the same four weeks alongside the specialist during the first 60 days, on real releases and a recovery rehearsal. That is about eight person-weeks, set aside from the operating team’s ordinary time before the 24 were counted, so no week is counted twice.
 
@@ -127,7 +127,7 @@ Both KNW-1 participants’ salaries are already in the operating budget, which i
 
 These are decision thresholds, not the target. The plan’s illustrative model, explained in the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), assumed the pilot would bring effort down to 50 hours.
 
-**Unselected work remains visible.** A short priority list is not permission to postpone an important risk without a decision. Larkspur **deferred**, or postponed with a recorded decision, three items: the full customer-portal build (€220,000 and 12 engineer-weeks; only the €20,000 of research is funded); second-country expansion (moved out of year one during diligence and conditional on ONB-1 evidence); and hiring two implementation specialists (about €300,000 a year, every year, pending pilot evidence). Distinguish active priorities, accepted risks, monitored conditions and later opportunities. Each postponed important risk still needs someone authorized to say it is accepted or monitored.
+**Unselected work remains visible.** A short priority list is not permission to postpone an important risk without a decision. Rotaline **deferred**, or postponed with a recorded decision, three items: the full customer-portal build (€220,000 and 12 engineer-weeks; only the €20,000 of research is funded); second-country expansion (moved out of year one during diligence and conditional on ONB-1 evidence); and hiring two implementation specialists (about €300,000 a year, every year, pending pilot evidence). Distinguish active priorities, accepted risks, monitored conditions and later opportunities. Each postponed important risk still needs someone authorized to say it is accepted or monitored.
 
 **The decision, in full.**
 
@@ -155,7 +155,7 @@ Separate actions useful under several plausible plans from investments that depe
 
 Early baselines are imperfect. Document their weaknesses rather than waiting for a perfect dashboard. Define the **population** (the whole group measured), the period and the data source, and keep the original version when definitions improve. For onboarding, measure internal effort and customer waiting time separately: a process can use fewer staff hours while the customer waits just as long. For costs, keep projected savings apart from actual costs and demonstrated reductions. Agree with Sam how claimed savings will be checked, so one improvement is not counted twice across the plan.
 
-Larkspur’s day-20 baseline shows what a documented imperfect baseline looks like. Priya’s team took the total hours for all twelve implementations of the previous two quarters, in one country, from the specialist’s time records. The average was about 80 hours per implementation, the same figure the diligence sample of five had given. The number did not change; its standing did, because the population, period and source were now stated and the record is kept for later comparison.
+Rotaline’s day-20 baseline shows what a documented imperfect baseline looks like. Priya’s team took the total hours for all twelve implementations of the previous two quarters, in one country, from the specialist’s time records. The average was about 80 hours per implementation, the same figure the diligence sample of five had given. The number did not change; its standing did, because the population, period and source were now stated and the record is kept for later comparison.
 
 The time records hold only totals, so the baseline added an estimate the sample lacked. The team matched each time entry to that implementation’s notes and task history, then checked the result with the specialist and the staff who did the work. On that estimate, entering the customer’s settings took under half of the hours; cleaning the customer’s data, fixing missing or inconsistent records, was the largest remaining share. Hours the notes could not explain stayed unclassified. The split is labelled as an estimate made after the event, not a recorded measurement; the pilot cohort records what each hour is spent on as the work happens. That is why the cohort would be measured on the split and not only on the total. Sam confirmed that the baseline fitted the way the plan’s savings claims would be checked.
 

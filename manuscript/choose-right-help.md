@@ -15,7 +15,7 @@
 > * **Compare the investor’s access with the alternatives.** An investor may reach relevant people faster. A peer, an independent specialist or a hire may fit better. Judge each route by availability, company effort, cost and relevant experience.
 > * **Borrow experience with its context attached**, and make any continuing dependence explicit. Finish with a written request that names the result, the source and the accountable company leader.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Dusty Address Book** — Starts with a capability gap and compares useful introductions with other sources of help.
 > * **Borrowed Brains** — Makes the capability sought and any continuing dependence explicit in the request.
@@ -26,24 +26,24 @@ A **stronger company is worth more**, which raises the value of the investor’s
 
 The earlier chapter [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support) connected the investor–company working arrangement with the company’s own organization, authority and resources. The previous chapter, [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network), explored learning that can reveal new possibilities and needs. This chapter is about sourcing help. It starts with the company’s need, sets out four kinds of request, then compares credible sources for the same need, including sources outside the investor’s network. It ends with a written request, which the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help) turns into a **charter**: the short written agreement that fixes what the helper will do, for how long, at what cost and under whose direction.
 
-{id: choose-right-help--setting-up-the-example-larkspurs-onboarding-gap}
-## Setting Up the Example: Larkspur’s Onboarding Gap
+{id: choose-right-help--setting-up-the-example-rotalines-onboarding-gap}
+## Setting Up the Example: Rotaline’s Onboarding Gap
 
-Larkspur, the fictional scheduling-software company this book follows, has money to improve customer onboarding: the setup required before a new customer can use its software. It **lacks experience** in designing a repeatable process for that setup. Hiring a permanent leader would take months. Asking the same engineers to invent the process alongside their existing work could delay it further. Two later chapters, [Assess Capability: Can the Team Deliver?](#assess-capability) and [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), show how to find such a gap by tracing the setup work through the company. Here the gap is taken as given.
+Rotaline, the fictional scheduling-software company this book follows, has money to improve customer onboarding: the setup required before a new customer can use its software. It **lacks experience** in designing a repeatable process for that setup. Hiring a permanent leader would take months. Asking the same engineers to invent the process alongside their existing work could delay it further. Two later chapters, [Assess Capability: Can the Team Deliver?](#assess-capability) and [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), show how to find such a gap by tracing the setup work through the company. Here the gap is taken as given.
 
 {id: choose-right-help--name-the-capability-you-need}
 ## Name the Capability You Need
 
 A **capability** is something the company can reliably do, such as understanding a customer need, releasing software safely or hiring for a specialist role. Describe the gap through the work that currently fails or takes too long.
 
-“We need help with onboarding” is hard to act on. The finding from **due diligence** — the investigation the investor ran on Larkspur before deciding to invest, described in the chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) — is not. It recorded two things about five sampled **implementations**, meaning five customers’ setups:
+“We need help with onboarding” is hard to act on. The finding from **due diligence** — the investigation the investor ran on Rotaline before deciding to invest, described in the chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) — is not. It recorded two things about five sampled **implementations**, meaning five customers’ setups:
 
 - In **three of the five**, the configuration work needed the same implementation specialist’s manual attention. One person was a bottleneck.
 - Across **all five**, the average total team effort was **about 80 hours per customer**. That figure counts everything from signed contract to the customer going live — configuration, cleaning up the customer’s data, sessions with the customer and rework — not the specialist’s configuration alone.
 
 The useful help might teach the customer team to run one standard setup path, remove a repeated manual step or change how customer data is taken in. An introduction to a large outsourcing provider does not, by itself, establish that the provider can do any of those things; it might be able to, and the only way to know is to compare it on the same terms as every other route.
 
-Distinguish four possible requests: help to understand the problem, help to make a decision, people to carry out work and help developing the company’s own skills. One engagement can involve several, but agreeing which are needed stops advice being mistaken for delivery capacity. Larkspur’s request is mostly the third and fourth: someone to work alongside its engineer on one setup path and leave the team able to repeat it.
+Distinguish four possible requests: help to understand the problem, help to make a decision, people to carry out work and help developing the company’s own skills. One engagement can involve several, but agreeing which are needed stops advice being mistaken for delivery capacity. Rotaline’s request is mostly the third and fourth: someone to work alongside its engineer on one setup path and leave the team able to repeat it.
 
 {id: choose-right-help--map-the-possible-sources-of-help}
 ## Map the Possible Sources of Help
@@ -83,9 +83,9 @@ Information sharing needs a boundary: an anonymized case can still identify a co
 
 About a week after the board adopted the plan, Priya, accountable for the onboarding pilot, and Alex, who must find the engineering time, compare four routes to the same result: one setup path made repeatable by the end of a six-week assignment.
 
-**Closing** is the day the investment legally completes and the money changes hands. Within days of it the Larkspur board met and adopted the operating plan, and in this example that meeting is day 0, the start of the first hundred days; every date below counts from it. The plan **committed** €180,000 and 12 engineer-weeks to the onboarding **pilot** ONB-1 — a limited trial before any wider commitment, named so it can be followed through later reviews. Committed means agreed to spend, which is not the same as spent. An **engineer-week** is one engineer’s working time for a week, so 12 engineer-weeks is three months of one engineer, or six weeks of two.
+**Closing** is the day the investment legally completes and the money changes hands. Within days of it the Rotaline board met and adopted the operating plan, and in this example that meeting is day 0, the start of the first hundred days; every date below counts from it. The plan **committed** €180,000 and 12 engineer-weeks to the onboarding **pilot** ONB-1 — a limited trial before any wider commitment, named so it can be followed through later reviews. Committed means agreed to spend, which is not the same as spent. An **engineer-week** is one engineer’s working time for a week, so 12 engineer-weeks is three months of one engineer, or six weeks of two.
 
-Still ahead are two checkpoints: at day 90 Priya measures the **cohort** — the eight pilot customers whose setups are measured together — and at day 100 the **board**, the directors who oversee the company and approve its major decisions, reviews what that measurement shows. The comparison is fictional and uses the figures from the shared Larkspur chain; the categories are what to compare, not a claim about what any investor offers.
+Still ahead are two checkpoints: at day 90 Priya measures the **cohort** — the eight pilot customers whose setups are measured together — and at day 100 the **board**, the directors who oversee the company and approve its major decisions, reviews what that measurement shows. The comparison is fictional and uses the figures from the shared Rotaline chain; the categories are what to compare, not a claim about what any investor offers.
 
 | Route | Availability | Company effort | Relevant experience | Verdict |
 | --- | --- | --- | --- | --- |
@@ -103,11 +103,11 @@ The costs below are fictional **caps** — a maximum the company agrees to pay �
 | Independent specialist | Rate and availability not yet quoted; both are confirmed with the provider. References cover the quality of previous work, are checked separately and cannot confirm the price. For comparison only, the same €15,000 cap for ten days, plus selection time | ONB-1 | The same, plus selection |
 | Permanent implementation specialist | About €150,000 a year per specialist — pay plus the other costs of employing them, on the same €75-an-hour basis as in [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) — every year for as long as they are employed; the diligence response costed two such hires at €300,000 a year | The **operating budget** — the plan for the company’s ongoing running costs — rather than ONB-1, because the cost of employing that person continues after the pilot ends | Onboarding and management |
 
-**Chosen.** The investor’s specialist, for a bounded six-week assignment alongside a Larkspur engineer, preceded by the peer conversation.
+**Chosen.** The investor’s specialist, for a bounded six-week assignment alongside a Rotaline engineer, preceded by the peer conversation.
 
 **Not chosen, and why.** The independent specialist is slower, in a way that matters at day 100; the three paragraphs below headed “If the fallback is needed” work through what that costs. The permanent hire waits, because the board deferred hiring until the pilot shows how much effort the setup step actually removes.
 
-**Funding.** Up to €15,000 of the €180,000 committed to ONB-1 in the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days). Sam, Larkspur’s finance leader, confirms the cap fits inside what the pilot is already allowed to spend and needs no draw on the **reserve**. The board’s **envelope** is the total money and engineering time it has authorized for the whole plan; the reserve is the part of that envelope deliberately held back for problems nobody has yet found, and only the board can release it.
+**Funding.** Up to €15,000 of the €180,000 committed to ONB-1 in the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days). Sam, Rotaline’s finance leader, confirms the cap fits inside what the pilot is already allowed to spend and needs no draw on the **reserve**. The board’s **envelope** is the total money and engineering time it has authorized for the whole plan; the reserve is the part of that envelope deliberately held back for problems nobody has yet found, and only the board can release it.
 
 **Scarce capacity.** Six engineer-days, which Alex takes from the customer-portal research. That work was research-only, so the pilot delays a question rather than a commitment.
 
@@ -119,7 +119,7 @@ The costs below are fictional **caps** — a maximum the company agrees to pay �
 
 **What the board would get instead.** The problem is not that nothing could be tested by then; the engineer could try parts of a new path earlier. It is what the board agreed to read at day 100: the measured effort of a cohort of eight customers set up on the finished path. On the fallback, Priya would go to the day-100 review with an unfinished assignment, no cohort figure and a revised measurement date rather than a result.
 
-**What the engineer does while waiting.** Between the trigger and the new start, Alex’s six engineer-days return to the customer-portal research they came from. The **baseline** — the starting measurement that later results are compared against — is still taken at day 20 either way, because it is reconstructed from Larkspur’s own records and needs no specialist.
+**What the engineer does while waiting.** Between the trigger and the new start, Alex’s six engineer-days return to the customer-portal research they came from. The **baseline** — the starting measurement that later results are compared against — is still taken at day 20 either way, because it is reconstructed from Rotaline’s own records and needs no specialist.
 
 The calendar the two chapters share. Day 0 is the board meeting that adopted the plan, held within days of closing:
 
@@ -142,7 +142,7 @@ The possibility that data intake, rather than the setup step, decides the outcom
 
 An introduction can give a product team access it would otherwise struggle to get. It can help test a problem, understand a buying process or find a partner. It doesn’t establish demand.
 
-Investors tend to introduce people from companies they already know, who may differ from the customers the product intends to serve. Interviews with larger portfolio companies might reveal useful scheduling needs that don’t match Larkspur’s smaller maintenance-business customers. Priya should compare the insights with evidence from the intended market before changing the roadmap, and a commercial introduction needs an accountable relationship owner and a view of the delivery work a sale would create. More opportunities can worsen the onboarding constraint the company is trying to fix.
+Investors tend to introduce people from companies they already know, who may differ from the customers the product intends to serve. Interviews with larger portfolio companies might reveal useful scheduling needs that don’t match Rotaline’s smaller maintenance-business customers. Priya should compare the insights with evidence from the intended market before changing the roadmap, and a commercial introduction needs an accountable relationship owner and a view of the delivery work a sale would create. More opportunities can worsen the onboarding constraint the company is trying to fix.
 
 An investor’s network may help identify candidates or someone who can assess a role. Begin with the work the company needs; a prestigious introduction isn’t evidence of fit. Hiring is also only one way to develop capability: coaching an existing leader or helping several teams practice a skill can be more appropriate than adding a senior role.
 
@@ -170,7 +170,7 @@ A company may sensibly keep buying a scarce specialist service. It should unders
 {id: choose-right-help--write-the-request}
 ## Write the Request
 
-The search ends with a request short enough to be agreed in one conversation. Larkspur’s, written by Priya:
+The search ends with a request short enough to be agreed in one conversation. Rotaline’s, written by Priya:
 
 > Help our customer team make one setup path repeatable, using a specialist who can work alongside our engineer for six weeks; Priya will assess customer outcomes.
 
@@ -192,7 +192,7 @@ The first three sources concern **venture capital**: investment in young compani
 - **[Venture Capital and the Professionalization of Start-Up Firms: Empirical Evidence](https://doi.org/10.1111/1540-6261.00419)** — Thomas Hellmann and Manju Puri, The Journal of Finance, 2002.  
   *Evidence from a sample of Silicon Valley start-ups — young companies still establishing themselves — that venture-backed companies adopt formal policies sooner and more often replace the founder in the chief executive role, showing the hiring and leadership support this chapter describes as a pattern with a less comfortable side.*
 - **[The Impact of Venture Capital Monitoring](https://doi.org/10.1111/jofi.12370)** — Shai Bernstein, Xavier Giroud and Richard Townsend, The Journal of Finance, 2016.  
-  *Uses changes in travel time between venture investors and their companies to separate the effect of investor involvement from the effect of choosing good companies; a population-level estimate for venture-backed firms, not a way to judge whether one engagement like Larkspur’s worked.*
+  *Uses changes in travel time between venture investors and their companies to separate the effect of investor involvement from the effect of choosing good companies; a population-level estimate for venture-backed firms, not a way to judge whether one engagement like Rotaline’s worked.*
 - **[How Smart Is Smart Money? A Two-Sided Matching Model of Venture Capital](https://doi.org/10.1111/j.1540-6261.2007.01291.x)** — Morten Sørensen, The Journal of Finance, 2007.  
   *A model of how venture investors and young companies choose each other. Its measured outcome is narrow and specific: whether a company eventually becomes publicly traded, its shares bought and sold on a stock market. Companies backed by more experienced investors reach that outcome more often, but the paper separates two causes and finds that selecting stronger companies matters almost twice as much as anything the investor does afterwards — a caution against attributing a company’s results to its investor’s network.*
 - **[Eleventh Annual Private Equity Leadership Survey](https://www.alixpartners.com/insights/private-equity-leadership-survey-2026/)** — AlixPartners, 2026.  

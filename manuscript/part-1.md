@@ -5,10 +5,10 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn where a company’s money comes from, who receives it and on what terms, and who may spend it and when.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
-> * **Spending the Press Release** — Traces who receives the money, when it becomes available and who may spend it.
-> * **The Exit Halo** — Separates company performance from the prices, borrowing and timing behind an investor return.
+> * **Spending the Press Release** — Traces who receives the money, when and who may spend it.
+> * **The Exit Halo** — Separates company performance from the prices, borrowing and timing behind an investor's return.
 
 An investor has just been announced. Can the company now afford the two hires that the planned work needs? You will not know until this deal’s financing and ownership questions have been answered in detail.
 
@@ -36,4 +36,4 @@ This part covers fund-backed buyouts, in which an investment fund buys control o
 
 Distributions are a fund’s payouts to its investors; the optional [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) reference covers them.
 
-By the end, you should be able to ask **what would fund a proposed change** and when announced money will arrive. Part II asks who can authorize it.
+By the end, you should be able to ask **what would fund a proposed change** and when announced money will arrive. Begin with [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), which starts before any investor arrives: a small Rotaline that needs €100,000. Part II then asks who can authorize the spending.

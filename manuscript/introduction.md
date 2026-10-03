@@ -3,7 +3,7 @@
 
 ![Introduction & Reading Guide — logo](private-techuity/posts/introduction/assets/images/introduction/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Learn what this book is for, which route to take for the decision in front of you, and how to read fictional examples and historical evidence.
+> **IN THIS SECTION, YOU WILL:** Learn what this book is for, which route best fits your investment decision, and how to read its fictional examples and historical evidence.
 
 > **KEY POINTS:**
 >
@@ -106,16 +106,16 @@ The eight parts work together around one purpose: **commitments the company can 
 {id: introduction--meet-the-fictional-company}
 ## Meet the Fictional Company
 
-**Larkspur** sells scheduling software to maintenance businesses. Its customers organize appointments and assign people to work. A recurring challenge is **customer onboarding**: the setup and help needed before a customer can use the product successfully.
+**Rotaline** sells scheduling software to maintenance businesses. Its customers organize appointments and assign people to work. A recurring challenge is **customer onboarding**: the setup and help needed before a customer can use the product successfully.
 
-Ines is the **chief executive officer (CEO)**, leading the company. Alex is the **chief technology officer (CTO)**, leading technology. Sam is the **chief financial officer (CFO)**, leading finance. Priya leads product. Morgan is the investor’s technology adviser in the scenarios where an investment fund, a pool of investors’ money run by a management firm, owns part or all of Larkspur.
+Ines is the **chief executive officer (CEO)**, leading the company. Alex is the **chief technology officer (CTO)**, leading technology. Sam is the **chief financial officer (CFO)**, leading finance. Priya leads product. Morgan is the investor’s technology adviser in the scenarios where an investment fund, a pool of investors’ money run by a management firm, owns part or all of Rotaline.
 
-The chapters place Larkspur in alternative situations: learning with limited cash, expanding with growth funding, operating after a buyout, or working with a corporate owner. These are fictional decision exercises, not a single company history. Each example states its own assumptions; its figures do not combine into one set of financial records.
+The chapters place Rotaline in alternative situations: learning with limited cash, expanding with growth funding, operating after a buyout, or working with a corporate owner. These are fictional decision exercises, not a single company history. Each example states its own assumptions; its figures do not combine into one set of financial records.
 
-The main shared example is an exception. It follows one finding—that onboarding depends on one specialist’s manual work—through six stages, nine chapters and the toolkit, using the same identifiers:
+The main shared example is an exception. It follows one finding—that onboarding depends on one specialist’s manual work—through six stages, ten chapters and the toolkit, using the same identifiers:
 
 1. the investigation before the investment, [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence), in which the buyer examines the business before committing;
-2. the funded early plan, [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days), which sets one approved budget and allocation of staff time for the first hundred days, and [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), which chooses within that budget to run a **pilot** (a limited trial of automated onboarding before any larger commitment) and revises the choice when a test fails;
+2. the funded early plan: [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking), which agrees what the work is for before the board adopts the plan; [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days), which sets one approved budget and allocation of staff time for the first hundred days; and [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), which chooses within that budget to run a **pilot** (a limited trial of automated onboarding before any larger commitment) and revises the choice when a test fails;
 3. the recovery test funded beside the pilot, [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), which checks that a failed system and its data can be restored;
 4. the investor’s support for the pilot, [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help) and [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help);
 5. the pilot’s measured outcome and the decision it supports, [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), and how those numbers are defined, owned and labelled, [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready);
@@ -137,7 +137,7 @@ For a shorter first pass, read the part introductions and chapter summaries. The
 
 This manuscript was drafted and revised in September 2026. Its historical cases examine specified periods at Hilton, Skype, Visma, Toys R Us and TeamSystem. The evidence concentrates on **private equity**—investment in companies whose shares are not publicly traded, usually made through funds of pooled investor money and often taking control—and related ownership transitions. It doesn’t establish how all venture, growth or corporate investors behave or perform.
 
-Guides published by regulators and public development banks—publicly backed institutions that support business or economic development—underpin the descriptions of other arrangements. The comparative Larkspur exercises are my illustrations of decisions under stated assumptions. Company filings (documents formally submitted to a regulator or public registry), investors’ own accounts of events and research answer different questions; none establishes an unobserved customer or employee outcome.
+Guides published by regulators and public development banks—publicly backed institutions that support business or economic development—underpin the descriptions of other arrangements. The comparative Rotaline exercises are my illustrations of decisions under stated assumptions. Company filings (documents formally submitted to a regulator or public registry), investors’ own accounts of events and research answer different questions; none establishes an unobserved customer or employee outcome.
 
 The [Bibliography and Evidence Guide](#bibliography) records consultation scope and evidence limits. The chapter-end “To Probe Further” lists offer optional further reading; the bibliography identifies which resources were also used as evidence. A chapter’s argument rests only on the sources cited inline.
 

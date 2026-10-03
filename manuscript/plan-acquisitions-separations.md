@@ -15,7 +15,7 @@
 > * Combining businesses and separating one are **different processes under one principle**: a new boundary and a continuing customer promise. Choose the depth of integration for a specific benefit; fund independence before the parent’s services end.
 > * Integration and separation **use the same specialists as the planned product work**. Decide what waits, who approves the delay and what happens to the date the plan assumed, then test that the boundary works before counting the benefit.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **All Bulk, No Muscle** — Makes integration or separation work visible before the transaction’s promised benefits are counted.
 > * **The Ratchet Roadmap** — Names which product work waits while the same specialists handle the transaction.
@@ -26,16 +26,16 @@ An **acquisition** is the purchase of a business, or of a share of its ownership
 
 The plan behind such a transaction can assume savings or independence before the operating teams have checked that the work is possible in the time allowed. It is priced on assumptions about combined savings and separation costs that product and engineering leaders may not have been asked about. Bring those dependencies into the discussion while the scope, the price and the timetable can still change; once the assumptions become the company’s plan, they are obligations the company must meet.
 
-{id: plan-acquisitions-separations--setting-up-the-examples-two-larkspur-transactions}
-## Setting Up the Examples: Two Larkspur Transactions
+{id: plan-acquisitions-separations--setting-up-the-examples-two-rotaline-transactions}
+## Setting Up the Examples: Two Rotaline Transactions
 
-The chapter’s two fictional scenarios both involve Larkspur, the company this book follows, which sells scheduling software to firms with staff working in the field. Four people appear in them: **Ines**, Larkspur’s chief executive; **Alex**, who leads technology; **Priya**, who leads product; and **Sam**, who leads finance.
+The chapter’s two fictional scenarios both involve Rotaline, the company this book follows, which sells scheduling software to firms with staff working in the field. Four people appear in them: **Ines**, Rotaline’s chief executive; **Alex**, who leads technology; **Priya**, who leads product; and **Sam**, who leads finance.
 
-In the first scenario, Larkspur is owned by a **buyout fund**. That is a pool of money gathered from many investors and spent on buying companies outright, or on buying enough of one to **control** it: to have the power to decide the things that matter most, such as who runs it, what it invests in and whether it is sold. The pool is managed by a firm that decides what to buy and is paid for doing so. The money belongs to the investors; the decisions are made by the firm. The plan is to improve each company and sell it again some years later.
+In the first scenario, Rotaline is owned by a **buyout fund**. That is a pool of money gathered from many investors and spent on buying companies outright, or on buying enough of one to **control** it: to have the power to decide the things that matter most, such as who runs it, what it invests in and whether it is sold. The pool is managed by a firm that decides what to buy and is paid for doing so. The money belongs to the investors; the decisions are made by the firm. The plan is to improve each company and sell it again some years later.
 
-The fund’s **deal team**, the people who find and negotiate purchases, proposes buying a smaller company. The fund’s **investment committee**, the group inside the fund that approves purchases, agrees on the price and terms. The Larkspur **board**, the directors accountable for the company, approves the integration plan and its budget. Timing also depends on the seller and on a **regulator’s waiting period**: a legally required pause before certain purchases may be completed, so competition authorities can review them.
+The fund’s **deal team**, the people who find and negotiate purchases, proposes buying a smaller company. The fund’s **investment committee**, the group inside the fund that approves purchases, agrees on the price and terms. The Rotaline **board**, the directors accountable for the company, approves the integration plan and its budget. Timing also depends on the seller and on a **regulator’s waiting period**: a legally required pause before certain purchases may be completed, so competition authorities can review them.
 
-In the second scenario, Larkspur is instead a division inside a larger parent and is being separated from it. The two scenarios use their own dates and figures, separate from each other and from the operating-plan figures that run through [LEAD: Manage Funding and Ownership Changes](#part-7).
+In the second scenario, Rotaline is instead a division inside a larger parent and is being separated from it. The two scenarios use their own dates and figures, separate from each other and from the operating-plan figures that run through [LEAD: Manage Funding and Ownership Changes](#part-7).
 
 {id: plan-acquisitions-separations--one-principle-a-new-boundary-a-continuing-customer-promise}
 ## One Principle: A New Boundary, a Continuing Customer Promise
@@ -93,14 +93,14 @@ The Skype case in the chapter [Hilton and Skype: A Successful Exit Still Needs E
 
 The same engineers may be needed to deliver the planned product work, keep the service running, support the investigation of the next purchase and integrate the last one. That investigation is **due diligence**: the examination of a business before buying it, covering its finances, its contracts, its technology and its risks. The business being examined is the **target**. A plan that allocates the same people’s time to every one of those activities independently creates capacity that does not exist. Build a single view of who is needed where, identify the people who can’t be duplicated, and test the pace of purchases against it. An attractive target can still be hard to absorb right now.
 
-**Larkspur example (fictional, separate assumptions).**
+**Rotaline example (fictional, separate assumptions).**
 
-*The situation.* Larkspur, owned in this scenario by a buyout fund, buys a smaller company with forty employees whose product is **field dispatch**: deciding which engineer goes to which job, and sending them there. Larkspur’s own product is a **scheduling engine**, the software that plans that work in advance. The purchase closes on 1 April 2026. The priced thesis is the third row of the table: connect the two products so a customer signing in once sees the same customers and jobs in both, and Larkspur’s scheduling customers can buy dispatch as an add-on. The combined offering is to be on sale nine months after closing — 1 January 2027 — with the extra sales it brings appearing in the plan from February 2027.
+*The situation.* Rotaline, owned in this scenario by a buyout fund, buys a smaller company with forty employees whose product is **field dispatch**: deciding which engineer goes to which job, and sending them there. Rotaline’s own product is a **scheduling engine**, the software that plans that work in advance. The purchase closes on 1 April 2026. The priced thesis is the third row of the table: connect the two products so a customer signing in once sees the same customers and jobs in both, and Rotaline’s scheduling customers can buy dispatch as an add-on. The combined offering is to be on sale nine months after closing — 1 January 2027 — with the extra sales it brings appearing in the plan from February 2027.
 
 *The competing demands.* Three pieces of work need the same two engineers, the only two who understand the scheduling engine, in the six months from April to September 2026:
 
 - **The integration** — sixteen engineer-weeks. One **engineer-week** is one engineer working for one week, so sixteen is either engineer for sixteen weeks or both for eight.
-- **The customer portal** — ten engineer-weeks. This is the online service through which customers see and change their own bookings; it is the next promised item on Larkspur’s product plan, committed to named customers for the quarter running July to September 2026.
+- **The customer portal** — ten engineer-weeks. This is the online service through which customers see and change their own bookings; it is the next promised item on Rotaline’s product plan, committed to named customers for the quarter running July to September 2026.
 - **Diligence on a second target** — three engineer-weeks. The deal team wants a second company examined in May 2026, the month after closing.
 
 *The arithmetic.* Two engineers across twenty-six weeks is fifty-two engineer-weeks. Six go to leave and about twenty to running and supporting the scheduling engine, which leaves **twenty-six engineer-weeks of project capacity** against **twenty-nine** required. The twenty weeks of support are an average, not a promise: they are the **operating reserve**. An incident requiring more time than the reserve allows reduces project capacity. Three engineer-weeks of work do not fit in the half-year even before that happens.
@@ -124,7 +124,7 @@ So the date the transaction was priced on holds, and holds for a reason that can
 - **Rejected:** doing all three at once, which is capacity that does not exist; giving the integration to contractors, who do not know the engine and would add a fourth person to a two-person dependency without removing it; and delaying the integration instead, which would push the combined offering to April 2027 and the extra sales with it, changing the case the transaction was priced on.
 - **Funding:** the integration’s €150,000 is in the financial forecast the buyer used to assess the purchase. The portal delay costs no cash, but a commitment made to named customers slips by three months.
 - **Scarce capacity:** the two scheduling-engine engineers.
-- **Authorized:** the Larkspur board approves the change to the product plan; Ines tells the fund’s deal team the new diligence timing, and the investment committee is told that the second target waits.
+- **Authorized:** the Rotaline board approves the change to the product plan; Ines tells the fund’s deal team the new diligence timing, and the investment committee is told that the second target waits.
 - **Evidence that would change it:** the two engineers’ initial April–June work running past its sixteen engineer-weeks — the November release-support fortnight is planned separately and does not count against that figure — at which point Sam re-works the expected extra sales against a later date for the combined offering; or a portal customer signalling that it will not renew, at which point the board revisits the order.
 
 Integration estimates should include data cleanup, customer communication, training, running old and new systems together, contract changes, helping customers move and retiring the old systems. A platform isn’t retired when its replacement launches. It’s retired when the remaining customer and operating obligations have been resolved; only then can the duplicated cost be counted as saved, and for a consolidation thesis that is the completion test.
@@ -141,7 +141,7 @@ A **transition services agreement**, or TSA, provides temporary access to servic
 
 The technology plan should distinguish three stages: **Day 1 continuity**, keeping services working on the first day of separate ownership; establishing independent operations; and making later improvements. Trying to optimize every system before separation can put continuity at risk. Reproducing the parent’s setup without questioning its cost can create a permanently expensive business. Whatever the future owner, someone must fund the replacement of the parent’s services before those services end; bring that budget into the transaction discussion while there is still time to change the scope, price or timetable.
 
-**Larkspur example (fictional, separate assumptions).** In this scenario Larkspur is a division being separated from a larger parent. The share of the parent’s **information technology (IT)** costs charged to it is €400,000 a year. Buying the same services independently costs €700,000 a year, plus €300,000 of one-time work to set them up. The financial forecast behind the transaction must carry both: €300,000 more every year, and €300,000 once. A division’s past **margin** — its profit as a share of its sales — is calculated on the €400,000, so quoting it without this bridge overstates what the separated company will actually have left.
+**Rotaline example (fictional, separate assumptions).** In this scenario Rotaline is a division being separated from a larger parent. The share of the parent’s **information technology (IT)** costs charged to it is €400,000 a year. Buying the same services independently costs €700,000 a year, plus €300,000 of one-time work to set them up. The financial forecast behind the transaction must carry both: €300,000 more every year, and €300,000 once. A division’s past **margin** — its profit as a share of its sales — is calculated on the €400,000, so quoting it without this bridge overstates what the separated company will actually have left.
 
 {id: plan-acquisitions-separations--complete-the-bridge-dates-milestones-and-an-independence-test}
 ### Complete the Bridge: Dates, Milestones and an Independence Test
@@ -150,7 +150,7 @@ The cost bridge is not a plan until it has dates, an accountable leader for each
 
 - **Reconnection.** Standby buys availability, not the service itself. If a bundle is switched back on, its own monthly charge resumes for every month it is on again — €10,000, €10,000 or €15,000 — on top of the standby charge. Reconnecting all three would cost €35,000 a month.
 - **Extension.** One extension of three months — July, August and September 2027 — is available at 150% of the full monthly charge: €52,500 a month, €157,500 in total. That price covers all three bundles and the standby charge for those months, so nothing else is billed alongside it. The three months are sold together; individual months cannot be declined once the extension is running, and an early pass does not refund the rest. It must be **reserved in writing by 31 March 2027**; after that date the parent is not obliged to grant it at all. Reserving costs nothing, and the reservation can be cancelled in writing **up to 31 May 2027**. From 1 June it becomes a binding purchase of the full €157,500, whether or not the extension is used. Those two dates make the reservation a reflex rather than a judgement: it cannot be made after March, and a March forecast cannot tell anyone what May will show.
-- **Corrective work.** Neither charge pays for repairing the replacement that failed. That engineering work is Larkspur’s own cost and needs its own allowance.
+- **Corrective work.** Neither charge pays for repairing the replacement that failed. That engineering work is Rotaline’s own cost and needs its own allowance.
 
 A missed date therefore has a price as well as a delay: every month a bundle stays on costs its share, a bundle turned back on costs its share again, and a test that cannot be run inside the twelve months costs the extension.
 
@@ -161,9 +161,9 @@ The dates work backwards from the test. It needs every parent service off for a 
 | Date | Milestone | Parallel run | Parent service off | What is tested |
 | --- | --- | --- | --- | --- |
 | 1 Jul 2026 | Closing; TSA starts at €35,000 a month | — | — | Day 1 continuity: customers served, support answered, staff paid, all still on the parent’s services |
-| 31 Oct 2026 | Sign-in and account controls, email and device management live on Larkspur’s systems (Alex) | Nov–Dec 2026 | 31 Dec 2026 | Every employee signs in and receives mail on the new systems; one new joiner is set up without the parent |
+| 31 Oct 2026 | Sign-in and account controls, email and device management live on Rotaline’s systems (Alex) | Nov–Dec 2026 | 31 Dec 2026 | Every employee signs in and receives mail on the new systems; one new joiner is set up without the parent |
 | 31 Dec 2026 | Finance, procurement and payroll systems live (Sam) | Jan–Feb 2027 | 28 Feb 2027 | The January **month-end close** — completing and checking one month’s accounts — done in both systems with matching results; February suppliers and salaries paid from the new system |
-| 28 Feb 2027 | Network, security monitoring and remaining licences live (Alex) | Mar–Apr 2027 | 30 Apr 2027 | All traffic on Larkspur’s network; a test alert detected by its own monitoring; every licence in Larkspur’s name |
+| 28 Feb 2027 | Network, security monitoring and remaining licences live (Alex) | Mar–Apr 2027 | 30 Apr 2027 | All traffic on Rotaline’s network; a test alert detected by its own monitoring; every licence in Rotaline’s name |
 | 31 Mar 2027 | Written deadline for reserving the extension; it is reserved whatever the March position shows | — | — | Nothing is being judged here: the reservation is free, cancellable to 31 May, and cannot be made later |
 | May 2027 | Independent-service test | — | All off | Month-end close, a new customer set up to use the service, a software release and a restore within the recovery objective, with no access to the parent |
 | 31 May 2027 | Last date to cancel the reservation at no cost; from 1 June the €157,500 is committed in full | — | — | Acting on the May test result, which is known before the month ends |
@@ -176,7 +176,7 @@ On this calendar the parent’s charges come to €320,000: six months at €35,
 | Line | This calendar | Notes |
 | --- | --- | --- |
 | Parent’s charges under the agreement | €320,000 over the transition year | €420,000 if no bundle were ever switched off |
-| Larkspur’s own running costs for the replacements | builds from €0 in July 2026 towards €700,000 a year | Each replaced service starts costing from the month it goes live, so during a parallel run both are being paid for |
+| Rotaline’s own running costs for the replacements | builds from €0 in July 2026 towards €700,000 a year | Each replaced service starts costing from the month it goes live, so during a parallel run both are being paid for |
 | One-time separation work | €300,000 | Building, migrating, testing and switching over |
 
 During each two-month parallel run the company is paying the parent for the old service *and* itself for the new one. That overlap is a cost, not something the €100,000 covers; the avoided charges and the overlap are separate figures that happen to sit in the same months. The net cost of the transition is the second and third lines added to the first, compared with the €400,000 the division used to be charged.
@@ -250,7 +250,7 @@ Finance should be able to show how the group’s result is made up: the profit t
 
 Company leaders need to make the transition feasible and its claimed benefits verifiable. An investor’s adviser can bring patterns and specialists from other acquisitions; the company still needs **an accountable leader for each part** of the operating plan. Completing a transaction changes ownership. Completing the operating transition requires the evidence in the two completion tests above: customers can still use the product, the benefit the thesis named has appeared, responsibilities are clear and the costs or dependencies the plan said would end have actually ended. The two milestones can be far apart, and the obligations that remain open at an ownership change are the subject of the chapter [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
 
-Both Larkspur examples used specialists the company did not have, from the fund’s deal team, the parent and outside advisers, and each depended on people the company could not duplicate: the two scheduling-engine engineers in one, the operations lead in the other. Part III set out where such additional capability comes from, on what terms, and how to keep the authority to decide inside the company, beginning with [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support). Part VI turns to the technology the company already runs: what it costs, and whether it would survive a failure.
+Both Rotaline examples used specialists the company did not have, from the fund’s deal team, the parent and outside advisers, and each depended on people the company could not duplicate: the two scheduling-engine engineers in one, the operations lead in the other. Part III set out where such additional capability comes from, on what terms, and how to keep the authority to decide inside the company, beginning with [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support). Part VI turns to the technology the company already runs: what it costs, and whether it would survive a failure.
 
 {id: plan-acquisitions-separations--questions-to-consider}
 ## Questions to Consider

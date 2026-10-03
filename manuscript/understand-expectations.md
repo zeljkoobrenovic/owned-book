@@ -3,9 +3,9 @@
 
 ![Understand Expectations: Customers, Lenders and Investors — logo](private-techuity/posts/00-understand-expectations/assets/images/00-understand-expectations/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Learn what customers, lenders and shareholders each expect in return for their money, and follow one €100,000 need through all three routes to a decision.
+> **IN THIS SECTION, YOU WILL:** Learn what customers, lenders and shareholders each expect in return for their money.
 
-> **WHY INVESTORS CARE:** Lenders are investors too. Shareholders expect the rights attached to their shares, and lenders expect repayment and the protections written into their loan contracts. Each prices its money accordingly. Establish which financing arrangement supplies the money before treating it as a budget.
+> **WHY INVESTORS CARE:** Shareholders expect the rights attached to their shares, and lenders expect repayment and the protections written into their loan contracts. Each prices its money accordingly.
 
 > **WHY YOU SHOULD CARE:** Every commitment you make to a team is paid for by someone who expects something back. If you do not know what they expect, you cannot know which promises the company can keep.
 
@@ -15,40 +15,38 @@
 > * Buying a share means **buying part of a company**. Only newly issued shares put money into the company; buying existing shares pays the seller.
 > * A budget tells you how much you may spend. **The funding terms tell you when you may spend it, which approvals you need and what the company must deliver in return.** Establish the actual arrangement before turning new funding or a change of ownership into a product commitment.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
-> * **Spending the Press Release** — Shows which payments reach the company and what conditions come with them.
+> * **Spending the Press Release** — Shows which payments reach the company and what conditions come with them, to avoid disappointment and confusion.
 > * **The Nodding Room** — Distinguishes what customers, lenders and shareholders expect from the same company.
 
-  
-a
 A company needs cash to pay people, buy supplies and develop its products, often before its customers pay. **Financing** means arranging that money, and the source matters because each one brings different costs, expectations and rights.
 
-Product and engineering leaders usually meet money as a **budget**: an approved amount that their team may spend on agreed work over a set period, typically a year. A budget shows how much may be spent, but not where the money came from or what the company owes in return. This chapter follows one need through three funding routes so that the terms behind a budget become as visible as the amount. It first sets up the example, then describes the four common ways cash reaches a business and what a share represents. It then compares the same need funded three ways, and ends with a brief look at public and private ownership and at investor labels.
+Product and engineering leaders usually meet money as a **budget**: an approved amount that their team may spend on agreed work over a set period, typically a year. A budget shows how much may be spent, but not where the money came from or what the company owes in return. This chapter follows one company's need for cash through three funding routes so that the terms behind a budget become as visible as the amount. It first sets up the example, then describes the four common ways cash reaches a business and what a share represents. It then compares the same need funded three ways, and ends with a brief look at public and private ownership and at investor labels.
 
 ![Customers, a lender and a shareholder feed a financing arrangement whose terms (when, approvals, owed in return) sit behind the budget amount a team sees.](private-techuity/posts/00-understand-expectations/assets/images/00-understand-expectations/financing-behind-the-budget.jpeg)
 
 **Figure 1:** *A budget shows the amount; the financing behind it sets when it may be spent, who must approve and what the company owes in return.*
 
-{id: understand-expectations--setting-up-the-example-larkspur-needs-100-000}
-## Setting Up the Example: Larkspur Needs €100,000
+{id: understand-expectations--setting-up-the-example-rotaline-needs-100-000}
+## Setting Up the Example: Rotaline Needs €100,000
 
-Larkspur is the fictional scheduling-software company used throughout this book. Three customers want a new **dispatch feature**, which assigns jobs to field workers and sends each of them their schedule, and they want it by 1 March. Finishing the feature and **onboarding** those customers, meaning setting them up on the product and moving their data across, will take about €100,000 that Larkspur does not have.
+Rotaline is the fictional scheduling-software company used throughout this book. Three customers want a new **dispatch feature**, which assigns jobs to field workers and sends each of them their schedule, and they want it by 1 March. Finishing the feature and **onboarding** those customers, meaning setting them up on the product and moving their data across, will take about €100,000 that Rotaline does not have.
 
 Three people have to decide where the money comes from: Ines, the chief executive officer (CEO), who runs the company; Sam, the chief financial officer (CFO), who manages its money; and Alex, the chief technology officer (CTO), who leads its four engineers.
 
-Every figure in this example is fictional, and the scenario is the earliest in the book: a small Larkspur owned by its **founders**, the people who started it, with no outside investor yet. Its existing subscriptions cover its current running costs: the salaries, the **hosting** (the computing services that run the software) and customer support. About €1,500 a month is left over, and nothing for new work. Later chapters give the same company larger, separately stated figures.
+Every figure in this example is fictional, and the scenario is the smallest in the book: a small Rotaline owned by its **founders**, the people who started it, with no outside investor yet. Its existing subscriptions cover its current running costs: the salaries, the **hosting** (the computing services that run the software) and customer support. About €1,500 a month is left over, and nothing for new work.
 
 {id: understand-expectations--four-common-ways-cash-reaches-a-business}
 ## Four Common Ways Cash Reaches a Business
 
-**Customer payments.** Customers pay for the software, sometimes as a **prepayment** — money paid before the service has been delivered (e.g., annual subscriptions). The company must **provide** what it promised and may have **refund** obligations. After paying the costs of serving customers, it can use any remaining cash to fund further work. Larkspur could try to obtain €100,000 via a prepayment from customers wanting a new feature, which would turn the 1 March feature date into a contractual promise.
+**Customer payments.** Customers pay for the software, sometimes as a **prepayment** — money paid before the service has been delivered (e.g., annual subscriptions). The company must **provide** what it promised and may have **refund** obligations. After paying the costs of serving customers, it can use any remaining cash to fund further work. Rotaline could try to obtain €100,000 via a prepayment from customers wanting a new feature, which would turn the 1 March feature date into a contractual promise.
 
-**Borrowing.** A lender, such as a bank, provides a loan. **Debt** means borrowing that must be repaid. The amount borrowed is the **principal**; **interest** is the charge for using that money, usually stated as a yearly percentage of the amount still owed. The loan agreement sets repayment dates and other conditions. A loan doesn't ordinarily give the lender shares in the company, but its conditions can restrict company decisions. Lenders are investors too: they invest by lending, and they expect repayment and the protections in the contract rather than ownership. Investor.gov describes a bond the same way: an investor lends money to the organization that issued the bond and receives interest plus the original amount back on an agreed date. [S72: Investor.gov bonds page](https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds) When this book says "investor" without qualification, it usually means a shareholder or the **investment fund** behind one (a pool of money invested on behalf of others); lenders are named as lenders. So Larkspur could also try to borrow €100,000, but repayments would likely start before the feature earns anything.
+**Borrowing.** A lender, such as a bank, provides a loan. **Debt** means borrowing that must be repaid. The amount borrowed is the **principal**; **interest** is the charge for using that money, usually stated as a yearly percentage of the amount still owed. The loan agreement sets repayment dates and other conditions. A loan doesn't ordinarily give the lender shares in the company, but its conditions can restrict company decisions. Lenders are investors too: they **invest by lending**, and they expect repayment and the protections in the contract rather than ownership. Investor.gov describes a bond the same way: an investor lends money to the organization that issued the bond and receives interest plus the original amount back on an agreed date. [S72: Investor.gov bonds page](https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds) When this book says "investor" without qualification, it usually means a shareholder or the **investment fund** behind one (a pool of money invested on behalf of others); lenders are named as lenders. So Rotaline could also try to borrow €100,000, but repayments would likely start before the feature earns anything.
 
-**Money from owners.** A founder or another investor contributes money in exchange for ownership. **Equity** means an ownership interest. Unlike a loan, it generally has no fixed repayment schedule. The shareholder can gain if the investment becomes more valuable, and can lose the money invested. For Larkspur, a new shareholder would gain rights over future decisions, not only over this feature.
+**Money from owners.** A founder or another investor contributes money in exchange for ownership. **Equity** means an ownership interest. Unlike a loan, it generally has no fixed repayment schedule. The shareholder can gain if the investment becomes more valuable, and can lose the money invested. For Rotaline, a new shareholder would gain rights over future decisions, not only over this feature.
 
-**Selling an asset.** An **asset** is something the company owns or controls that can provide economic benefit, such as equipment or a business division. Selling an unused building raises cash once. Selling a product line also gives up the future income and capabilities that came with it. Larkspur has no spare asset worth €100,000, so this route drops out of its comparison.
+**Selling an asset.** An **asset** is something the company owns or controls that can provide economic benefit, such as equipment or a business division. Selling an unused building raises cash once. Selling a product line also gives up the future income and capabilities that came with it. Rotaline has no spare asset worth €100,000, so this route drops out of its comparison.
 
 These are four common routes, not an exhaustive list. **Grants**, awards of money for specified purposes, can fund eligible activities under specific conditions. The US Small Business Administration describes grants for areas such as scientific research and development. [S56: SBA grant overview](https://www.sba.gov/loans/additional-funding-opportunities/grants/)
 
@@ -72,62 +70,62 @@ If an investor buys new shares from the company, the company receives the money.
 {id: understand-expectations--the-same-100-000-three-ways}
 ## The Same €100,000, Three Ways
 
-Sam has three credible offers. Each supplies the same amount; each changes what Larkspur must promise. A **consent right** means Larkspur must ask someone's permission before taking a specified action.
+Sam has three credible offers. Each supplies the same amount; each changes what Rotaline must promise. A **consent right** means Rotaline must ask someone's permission before taking a specified action.
 
-| Route | Who supplies the cash | What Larkspur promises | The obligation that changes the delivery promise |
+| Route | Who supplies the cash | What Rotaline promises | The obligation that changes the delivery promise |
 | --- | --- | --- | --- |
 | **Customer prepayment** | Three customers pay €100,000 in advance for a year's service that includes the new feature | Deliver the feature by 1 March; refund one month's service if it is late | The feature date becomes a contract term. Slipping it costs cash and customer trust, not only an apology |
 | **Bank loan** | A bank lends €100,000 for three years at a fixed 6% a year, an illustrative rate | Repay about €3,040 a month in 36 equal payments, starting the month after the money arrives and excluding fees; take on no further borrowing without the bank's consent | Repayments begin before the customers have paid anything. The plan must show cash for salaries and repayments at the same time |
-| **New shares** | An investor pays €100,000 for 111 newly issued shares; Larkspur has 1,000 identical shares before the issue, so the investor holds 111 of 1,111, about 10% | Give the investor a seat on the board, a consent right over any spending above €50,000 that sits outside the approved plan, and the expectation that Larkspur will eventually be sold so the investor can sell its shares and receive money | The investor can block large unplanned spending, and from the board seat will judge the product-development plan, the roadmap, on growth toward a sale, not only on this feature |
+| **New shares** | An investor pays €100,000 for 111 newly issued shares; Rotaline has 1,000 identical shares before the issue, so the investor holds 111 of 1,111, about 10% | Give the investor a seat on the board, a consent right over any spending above €50,000 that sits outside the approved plan, and the expectation that Rotaline will eventually be sold so the investor can sell its shares and receive money | The investor can block large unplanned spending, and from the board seat will judge the product-development plan, the roadmap, on growth toward a sale, not only on this feature |
 
 {id: understand-expectations--where-the-100-000-goes}
 ### Where the €100,000 Goes
 
-Whichever route supplies it, the money pays for the same things. Larkspur's four engineers are paid from the existing subscriptions, so their time on the feature costs no new cash, and the running costs those subscriptions cover already include the baseline hosting and support of three more customers on the existing product. The new cash covers only what those subscriptions do not:
+Whichever route supplies it, the money pays for the same things. Rotaline's four engineers are paid from the existing subscriptions, so their time on the feature costs no new cash, and the running costs those subscriptions cover already include the baseline hosting and support of three more customers on the existing product. The new cash covers only what those subscriptions do not:
 
 - about €30,000 for the routing and map-data licence, the permission to use the route-planning software and map data, and the additional hosting capacity the dispatch feature needs, paid for the first year in advance;
 - about €25,000 for a contract engineer who covers support and maintenance for twelve weeks while two of the team build the feature;
 - about €35,000 for contract implementation specialists who move the three customers' data across and train their dispatchers;
 - a €10,000 reserve for overruns.
 
-Alex estimates the feature at eight **engineer-weeks**: one engineer's work for eight weeks or, as Alex plans it, two engineers working full time for four weeks. Two engineers start on Monday 19 January 2026 and finish by Friday 13 February, two weeks before 1 March; the other two keep the existing product running with the contract engineer's help. Twelve engineer-weeks would end on 27 February with no margin left, which is why twelve is the limit.
+Alex estimates the feature at eight **engineer-weeks**: one engineer's work for eight weeks or, as Alex plans it, two engineers working full time for four weeks. Two engineers start on Monday 19 January 2026 and finish by Friday 13 February, two weeks before 1 March; the other two keep the existing product running with the contract engineer's help.
 
 Under the prepayment, Ines countersigns the three orders on Friday 16 January and the customers pay within 14 days, so the cash is in the bank by 30 January. The licence and the contractors are ordered from 1 February, once the money has arrived; the engineers' own work needs no new cash, so it starts on 19 January. The order of events is the same on every route: the build finishes on 13 February, the feature goes live for the customers on 1 March, and any loan repayment falls due at the end of each month, starting the month after the money arrives. Under the loan or the share issue, the cash would arrive in one sum at about the same date and be spent the same way. What changes under the loan is when the customers pay. They would sign ordinary annual subscriptions instead of prepaying, invoiced when the feature goes live on 1 March and payable within 30 days. They could pay on any day up to Tuesday 31 March. Sam's forecast counts on their €100,000 arriving on that deadline, not before it.
 
-If the feature is late under the prepayment, each customer gets one month's service back, about €8,300 across the three contracts. That refund comes out of the €10,000 reserve. If the reserve has already gone on overruns, the refund would take about six months of the €1,500 surplus to cover, and that is the risk Larkspur accepts.
+If the feature is late under the prepayment, each customer gets one month's service back, about €8,300 across the three contracts. That refund comes out of the €10,000 reserve. If the reserve has already gone on overruns, the refund would take about six months of the €1,500 surplus to cover, and that is the risk Rotaline accepts.
 
 {id: understand-expectations--the-cheapest-money-and-the-tightest-promise}
 ### The Cheapest Money and the Tightest Promise
 
-On this chapter's assumptions, the prepayment is the cheapest money and the tightest promise. The three customers pay Larkspur's standard annual price with no discount for paying early. What differs is what each route costs on top. The prepayment costs Larkspur the engineers' time and one risk, the one-month refund. The loan costs about €9,500 of interest over three years. The shares cost 10% of the company and the rights that come with it.
+On this chapter's assumptions, the prepayment is the cheapest money and the tightest promise. The three customers pay Rotaline's standard annual price with no discount for paying early. What differs is what each route costs on top. The prepayment costs Rotaline the engineers' time and one risk, the one-month refund. The loan costs about €9,500 of interest over three years. The shares cost 10% of the company and the rights that come with it.
 
-Had the customers demanded 10% off for paying early, the same three contracts would bring in €90,000 against a €100,000 need, leaving a €10,000 gap. The €10,000 given away would also exceed the loan's €9,500 of interest, so on cost alone the loan would then be cheaper. Cost and affordability are different tests, though: the loan's repayments fall due every month whether or not the customers have paid, and that is the test Larkspur applies to the loan below.
+Had the customers demanded 10% off for paying early, the same three contracts would bring in €90,000 against a €100,000 need, leaving a €10,000 gap. The €10,000 given away would also exceed the loan's €9,500 of interest, so on cost alone the loan would then be cheaper. Cost and affordability are different tests, though: the loan's repayments fall due every month whether or not the customers have paid, and that is the test Rotaline applies to the loan below.
 
 {id: understand-expectations--the-decision}
 ### The Decision
 
 **The choice.** Ines, Sam and Alex choose the customer prepayment. The feature fits before 1 March with two weeks to spare, the customers' cash covers the €100,000 of new spending, and the refund clause is limited to one month's service.
 
-**Who decides.** Under Larkspur's articles, the company's rulebook, borrowing and issuing new shares are board decisions, and a share issue also needs the existing shareholders' consent. Ordinary customer contracts of up to a year sit within the permission the board has given Ines, so she could sign the three contracts alone. Because they turn a delivery date into a refund obligation, and because the two alternatives would have needed the board anyway, she takes the comparison to the board on 15 January. The board records its support in its minutes, the written record of the meeting, and Ines signs on her own authority the next day. (the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority) shows the same permission with a fictional spending threshold at a later stage of the company.)
+**Who decides.** Under Rotaline's articles, the company's rulebook, borrowing and issuing new shares are board decisions, and a share issue also needs the existing shareholders' consent. Ordinary customer contracts of up to a year sit within the permission the board has given Ines, so she could sign the three contracts alone. Because they turn a delivery date into a refund obligation, and because the two alternatives would have needed the board anyway, she takes the comparison to the board on 15 January. The board records its support in its minutes, the written record of the meeting, and Ines signs on her own authority the next day. (the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority) shows the same permission with a fictional spending threshold at a later stage of the company.)
 
-**Why not the loan: the payment gap.** Not because the sums cannot work, but because of what they would rest on. Its repayments, about €3,040 a month, are twice the €1,500 a month that Larkspur's existing subscriptions leave after running costs, so each one would take about €1,540 from somewhere else. The first falls due at the end of February. The second falls due on 31 March, the customers' payment deadline, and Sam's forecast provides for it before counting on their money. Those two shortfalls would come out of the €10,000 reserve and leave about €6,900 in it; the customers' money would then carry the rest.
+**Why not the loan: the payment gap.** Not because the sums cannot work, but because of what they would rest on. Its repayments, about €3,040 a month, are twice the €1,500 a month that Rotaline's existing subscriptions leave after running costs, so each one would take about €1,540 from somewhere else. The first falls due at the end of February. The second falls due on 31 March, the customers' payment deadline, and Sam's forecast provides for it before counting on their money. Those two shortfalls would come out of the €10,000 reserve and leave about €6,900 in it; the customers' money would then carry the rest.
 
 **Why not the loan: the receipt risk.** That plan holds only if the feature goes live on 1 March and the customers then pay on time. A customer who paid as soon as the invoice arrived would shorten the gap to one shortfall. A customer who paid a month late would stretch it to three, leaving about €5,400 in the reserve. If the launch slipped, the invoices would slip with it, and the repayments would keep coming out of a reserve that also has to absorb overruns. If a customer walked away, a third of the money would never arrive, and the repayments would continue for three years regardless.
 
-**Why not the loan: the policy.** Sam's rule settles it: Larkspur does not take on a fixed monthly payment that its existing income cannot cover, resting on money not yet collected and on its contingency reserve. Under the prepayment the customers' cash is in the bank before anything is ordered. Larkspur still owes those customers a year's service, and one month of it back if the feature is late, but it owes nobody a fixed monthly payment.
+**Why not the loan: the policy.** Sam's rule settles it: Rotaline does not take on a fixed monthly payment that its existing income cannot cover, resting on money not yet collected and on its contingency reserve. Under the prepayment the customers' cash is in the bank before anything is ordered. Rotaline still owes those customers a year's service, and one month of it back if the feature is late, but it owes nobody a fixed monthly payment.
 
 **Why not the shares.** The issue gives up 10% of the company, a board seat and a consent right to meet a need that customers are willing to fund. Ines wants to keep that option for a larger expansion.
 
 {id: understand-expectations--what-would-reopen-it}
 ### What Would Reopen It
 
-In early January each customer signs an order that binds Larkspur only when Larkspur countersigns it; the order states the feature, the 1 March date and the one-month refund. On 15 January Sam counts the signed orders and Alex confirms the estimate. Two pieces of evidence would reopen the decision: fewer than three signed orders, or an estimate above twelve engineer-weeks. In either case Ines countersigns nothing, so no date is promised until the plan fits.
+In early January each customer signs an order that binds Rotaline only when Rotaline countersigns it; the order states the feature, the 1 March date and the one-month refund. On 15 January Sam counts the signed orders and Alex confirms the estimate. Two pieces of evidence would reopen the decision: fewer than three signed orders, or an estimate above twelve engineer-weeks. In either case Ines countersigns nothing, so no date is promised until the plan fits.
 
 **What waits and what does not.** In every case Alex's two engineers start on 19 January: their salaries need no new cash, and Ines can direct the team's time on her own authority, so the work done is kept whichever plan is promised. What waits for a countersignature is the promise to a customer and any new spending. When the plan has to be reworked, Sam reduces it to a smaller first **release**, the version of the feature made available to customers, or to a later date, that the signed customers' cash can fund. Those customers receive a revised order and can accept it or walk away. Case by case:
 
 **Three orders, and an estimate of twelve engineer-weeks or fewer.** Ines countersigns on 16 January. From that moment 1 March is a contractual promise to all three customers, and moving it later would need their agreement.
 
-**Two orders: can Larkspur afford the gap?** Their €66,667 covers two-thirds of the need and leaves a gap of €33,333. Sam rounds the gap up to a €35,000 loan, a small buffer over the exact figure. The bank has confirmed that it will lend any amount up to €100,000 on the same terms and pay it within ten working days of a signed agreement. On those terms €35,000 costs about €1,065 a month and leaves about €435 of the €1,500 surplus untouched, so it passes Sam's rule. The same surplus could carry at most about €49,000 of borrowing on those terms before nothing was left.
+**Two orders: can Rotaline afford the gap?** Their €66,667 covers two-thirds of the need and leaves a gap of €33,333. Sam rounds the gap up to a €35,000 loan, a small buffer over the exact figure. The bank has confirmed that it will lend any amount up to €100,000 on the same terms and pay it within ten working days of a signed agreement. On those terms €35,000 costs about €1,065 a month and leaves about €435 of the €1,500 surplus untouched, so it passes Sam's rule. The same surplus could carry at most about €49,000 of borrowing on those terms before nothing was left.
 
 **Two orders: executing on time.** Borrowing is the board's decision, not Ines's, so she asks the board to approve the loan at the same 15 January meeting. If it does, Sam signs the loan agreement and Ines countersigns the two orders on 16 January. The customers' €66,667 and the bank's €35,000 are both in the bank by 30 January, and the original release, dates and purchases stand. Because the loan money arrives in January, its first payment falls due at the end of February, two weeks after the build is finished but before the feature goes live on 1 March, and it comes out of the surplus rather than the customers' cash.
 
@@ -135,7 +133,7 @@ In early January each customer signs an order that binds Larkspur only when Lark
 
 **Two orders: approval late, declined or the fit unconfirmed.** If the board has not approved the loan by 23 January, declines it, or Alex cannot confirm the fit, Sam reworks the plan before anything is countersigned. The two customers get a revised order for a smaller first release that their own cash can fund, or for the full feature on a later date.
 
-**One order or none.** One customer's €33,333 leaves a gap of €66,667, and a loan for that amount would cost about €2,030 a month, more than the whole surplus. Larkspur offers that customer a smaller first release its own cash can fund, or waits for the next customer or for a larger **funding round**, a separate occasion on which the company raises investment money.
+**One order or none.** One customer's €33,333 leaves a gap of €66,667, and a loan for that amount would cost about €2,030 a month, more than the whole surplus. Rotaline offers that customer a smaller first release its own cash can fund, or waits for the next customer or for a larger **funding round**, a separate occasion on which the company raises investment money.
 
 **An estimate above twelve engineer-weeks, whatever the signatures.** No order is countersigned until Alex and Sam have planned a release that fits the date, or agreed a later date with the customers.
 
@@ -148,7 +146,7 @@ A **stock exchange** is an organized market where investors buy and sell shares.
 
 A **private company** doesn't have shares traded on a public stock market. Its shareholders might include founders, families, employees or investment funds. It can still have many shareholders, complex ownership arrangements and significant reporting obligations. Private ownership alone tells you little about how patient or involved those shareholders will be.
 
-In either setting, the board of directors oversees the company within its authority, and the executives manage the business. Which decisions each can make depends on the relevant rules and agreements, as Larkspur's articles did above. Part II examines those responsibilities.
+In either setting, the board of directors oversees the company within its authority, and the executives manage the business. Which decisions each can make depends on the relevant rules and agreements, as Rotaline's articles did above. Part II examines those responsibilities.
 
 {id: understand-expectations--investor-labels-are-orientation-not-terms}
 ## Investor Labels Are Orientation, Not Terms
@@ -169,7 +167,7 @@ Whichever label applies, the leadership consequence is a question to investigate
 {id: understand-expectations--carry-the-funding-question-into-the-next-chapter}
 ## Carry the Funding Question Into the Next Chapter
 
-Larkspur's €100,000 was small enough for three people to trace in an afternoon. The next chapter starts from a €100 million investment announcement and asks the same two questions: who actually receives the money, and which body can authorize its use? The chapter [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control) follows those questions through the organizations a larger transaction involves.
+Rotaline's €100,000 was small enough for three people to trace in an afternoon. From the next chapter on, Rotaline appears in larger situations: with outside shareholders, a board and many more customers, funded by investment firms, funds and corporate buyers rather than three customers and a bank. The next chapter starts from a €100 million investment announcement and asks the same two questions: who actually receives the money, and which body can authorize its use? The chapter [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control) follows those questions through the organizations a larger transaction involves.
 
 {id: understand-expectations--questions-to-consider}
 ## Questions to Consider

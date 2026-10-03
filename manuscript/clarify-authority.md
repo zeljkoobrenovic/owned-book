@@ -3,21 +3,21 @@
 
 ![Clarify Authority: Decide Who Decides Before You Disagree — logo](private-techuity/posts/06-clarify-authority/assets/images/06-clarify-authority/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Learn to fill in who proposes, approves, funds and carries out a decision, and plan what happens when the approval does not arrive in time.
+> **IN THIS SECTION, YOU WILL:** Learn to record who proposes, approves, funds and carries out a decision, and to plan for an approval that does not arrive in time.
 
-> **WHY INVESTORS CARE:** An investor that negotiated the right to approve certain company decisions did so precisely so that those decisions would come to it. An adviser’s remark treated as an instruction bypasses that agreed process. An approval never recorded leaves the investor exposed to a plan it did not authorize.
+> **WHY INVESTORS CARE:** An investor negotiates approval rights so that certain decisions come to it. A decision that goes ahead without a recorded approval exposes the investor to a plan it never authorized.
 
-> **WHY YOU SHOULD CARE:** A suggestion from someone close to the investor can start a project nobody approved, and an approval that never arrives can quietly turn into a delivery failure. Clear authority prevents both.
+> **WHY YOU SHOULD CARE:** A suggestion from someone close to the investor can start a project nobody approved. An approval that never arrives can quietly become your delivery failure. Knowing who decides, and by when, prevents both.
 
 > **KEY POINTS:**
 >
 > * Agree **who is authorized to decide** before disagreement arises. A suggestion from someone close to the investor can sound like an instruction.
-> * Fill in the record with **names, thresholds and dates**. “Management recommends, the board approves” tells nobody whom to call on a Tuesday, or by when.
-> * Plan the **missed-deadline branch**. If the approval does not arrive, take the remaining options back to the person authorized to decide and tell the team which funded plan it is executing.
+> * Put **names, thresholds and dates** in the record. “Management recommends, the board approves” tells nobody whom to call, or by when.
+> * Plan the **missed-deadline branch**. If approval does not arrive, take the remaining options to the authorized decision-maker and tell the team which funded plan it is executing.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
-> * **The Ghost Veto** — Records the named approver, authority and deadline behind a decision.
+> * **The Ghost Veto** — Records the approver, authority and deadline behind each decision.
 > * **The Accidental Gatekeeper** — Separates suggestions from authorized instructions and assigns responsibility for the result.
 
 When a company takes on an investor, more people seem to have a say in its decisions. A new board member, an adviser from the investment firm or a lender may each make a request, and it is not always clear which requests are instructions and which are only ideas. If nobody has written down who proposes, approves, funds and carries out a decision, a passing remark can start a project nobody approved. An approval that nobody tracks can arrive too late and quietly turn into a delivery failure.
@@ -31,9 +31,9 @@ This chapter begins Part II by examining what an investment can change about you
 {id: clarify-authority--setting-up-the-example-a-remark-over-coffee}
 ## Setting Up the Example: A Remark Over Coffee
 
-Larkspur, the fictional scheduling-software company this book follows, has a new **shareholder**: an investor that now owns part of the company. The cast is fictional. Ines is Larkspur’s chief executive officer (**CEO**), who runs the company and answers to the board. Alex is its chief technology officer (**CTO**), the executive who leads its technology work. Sam is its chief financial officer (**CFO**), who runs its finances, and Priya is its product leader, who decides what the product should do next. Morgan is the **investor’s technology adviser**, the role this book calls the Technology Principal: employed by the investment firm to assess and advise on technology, not to run the company’s technology. Their titles describe their work, but their actual approval rights must still be agreed.
+Rotaline, the fictional scheduling-software company this book follows, appears here with a new **shareholder**: an investor that now owns part of the company. The onboarding decision below shares its figures and calendar with the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow); the ownership is this chapter's own. The cast is fictional. Ines is Rotaline’s chief executive officer (**CEO**), who runs the company and answers to the board. Alex is its chief technology officer (**CTO**), the executive who leads its technology work. Sam is its chief financial officer (**CFO**), who runs its finances, and Priya is its product leader, who decides what the product should do next. Morgan is the **investor’s technology adviser**, the role this book calls the Technology Principal: employed by the investment firm to assess and advise on technology, not to run the company’s technology. Their titles describe their work, but their actual approval rights must still be agreed.
 
-Morgan mentions over coffee that Larkspur should probably change its cloud provider. Alex hears the remark as an instruction from the new shareholder and starts planning a **migration**: moving Larkspur’s systems to another supplier. Morgan, however, thought they were only offering an idea.
+Morgan mentions over coffee that Rotaline should probably change its cloud provider. Alex hears the remark as an instruction from the new shareholder and starts planning a **migration**: moving Rotaline’s systems to another supplier. Morgan, however, thought they were only offering an idea.
 
 The cloud remark illustrates **the boundary of an adviser’s influence**. A separate onboarding proposal shows the **full approval process**, from a filled-in decision record to what happens when the approval it depends on is late. Later, a rewrite of the scheduling engine, the software that works out customers’ schedules, shows how a board should **challenge a technical choice**. The first step is to establish what the investment has changed.
 
@@ -49,7 +49,7 @@ The cloud remark illustrates **the boundary of an adviser’s influence**. A sep
 | Approval | Which hiring, spending, product or business-deal decisions need approval, from whom and by when? |
 | Accountability | Who is accountable for each result, what resources have been committed and how will progress be assessed? |
 
-Larkspur’s board has authorized Ines to approve spending up to €500,000 inside the **approved plan**, the year’s budget and the work it funds, which the board adopted (a fictional threshold).
+Rotaline’s board has authorized Ines to approve spending up to €500,000 inside the **approved plan**, the year’s budget and the work it funds, which the board adopted (a fictional threshold).
 
 Two kinds of decision stay with the board whatever the amount. The first is any draw on a **reserve**, money the board set aside for needs the plan did not foresee, and any change to what an approved **envelope** funds, an envelope being a fixed sum authorized for a defined bundle of work: Ines spends inside the plan, she doesn’t rewrite it. The second is a permanent hire outside the approved **headcount plan**, the list of positions the budget pays for. These are the delegation rules the rest of this chapter, and the later chapters that draw on a reserve, refer to.
 
@@ -57,16 +57,16 @@ Now the cloud suggestion. No reserved matter covers the choice of cloud provider
 
 An investment doesn’t automatically change every entry. Recording what stayed the same helps when employees are unsure whether earlier authority still applies. If you inherited the ownership arrangement, begin with the decisions ahead rather than assuming you took part in agreeing the original terms.
 
-The investor is a **fund**, a pool of money the investment firm manages for its own backers, and the fund’s **investment committee** is the group inside the firm that approved putting the fund’s money into Larkspur. It does not approve Larkspur’s hiring plan. The company’s board and executives approve company work. Operating professionals from the investment firm, people it employs to help the companies it owns improve how they run, contribute expertise. **Lenders**, who advanced money that must be repaid, can hold contractual rights that constrain all of them; a loan agreement may, for example, forbid new borrowing without the lender’s consent.
+The investor is a **fund**, a pool of money the investment firm manages for its own backers, and the fund’s **investment committee** is the group inside the firm that approved putting the fund’s money into Rotaline. It does not approve Rotaline’s hiring plan. The company’s board and executives approve company work. Operating professionals from the investment firm, people it employs to help the companies it owns improve how they run, contribute expertise. **Lenders**, who advanced money that must be repaid, can hold contractual rights that constrain all of them; a loan agreement may, for example, forbid new borrowing without the lender’s consent.
 
 The survey of **private equity** (**PE**) investors, firms that buy ownership stakes in companies outside the public stock markets, by Gompers and colleagues documents attention to governance, financing and value creation, that is, making the business worth more; it doesn’t establish a uniform organization chart. [S04: PE practitioner survey](https://www.nber.org/papers/w21133) KKR, a large investment firm, publicly describes Capstone, its in-house operating-support team, as working alongside its investment teams, company boards and company management: a stated delivery model, not proof that every intervention succeeds. [S22: KKR Capstone description](https://www.kkr.com/approach/capstone)
 
 {id: clarify-authority--write-down-who-decides-what}
 ## Write Down Who Decides What
 
-Priya and Alex want to spend €1 million automating **onboarding**, the setup needed before a new customer can use the product; today Larkspur’s implementation team configures the product for each customer by hand. A customer’s **configuration** is the set of product settings that fit that customer, and the team chooses those settings one customer at a time. Their decision record:
+Priya and Alex want to spend €1 million automating **onboarding**, the setup needed before a new customer can use the product; today Rotaline’s implementation team configures the product for each customer by hand. A customer’s **configuration** is the set of product settings that fit that customer, and the team chooses those settings one customer at a time. Their decision record:
 
-| | Larkspur’s answer |
+| | Rotaline’s answer |
 | --- | --- |
 | Decision | Spend €1 million automating customer onboarding within the year |
 | Who recommends | Priya, the product leader, with Alex, the CTO |
@@ -86,7 +86,7 @@ This is the €1 million program discussed in the chapter [Understand Cash Flow:
 
 **Figure 1:** *One responsibility per stage. The product and technology leaders propose. The chief executive approves delegated decisions: those inside the approved plan and within her limit. The board approves reserved matters, such as a reserve draw or a hire outside the headcount plan, and anything larger. The finance leader confirms the cash and its dates. The team delivers. Advice enters the proposal, not the approval.*
 
-Read as roles rather than names, the same record generalizes into a lookup table. The last column names the approval to verify, not the answer; where a row quotes Larkspur’s rule, that is one company’s arrangement. Adapt the table to actual company documents; it doesn’t assert that an investor’s adviser holds any of these rights.
+Read as roles rather than names, the same record generalizes into a lookup table. The last column names the approval to verify, not the answer; where a row quotes Rotaline’s rule, that is one company’s arrangement. Adapt the table to actual company documents; it doesn’t assert that an investor’s adviser holds any of these rights.
 
 | Decision | Company contribution | Investor adviser’s possible contribution | Approval to verify |
 | --- | --- | --- | --- |
@@ -94,25 +94,25 @@ Read as roles rather than names, the same record generalizes into a lookup table
 | Material technology investment (one large enough to change the plan) | Management prepares options and the financial case: costs, benefits and risks in money terms | Test technical feasibility and delivery dependencies, the work that must be finished first | Board, shareholder or lender approvals where the agreements require them |
 | CTO appointment | CEO defines the need, runs the process and recommends | Help assess candidates and context | The actual appointment authority in the agreements |
 | Executive appointment (a chief product officer, a head of engineering) | CEO writes the role design, runs the selection and recommends the appointment | Introduce candidates and help assess them against the company’s design | The appointment authority, plus any reserved matter over executive officers’ hiring, dismissal or pay |
-| Change to the headcount plan (hires beyond it, a freeze) | Management shows what each role delivers and what a conditional role waits for | Compare the hire with similar companies and challenge its shape | Whoever holds the headcount authority: at Larkspur, the board for hires outside the approved plan and the CEO within it |
+| Change to the headcount plan (hires beyond it, a freeze) | Management shows what each role delivers and what a conditional role waits for | Compare the hire with similar companies and challenge its shape | Whoever holds the headcount authority: at Rotaline, the board for hires outside the approved plan and the CEO within it |
 | Staffing reduction or restructuring | Management costs the alternatives, names the work that stops and the cash by date | Comparisons from other companies, which are information rather than instruction | The board for a change to what the plan funds, any reserved matter over the **operating plan** (the year’s work and the people and money assigned to it), and employment law where the people are employed |
 | Acquisition integration (combining a bought company’s operations with the buyer’s) | Executives are accountable for the integration plan | Assess sequencing, capacity and reusable support | The approvals for the purchase itself, then the company’s ordinary operating governance |
 
 {id: clarify-authority--several-investors-do-not-make-one-decision-maker}
 ## Several Investors Do Not Make One Decision-Maker
 
-In a fictional **minority round**, a sale of new shares in which the new investors together buy less than half the company, Larkspur’s founder keeps most of the **voting shares**, the shares that carry votes at shareholder meetings. One new investor receives a seat on the board; another receives a separately negotiated right to approve specified decisions. Alex is asked for three versions of the hiring plan. The right response is to establish which **forum**, the meeting or body authorized to settle the choice, can approve the company’s plan and bring the alternatives there. Adding all the requests to the **roadmap**, the plan of what the product team will build next, would turn unresolved shareholder disagreement into the team’s delivery problem.
+In a fictional **minority round**, a sale of new shares in which the new investors together buy less than half the company, Rotaline’s founder keeps most of the **voting shares**, the shares that carry votes at shareholder meetings. One new investor receives a seat on the board; another receives a separately negotiated right to approve specified decisions. Alex is asked for three versions of the hiring plan. The right response is to establish which **forum**, the meeting or body authorized to settle the choice, can approve the company’s plan and bring the alternatives there. Adding all the requests to the **roadmap**, the plan of what the product team will build next, would turn unresolved shareholder disagreement into the team’s delivery problem.
 
 The National Venture Capital Association (NVCA), the industry body for investors in young companies, publishes separate model documents for share purchases, investor rights and voting arrangements. Its overview also describes funding released in stages, over time or when milestones are reached. This supports looking beyond an ownership percentage: rights are written into agreements, not read off a shareholding. It doesn’t establish the terms of any particular company’s agreement. [S61: NVCA model-document overview](https://nvca.org/model-legal-documents/)
 
-With a **controlling financial sponsor**, an investment firm that owns enough of the company to control it, ask which decisions remain delegated to management and which require its approval. With a **corporate parent**, an operating company that owns this one, map the local board and executives alongside the parent’s product, security, finance and procurement functions. A company that has merely bought a minority stake in Larkspur doesn’t by itself bring that group hierarchy with it.
+With a **controlling financial sponsor**, an investment firm that owns enough of the company to control it, ask which decisions remain delegated to management and which require its approval. With a **corporate parent**, an operating company that owns this one, map the local board and executives alongside the parent’s product, security, finance and procurement functions. A company that has merely bought a minority stake in Rotaline doesn’t by itself bring that group hierarchy with it.
 
 **Record the source of each relevant authority**, the decision threshold and the response time in language the team can use. When shareholders disagree, the board or another authorized body must resolve the choice; what that body is, and what happens in a **deadlock**, when the required agreement cannot be reached, depends on the actual agreements. The product and engineering leader supplies the options, evidence and consequences. Shareholder disagreement can’t be resolved by silently promising incompatible work.
 
 {id: clarify-authority--connect-technical-choices-to-the-business-outcome}
 ## Connect Technical Choices to the Business Outcome
 
-In a separate illustration, Alex proposes rewriting Larkspur’s scheduling engine because it is hard to change. The board asks how that supports growth. Alex answers that the current **stack**, the set of technologies the engine is built on, is dated. The exchange produces heat but little information.
+In a separate illustration, Alex proposes rewriting Rotaline’s scheduling engine because it is hard to change. The board asks how that supports growth. Alex answers that the current **stack**, the set of technologies the engine is built on, is dated. The exchange produces heat but little information.
 
 A better challenge asks for the constrained business outcome: which customer need can’t be served, how often the constraint bites and what it costs. Alex can then compare a focused change, a staged replacement and the full rewrite. Sam can compare their **cash profiles**, how much cash each option needs and when, with the €0.5 million remaining in the annual planning example (see the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow)). The board can decide whether to fund an option and accept its risks. It hasn’t become an architecture committee, a body that designs the system; it has required the connection between an investment and the business plan to be made explicit.
 
@@ -153,7 +153,7 @@ The €1 million record above went to the board in the same budget round. The bo
 
 If the board approves the hires but the two have not started by the end of June, January stays the communicated date. A later start does not restore October by itself, because the October estimate assumed June starts. Once the actual start dates are known, Alex revises the delivery estimate from them, and Ines approves any replacement commitment before it is communicated; she also decides the same three questions about customer promises. If the board refuses the hires, January is the plan and the hiring question waits for the next budget round. If the specialist’s written record is incomplete on 31 March and the extension is not exercised, or the specialist is not available, the customer types that cannot be specified without that knowledge stay on manual setup and their templates go to the next budget round; the January date stands for the rest. The October date depended on the hires, not on the specialist.
 
-| Field | Larkspur’s answer |
+| Field | Rotaline’s answer |
 | --- | --- |
 | Scope | Complete the first stage of onboarding automation: templates for the less-common customer types, and every new customer set up with the step |
 | Chosen option | January of the following year with the current team; October if the board approves the two implementation hires at its May meeting and both start in June |
@@ -205,7 +205,7 @@ Direct access to engineers can help during **due diligence**, the investigation 
 
 A leader should be able to say: “We can deliver the cost target, but not the current roadmap with it. Here are the choices.” An investor’s adviser should be able to say: “The evidence no longer supports the original **investment thesis**,” the reasoning for why the investment was expected to succeed. A board should be able to decide against a recommendation while recording what it is accepting.
 
-Authority explains who can decide. It does not explain why the approver wants what they want. The next chapter reads the incentives behind the decision, what the executives’ shares (their **management equity**, the part of the company they own), the fund manager’s **carried interest** or **fund carry** (its contractual share of the fund’s investment profits) and the employees’ jobs each stand to gain or lose: [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes).
+Authority explains who can decide. It does not explain why the approver wants what they want. The next chapter, [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes), reads the incentives behind a decision: what the executives, the fund manager and the employees each stand to gain or lose.
 
 {id: clarify-authority--questions-to-consider}
 ## Questions to Consider

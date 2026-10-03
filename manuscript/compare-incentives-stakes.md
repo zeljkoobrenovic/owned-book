@@ -3,23 +3,23 @@
 
 ![Compare Incentives and Stakes: Equity, Carry and Jobs — logo](private-techuity/posts/07-compare-incentives-stakes/assets/images/07-compare-incentives-stakes/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Learn how three things called “a stake in the company” differ: management equity (the shares and share-linked awards held by a company’s leaders), fund carry (the fund manager’s share of the fund’s profits) and an employee’s job. You will also learn how to pair a target with the measure it could damage.
+> **IN THIS SECTION, YOU WILL:** Learn how three kinds of “stake in the company” differ: **management equity** (shares and share-linked awards held by a company’s leaders), **fund carry** (the fund manager’s share of the fund’s profits) and an **employee’s job**. Also learn to pair a target with the measure it could damage.
 
-> **WHY INVESTORS CARE:** Investors give company leaders shares so that the leaders gain when the company’s value grows. A fund’s own investors give the fund’s manager a share of the fund’s profits, called carried interest or carry, for the same reason. If a payout rule rewards a damaging choice, the investor pays for it twice: once in the outcome and again in the cost of the incentive.
+> **WHY INVESTORS CARE:** Investors give **company leaders** shares so the leaders gain when the company’s value grows. A fund’s investors give its **manager** a share of the profits, called carried interest or carry, for the same reason. If a payout rule rewards a choice that reduces the investor’s return, the investor pays twice: once in the lost return and again in the payout.
 
-> **WHY YOU SHOULD CARE:** “We are all shareholders now” hides the fact that executives, the fund, employees and customers can gain and lose different things from the same decision. Incentives you misread will steer choices you did not intend.
+> **WHY YOU SHOULD CARE:** “We are all shareholders now” hides that executives, the fund, employees and customers can gain and lose different things from the same decision. Incentives you misread will steer choices in ways you did not intend.
 
 > **KEY POINTS:**
 >
-> * Shared ownership **does not create identical interests**. Executives, the fund, employees and customers can gain or lose different things, hold different rights and plan for different time frames. A single proposal to close a support location makes the four bets visible.
-> * A **share percentage is only the beginning**. What an award can pay depends on who is paid first, when the rights are earned, how many new shares are issued later and what happens if the holder leaves. The rules that divide a company’s sale money are also separate from the rules that divide a fund’s profits.
+> * Shared ownership **does not create identical interests**. Executives, the fund, employees and customers can gain or lose different things, hold different rights and plan on different time frames. One proposal to close a support location makes all four bets visible.
+> * A **share percentage is only the beginning**. What an award pays depends on who is paid first, when the rights are earned, how many new shares are issued later and what happens if the holder leaves. The rules that divide a company’s sale money are separate from those that divide a fund’s profits.
 > * Pair a target with **the measure it could damage**, and change the payout rule if it still rewards the damaging choice. Measurement alone cannot correct an incentive.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Nodding Room** — Shows what executives, investors, employees and customers each gain or risk from one proposal.
-> * **Squeezing the Balloon** — Pairs a target with the harm it could reward and asks who carries the resulting burden.
-> * **The Exit Halo** — Keeps the fund’s payout, an executive’s shares and an employee’s job as distinct outcomes.
+> * **Squeezing the Balloon** — Pairs a target with the harm it could reward and asks who bears the burden.
+> * **The Exit Halo** — Keeps the fund’s payout, an executive’s shares and an employee’s job distinct.
 
 “We are all shareholders now” can describe a useful common interest. It can also conceal **very different risks, rights and time frames**.
 
@@ -101,24 +101,24 @@ Suppose a company rewards executives solely for this year’s adjusted EBITDA. *
 
 Now suppose a product transition will reduce earnings this year and protect a major customer segment next year. The incentive **encourages delay** even if delay reduces the business’s long-term value.
 
-Adding a revenue target isn’t enough, because **growth can be bought**. Here is one worked incentive choice, fictional, for Larkspur, the software company used in this book’s examples. The executive bonus pays on 25% annual revenue growth. Three kinds of sale would hit that target while damaging the company: heavy discounts, promises of setup work that costs more than the customer pays, and contracts whose **onboarding**, getting a new customer set up and using the product, costs more than the first year’s fees. So the rule **pairs the target with what it could damage**. Each paired limit is a **guardrail**: a condition intended to reveal or prevent a harmful side effect.
+Adding a revenue target isn’t enough, because **growth can be bought**. Here is one worked incentive choice, fictional, for Rotaline, the software company used in this book’s examples. The executive bonus pays on 25% annual revenue growth. Three kinds of sale would hit that target while damaging the company: heavy discounts, promises of setup work that costs more than the customer pays, and contracts whose **onboarding**, getting a new customer set up and using the product, costs more than the first year’s fees. So the rule **pairs the target with what it could damage**. Each paired limit is a **guardrail**: a condition intended to reveal or prevent a harmful side effect.
 
 - **The target as counted.** Revenue growth counts only on contracts whose first-year **contribution** is positive. Contribution is the contract’s first-year revenue less the specified costs of serving that customer, including the setup work.
 - **First guardrail: existing customers keep paying.** **Gross revenue retention**, defined below, stays at or above 90%.
 - **Second guardrail: new customers are not left waiting.** The time between signing a contract and starting to use the product stays within the agreed onboarding target.
-- **Who reviews.** Sam, Larkspur’s finance leader, prepares the growth, retention and waiting-time figures each quarter, using the definitions used in board reporting. Ines, the chief executive, and the board committee that sets executive pay review them. Priya, who leads product, is accountable for the waiting-time measure.
+- **Who reviews.** Sam, Rotaline’s finance leader, prepares the growth, retention and waiting-time figures each quarter, using the definitions used in board reporting. Ines, the chief executive, and the board committee that sets executive pay review them. Priya, who leads product, is accountable for the waiting-time measure.
 - **What changes when a guardrail fails.** The growth component of the bonus is withheld for that quarter and re-examined at year end.
 
-**How the retention measure works.** Take the customers who were paying twelve months ago. Gross revenue retention is what those same customers pay this year, after their departures and reductions but before any additional sales to them, divided by what they paid a year ago. New customers are excluded, and the ratio cannot exceed 100%. **Net revenue retention** is the same ratio with the additional sales to those customers included. Larkspur reports it beside the gross figure but does not use it as the guardrail, because extra purchases by some customers can hide the loss of others.
+**How the retention measure works.** Take the customers who were paying twelve months ago. Gross revenue retention is what those same customers pay this year, after their departures and reductions but before any additional sales to them, divided by what they paid a year ago. New customers are excluded, and the ratio cannot exceed 100%. **Net revenue retention** is the same ratio with the additional sales to those customers included. Rotaline reports it beside the gross figure but does not use it as the guardrail, because extra purchases by some customers can hide the loss of others.
 
 Last year’s customers paid €10 million. Since then they have cut €1.2 million through departures and reductions and added €1.5 million of new purchases. Gross retention is (10 − 1.2) ÷ 10 = 88%. Net retention is (10 − 1.2 + 1.5) ÷ 10 = 103%. The net figure passes 90%, the gross figure fails, and **the gross figure describes the harm**.
 
 Both measures are defined before the plan year starts, and each quarter Sam measures them on the customers who were paying in the same quarter a year earlier. **Recording the definition matters** because public software companies define these ratios in their own ways. [S75: Fastly’s fourth-quarter 2020 shareholder letter](https://www.sec.gov/Archives/edgar/data/1517413/000151741321000007/ex991-shareholderletter123.htm), for example, reports a net expansion rate that counts only customers who are still customers at the period end, beside a net retention rate that includes those who left.
 
-**Sales commission needs the same correction.** The executive bonus is not the only payout a discounted contract triggers: the salesperson’s commission, the pay earned for making the sale, is another. From the start of the plan year, Larkspur’s commission plan has three cases:
+**Sales commission needs the same correction.** The executive bonus is not the only payout a discounted contract triggers: the salesperson’s commission, the pay earned for making the sale, is another. From the start of the plan year, Rotaline’s commission plan has three cases:
 
 - **A contract with positive first-year contribution** pays its commission in full at signature.
-- **A contract with negative first-year contribution** needs Sam’s approval before it is signed. The approval records why the loss is worth taking, for example a first customer in a market Larkspur wants to enter. Half the commission is paid at signature. The other half is paid at first renewal, when the customer continues the contract after its first term, and only if the renewed contract’s contribution is positive.
+- **A contract with negative first-year contribution** needs Sam’s approval before it is signed. The approval records why the loss is worth taking, for example a first customer in a market Rotaline wants to enter. Half the commission is paid at signature. The other half is paid at first renewal, when the customer continues the contract after its first term, and only if the renewed contract’s contribution is positive.
 - **A loss-making contract signed without that approval** earns no commission.
 
 On a contract carrying €10,000 of commission, a profitable sale pays €10,000 at signature. An approved loss-making sale that does not renew pays €5,000 in all. An approved loss-making sale that renews but still loses money also pays €5,000: **renewal alone does not show** that the contract has stopped destroying value. The first half is an intentional exception, because the company itself approved the sale; the second half waits for the result the approval was betting on. Approved or not, a loss-making contract never counts toward the executives’ growth target. The rule is written into the commission plan before the year begins; it is not applied afterwards to contracts already sold.
@@ -136,16 +136,16 @@ A compensation plan must also distinguish outcomes people can influence from **c
 
 The payout rules above **only matter once a decision sets them against each other**. The scenario that follows is fictional and has its own assumptions.
 
-Last year Larkspur bought a smaller scheduling product, which it now sells as an add-on to its main product. The purchase came with a second support location of fourteen people and thirty customers who use the add-on. All thirty contracts come up for renewal in the next six months.
+Last year Rotaline bought a smaller scheduling product, which it now sells as an add-on to its main product. The purchase came with a second support location of fourteen people and thirty customers who use the add-on. All thirty contracts come up for renewal in the next six months.
 
-The board, encouraged by the investor, proposes a **consolidation**: closing the second location within nine months and moving its support work to the main team. Once the location is closed, the saving is about €600,000 a year in payroll (staff pay) and premises (the rent and running costs of the office). Eleven of the fourteen would lose their jobs, with one-off **severance**, a payment made when employment ends, of about €350,000. The three specialists who best know the add-on customers’ configurations, the settings that fit the product to each customer, would be offered jobs on the main team. In this scenario the fund holds 70% of Larkspur’s ordinary shares.
+The board, encouraged by the investor, proposes a **consolidation**: closing the second location within nine months and moving its support work to the main team. Once the location is closed, the saving is about €600,000 a year in payroll (staff pay) and premises (the rent and running costs of the office). Eleven of the fourteen would lose their jobs, with one-off **severance**, a payment made when employment ends, of about €350,000. The three specialists who best know the add-on customers’ configurations, the settings that fit the product to each customer, would be offered jobs on the main team. In this scenario the fund holds 70% of Rotaline’s ordinary shares.
 
 A buyer’s price for a company is often estimated as a multiple of its yearly earnings, here the adjusted EBITDA described above. At a ten-times **earnings multiple**, each €1 of lasting yearly earnings adds about €10 to the price. That price is for the whole business, its **enterprise value**. What shareholders receive, the **equity value**, is the enterprise value minus the company’s debt plus its cash. If debt and cash do not change, €6 million more enterprise value is €6 million more for shareholders. The chapter [Understand Valuation: An Estimate, Not a Fact](#understand-valuation) explains why every step of that is an estimate.
 
 | Bet | What the closure offers | What it puts at risk | Clock |
 | --- | --- | --- | --- |
 | Executives’ management equity | About €300,000 more at a sale for the executive on the 5% plan, if the saving lasts | The saving disappearing in lost renewals, and the executive’s own position if the plan fails | The exit, two to four years away |
-| The fund’s stake and its manager’s carry | About €4 million more for the fund at a sale; for its manager, a share of that, and only once the fund has paid its investors everything its agreement puts first | The money the fund has put into Larkspur: if lost renewals cost more than the closure saves, the stake is worth less than before the decision, and the manager’s possible carry falls with it | The fund’s exit window: the saving has to show in reported earnings for a period before a sale process starts |
+| The fund’s stake and its manager’s carry | About €4 million more for the fund at a sale; for its manager, a share of that, and only once the fund has paid its investors everything its agreement puts first | The money the fund has put into Rotaline: if lost renewals cost more than the closure saves, the stake is worth less than before the decision, and the manager’s possible carry falls with it | The fund’s exit window: the saving has to show in reported earnings for a period before a sale process starts |
 | Employees at the second location | Nothing for the eleven who leave; a job on the main team for three | Their jobs; for those who move, a heavier load and a product to learn | Told now; under the proposal, employment ends at month nine |
 | Add-on customers | A larger support team, eventually | The people who know their configurations leaving early, or being busy handing work over, in the months when their renewals fall | The renewal dates in the next six months, not the exit |
 
@@ -154,11 +154,11 @@ A buyer’s price for a company is often estimated as a multiple of its yearly e
 1. €600,000 of yearly saving × 10 = €6 million more company value at a sale. With debt and cash unchanged, that is €6 million more equity value.
 2. The executive plan from the earlier example pays 5% above its €100 million threshold. With the threshold already passed, 5% × €6 million = €300,000.
 3. The fund holds 70% of what is left: 70% × (€6 million − €300,000) = €3.99 million, about €4 million.
-4. The fund manager’s carry comes out of the fund’s €4 million. It is not an extra payment by Larkspur. This step needs one more assumption, about the fund’s agreement and not about Larkspur: every payment the agreement puts ahead of the manager has already been made, so each further euro of profit is split 80% to the fund’s investors and 20% to the manager. On that assumption, 20% × €3.99 million = €798,000, about €800,000, would go to the manager and about €3.2 million to the fund’s investors.
+4. The fund manager’s carry comes out of the fund’s €4 million. It is not an extra payment by Rotaline. This step needs one more assumption, about the fund’s agreement and not about Rotaline: every payment the agreement puts ahead of the manager has already been made, so each further euro of profit is split 80% to the fund’s investors and 20% to the manager. On that assumption, 20% × €3.99 million = €798,000, about €800,000, would go to the manager and about €3.2 million to the fund’s investors.
 
 A 20% carry rate does not by itself mean 20% of the next €4 million. A fund agreement usually requires that investors first get back the money they put in, plus any **preferred return**. That is a minimum return investors must receive before the manager shares in profits; it is a threshold, not a guarantee. A fund can be in profit and still be short of that point, and until it gets there the manager receives no carry from this money. Just past it, some agreements give the manager more than 20% of the next payments for a while, called a **catch-up**, until the manager holds its agreed share of all the profit paid so far. [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) works those stages through.
 
-The fund’s other holdings spread its risk across several companies; they **do not make a loss on Larkspur smaller**.
+The fund’s other holdings spread its risk across several companies; they **do not make a loss on Rotaline smaller**.
 
 The €6 million is **additional company value, not anyone’s payout**. It assumes a multiple nobody controls, unchanged debt and cash, and a saving that has survived the renewals. The executives and the fund are betting on a sale price, with different money at risk and different rules for what reaches them. The employees are betting their next job. The customers are betting that the people who understand their setup are still there at renewal.
 
@@ -171,7 +171,7 @@ Nobody’s employment ends before month nine, so the danger is not an empty offi
 - **The handover lands on the renewals.** Moving the add-on work to the main team takes about six months. To close at month nine it must start by month three, so the people answering renewing customers are also the people handing their work over.
 - **Customers renew without an answer.** They are asked to sign for another term while hearing that their support team is closing, and nobody can yet name who will know their setup afterwards.
 
-Ines, Larkspur’s chief executive, **does not take the proposal as it stands**. She recommends a staged closure over twelve months, and the board approves it. In this scenario formal notice of dismissal takes two months, and so does giving up a floor of the office. Being told about the plan is not formal notice: everyone is told at the announcement, and notice follows later.
+Ines, Rotaline’s chief executive, **does not take the proposal as it stands**. She recommends a staged closure over twelve months, and the board approves it. In this scenario formal notice of dismissal takes two months, and so does giving up a floor of the office. Being told about the plan is not formal notice: everyone is told at the announcement, and notice follows later.
 
 | Month | Nine-month closure (rejected) | Staged closure (chosen) |
 | --- | --- | --- |
@@ -226,7 +226,7 @@ That three-month delay keeps the fund waiting. A sale process wants the full sav
 {id: compare-incentives-stakes--who-carries-the-unresolved-burden}
 ## Who Carries the Unresolved Burden
 
-Eleven people lose their jobs. In this plan Larkspur commits to severance and a reference for each of them. What the law or their contracts require depends on the country and the contract, and the plan’s commitments may go beyond it. Neither the payment nor the reference **makes up for an interrupted career**. No company measure offsets that cost, and the sale price that rewards the executives and the fund does not reach them.
+Eleven people lose their jobs. In this plan Rotaline commits to severance and a reference for each of them. What the law or their contracts require depends on the country and the contract, and the plan’s commitments may go beyond it. Neither the payment nor the reference **makes up for an interrupted career**. No company measure offsets that cost, and the sale price that rewards the executives and the fund does not reach them.
 
 The add-on customers’ risk is **reduced by staging, not removed**. A decision record should say so, with the expected distribution of benefits and burdens, rather than claim that a higher company value makes everyone better off. What the eleven are owed in notice and severance, what work stops in the second location and what the merged team is and is not expected to absorb are operating decisions with their own dates; the chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down) works a reduction through them.
 

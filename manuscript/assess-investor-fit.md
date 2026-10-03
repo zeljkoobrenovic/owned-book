@@ -3,22 +3,24 @@
 
 ![Assess Investor Fit: Behavior Under Pressure — logo](private-techuity/posts/08-assess-investor-fit/assets/images/08-assess-investor-fit/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Learn to judge an investor by evidence of how it behaved when a company fell short of its plan, compare two offers on that evidence, and change one dependency when the investor is already in place.
+> **IN THIS SECTION, YOU WILL:** Learn to judge an investor by how it behaved when a company **fell short of plan**, and compare two investment offers on that evidence.
 
-> **WHY INVESTORS CARE:** An investor that commits in writing to the conditions for providing more money later gives up the freedom to refuse when the time comes. Not every investor can or will do this. One that does is bound only by what the contract says: the conditions must be met, and the company must still make a valid request. One that will not write its conditions down keeps the choice, and the company should plan as if that money is not there.
+> **WHY INVESTORS CARE:** An investor may promise more money later. If the **contract** states the **conditions**, the investor must pay when the company meets them. That is why some investors will not put them in the contract. If the promise is not in the contract, the investor can **say no**.
 
-> **WHY YOU SHOULD CARE:** A plan built on an investor’s promised patience or support fails when the promise does. Past decisions help test promises of support. Current terms and available resources determine which promises your plan can rely on.
+> **WHY YOU SHOULD CARE:** If your plan counts on an investor’s promise of patience or help and the investor breaks it, the **plan fails**. So before you count on one, you should know three things: whether the investor has kept promises like this before, whether this one is in the contract, and whether the investor has the money and people to keep it.
 
 > **KEY POINTS:**
 >
 > * Assess **behavior under pressure**. Concrete decisions, and conversations with people who worked with the investor when things went badly, reveal more than promises of patience, expertise or partnership. The evidence changes which uncertainty you choose to carry.
-> * Match support to the **company’s next decisions**. Establish the people, time, cost and authority behind an offer before a plan depends on it, and label what remains unconfirmed.
+> * Match support to the **company’s next decisions**. Establish the people, time, cost and authority behind an offer before a plan depends on it, and label what is unconfirmed.
 > * **If the investor is already in place**, use the assessment to change one dependency: the funding date, the approval route or the support commitment. Reassess as the business changes.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Nodding Room** — Tests promises of patience and partnership against past decisions and specific support commitments.
-> * **Spending the Press Release** — Checks the conditions and timing of further funding before a company plan relies on it.
+> * **Spending the Press Release** — Checks the conditions and timing of further funding before a plan relies on it.
+
+The previous two chapters described who decides and what each party stands to gain. Both are arrangements on paper; how an investor behaves when a plan misses shows whether they hold.
 
 When a company raises money, investors usually promise more than money: patience while results arrive, and practical support along the way. Such promises are easy to make while a plan is on track. They are tested when the company falls short of it, and that is when the company learns whether its plan can rely on them. What a leader needs to judge beforehand is **investor fit**: how well an investor’s terms, resources and behavior match what the company needs.
 
@@ -26,12 +28,12 @@ Most product and engineering leaders are not asked to sign an investor’s terms
 
 The purpose is not to find a universally good investor. It is to determine whether a particular partnership can support what the company must do next. The same firm can be a strong fit for one situation and a poor fit for another.
 
-{id: assess-investor-fit--setting-up-the-example-two-term-sheets-for-larkspur}
-## Setting Up the Example: Two Term Sheets for Larkspur
+{id: assess-investor-fit--setting-up-the-example-two-term-sheets-for-rotaline}
+## Setting Up the Example: Two Term Sheets for Rotaline
 
-Ines, the chief executive officer (CEO) of Larkspur, the fictional software company this book follows, has two **term sheets** on her desk. A term sheet sets out the terms on which an investor proposes to put money into a company in exchange for shares (units of ownership). Both investors promise two things: patient ownership, meaning time for results to arrive, and practical support. To compare them, Ines needs examples of how those promises held up when a company missed its plan: when sales came later than forecast, or a product shipped late. She is judging investor fit.
+Ines, the chief executive officer (CEO) of Rotaline, the fictional software company this book follows, has two **term sheets** on her desk. A term sheet sets out the terms on which an investor proposes to put money into a company in exchange for shares (units of ownership). Both investors promise two things: patient ownership, meaning time for results to arrive, and practical support. To compare them, Ines needs examples of how those promises held up when a company missed its plan: when sales came later than forecast, or a product shipped late. She is judging investor fit. In this chapter's scenario, Rotaline is raising a new round while one of its founders prepares to retire; the ownership and figures are this chapter's own.
 
-Ines uses the assessment before the deal, to compare her two term sheets. Later, in a separate round where the investor is already in place, Alex, the chief technology officer (CTO), uses it to change one dependency in Larkspur’s operating plan once the evidence is in.
+Ines uses the assessment before the deal, to compare her two term sheets. Later, in a separate round where the investor is already in place, Alex, the chief technology officer (CTO), uses it to change one dependency in Rotaline’s operating plan once the evidence is in.
 
 {id: assess-investor-fit--investors-funds-committees-and-boards}
 ## Investors, Funds, Committees, and Boards
@@ -45,9 +47,9 @@ On the company’s side, the **shareholders** own the shares, and the **board** 
 
 Before assessing an investor’s capabilities, write a short account of the **company’s next difficult decisions** and what the investor would need to contribute to each: money, expertise, customer access, hiring support, patience, or workable governance (the rules about who may decide, approve or block a company action). Recording this keeps “operating support” (practical help with running or improving the company) from remaining an **attractive but undefined phrase**.
 
-Larkspur’s first decision concerns **onboarding**: getting a new customer set up to use its software. Setting up one customer is an *implementation*, and today it takes about 80 hours of Larkspur’s staff time. A **pilot** is a small trial; here, it would automate part of that setup for a small group of customers and measure whether the hours fall. The table shows the three decisions Larkspur faces and what each needs from an investor.
+Rotaline’s first decision concerns **onboarding**: getting a new customer set up to use its software. Setting up one customer is an *implementation*, and today it takes about 80 hours of Rotaline’s staff time. A **pilot** is a small trial; here, it would automate part of that setup for a small group of customers and measure whether the hours fall. The table shows the three decisions Rotaline faces and what each needs from an investor.
 
-| Next decision | What Larkspur needs from the investor |
+| Next decision | What Rotaline needs from the investor |
 | --- | --- |
 | Automate onboarding, starting with a pilot | Someone who has seen onboarding automated before; patience through a pilot that may show the assumptions were wrong |
 | Enter a second country | A follow-on in about a year, on conditions known today; hiring support in the new market |
@@ -82,7 +84,7 @@ A single difficult story isn’t a verdict. **Look for repeated mechanisms** and
 {id: assess-investor-fit--make-the-support-offer-reviewable}
 ## Make the Support Offer Reviewable
 
-Suppose an investor promises help with **artificial intelligence (AI)**, software that performs tasks such as drafting text or recognizing patterns, and with building engineering teams in other countries. For Larkspur, AI help might mean software that drafts replies to customers’ support questions.
+Suppose an investor promises help with **artificial intelligence (AI)**, software that performs tasks such as drafting text or recognizing patterns, and with building engineering teams in other countries. For Rotaline, AI help might mean software that drafts replies to customers’ support questions.
 
 Ask what the first *engagement*, a defined piece of outside help, would involve. Who is available, and for how many days? What relevant work is behind them? Who pays for specialists and implementation? Who may decide, and what would stop the engagement? One experienced *operator*, someone who has run this kind of business or function, with a trusted specialist network can be more useful than an extensive catalogue without available capacity.
 
@@ -110,31 +112,31 @@ The chapter [Understand Investor Returns: Same Performance, Different Outcomes](
 {id: assess-investor-fit--compare-both-investors-against-the-same-needs}
 ## Compare Both Investors Against the Same Needs
 
-This is a fictional scenario with its own assumptions: its amounts belong to this chapter alone, not to the shared Larkspur example that Part III onward uses. The onboarding pilot is the pilot those chapters measure.
+This is a fictional scenario with its own assumptions: its amounts belong to this chapter alone, not to the shared Rotaline example that Part III onward uses. The onboarding pilot is the pilot those chapters measure.
 
-Both investors would buy newly issued shares, so neither offer is a loan to repay. Each is for a *minority stake*, less than half the company, in the same *round*, a single fundraising event. Investor A is a larger firm offering €5 million at the higher *valuation*, with a broad support platform. The valuation is the value put on the whole company to set the share price; a higher one means Larkspur sells a smaller part of itself for the same money. Investor B is a smaller firm offering €4.5 million at a lower valuation, one experienced operator, money set aside in its fund for follow-ons, and a willingness to turn some of that money into a contractual commitment. Ines puts both through the same three needs.
+Both investors would buy newly issued shares, so neither offer is a loan to repay. Each is for a *minority stake*, less than half the company, in the same *round*, a single fundraising event. Investor A is a larger firm offering €5 million at the higher *valuation*, with a broad support platform. The valuation is the value put on the whole company to set the share price; a higher one means Rotaline sells a smaller part of itself for the same money. Investor B is a smaller firm offering €4.5 million at a lower valuation, one experienced operator, money set aside in its fund for follow-ons, and a willingness to turn some of that money into a contractual commitment. Ines puts both through the same three needs.
 
 | Aspect | Investor A | Investor B |
 | --- | --- | --- |
-| Evidence obtained | Three references, all current CEOs supplied by the firm, all positive. One former chief financial officer (CFO) reached independently: when her company missed its plan, the request for a follow-on went to the firm’s investment committee and took four months; the promised AI team turned out to be a two-day workshop. Asked what would happen if Larkspur declined a proposed service, A described an internal process. | Two references, one a CEO whose plan slipped by a year: B provided a €600,000 *bridge*, short-term money to cover the gap until the plan recovered, within six weeks and, in the same quarter, replaced that company’s CFO. B’s operator, formerly head of operations at a scheduling-software company, has run two onboarding automations and can give ten days a quarter. Asked the same question, B named the operator, who would stop. |
-| Remaining uncertainty | The criteria for a follow-on when a plan misses, and which named person, if any, would work with Larkspur. | Whether the CFO change was the pattern or the exception. B’s fund is in the seventh year of a ten-year term, and Larkspur would be one of its last new investments. Asked directly, B said most of the fund’s remaining money is earmarked for companies it already owns, and that it expects to ask its investors for two one-year extensions. The term fixes no sale date, but B will probably want to sell its Larkspur shares within about five years: three left in the term, plus two if the extensions are approved. |
-| Effect on Larkspur’s next decisions | The second-country expansion could not depend on a follow-on from A arriving within a year. Onboarding would rely on Larkspur’s own people. | The founder transition and a second country would have to fit inside those five years or so. The onboarding pilot would have a credible outside contributor. |
+| Evidence obtained | Three references, all current CEOs supplied by the firm, all positive. One former chief financial officer (CFO) reached independently: when her company missed its plan, the request for a follow-on went to the firm’s investment committee and took four months; the promised AI team turned out to be a two-day workshop. Asked what would happen if Rotaline declined a proposed service, A described an internal process. | Two references, one a CEO whose plan slipped by a year: B provided a €600,000 *bridge*, short-term money to cover the gap until the plan recovered, within six weeks and, in the same quarter, replaced that company’s CFO. B’s operator, formerly head of operations at a scheduling-software company, has run two onboarding automations and can give ten days a quarter. Asked the same question, B named the operator, who would stop. |
+| Remaining uncertainty | The criteria for a follow-on when a plan misses, and which named person, if any, would work with Rotaline. | Whether the CFO change was the pattern or the exception. B’s fund is in the seventh year of a ten-year term, and Rotaline would be one of its last new investments. Asked directly, B said most of the fund’s remaining money is earmarked for companies it already owns, and that it expects to ask its investors for two one-year extensions. The term fixes no sale date, but B will probably want to sell its Rotaline shares within about five years: three left in the term, plus two if the extensions are approved. |
+| Effect on Rotaline’s next decisions | The second-country expansion could not depend on a follow-on from A arriving within a year. Onboarding would rely on Rotaline’s own people. | The founder transition and a second country would have to fit inside those five years or so. The onboarding pilot would have a credible outside contributor. |
 | Negotiated commitment | A named operating partner, a member of A’s staff who works with its companies, for the first ninety days; A declined to put follow-on criteria in writing. | A €1.5 million follow-on from the same fund, conditional on pilot evidence, to be written into the investment agreement (terms below); ten named operator days a quarter, reviewed at week six. |
 
-**The follow-on needs precision**, because “reserved” is where a promise slides into a plan. Keep three things apart: what B has set aside, what the contract would require, and when Larkspur can spend.
+**The follow-on needs precision**, because “reserved” is where a promise slides into a plan. Keep three things apart: what B has set aside, what the contract would require, and when Rotaline can spend.
 
-**What B has set aside.** B’s fund holds money back for further investments in companies it already owns. That reserve is an earmark inside the fund. B’s investment committee decides how to spend it, and Larkspur has no claim on it.
+**What B has set aside.** B’s fund holds money back for further investments in companies it already owns. That reserve is an earmark inside the fund. B’s investment committee decides how to spend it, and Rotaline has no claim on it.
 
 **What the contract would require.** Ines negotiated something narrower and more useful: a clause in the **investment agreement**, the binding contract that follows the term sheet. B agreed for two reasons. The condition can be measured. And the clause avoids a fresh funding negotiation, one B’s committee would be free to refuse, when the plan is under pressure. A declined. This is one negotiated arrangement, not what investors generally accept.
 
 | Term | What the clause says |
 | --- | --- |
 | Who pays | The same fund that makes the €4.5 million investment. Not a later fund raised by B, and not another investor. |
-| What it pays | €1.5 million for newly issued Larkspur shares, at the same price per share as the €4.5 million. |
-| Whether the fund can pay | B has confirmed in writing that the fund’s own investors have promised it enough money, not yet collected, to cover the amount. That is the fund’s claim on its investors. It is not yet cash in the fund’s account, and it is not Larkspur’s. |
-| When Larkspur may ask | Once the pilot shows an average of 65 hours or less of staff effort per implementation, with customers waiting no longer than before the pilot. The average is the group’s total hours divided by its number of implementations. The group must be the one named in the pilot plan, with at least eight customers. Larkspur and B agree that plan before signing and attach it to the agreement. The result must be measured as the plan specifies and confirmed by Larkspur’s board. |
+| What it pays | €1.5 million for newly issued Rotaline shares, at the same price per share as the €4.5 million. |
+| Whether the fund can pay | B has confirmed in writing that the fund’s own investors have promised it enough money, not yet collected, to cover the amount. That is the fund’s claim on its investors. It is not yet cash in the fund’s account, and it is not Rotaline’s. |
+| When Rotaline may ask | Once the pilot shows an average of 65 hours or less of staff effort per implementation, with customers waiting no longer than before the pilot. The average is the group’s total hours divided by its number of implementations. The group must be the one named in the pilot plan, with at least eight customers. Rotaline and B agree that plan before signing and attach it to the agreement. The result must be measured as the plan specifies and confirmed by Rotaline’s board. |
 | If the first group misses | The pilot plan allows one second group, so no new negotiation is needed. It must have at least eight new customers, taken in the order they signed so that nobody picks them, and be measured the same way. The second group’s own average decides. The two groups are not combined. Waiting time and board confirmation apply as in the row above. A third group would need B’s agreement. |
-| Other conditions | Larkspur must still be able to pay its debts when they fall due, and must not have broken the agreement. The pilot result is the only condition about business performance. |
+| Other conditions | Rotaline must still be able to pay its debts when they fall due, and must not have broken the agreement. The pilot result is the only condition about business performance. |
 | How long the right lasts | Fifteen months from *closing*, the day the deal completes and the first money and shares change hands. After that the right expires. A request made in time stays valid after the date. |
 | When B’s fund must pay | Within thirty days of a valid request. |
 
@@ -146,23 +148,23 @@ Both rules test the group’s average, not each customer. Suppose eight setups t
 
 Take the result the shared pilot actually produced: an average of 62 hours across eight customers, with waiting time unchanged. It meets the funding condition, so the money could be requested. It does not meet the board’s bar for expanding early. An average of exactly 60 hours would land the same way, and any average above 65 would not meet the funding condition. Meeting the condition does not force a request: the board asks for the money only once it has decided to expand.
 
-**When Larkspur can spend.** The plan names which of three states applies.
+**When Rotaline can spend.** The plan names which of three states applies.
 
 1. **Agreed in the term sheet, not yet signed.** In this example the term sheet does not yet oblige B to invest; that obligation begins with the signed investment agreement. Other parts of a term sheet, such as confidentiality or a promise not to negotiate with other investors for a period, may bind the parties already. The plan carries the follow-on under this label and changes the label when the investment agreement is signed.
-2. **Signed.** Larkspur holds a right to request the money once the conditions are met. A right is not cash. Signing and closing can fall on different days. If closing is delayed, the plan shows the first €4.5 million the same way: owed under the signed agreement, not yet received.
+2. **Signed.** Rotaline holds a right to request the money once the conditions are met. A right is not cash. Signing and closing can fall on different days. If closing is delayed, the plan shows the first €4.5 million the same way: owed under the signed agreement, not yet received.
 3. **Paid.** Only money received is spent. That holds for the €4.5 million at closing and for the follow-on later.
 
-**The timing, as Larkspur plans it.** These are this scenario’s assumptions. The €4.5 million received at closing pays for the pilot, the founder’s transition and the rest of the plan the board has already approved. None of it is for the second country: that entry is budgeted to cost €1.5 million, and A’s extra €500,000 would have covered a third of it. The pilot result is expected about four months after closing. If the first group of customers averages more than 65 hours, Larkspur measures the second group the pilot plan allows. That result is expected around month eight. The board expects to decide on the second country around month eleven. If it goes ahead, Larkspur requests the money then, and payment is due by month twelve.
+**The timing, as Rotaline plans it.** These are this scenario’s assumptions. The €4.5 million received at closing pays for the pilot, the founder’s transition and the rest of the plan the board has already approved. None of it is for the second country: that entry is budgeted to cost €1.5 million, and A’s extra €500,000 would have covered a third of it. The pilot result is expected about four months after closing. If the first group of customers averages more than 65 hours, Rotaline measures the second group the pilot plan allows. That result is expected around month eight. The board expects to decide on the second country around month eleven. If it goes ahead, Rotaline requests the money then, and payment is due by month twelve.
 
-Take a first group that averages 66 hours and a second that averages 62. The first result does not meet the condition. The second does, and it is the one that counts. Once the board confirms it, with waiting time no worse and the other conditions still met, Larkspur can make a valid request at month eleven, well before the right expires. If the second group also misses, no request can be made. A third group would need B’s agreement, so the plan does not count on one.
+Take a first group that averages 66 hours and a second that averages 62. The first result does not meet the condition. The second does, and it is the one that counts. Once the board confirms it, with waiting time no worse and the other conditions still met, Rotaline can make a valid request at month eleven, well before the right expires. If the second group also misses, no request can be made. A third group would need B’s agreement, so the plan does not count on one.
 
-- **Condition met and B pays.** The entry starts when the money is in Larkspur’s account.
-- **No valid request by month fifteen**, because the condition was not met or the board chose not to expand. The right expires and the second country stays deferred. Larkspur would have to look for that money again, from B or elsewhere, with no commitment from anyone.
-- **Valid request, no payment within thirty days.** Larkspur has a claim under the contract, to take up with its lawyers, and still no cash. The entry waits.
+- **Condition met and B pays.** The entry starts when the money is in Rotaline’s account.
+- **No valid request by month fifteen**, because the condition was not met or the board chose not to expand. The right expires and the second country stays deferred. Rotaline would have to look for that money again, from B or elsewhere, with no commitment from anyone.
+- **Valid request, no payment within thirty days.** Rotaline has a claim under the contract, to take up with its lawyers, and still no cash. The entry waits.
 
-In every case, no second-country hire, lease or customer promise is made before the money arrives. The fifteen months limit when Larkspur may ask. They are not a date by which cash is promised.
+In every case, no second-country hire, lease or customer promise is made before the money arrives. The fifteen months limit when Rotaline may ask. They are not a date by which cash is promised.
 
-**Either investor could be the right choice.** The evidence did not rank the firms; it changed which uncertainty Larkspur would carry. With A, the uncertainty sits on the most time-sensitive decision, second-country funding, and A would not write it down. With B, the written follow-on narrows the next funding decision to a measurable condition.
+**Either investor could be the right choice.** The evidence did not rank the firms; it changed which uncertainty Rotaline would carry. With A, the uncertainty sits on the most time-sensitive decision, second-country funding, and A would not write it down. With B, the written follow-on narrows the next funding decision to a measurable condition.
 
 Neither term sheet contains a rule on management changes, and no clause lengthens a fund’s life. B’s management-change practice, known from one account, and its likely wish to sell within about five years remain risks the board accepts, subject to the further references below. B’s explicit funding condition against A’s undisclosed committee is the trade Ines is making, not a removal of risk.
 
@@ -170,17 +172,17 @@ The comparison covers support and conditional funding only. It leaves out how mu
 
 **The decision, recorded.**
 
-- **Choice:** Investor B. €4.5 million at closing, and a €1.5 million follow-on that B’s fund must pay once the investment agreement is signed, the pilot condition and the other agreed conditions are met, and Larkspur makes a valid request.
-- **Alternatives rejected:** Investor A, whose higher valuation left Larkspur’s most time-sensitive dependency resting on an undisclosed committee process; and delaying the round, because the founder’s retirement date does not move.
+- **Choice:** Investor B. €4.5 million at closing, and a €1.5 million follow-on that B’s fund must pay once the investment agreement is signed, the pilot condition and the other agreed conditions are met, and Rotaline makes a valid request.
+- **Alternatives rejected:** Investor A, whose higher valuation left Rotaline’s most time-sensitive dependency resting on an undisclosed committee process; and delaying the round, because the founder’s retirement date does not move.
 - **Risks accepted:** B’s practice on management changes, and its likely wish to sell within about five years. No term addresses either.
 - **Scarce capacity:** Ines’s and Priya’s time in the first quarter (Priya leads product), and the operator’s ten days.
-- **Authorized by:** Larkspur’s board, with the approvals from existing shareholders that the current *shareholders’ agreement*, the contract recording the owners’ rights, requires.
+- **Authorized by:** Rotaline’s board, with the approvals from existing shareholders that the current *shareholders’ agreement*, the contract recording the owners’ rights, requires.
 - **Evidence that would reopen it:** a second former executive with the same story about B replacing management, which would send Ines back to negotiate the approval route for management changes into the shareholders’ agreement before signing; or A putting its follow-on criteria in writing, which would reopen the comparison.
 
 {id: assess-investor-fit--when-the-investor-is-already-in-place}
 ## When the Investor Is Already in Place
 
-In a separate fictional Larkspur round, the *lead investor*, the one negotiating the round’s terms, will provide more money only if another investor joins alongside it as a *co-investor*. The existing investor is supportive but hasn’t committed. Priya’s expansion depends on both. Alex’s operating plan had the second-country engineering lead starting in June, on the assumption that the round would complete.
+In a separate fictional Rotaline round, the *lead investor*, the one negotiating the round’s terms, will provide more money only if another investor joins alongside it as a *co-investor*. The existing investor is supportive but hasn’t committed. Priya’s expansion depends on both. Alex’s operating plan had the second-country engineering lead starting in June, on the assumption that the round would complete.
 
 The June hire becomes a dated decision at the July board meeting, taken after the co-investor has committed or declined. The onboarding pilot proceeds from *operating cash*, the money the business already brings in from customers, once Sam, the CFO, confirms it can carry the cost; the pilot no longer depends on the round. The existing investor’s offer of help with AI is labelled unconfirmed until a named person and a number of days exist. Two encouraging conversations still don’t equal a funded plan; no delivery date now rests on them.
 
@@ -193,7 +195,7 @@ If you inherited the arrangement, focus on changes within reach: **one approval 
 
 References may be unavailable, and fund information may not be shared. Missing evidence should become an explicit uncertainty in the plan, not an endless request for more information. Label the support as unconfirmed in the operating plan. Make no customer or hiring commitment that depends on unconfirmed funding or support. Set a review date when the label is confirmed, removed or escalated.
 
-Larkspur’s plan reads accordingly, with the two scenarios kept apart.
+Rotaline’s plan reads accordingly, with the two scenarios kept apart.
 
 - **Term-sheet scenario**, Investor B’s follow-on: “€1.5 million from B’s fund; may be requested at a group average of 65 hours or less with waiting time no worse; agreed in the term sheet, not yet signed; the right to ask expires fifteen months after closing; payment due thirty days after a valid request; not cash until received”.
 - **Inherited-investor scenario**, the existing investor’s AI help: “unconfirmed: no named person, no days”.
@@ -222,7 +224,7 @@ When a problem emerges, start with a concrete decision rather than a general com
 
 This chapter has connected changed authority, incentives and the working relationship. Each assumes something this part does not supply itself: that both sides are reasoning about the same facts. A partnership review, an evidence-based challenge and an honest disagreement all need defined, sourced figures that neither side has to take on trust. The Part IV chapter [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) shows how to hold them ready.
 
-Suppose the agreement with Investor B is signed, the deal has closed and the first €4.5 million has arrived in Larkspur’s account. Larkspur then has that money, ten operator days a quarter, and a right to €1.5 million that is not yet money. Which of Larkspur’s own initiatives the money actually received, and that capacity, can fund at once is the question Part IV takes up: [COMMIT: Turn Expectations Into Work You Can Deliver](#part-4) and [Set Priorities: You Cannot Fund Everything at Once](#set-priorities).
+Suppose the agreement with Investor B is signed, the deal has closed and the first €4.5 million has arrived in Rotaline’s account. Rotaline then has that money, ten operator days a quarter, and a right to €1.5 million that is not yet money. How to turn those operator days into help the company can use is the subject of Part III: [COLLABORATE: Get Useful Help From Your Investor](#part-3). Which of Rotaline’s own initiatives the money actually received can fund at once is the question Part IV takes up: [Set Priorities: You Cannot Fund Everything at Once](#set-priorities).
 
 {id: assess-investor-fit--questions-to-consider}
 ## Questions to Consider

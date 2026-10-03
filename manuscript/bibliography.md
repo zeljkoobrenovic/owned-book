@@ -11,7 +11,7 @@
 > * **Source interests and evidence strength matter.** Company announcements, investor accounts, guidance documents and original research answer different questions and need different qualifications.
 > * **Keep evidence, proposed methods and fictional examples distinct.** The cases and studies here are evidence about what happened in particular settings; the book’s templates and worked examples are my proposals.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **The Exit Halo** — Identifies source interests, consulted evidence and limits before a success or failure story becomes a general verdict.
 
@@ -63,7 +63,7 @@ For a first reading, follow the citations attached to the chapter you are studyi
 {id: bibliography--proposed-methods-and-empirical-evidence}
 ## Proposed Methods and Empirical Evidence
 
-The historical cases, filings and research studies are evidence about what happened in particular settings, within the limits each entry states. The templates, checklists, fictional calculations, the Larkspur examples and the Technology Principal example role are proposed methods: my reasoning about how to work under the conditions the evidence describes. No source on this page validates those methods. The studies were not designed to test them, the guidance documents describe practices rather than measure their effect, and the private inputs supply ideas rather than operating results. Judge a method by whether it fits your decision, not by the citations near it.
+The historical cases, filings and research studies are evidence about what happened in particular settings, within the limits each entry states. The templates, checklists, fictional calculations, the Rotaline examples and the Technology Principal example role are proposed methods: my reasoning about how to work under the conditions the evidence describes. No source on this page validates those methods. The studies were not designed to test them, the guidance documents describe practices rather than measure their effect, and the private inputs supply ideas rather than operating results. Judge a method by whether it fits your decision, not by the citations near it.
 
 {id: bibliography--evidence-used-versus-further-reading}
 ## Evidence Used Versus Further Reading

@@ -3,13 +3,13 @@
 
 ![ALIGN: Clarify Who Decides and What Is at Stake — logo](private-techuity/posts/part-2-intro/assets/images/part-2-intro/logo.jpeg)
 
-> **IN THIS SECTION, YOU WILL:** Establish who can authorize a decision, what each party stands to gain or lose, and which evidence everyone should use.
+> **IN THIS SECTION, YOU WILL:** Establish who can authorize a decision, what each party has at stake, and which evidence everyone should use.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
-> * **The Nodding Room** — Makes competing interests, time frames and evidence explicit before people agree to a plan.
-> * **The Ghost Veto** — Traces approval rights to the people and agreements that actually grant them.
-> * **The Accidental Gatekeeper** — Distinguishes an adviser’s influence from an agreed right to decide.
+> * **The Nodding Room** — Surfaces competing interests, time frames and evidence before people agree to a plan.
+> * **The Ghost Veto** — Traces approval rights to the people and agreements that grant them.
+> * **The Accidental Gatekeeper** — Separates an adviser's influence from an agreed right to decide.
 
 Part I established whose money is involved. This part establishes who decides what, which matters most when the plan is under pressure.
 

@@ -5,7 +5,7 @@
 
 > **IN THIS SECTION, YOU WILL:** Learn to change the company’s size and shape deliberately: add people where the work needs them, stop work before cutting jobs, change systems for expected growth, and account for the work a purchase or a separation adds.
 
-> **[DYSFUNCTIONS THIS SECTION HELPS ADDRESS](#where-investment-goes-wrong):**
+> **[DYSFUNCTIONS THIS SECTION ADDRESSES](#where-investment-goes-wrong):**
 >
 > * **All Bulk, No Muscle** — Checks whether hires, tools and acquisitions remove the constraint on useful work.
 > * **Squeezing the Balloon** — Counts transition costs and the work left with the remaining team.
