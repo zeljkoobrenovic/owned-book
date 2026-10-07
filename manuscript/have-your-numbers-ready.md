@@ -179,7 +179,7 @@ Nobody should report all that. Fifteen measures nobody disputes are worth more t
 - **Let the outcome record choose the product numbers.** The customer outcome, the business outcome and the measures between them ([Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking)) are the product and customer numbers worth having ready. The rest of the catalogue is context.
 - **Add a measure only when a decision needs it.** A measure that has never changed a decision should be retired.
 
-A reasonable shape for the investor conversation is a dozen or so numbers: a few from money and runway, a few from customers and growth, the outcome record’s pair and its leading measures, and a few from delivery and technology health, each chosen because someone decides something with it.
+A reasonable shape for the investor conversation is a dozen or so numbers: a few from money and runway, a few from customers and growth, the outcome record’s pair and its leading measures, and a few from delivery and technology health, each chosen because someone decides something with it. [Tool 7](#toolkit--tool-7) gives a small scorecard in that shape.
 
 {id: have-your-numbers-ready--hold-each-number-ready}
 ## Hold Each Number Ready

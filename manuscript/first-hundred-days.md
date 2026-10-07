@@ -136,7 +136,7 @@ These are decision thresholds, not the target. The plan’s illustrative model, 
 - **Authority:** the board approved the plan; Ines authorizes spending inside it; Priya and Alex are accountable for the results.
 - **Evidence that would change it:** the ONB-1 cohort’s measured effort and its split between customer data quality and product limits, the day-45 restore, and the day-60 demonstration.
 
-This plan does not promise that the second country is open by day 100. It creates the evidence needed to **fund and sequence that expansion**. A short early plan should reduce uncertainty and establish capability, not disguise a multi-year program as a quick win.
+This plan does not promise that the second country is open by day 100. It creates the evidence needed to **fund and sequence that expansion**. A short early plan should reduce uncertainty and establish capability, not disguise a multi-year program as a quick win. [Tool 5](#toolkit--tool-5) gives one initiative's record as a template, and the [Practical Tools for Ownership and Technology Decisions](#toolkit)'s worked example follows ONB-1 through it.
 
 ![Ideas become operating commitments when outcomes, responsibility, funding, capacity and review dates are agreed.](private-techuity/posts/32-first-hundred-days/assets/images/32-first-hundred-days/priorities-become-commitments.jpeg)
 

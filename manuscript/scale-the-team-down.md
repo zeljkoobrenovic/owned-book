@@ -161,7 +161,7 @@ At Rotaline’s notice periods, severance terms and dates, **the reduction makes
 {id: scale-the-team-down--the-decision-recorded}
 ## The Decision, Recorded
 
-The board meets on 15 October rather than waiting for its November date, because the condition’s date is 31 October and the notice periods must start then for the savings to land by February.
+The board meets on 15 October rather than waiting for its November date, because the condition’s date is 31 October and the notice periods must start then for the savings to land by February. [Tool 13](#toolkit--tool-13) gives this record as a template.
 
 - **Chosen:** R2. Notices on 31 October; one second-country specialist retained to 31 March, under an agreement signed before any notice is served, to keep the second customer’s first-quarter promise; the plan adopted meets the bridge condition with cash of €488,000 at 30 June.
 - **Rejected:** a fifth of engineering by ratio, because it saves €28,000 against a need of at least €40,000 and chooses people by proportion; R3, because it removes the revenue and the pilot the company exists to deliver and still does not hold January without the bridge; reduced hours, because they take capacity from the protected onboarding and recovery work as much as from anything else; and waiting for the round, because the round is an expression of interest and the condition’s date is 31 October.

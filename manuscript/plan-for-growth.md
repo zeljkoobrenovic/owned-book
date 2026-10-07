@@ -182,7 +182,7 @@ A **corporate parent** — a larger company that owns Rotaline outright — may 
 {id: plan-for-growth--the-decision-record}
 ## The Decision Record
 
-Four people record five answers together, drawing on the investor’s adviser where useful: the chief executive (Ines, who runs the company), the chief financial officer (Sam, who runs its finances), the product leader (Priya) and the chief technology officer (Alex, who runs its technology). For Rotaline’s second country they read:
+Four people record five answers together, drawing on the investor’s adviser where useful: the chief executive (Ines, who runs the company), the chief financial officer (Sam, who runs its finances), the product leader (Priya) and the chief technology officer (Alex, who runs its technology). For Rotaline’s second country they read: [Tool 11](#toolkit--tool-11) gives the five answers as a template.
 
 1. **The value assumption:** the investor's growth plan assumes a second country within twelve months and a third within two years; each country’s signed customers and revenue are the assumption’s test.
 2. **The operating requirement:** invoice, contract with, support and onboard customers under the second country’s tax and pricing rules, with the **first customer payments received by month twelve**, and each further country cheaper to add than the last.

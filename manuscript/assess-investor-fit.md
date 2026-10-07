@@ -20,20 +20,20 @@
 > * **The Nodding Room** — Tests promises of patience and partnership against past decisions and specific support commitments.
 > * **Spending the Press Release** — Checks the conditions and timing of further funding before a plan relies on it.
 
-The previous two chapters described who decides and what each party stands to gain. Both are arrangements on paper; how an investor behaves when a plan misses shows whether they hold.
+The previous two chapters described who decides and what each party stands to gain. Both are **arrangements on paper**; how an investor behaves when a plan misses shows whether they hold.
 
-When a company raises money, investors usually promise more than money: patience while results arrive, and practical support along the way. Such promises are easy to make while a plan is on track. They are tested when the company falls short of it, and that is when the company learns whether its plan can rely on them. What a leader needs to judge beforehand is **investor fit**: how well an investor’s terms, resources and behavior match what the company needs.
+When a company raises **money**, investors usually promise more than money: **patience** while results arrive, and **practical support** along the way. Such promises are easy to make while a plan is on track. They are tested when the company falls short of it, and that is when the company learns whether its plan can rely on them. What a leader needs to judge beforehand is **investor fit**: how well an investor’s terms, resources and behavior match what the company needs.
 
-Most product and engineering leaders are not asked to sign an investor’s terms. They are asked to **deliver a plan whose feasibility depends on the investor’s behavior**. Does funding continue after a missed quarter (three months of the financial year)? Does support arrive in a usable form? Is a delay treated as a problem to solve, or as a reason to change management?
+Most product and engineering leaders are not asked to sign an investor’s terms. They are asked to **deliver a plan whose feasibility depends on the investor’s behavior**. Three questions decide it. If the company misses its targets for a quarter (three months of the financial year), does the investor keep funding the plan, or cut the budget and hiring? When the investor promises support, does it arrive as something the team can use, such as an introduction to a customer or a specialist who joins for a month, or as advice and slide decks? And if a launch slips, does the investor help work out why, or start talking about replacing the leadership team?
 
-The purpose is not to find a universally good investor. It is to determine whether a particular partnership can support what the company must do next. The same firm can be a strong fit for one situation and a poor fit for another.
+The purpose is not to find a universally good investor. It is to determine whether a **particular partnership** can support what the company must do next. The same firm can be a strong fit for one situation and a poor fit for another.
 
 {id: assess-investor-fit--setting-up-the-example-two-term-sheets-for-rotaline}
 ## Setting Up the Example: Two Term Sheets for Rotaline
 
-Ines, the chief executive officer (CEO) of Rotaline, the fictional software company this book follows, has two **term sheets** on her desk. A term sheet sets out the terms on which an investor proposes to put money into a company in exchange for shares (units of ownership). Both investors promise two things: patient ownership, meaning time for results to arrive, and practical support. To compare them, Ines needs examples of how those promises held up when a company missed its plan: when sales came later than forecast, or a product shipped late. She is judging investor fit. In this chapter's scenario, Rotaline is raising a new round while one of its founders prepares to retire; the ownership and figures are this chapter's own.
+Ines, the chief executive officer (CEO) of Rotaline, the fictional software company this book follows, has two **term sheets** on her desk. A term sheet sets out the terms on which an investor proposes to put money into a company in exchange for shares (units of ownership). Both investors promise two things: **patient ownership**, meaning time for results to arrive, and **practical support**. To compare them, Ines needs examples of how those promises held up when a company missed its plan: when sales came later than forecast, or a product shipped late. She is judging investor fit. In this chapter's scenario, Rotaline is raising a new round while one of its founders prepares to retire; the ownership and figures are this chapter's own.
 
-Ines uses the assessment before the deal, to compare her two term sheets. Later, in a separate round where the investor is already in place, Alex, the chief technology officer (CTO), uses it to change one dependency in Rotaline’s operating plan once the evidence is in.
+Ines uses the **assessment** before the deal, to compare her two term sheets. Later, in a separate round where the investor is already in place, Alex, the chief technology officer (CTO), uses it once the evidence is in to change one **dependency**: something Rotaline’s operating plan relies on the investor to do, such as releasing money by a set date, approving spending through a named route, or providing promised support.
 
 {id: assess-investor-fit--investors-funds-committees-and-boards}
 ## Investors, Funds, Committees, and Boards
@@ -62,7 +62,7 @@ A firm can advertise a broad *support platform*: its network of in-house experts
 
 A **reference** is a conversation with someone who has worked with the investor. Investors check companies this way before they invest; here the company checks the investor.
 
-References drawn only from enthusiastic current CEOs give a restricted view. Where access is available and appropriate, seek former executives, leaders of companies that missed their plans, and leaders who declined or ended help the investor proposed. Explain the questions in advance and respect confidentiality.
+References drawn only from enthusiastic current CEOs give a restricted view. Where access is available and appropriate, seek former executives, leaders of companies that missed their plans, and leaders who declined or ended help the investor proposed. Explain the questions in advance and respect confidentiality. [Tool 8](#toolkit--tool-8) collects these questions as an interview guide.
 
 | Question | Evidence it seeks | An answer needing a follow-up |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ References drawn only from enthusiastic current CEOs give a restricted view. Whe
 | What did you report that the investor did not want to hear? | Response to inconvenient evidence | A general description of the reporting process, without an example. |
 | What remained unfinished when the investor sold its shares? | Willingness to disclose commitments that the next owner takes over | "Nothing important." |
 
-Answers like these leave the behavior unclear, so ask for a specific example or another source. An executive may have had few relevant incidents, may be unable to share confidential details, or may be giving an incomplete account. The gap calls for follow-up, not an automatic negative judgment.
+Answers like these leave the behavior unclear, so ask for a **specific example** or another source. An executive may have had few relevant incidents, may be unable to share confidential details, or may be giving an incomplete account. The gap calls for follow-up, not an automatic negative judgment.
 
 A single difficult story isn’t a verdict. **Look for repeated mechanisms** and consider alternative explanations. A dismissed executive may have an understandable grievance. A successful CEO may attribute too much to the current owner. Both can still offer concrete observations worth checking.
 
@@ -93,17 +93,17 @@ A recommendation to rebuild ageing software is incomplete until the company has 
 {id: assess-investor-fit--test-the-funding-horizon}
 ## Test the Funding Horizon
 
-Ask for a plain account of where the money in the deal goes and what the company owes afterward. How much reaches the company, rather than paying existing shareholders for their shares or covering deal costs? Does the company owe borrowed money, and when is repayment due? Does any agreement significantly limit what the company may do? Which financial scenario, a model of money coming in and going out under stated assumptions, funds the product plan? What happens if growth arrives a year late?
+Ask for a plain account of **where the money in the deal goes** and what the company owes afterward. How much reaches the company, rather than paying existing shareholders for their shares or covering deal costs? Does the company owe borrowed money, and when is repayment due? Does any agreement significantly limit what the company may do? Which financial scenario, a model of money coming in and going out under stated assumptions, funds the product plan? What happens if growth arrives a year late?
 
-A fund has a life: it collects promises of money from its investors, invests for some years, then sells its holdings and returns the money. Find out where this investment falls in that life and how decisions about follow-ons are made.
+A **fund has a life**: it collects promises of money from its investors, invests for some years, then sells its holdings and returns the money. Find out where this investment falls in that life and how decisions about follow-ons are made.
 
 A fund’s agreed length, its *term*, is commonly ten years. **The term is not a sale date.** Fund agreements usually allow extensions with the approval of the fund’s investors. The Institutional Limited Partners Association (ILPA), which represents institutions that invest in funds, publishes principles that are recommendations rather than binding terms. They suggest at most two one-year extensions, each approved by the fund’s investors. [S02: ILPA principles](https://ilpa.org/wp-content/uploads/2019/06/ILPA-Principles-3.0_2019.pdf)
 
-A fund near its scheduled end may be under pressure to sell its companies, and it may have little left to invest. Its age alone establishes neither. Ask how much money remains available for companies the fund already owns, what its agreement still allows it to invest in, and whether it plans to ask for an extension.
+A fund **near its scheduled end** may be **under pressure to sell** its companies, and it may have little left to invest. Its age alone establishes neither. Ask how much money remains available for companies the fund already owns, what its agreement still allows it to invest in, and whether it plans to ask for an extension.
 
-Ask whether money the investor describes as “reserved” for follow-ons is a commitment to this company or an earmark inside the fund that its committee can redirect. Don’t ask for an absolute promise that the company will never be sold early or that more money will always be available. Ask how those decisions will be made and which conditions matter.
+Investors often say they have money “**reserved**” for **follow-ons**, later investments in a company they already back. Ask what that means in practice. Is it a written commitment to this company, or only an amount the fund has set aside on paper, which its investment committee can move to another company if priorities change? If it is the second, Rotaline cannot plan its next hires around it. Don’t ask for an absolute promise that the company will never be sold early or that more money will always be available; no honest investor can give one. Ask instead how those decisions will be made, who makes them, and which conditions would matter, such as revenue growth, cash left, or how the rest of the fund is performing.
 
-The chapter [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns) changes one assumption at a time and watches what happens to the result. An investor’s *return* is its gain or loss on the investment. Suppose the plan reaches the promised return only if profit grows unusually fast and a future buyer also pays more for each euro of profit (a higher *exit multiple*). Ask how the plan performs without the higher price.
+The chapter [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns) changes one assumption at a time and watches what happens to the result. An investor’s *return* is its gain or loss on the investment. Check whether the investor’s plan reaches its promised return only if two things go right at once: profit grows unusually fast, and a future buyer also pays more for each euro of profit (a higher *exit multiple*). Take a hypothetical plan that doubles yearly profit from €10 million to €20 million and assumes a buyer will pay twelve times profit instead of today’s ten: a €240 million sale. At ten times, the same profit sells for €200 million. Ask how the plan performs at €200 million. If the return then falls short, the investor is counting on a buyer’s price nobody in the company controls, and may push for even faster profit growth, through deeper cuts, to make up the gap.
 
 ![One time arrow runs left to right under two lanes. In the company’s lane, the pilot comes first. A shared checkpoint leads from the pilot down to the funding lane, where three separate steps follow in order: review, approval and payment. The company’s lane stays empty while they happen. An arrow labeled Money received rises from payment to wider use of what the pilot tested, which sits after the payment and is followed by ongoing operations.](private-techuity/posts/08-assess-investor-fit/assets/images/08-assess-investor-fit/company-and-investor-calendars.jpeg)
 
@@ -112,7 +112,7 @@ The chapter [Understand Investor Returns: Same Performance, Different Outcomes](
 {id: assess-investor-fit--compare-both-investors-against-the-same-needs}
 ## Compare Both Investors Against the Same Needs
 
-This is a fictional scenario with its own assumptions: its amounts belong to this chapter alone, not to the shared Rotaline example that Part III onward uses. The onboarding pilot is the pilot those chapters measure.
+This is a fictional scenario with its own assumptions. Its amounts, such as the size of each funding round, belong to this chapter alone: they are not the figures of the shared Rotaline example that Part III onward uses, so don’t carry them forward. The onboarding pilot, however, is the same one: the trial of automating part of customer setup that those later chapters measure.
 
 Both investors would buy newly issued shares, so neither offer is a loan to repay. Each is for a *minority stake*, less than half the company, in the same *round*, a single fundraising event. Investor A is a larger firm offering €5 million at the higher *valuation*, with a broad support platform. The valuation is the value put on the whole company to set the share price; a higher one means Rotaline sells a smaller part of itself for the same money. Investor B is a smaller firm offering €4.5 million at a lower valuation, one experienced operator, money set aside in its fund for follow-ons, and a willingness to turn some of that money into a contractual commitment. Ines puts both through the same three needs.
 
@@ -125,7 +125,7 @@ Both investors would buy newly issued shares, so neither offer is a loan to repa
 
 **The follow-on needs precision**, because “reserved” is where a promise slides into a plan. Keep three things apart: what B has set aside, what the contract would require, and when Rotaline can spend.
 
-**What B has set aside.** B’s fund holds money back for further investments in companies it already owns. That reserve is an earmark inside the fund. B’s investment committee decides how to spend it, and Rotaline has no claim on it.
+**What B has set aside.** B’s fund keeps part of its money back for further investments in companies it already owns, which would include Rotaline once the deal closes. But that reserve is only an amount marked for that purpose inside the fund, not a promise to any one company. B’s investment committee decides how to spend it, and could give it to another company that needs money more urgently. Until the contract says otherwise, Rotaline has no right to any of it and should not plan hires or spending around it.
 
 **What the contract would require.** Ines negotiated something narrower and more useful: a clause in the **investment agreement**, the binding contract that follows the term sheet. B agreed for two reasons. The condition can be measured. And the clause avoids a fresh funding negotiation, one B’s committee would be free to refuse, when the plan is under pressure. A declined. This is one negotiated arrangement, not what investors generally accept.
 
@@ -140,7 +140,7 @@ Both investors would buy newly issued shares, so neither offer is a loan to repa
 | How long the right lasts | Fifteen months from *closing*, the day the deal completes and the first money and shares change hands. After that the right expires. A request made in time stays valid after the date. |
 | When B’s fund must pay | Within thirty days of a valid request. |
 
-The 65-hour bar is deliberately easier than the board’s own pilot rule. Under that rule, a group average below 60 hours would justify requesting the pilot’s next stage and bringing the expansion decision forward (see the chapters [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) and [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)).
+The 65-hour bar is deliberately easier to clear than the board’s own pilot rule, which sets 60 hours. Implementation today takes about 80 hours per customer. At 65 hours or less, B’s €1.5 million becomes available; only at below 60 hours does Rotaline’s board treat the pilot as proven enough to request its next stage and bring the expansion decision forward (see the chapters [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) and [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)). So a result between 60 and 65 hours unlocks the money without committing Rotaline to expand: the funding arrives before the company is sure, not only after.
 
 The clause tests only whether the pilot reaches an agreed level of observed improvement. It does not prove that the automation caused the improvement: as the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) explains, the choice of pilot customers and staff getting faster with practice could also have cut the hours. On its own it does not justify expanding either.
 
@@ -154,9 +154,16 @@ Take the result the shared pilot actually produced: an average of 62 hours acros
 2. **Signed.** Rotaline holds a right to request the money once the conditions are met. A right is not cash. Signing and closing can fall on different days. If closing is delayed, the plan shows the first €4.5 million the same way: owed under the signed agreement, not yet received.
 3. **Paid.** Only money received is spent. That holds for the €4.5 million at closing and for the follow-on later.
 
-**The timing, as Rotaline plans it.** These are this scenario’s assumptions. The €4.5 million received at closing pays for the pilot, the founder’s transition and the rest of the plan the board has already approved. None of it is for the second country: that entry is budgeted to cost €1.5 million, and A’s extra €500,000 would have covered a third of it. The pilot result is expected about four months after closing. If the first group of customers averages more than 65 hours, Rotaline measures the second group the pilot plan allows. That result is expected around month eight. The board expects to decide on the second country around month eleven. If it goes ahead, Rotaline requests the money then, and payment is due by month twelve.
+**The timing, as Rotaline plans it.** These are this scenario’s assumptions. The €4.5 million received at closing pays for the pilot, the founder’s transition and the rest of the plan the board has already approved. None of it is for the second country. Entering it is budgeted at €1.5 million, exactly the size of B’s follow-on; A’s extra €500,000 would have covered only a third. The months, counted from closing, run like this:
 
-Take a first group that averages 66 hours and a second that averages 62. The first result does not meet the condition. The second does, and it is the one that counts. Once the board confirms it, with waiting time no worse and the other conditions still met, Rotaline can make a valid request at month eleven, well before the right expires. If the second group also misses, no request can be made. A third group would need B’s agreement, so the plan does not count on one.
+- **Month four:** the first pilot group’s result is expected.
+- **Month eight:** if that group averages more than 65 hours, the second group’s result arrives.
+- **Month eleven:** the board decides on the second country. If it goes ahead, Rotaline requests the €1.5 million.
+- **Month twelve:** B’s fund must pay, within thirty days of the request.
+
+That leaves three months before the right expires at month fifteen, so a delayed pilot or board decision does not by itself cost Rotaline the money.
+
+Here is how the two-group rule plays out. Suppose the first group, measured around month four, averages 66 hours: one hour above the 65-hour bar, so no request can be made yet. The second group, measured around month eight, averages 62 hours. That meets the condition, and the second result is the one that counts; the two are not averaged together. Once the board confirms it, and customers are waiting no longer than before and the other conditions still hold, Rotaline can make a valid request at month eleven, four months before the right expires at month fifteen. If the second group also averages above 65 hours, no request can be made and the €1.5 million is lost. A third group would need B’s agreement, so the plan does not count on one.
 
 - **Condition met and B pays.** The entry starts when the money is in Rotaline’s account.
 - **No valid request by month fifteen**, because the condition was not met or the board chose not to expand. The right expires and the second country stays deferred. Rotaline would have to look for that money again, from B or elsewhere, with no commitment from anyone.
@@ -166,9 +173,9 @@ In every case, no second-country hire, lease or customer promise is made before 
 
 **Either investor could be the right choice.** The evidence did not rank the firms; it changed which uncertainty Rotaline would carry. With A, the uncertainty sits on the most time-sensitive decision, second-country funding, and A would not write it down. With B, the written follow-on narrows the next funding decision to a measurable condition.
 
-Neither term sheet contains a rule on management changes, and no clause lengthens a fund’s life. B’s management-change practice, known from one account, and its likely wish to sell within about five years remain risks the board accepts, subject to the further references below. B’s explicit funding condition against A’s undisclosed committee is the trade Ines is making, not a removal of risk.
+Neither term sheet contains a rule on **management changes**, and no clause lengthens a fund’s life. B’s management-change practice, known from one account, and its likely wish to sell within about five years remain risks the board accepts, subject to the further references below. B’s explicit funding condition against A’s undisclosed committee is the trade Ines is making, not a removal of risk.
 
-The comparison covers support and conditional funding only. It leaves out how much of the company each valuation would hand over, and the *dilution* of existing owners, whose percentage falls when new shares are issued. That arithmetic is a separate part of the term-sheet review.
+The comparison covers only two things: **support**, meaning the help each investor would actually give, and **conditional funding**, meaning money promised later if set conditions are met. It deliberately leaves out the price. A’s higher valuation means Rotaline would give up a smaller share of the company for each euro raised. Either deal also brings *dilution*: issuing new shares lowers the percentage that existing owners, including the founder and staff with shares, hold. Which offer costs the current owners less is a calculation of its own, done separately as part of the term-sheet review; this chapter asks only whether each investor would behave in a way the plan can rely on.
 
 **The decision, recorded.**
 
@@ -182,18 +189,18 @@ The comparison covers support and conditional funding only. It leaves out how mu
 {id: assess-investor-fit--when-the-investor-is-already-in-place}
 ## When the Investor Is Already in Place
 
-In a separate fictional Rotaline round, the *lead investor*, the one negotiating the round’s terms, will provide more money only if another investor joins alongside it as a *co-investor*. The existing investor is supportive but hasn’t committed. Priya’s expansion depends on both. Alex’s operating plan had the second-country engineering lead starting in June, on the assumption that the round would complete.
+Now a separate fictional Rotaline round, after the investor is in place. The *lead investor*, the one negotiating the round’s terms, will put in money only if another investor, a *co-investor*, joins alongside it. Rotaline’s existing investor says it supports the round but has not committed. Priya’s second-country expansion needs the round to complete, so it rests on two commitments that are not yet binding: the co-investor joining, and the existing investor following through. Even so, Alex’s operating plan had the second country’s engineering lead starting in June, as if the round were already done. If the round slipped, Rotaline would be paying a senior hire from money it did not yet have.
 
-The June hire becomes a dated decision at the July board meeting, taken after the co-investor has committed or declined. The onboarding pilot proceeds from *operating cash*, the money the business already brings in from customers, once Sam, the CFO, confirms it can carry the cost; the pilot no longer depends on the round. The existing investor’s offer of help with AI is labelled unconfirmed until a named person and a number of days exist. Two encouraging conversations still don’t equal a funded plan; no delivery date now rests on them.
+Alex changes the plan in three places. First, the June hire is no longer assumed. It becomes a **dated decision** at the July board meeting, taken once the co-investor has either committed or declined; if it declines, the hire waits. Second, the onboarding pilot stops depending on the round. It is paid from *operating cash*, the money the business already brings in from customers, once Sam, the CFO, confirms the business can carry the cost. Third, the existing investor’s offer of help with AI is **marked unconfirmed** until it names a person and a number of days. Two encouraging conversations still don’t make a funded plan, so no delivery date now rests on either of them.
 
-A *corporate investor* is an established business that invests in another company. Suppose one asks for a feature available only through its own sales channel, the route by which its products reach customers. That is a separate commercial decision, to be tested for its effect on other customers, future partnerships and support costs rather than treated as part of the ownership relationship.
+A *corporate investor* is an established business that invests in another company, often a supplier or partner in the same market. Its requests can mix the roles of owner and commercial partner. Suppose one asks Rotaline to build a feature that customers can get only by buying through the investor’s own sales channel, the route by which its products reach customers. Saying yes is not part of having the investor as an owner; it is a **separate commercial decision**, and should be tested like any other deal. Would other customers, who cannot get the feature, feel shut out? Would rival partners refuse to work with Rotaline? Who supports a feature sold only through someone else’s channel, and at what cost?
 
-If you inherited the arrangement, focus on changes within reach: **one approval route for the operating plan**, a dated funding decision, a narrower support assignment or a clear way to escalate conflicting requests. Record what can’t be changed and reflect it in your commitments. Investor fit is also the continuing work of making an imperfect relationship usable.
+If you inherited the arrangement, focus on changes within reach: **one approval route** for the operating plan, a **dated funding** decision, a **narrower support assignment** or a **clear way to escalate** conflicting requests. Record what can’t be changed and reflect it in your commitments. Investor fit is also the continuing work of making an imperfect relationship usable.
 
 {id: assess-investor-fit--when-the-evidence-is-missing}
 ## When the Evidence Is Missing
 
-References may be unavailable, and fund information may not be shared. Missing evidence should become an explicit uncertainty in the plan, not an endless request for more information. Label the support as unconfirmed in the operating plan. Make no customer or hiring commitment that depends on unconfirmed funding or support. Set a review date when the label is confirmed, removed or escalated.
+References may be unavailable, and fund information may not be shared. Missing evidence should become an **explicit uncertainty** in the plan, not an endless request for more information. Label the support as unconfirmed in the operating plan. Make no customer or hiring commitment that depends on unconfirmed funding or support. Set a review date when the label is confirmed, removed or escalated.
 
 Rotaline’s plan reads accordingly, with the two scenarios kept apart.
 
@@ -202,29 +209,29 @@ Rotaline’s plan reads accordingly, with the two scenarios kept apart.
 
 In both, no customer promise depends on the labelled item, and the label is confirmed, removed or escalated at the October board meeting.
 
-{id: assess-investor-fit--observations-to-investigate-and-one-reassessment-process}
-## Observations to Investigate, and One Reassessment Process
+{id: assess-investor-fit--warning-signs-to-check-and-how-to-reassess-the-investor}
+## Warning Signs to Check, and How to Reassess the Investor
 
 Some observations deserve investigation before reliance deepens:
 
 - a refusal to discuss *downside scenarios*, which model what happens if results are worse than planned;
-- pressure to match the figures of companies that are not comparable;
-- rules for calculating reported numbers that change whenever performance deteriorates;
-- instructions to staff that bypass executives;
+- pressure to match the figures of companies that are **not comparable**;
+- rules for calculating reported numbers that **change whenever performance deteriorates**;
+- instructions to staff that **bypass executives**;
 - repeated promises of help without a named delivery owner;
 - confidential coaching used unexpectedly in performance assessments.
 
 None is proof of misconduct. Each is a reason to clarify the operating arrangement.
 
-Some practices that feel uncomfortable at first can be productive. A new shareholder may insist on regular reports of cash received, paid and remaining, challenge a favored project or question whether an executive’s capabilities fit the company’s needs. The distinction is whether the challenge uses evidence, produces a legitimate decision and recognizes consequences.
+Some practices that feel **uncomfortable at first can be productive**. A new shareholder may insist on regular reports of cash received, paid and remaining, challenge a favored project or question whether an executive’s capabilities fit the company’s needs. The distinction is whether the challenge uses evidence, produces a legitimate decision and recognizes consequences.
 
-Fit is not settled at signing. People change, the company changes, and the original reasoning for the investment may fail. A periodic partnership review asks what support created value, what burden it imposed and which expectations need revision.
+Fit is not settled at signing. People change, the company changes, and the original reasoning for the investment may fail. A **periodic partnership review** asks what support created value, what burden it imposed and which expectations need revision.
 
 When a problem emerges, start with a concrete decision rather than a general complaint: document the competing objectives and the evidence, offer feasible options, take them to the forum authorized to decide (see the chapter [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority)), and record the decision and its consequences. If the disagreement concerns an important obligation or a right under a contract, involve the relevant qualified advisers. The investor’s technology adviser can help translate these conversations but can’t make every conflict disappear. Sometimes honest disagreement reveals that a role or partnership should change.
 
 This chapter has connected changed authority, incentives and the working relationship. Each assumes something this part does not supply itself: that both sides are reasoning about the same facts. A partnership review, an evidence-based challenge and an honest disagreement all need defined, sourced figures that neither side has to take on trust. The Part IV chapter [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) shows how to hold them ready.
 
-Suppose the agreement with Investor B is signed, the deal has closed and the first €4.5 million has arrived in Rotaline’s account. Rotaline then has that money, ten operator days a quarter, and a right to €1.5 million that is not yet money. How to turn those operator days into help the company can use is the subject of Part III: [COLLABORATE: Get Useful Help From Your Investor](#part-3). Which of Rotaline’s own initiatives the money actually received can fund at once is the question Part IV takes up: [Set Priorities: You Cannot Fund Everything at Once](#set-priorities).
+Suppose the agreement with Investor B is signed, the deal has closed and the first €4.5 million has arrived in Rotaline’s account. Rotaline now holds three different things. The €4.5 million is cash it can spend. The ten operator days a quarter are help from B’s people, but only useful if Rotaline decides what to ask them to do. The right to €1.5 million is not yet money: it becomes cash only if the pilot meets the condition and Rotaline requests it in time. How to turn those operator days into help the company can use is the subject of Part III: [COLLABORATE: Get Useful Help From Your Investor](#part-3). Which of Rotaline’s own initiatives the €4.5 million already received can fund at once is the question Part IV takes up: [Set Priorities: You Cannot Fund Everything at Once](#set-priorities).
 
 {id: assess-investor-fit--questions-to-consider}
 ## Questions to Consider

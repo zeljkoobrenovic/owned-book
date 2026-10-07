@@ -156,7 +156,7 @@ The company leader’s success in a transition is a working handover with unders
 {id: manage-handover--the-accepted-handover-record}
 ## The Accepted Handover Record
 
-The record lists, for each important initiative and open obligation: the baseline, the cost incurred to date, what has been paid and the continuing cost, the observed result and its uncertainty, the open work with its funding status, and the accountable leader on both sides. The receiving decision-maker signs for it. Tool 10 in the [Practical Tools for Ownership and Technology Decisions](#toolkit) gives the format.
+The record lists, for each important initiative and open obligation: the baseline, the cost incurred to date, what has been paid and the continuing cost, the observed result and its uncertainty, the open work with its funding status, and the accountable leader on both sides. The receiving decision-maker signs for it. [Tool 10](#toolkit--tool-10) in the [Practical Tools for Ownership and Technology Decisions](#toolkit) gives the format.
 
 {id: manage-handover--one-accepted-handover}
 ### One accepted handover
