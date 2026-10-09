@@ -1,7 +1,7 @@
 {id: bibliography}
-# 46. Bibliography and Evidence Guide
+# 46. Bibliography
 
-![Bibliography and Evidence Guide — logo](private-techuity/posts/bibliography/assets/images/bibliography/logo.jpeg)
+![Bibliography — logo](private-techuity/posts/bibliography/assets/images/bibliography/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn where the book’s evidence comes from, what kind of evidence each source provides, which chapters use it and the limits of what was consulted.
 
@@ -26,25 +26,25 @@ Use this table to find evidence by question. A source can appear under more than
 
 | Topic | Identifiers | Start with |
 | --- | --- | --- |
-| Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [Understand Valuation: An Estimate, Not a Fact](#understand-valuation), [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) |
+| Valuation, earnings measures and investor returns | S03, S04, S05, S06, S52, S53, S73, S74 | [Understand Valuation: An Estimate, Not a Fact](#understand-valuation), [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns), [Fund Economics: Why the Fund's Clock Shapes Your Requests](#fund-economics) |
 | Cash, funding forms and financing documents | S01, S02, S07, S54, S55, S56, S57, S58, S59, S60, S61, S72 | [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow) |
 | Governance, rights and incentives | S01, S02, S04, S61, S76 | [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) |
 | Trust, cooperation and team dysfunctions | S119 | [Where Investment Can Go Wrong](#where-investment-goes-wrong) |
-| Workforce reductions and employment process | S77, S78 | [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down) |
-| Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75, S120 | [Assess Capability: Can the Team Deliver?](#assess-capability), [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs) |
-| Security and resilience | S17 | [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience) |
-| AI evidence | S18, S19, S20, S21, S63 | [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy) |
+| Workforce reductions and employment process | S77, S78 | [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down) |
+| Delivery, architecture and cloud cost | S13, S14, S15, S16, S53, S75, S120 | [Assess Capability: Can Systems and Team Deliver the Plan?](#assess-capability), [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions), [Evaluate Cloud Costs: What a Lower Bill Can Hide](#evaluate-cloud-costs) |
+| Security and resilience | S17 | [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience) |
+| AI evidence | S18, S19, S20, S21, S63 | [Clarify AI Strategy: Separate the Bet, the Saving and the Threat](#clarify-ai-strategy) |
 | Investor support and advisers | S22, P01, P02 | [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role), [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help) |
 | Investor-organized learning, peer communities and shared resources | S101–S105 | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) |
-| Data foundations, analytics practice and shared evidence | S106–S109 | [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) |
+| Data foundations, analytics practice and shared evidence | S106–S109 | [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) |
 | Grounded Architecture applied across a portfolio | S106, S110–S115 | [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio) |
-| Technology operating partners, leadership roles and AI support | S79–S90 | [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners) |
+| Technology operating partners, leadership roles and AI support | S79–S90 | [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners) |
 | Operating-model blueprints and investor–company working arrangements | S01, S91–S100 | [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support) |
-| Case: Hilton and Skype | S23, S24, S25, S26, S27, S28, S29, S64, S65, S116, S117 | [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) |
-| Case: Visma | S30, S31, S32, S33, S43, S44, S62 | [Visma: Continuity of Manager Is Not Continuity of Money](#visma) |
-| Case: Toys R Us | S34, S35, S36, S37, S40, S41, S50, S51, S118 | [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us) |
-| Case: TeamSystem | S45, S46, S47, S48, S49, S66, S67, S68, S69, S70, S71 | [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem) |
-| Wider research on ownership outcomes | S08, S09, S10, S11, S12, S39, S42 | [Success for Whom, and for How Long?](#success-for-whom) |
+| Case: Hilton and Skype | S23, S24, S25, S26, S27, S28, S29, S64, S65, S116, S117 | [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype) |
+| Case: Visma | S30, S31, S32, S33, S43, S44, S62 | [Visma: The Manager Stayed, the Owners Changed](#visma) |
+| Case: Toys R Us | S34, S35, S36, S37, S40, S41, S50, S51, S118 | [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us) |
+| Case: TeamSystem | S45, S46, S47, S48, S49, S66, S67, S68, S69, S70, S71 | [TeamSystem: Four Owners, One Continuing Business](#teamsystem) |
+| Wider research on ownership outcomes | S08, S09, S10, S11, S12, S39, S42 | [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom) |
 
 The historical cases and the outcome research concern private equity. Venture, expansion and corporate funding are supported by institutional guidance (S58–S61) and introductory regulator material (S54–S57), which describe funding forms and the existence of distinct venture financing documents. Those sources support the book’s financial orientation; they do not establish comparative investor performance, and they are not additional case studies. Comparisons across ownership models elsewhere in the book use explicitly fictional scenarios and my reasoning about stated constraints. Transferring a question about funding, rights or capacity to another ownership model is different from transferring a causal finding.
 
@@ -82,7 +82,7 @@ U.S. Securities and Exchange Commission, Investor.gov. [Private Equity Funds](ht
 
 **Evidence type:** Regulator education. **Consulted scope:** Guide consulted for fund structure, investment forms, illiquidity, and investor considerations. An introduction, not a particular fund agreement. Rechecked September 13, 2026 for the distinction between controlling and minority investment strategies. Fees, expense allocation and portfolio-company service-payment conflicts rechecked September 21, 2026 for the operating-model chapter; the guide does not determine a particular company’s charging arrangement.
 
-**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics), [Glossary](#glossary), [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
+**Used in:** [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Fund Economics: Why the Fund's Clock Shapes Your Requests](#fund-economics), [Glossary](#glossary), [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support).
 
 {id: bibliography--s02-ilpa-principles}
 ### S02 — ILPA principles
@@ -91,7 +91,7 @@ Institutional Limited Partners Association (ILPA). [ILPA Principles 3.0: Fosteri
 
 **Evidence type:** LP industry guidance. **Consulted scope:** Selected sections on alignment, economics, governance, transparency, and continuation transactions. An LP perspective and voluntary principles, not law or proof of universal practice.
 
-**Used in:** [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes), [Assess Investor Fit: Behavior Under Pressure](#assess-investor-fit), [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover), [Glossary](#glossary).
+**Used in:** [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes), [Assess Investor Fit: Behavior Under Pressure](#assess-investor-fit), [Manage the Handover: What the Next Owner Inherits](#manage-handover), [Glossary](#glossary).
 
 {id: bibliography--s03-kaplan-and-stromberg}
 ### S03 — Kaplan and Strömberg
@@ -118,7 +118,7 @@ Institutional Limited Partners Association (ILPA). [ILPA Performance Template](h
 
 **Evidence type:** Industry methodology. **Consulted scope:** Template landing page and January 22, 2025 launch announcement consulted for scope and methodology. The manuscript's simplified calculations are its own examples, not claims of completed template compliance.
 
-**Used in:** [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics), [Glossary](#glossary).
+**Used in:** [Fund Economics: Why the Fund's Clock Shapes Your Requests](#fund-economics), [Glossary](#glossary).
 
 {id: bibliography--s06-sec-non-gaap-guidance}
 ### S06 — SEC non-GAAP guidance
@@ -145,7 +145,7 @@ Steven J. Davis, John Haltiwanger, Kyle Handley, Ben Lipsius, Josh Lerner, and J
 
 **Evidence type:** Original empirical research. **Consulted scope:** Revised PDF abstract, introduction, design, and selected results consulted. US buyouts over 1980–2013; transaction types differ. Use the April 2024 estimates, not the earlier digest's figures. DOI: 10.3386/w26371.
 
-**Used in:** [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s09-davis-et-al-jobs-study}
 ### S09 — Davis et al., jobs study
@@ -154,7 +154,7 @@ Steven J. Davis, John C. Haltiwanger, Kyle Handley, Ron S. Jarmin, Josh Lerner, 
 
 **Evidence type:** Original empirical research. **Consulted scope:** Abstract and indexed study description consulted for the distinction between establishment and firm outcomes; full tables were not reanalyzed. Journal version published in 2014. DOI: 10.3386/w19458.
 
-**Used in:** [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s10-bernstein-et-al-crisis-study}
 ### S10 — Bernstein et al., crisis study
@@ -163,7 +163,7 @@ Shai Bernstein, Josh Lerner, and Filippo Mezzanotti. [Private Equity and Financi
 
 **Evidence type:** Original empirical research. **Consulted scope:** PDF abstract, introduction, sample and selected mechanism discussion consulted. UK financial-crisis setting and matched observational design limit generalization. Journal version appeared in 2019. DOI: 10.3386/w23626.
 
-**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s11-gupta-et-al-nursing-homes}
 ### S11 — Gupta et al., nursing homes
@@ -172,7 +172,7 @@ Atul Gupta, Sabrina T. Howell, Constantine Yannelis, and Abhinav Gupta. [Owner I
 
 **Evidence type:** Original empirical research. **Consulted scope:** Revised PDF abstract, introduction, identification discussion, and selected results consulted. Short-stay Medicare patient population and identification assumptions are material. Not a claim about every care setting. DOI: 10.3386/w28474.
 
-**Used in:** [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s12-kannan-et-al-adverse-events}
 ### S12 — Kannan et al., adverse events
@@ -181,7 +181,7 @@ Sneha Kannan, Joseph Dov Bruch, and Zirui Song. [Changes in Hospital Adverse Eve
 
 **Evidence type:** Peer-reviewed original research. **Consulted scope:** Methods, results, and relevant table consulted. Difference-in-differences comparison of acquired and control hospitals; associations, patient composition, and study period matter. DOI: 10.1001/jama.2023.23147.
 
-**Used in:** [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s13-space-framework}
 ### S13 — SPACE framework
@@ -190,7 +190,7 @@ Nicole Forsgren, Margaret-Anne Storey, Chandra Maddila, Tom Zimmermann, Brian Ho
 
 **Evidence type:** Original research framework. **Consulted scope:** Author-hosted publication page and abstract consulted; ACM page was inaccessible. Supports a multidimensional productivity frame, not a formula assigning economic value to each dimension.
 
-**Used in:** [Assess Capability: Can the Team Deliver?](#assess-capability), [Glossary](#glossary).
+**Used in:** [Assess Capability: Can Systems and Team Deliver the Plan?](#assess-capability), [Glossary](#glossary).
 
 {id: bibliography--s14-dora-metrics-guide}
 ### S14 — DORA metrics guide
@@ -199,7 +199,7 @@ DORA. [DORA's Software Delivery Performance Metrics](https://dora.dev/guides/dor
 
 **Evidence type:** Original practitioner research guidance. **Consulted scope:** Current guide consulted. Metric definitions have evolved; this draft notes five current delivery-performance metrics rather than treating the historical four as timeless.
 
-**Used in:** [Assess Capability: Can the Team Deliver?](#assess-capability), [Glossary](#glossary).
+**Used in:** [Assess Capability: Can Systems and Team Deliver the Plan?](#assess-capability), [Glossary](#glossary).
 
 {id: bibliography--s15-dora-2024-report}
 ### S15 — DORA 2024 report
@@ -208,7 +208,7 @@ DORA / Google Cloud. [2024 Accelerate State of DevOps Report](https://dora.dev/r
 
 **Evidence type:** Original industry survey. **Consulted scope:** Report landing page, findings summary, and errata consulted; no independent reanalysis of the full survey. Associations support questions about operating conditions, not automatic causal or financial claims.
 
-**Used in:** [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up).
+**Used in:** [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up).
 
 {id: bibliography--s16-finops-unit-economics}
 ### S16 — FinOps unit economics
@@ -217,7 +217,7 @@ FinOps Foundation. [Unit Economics](https://www.finops.org/framework/capabilitie
 
 **Evidence type:** Practitioner framework. **Consulted scope:** Capability guidance consulted for connecting cost with business units and value. All manuscript euro examples are fictional calculations.
 
-**Used in:** [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs), [Glossary](#glossary).
+**Used in:** [Evaluate Cloud Costs: What a Lower Bill Can Hide](#evaluate-cloud-costs), [Glossary](#glossary).
 
 {id: bibliography--s17-nist-csf-2-0}
 ### S17 — NIST CSF 2.0
@@ -226,7 +226,7 @@ National Institute of Standards and Technology (NIST). [The NIST Cybersecurity F
 
 **Evidence type:** Government framework. **Consulted scope:** Framework overview, functions, governance, and implementation orientation consulted. A structure for risk management, not evidence that adopting it eliminates incidents. DOI: 10.6028/NIST.CSWP.29.
 
-**Used in:** [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), [Glossary](#glossary).
+**Used in:** [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience), [Glossary](#glossary).
 
 {id: bibliography--s18-nist-generative-ai-profile}
 ### S18 — NIST generative AI profile
@@ -235,7 +235,7 @@ Chloe Autio, Reva Schwartz, Jesse Dunietz, Shomik Jain, Martin Stanley, Elham Ta
 
 **Evidence type:** Government framework. **Consulted scope:** Risk categories and management orientation consulted. Applies as a question structure; no claim of certification or quantified loss reduction. DOI: 10.6028/NIST.AI.600-1.
 
-**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy), [Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount](#scale-the-team-with-ai), [Critically Evaluate AI Costs: Measure the Return per Task and per Period](#evaluate-ai-costs).
+**Used in:** [Clarify AI Strategy: Separate the Bet, the Saving and the Threat](#clarify-ai-strategy), [Scale the Team With AI: Seats Are Not Capacity](#scale-the-team-with-ai), [Evaluate AI Costs: The Price Is Fixed, the Bill Is Not](#evaluate-ai-costs).
 
 {id: bibliography--s19-peng-et-al-copilot-experiment}
 ### S19 — Peng et al., Copilot experiment
@@ -244,7 +244,7 @@ Sida Peng, Eirini Kalliamvakou, Peter Cihon, and Mert Demirer. [The Impact of AI
 
 **Evidence type:** Original controlled experiment. **Consulted scope:** Original abstract and task description consulted. A recheck on September 13, 2026 covered the [study design and results](https://arxiv.org/html/2302.06590v1): the experiment ran in 2022, and the 55.8% figure is a reduction in average completion time among those who completed the task. The bounded task, tool generation and industry affiliations limit interpretation.
 
-**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy), [Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount](#scale-the-team-with-ai).
+**Used in:** [Clarify AI Strategy: Separate the Bet, the Saving and the Threat](#clarify-ai-strategy), [Scale the Team With AI: Seats Are Not Capacity](#scale-the-team-with-ai).
 
 {id: bibliography--s20-metr-early-2025-experiment}
 ### S20 — METR early-2025 experiment
@@ -253,7 +253,7 @@ METR. [Measuring the Impact of Early-2025 AI on Experienced Open-Source Develope
 
 **Evidence type:** Original randomized experiment report. **Consulted scope:** Study report, setting, headline result, and limits consulted. Experienced developers on familiar repositories; not every developer, task, or later model.
 
-**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy), [Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount](#scale-the-team-with-ai).
+**Used in:** [Clarify AI Strategy: Separate the Bet, the Saving and the Threat](#clarify-ai-strategy), [Scale the Team With AI: Seats Are Not Capacity](#scale-the-team-with-ai).
 
 {id: bibliography--s21-metr-2026-update}
 ### S21 — METR 2026 update
@@ -262,7 +262,7 @@ Joel Becker, Nate Rush, Tom Cunningham, David Rein, and Khalid Mahamud; METR. [W
 
 **Evidence type:** Original research update. **Consulted scope:** Full update consulted. Selection and participation changes undermine a simple interpretation of later speed estimates; the chapter does not present those estimates as a settled current effect.
 
-**Used in:** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy), [Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount](#scale-the-team-with-ai).
+**Used in:** [Clarify AI Strategy: Separate the Bet, the Saving and the Threat](#clarify-ai-strategy), [Scale the Team With AI: Seats Are Not Capacity](#scale-the-team-with-ai).
 
 {id: bibliography--s22-kkr-capstone-description}
 ### S22 — KKR Capstone description
@@ -280,7 +280,7 @@ Hilton Worldwide Holdings Inc. [Form S-1 Registration Statement](https://www.sec
 
 **Evidence type:** Company regulatory filing. **Consulted scope:** Prospectus business/commercial-services discussion, debt restructuring, and selected operating comparisons consulted. Financial disclosures and management narratives have different evidentiary roles; not a full independent audit of the filing.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s24-blackstone-2018-investor-call}
 ### S24 — Blackstone 2018 investor call
@@ -289,7 +289,7 @@ The Blackstone Group L.P. [Second Quarter 2018 Earnings Investor Call](https://i
 
 **Evidence type:** Interested investor account. **Consulted scope:** Hilton realization discussion consulted for sponsor-reported 3.1× multiple and $14 billion profit. Not an independently reconstructed net LP cash-flow series.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype), [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover), [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype), [Manage the Handover: What the Next Owner Inherits](#manage-handover), [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s25-pei-hilton-retrospective}
 ### S25 — PEI Hilton retrospective
@@ -298,7 +298,7 @@ Private Equity International. [North American Exit of the Year: Blackstone for H
 
 **Evidence type:** Industry journalism / award retrospective. **Consulted scope:** Retrospective consulted for the initial transaction and ownership narrative. Sponsor-hosted award coverage has selection and promotional context; triangulated with the Hilton filing where possible.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s26-ebay-skype-sale-announcement}
 ### S26 — eBay Skype sale announcement
@@ -307,7 +307,7 @@ eBay Inc. [eBay Inc. Completes Sale of Skype](https://investors.ebayinc.com/inve
 
 **Evidence type:** Company transaction announcement. **Consulted scope:** Completion, valuation, retained stake, and consideration description consulted. Does not supply the buyer consortium's complete equity cash flows.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s27-skype-registration-filing}
 ### S27 — Skype registration filing
@@ -316,7 +316,7 @@ Skype S.à r.l., to be converted into Skype S.A. [Amendment No. 3 to Form S-1 Re
 
 **Evidence type:** Company regulatory filing. **Consulted scope:** Prospectus summary pp. 1–4, recent developments, intellectual-property settlement, selected financial data and financing discussion consulted. Pro forma periods, adjusted EBITDA, and management claims require care.
 
-**Used in:** [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations), [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence), [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Plan Acquisitions and Separations: Account for the Work, Not Just the Value](#plan-acquisitions-separations), [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence), [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s28-microsoft-skype-completion}
 ### S28 — Microsoft Skype completion
@@ -325,7 +325,7 @@ Microsoft. [Microsoft Officially Welcomes Skype](https://news.microsoft.com/sour
 
 **Evidence type:** Buyer announcement. **Consulted scope:** Completion announcement and May 10, 2011 acquisition announcement consulted. The former states completion and recounts the announced $8.5 billion transaction; neither establishes fund-level net returns.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s29-microsoft-skype-retirement}
 ### S29 — Microsoft Skype retirement
@@ -334,7 +334,7 @@ Microsoft Support. [Skype Is Retiring in May 2025: What You Need to Know](https:
 
 **Evidence type:** Product owner statement. **Consulted scope:** Retirement scope/date consulted, alongside Microsoft's February 28, 2025 announcement. Later product retirement is not attributed to the earlier private equity interventions.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype), [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype), [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s30-visma-2023-transaction}
 ### S30 — Visma 2023 transaction
@@ -343,7 +343,7 @@ Visma. [Visma Attracts New Investors for Further International Expansion in a Tr
 
 **Evidence type:** Company transaction announcement. **Consulted scope:** Transaction valuation, investors, and ownership narrative consulted. Valuation is not proof of cash realized by a particular fund.
 
-**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma), [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
+**Used in:** [Visma: The Manager Stayed, the Owners Changed](#visma), [Manage the Handover: What the Next Owner Inherits](#manage-handover).
 
 {id: bibliography--s31-visma-q4-2024-report}
 ### S31 — Visma Q4 2024 report
@@ -352,7 +352,7 @@ Visma. [Quarterly Report 2024 Q4](https://cdn.prod.website-files.com/69787181d87
 
 **Evidence type:** Company financial report. **Consulted scope:** Selected highlights, key figures, financial review, M&A and technology narrative, and definitions on p. 23 consulted. Full-year revenue/EBITDA and before-tax free-cash-flow definitions use this contemporaneous report consistently.
 
-**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma), [Glossary](#glossary).
+**Used in:** [Visma: The Manager Stayed, the Owners Changed](#visma), [Glossary](#glossary).
 
 {id: bibliography--s32-visma-annual-report-announcement}
 ### S32 — Visma annual-report announcement
@@ -361,7 +361,7 @@ Visma. [Visma Releases Annual and Sustainability Reports for 2024](https://www.v
 
 **Evidence type:** Interested company account. **Consulted scope:** Announcement consulted for acquisition, R&D, and operating-model claims. Not a claim to have read both complete annual and sustainability reports or independently verified their impact.
 
-**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+**Used in:** [Visma: The Manager Stayed, the Owners Changed](#visma).
 
 {id: bibliography--s33-visma-current-financials-page}
 ### S33 — Visma current financials page
@@ -370,7 +370,7 @@ Visma. [Financial Results](https://www.visma.com/investors/financials). Living p
 
 **Evidence type:** Company financial presentation. **Consulted scope:** Financials landing page inspected September 12, 2026. Its rounded EUR 904 million adjusted EBITDA for 2024 is reconciled using S43–S44: EUR 892.646 million EBITDA plus EUR 11.665 million M&A expenses equals EUR 904.311 million adjusted EBITDA. The page is a current presentation of historical figures, not a new operating result.
 
-**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+**Used in:** [Visma: The Manager Stayed, the Owners Changed](#visma).
 
 {id: bibliography--s34-toys-r-us-annual-filing-excerpts}
 ### S34 — Toys R Us annual filing excerpts
@@ -379,7 +379,7 @@ Toys R Us, Inc. [Form 10-K for Fiscal Year Ended January 28, 2017](https://www.s
 
 **Evidence type:** Company regulatory filing; partial access. **Consulted scope:** Only indexed excerpts concerning the e-commerce platform and risk were consulted. Full-page browser and download attempts failed with access errors. Do not treat this as a full 10-K review; financial table claims use S35 instead. A second attempt at complete access through the SEC and mirrors, also on September 12, 2026, did not obtain the full document; the access limit remains. S50 supplies separately consulted primary court evidence, not a substitute claim that this full 10-K was read.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us).
 
 {id: bibliography--s35-toys-r-us-fiscal-2016-results}
 ### S35 — Toys R Us fiscal 2016 results
@@ -388,7 +388,7 @@ Toys R Us, Inc. [Toys R Us, Inc. Reports Results for the Full Year and Fourth Qu
 
 **Evidence type:** Company financial disclosure. **Consulted scope:** Release and financial tables consulted, including operating earnings, interest, cash flow, capex, sales, and e-commerce discussion. Fiscal year ended January 28, 2017; table units are USD millions.
 
-**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us).
 
 {id: bibliography--s36-toys-r-us-bankruptcy-note}
 ### S36 — Toys R Us bankruptcy note
@@ -397,7 +397,7 @@ Toys R Us, Inc. [Bankruptcy Filing: Note to Interim Financial Statements](https:
 
 **Evidence type:** Company regulatory disclosure. **Consulted scope:** Note consulted for the September 18, 2017 filings, the court-authorized financing facility of up to $3,125 million for the bankruptcy period (interim order September 19 and final order October 24, 2017), the authorized but not required payments of pre-filing claims, continued operation as debtor in possession, and entity/jurisdiction scope including the Canadian parallel process. This is the company's financial-statement account, not a review of the complete court docket.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us).
 
 {id: bibliography--s37-reuters-us-liquidation-report}
 ### S37 — Reuters US liquidation report
@@ -406,7 +406,7 @@ Tracy Rucinski; Reuters. [Toys R Us to Close Doors, Leaving Void for Toy Lovers]
 
 **Evidence type:** Credible contemporaneous journalism. **Consulted scope:** Report consulted for US shutdown plans and approximately 33,000 full- and part-time jobs exposed. Scope and timing are the reported plans; international operations and later brand ownership require separate treatment.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us), [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us), [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s39-bruch-et-al-hospital-measures}
 ### S39 — Bruch et al., hospital measures
@@ -415,7 +415,7 @@ Joseph D. Bruch, Suhas Gondi, and Zirui Song. [Changes in Hospital Income, Use, 
 
 **Evidence type:** Peer-reviewed original research. **Consulted scope:** Methods, selected results and quality measures consulted. Different outcomes and samples from S12; improvements on some measures do not settle overall welfare. DOI: 10.1001/jamainternmed.2020.3552.
 
-**Used in:** [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s40-toys-r-us-acquisition-agreement-announcement}
 ### S40 — Toys R Us acquisition agreement announcement
@@ -424,7 +424,7 @@ Toys R Us, Inc. [Agreement to Be Acquired by KKR, Bain Capital and Vornado for $
 
 **Evidence type:** Company transaction announcement. **Consulted scope:** Announcement consulted for agreed consideration and context. The title is shortened here; a headline transaction amount is not a reconstructed financing schedule.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us).
 
 {id: bibliography--s41-toys-r-us-acquisition-completion}
 ### S41 — Toys R Us acquisition completion
@@ -433,7 +433,7 @@ Bain Capital, Kohlberg Kravis Roberts & Co., and Vornado Realty Trust. [Bain Cap
 
 **Evidence type:** Buyer announcement filed with SEC. **Consulted scope:** Completion date and purchaser group consulted. Not evidence of the complete later debt or distribution history.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us).
 
 {id: bibliography--s42-kannan-and-song-after-sale}
 ### S42 — Kannan and Song, after sale
@@ -442,7 +442,7 @@ Sneha Kannan and Zirui Song. [Financial Health After Private Equity Hospitals Ar
 
 **Evidence type:** Peer-reviewed original research. **Consulted scope:** Study population, methods, results, and limitations consulted. Small observational comparison of 18 hospitals resold to PE and 18 to other for-profit owners. Financial trajectories are not direct patient-outcome measures. DOI: 10.1001/jamahealthforum.2025.3217.
 
-**Used in:** [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s43-visma-2024-annual-report}
 ### S43 — Visma 2024 annual report
@@ -451,7 +451,7 @@ Visma. [Annual Report 2024](https://cdn.prod.website-files.com/69787181d8720ea08
 
 **Evidence type:** Company annual report. **Consulted scope:** Complete PDF obtained and text extracted; selected key figures and Note 2, pp. 50 and 52, read for 2024 EBITDA of EUR 892.646 million and its reconciliation. Not every note reviewed. The operating outcome is historical, not a current valuation.
 
-**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+**Used in:** [Visma: The Manager Stayed, the Owners Changed](#visma).
 
 {id: bibliography--s44-visma-2025-annual-report}
 ### S44 — Visma 2025 annual report
@@ -460,7 +460,7 @@ Visma. [Annual Report 2025](https://cdn.prod.website-files.com/69787181d8720ea08
 
 **Evidence type:** Company annual report. **Consulted scope:** Complete PDF obtained and text extracted. Selected key figures, signature date, and alternative-performance-measure reconciliation on p. 96 consulted. The 2024 comparative adds EUR 11.665 million of M&A expenses, producing adjusted EBITDA of EUR 904.311 million. Also inspected definitions and the separate go-forward perimeter presentation; no claim to have reviewed all 2025 operations.
 
-**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+**Used in:** [Visma: The Manager Stayed, the Owners Changed](#visma).
 
 {id: bibliography--s45-palamon-teamsystem-case}
 ### S45 — Palamon TeamSystem case
@@ -469,7 +469,7 @@ Palamon Capital Partners. [TeamSystem](https://www.palamon.com/teamsystem). Unda
 
 **Evidence type:** Interested investor retrospective. **Consulted scope:** Case page read. Regional-company context, management and investment claims, exit scale and reported 4.1x investment multiple consulted. Header says December 2000 exit while narrative says December 2004; the latter is supported by Bain’s account in S47. Undefined “profitability” figure is not relabeled EBITDA. No independently reconstructed investor return or employee outcome.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s46-teamsystem-acquisition-announcement}
 ### S46 — TeamSystem acquisition announcement
@@ -478,7 +478,7 @@ HgCapital / HgCapital Trust plc. [HgCapital acquires TeamSystem, the leading pro
 
 **Evidence type:** Investor transaction announcement. **Consulted scope:** Announcement read for agreed majority acquisition, stated EUR 565 million enterprise value and 11.3x FY2010 EBITDA, thesis and expected September completion. Wording mixes agreement and acquisition language; manuscript treats the terms as announced rather than audited closing amounts. Present webpage contains some apparent company-name substitutions; no altered quotations reproduced.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s47-teamsystem-sale-announcement}
 ### S47 — TeamSystem sale announcement
@@ -487,7 +487,7 @@ HgCapital / HgCapital Trust plc; statements from transaction participants. [HgCa
 
 **Evidence type:** Investor transaction announcement. **Consulted scope:** Agreement to sell to Hellman & Friedman, retained minority investment and participant accounts consulted. Bain’s statement places its initial acquisition in 2004. The announcement anticipated 2016 completion; subsequent S48 supplies completion evidence. Interested parties’ descriptions are not independent causal evaluation.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s48-hgcapital-trust-2015-results}
 ### S48 — HgCapital Trust 2015 results
@@ -496,7 +496,7 @@ HgCapital Trust plc / HgCapital. [2015 Full Year Results Presentation](https://w
 
 **Evidence type:** Listed investment trust / manager results presentation. **Consulted scope:** Selected portfolio context, TeamSystem case on p. 14 and subsequent-event summary on p. 17 read. Presentation reports 2016 completion, GBP 39 million Trust cash proceeds, GBP 6.1 million retained value and a 1.8x return. Product, pricing, collection, M&A and refinancing claims are the manager’s. No full investor cash-flow reconstruction or inference of net LP return; presentation itself refers readers to the full annual report.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s49-teamsystem-2017-consolidated-report}
 ### S49 — TeamSystem 2017 consolidated report
@@ -505,7 +505,7 @@ TeamSystem Holding S.p.A. and subsidiaries. [Consolidated Financial Statements a
 
 **Evidence type:** Company consolidated financial statements and directors’ report. **Consulted scope:** Full 87-page PDF obtained and text extracted; selected directors’ report, 2016 comparability explanation, statements, earnings reconciliation, development spending, acquisitions and financing notes read. Cited page numbers use PDF display pages: 9–15, 23, 26, 45 and 48–49. The consolidated statement of cash flows (p. 26) and Notes 7, 8 and 10 (pp. 48–49) were read for the distinction between the accounting charge and the cash paid: Note 8 reports finance costs of €79.674 million and Note 7 finance income of €7.618 million, while Note 10 states that €52.1 million of finance costs was paid during 2017, including €49.8 million of interest on the notes (€13.5 million on the €150 million senior notes and €36.3 million on the €570 million senior secured notes) and €1.9 million mainly of other interest and bank charges. Interest paid is not shown on the face of the cash-flow statement; its financing line nets those payments against new borrowing, which is why Note 10 is required. Scanned auditor-opinion page 84 visually inspected: Deloitte opines on the consolidated statements under EU-adopted IFRS, not on causal sponsor contribution or every management claim. Statutory 2016 operations cover March–December; pro forma income comparisons also adjust acquisition scope. Capitalized-development comparative is ten months and must not be described as matched annual growth.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s50-brandon-first-day-declaration}
 ### S50 — Brandon first-day declaration
@@ -514,7 +514,7 @@ David A. Brandon, Chairman and Chief Executive Officer of Toys “R” Us, Inc. 
 
 **Evidence type:** Primary court-filed debtor declaration, public document mirror. **Consulted scope:** Complete 47-page stamped filing obtained and text extracted. Selected paragraphs 10–12, 19–32, 53–55, 60, 74 and 91–95 consulted for debt, maturities, supplier terms, technology constraints and proposed investment. Sworn management account supporting an application, not a court finding of causation. Funding table is a September 2017 snapshot, not a reconstructed 2005 sources-and-uses statement. Future project spending is a plan, not a realized result.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us).
 
 {id: bibliography--s51-hasbro-2018-annual-report}
 ### S51 — Hasbro 2018 annual report
@@ -523,7 +523,7 @@ Hasbro, Inc. [2018 Annual Report, including Form 10-K for the year ended Decembe
 
 **Evidence type:** Supplier annual report and financial statements, public report mirror. **Consulted scope:** Full report obtained and text extracted; selected management discussion, segment results, operating expenses and receivables note consulted. Printed pp. 38 and 67 support USD 60.4 million related costs and approximately USD 49 million bad-debt expense respectively; the latter is included, not additive. Separate supplier-side evidence, but Hasbro is an interested participant. Its overall revenue/profit change has other causes; these costs do not measure all supplier or social losses.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us), [Success for Whom, and for How Long?](#success-for-whom).
+**Used in:** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us), [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom).
 
 {id: bibliography--s52-ipev-valuation-guidelines}
 ### S52 — IPEV valuation guidelines
@@ -622,7 +622,7 @@ Hg. [Hg leads $5.3bn buyout of Visma](https://hgcapital.com/insights/hg-leads-us
 
 **Evidence type:** Investment manager's transaction announcement. **Consulted scope:** The announcement was read in full for the funds named for the 2006 and 2014 investments, the 2017 buyout value, KKR's realization of its stake and the stated post-transaction ownership shares. The announcement states that completion is subject to regulatory approval. An interested account of announced terms, not an audited record; it does not state who sold in each round or how much money reached the operating company.
 
-**Used in:** [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+**Used in:** [Visma: The Manager Stayed, the Owners Changed](#visma).
 
 {id: bibliography--s63-oecd-ai-system-definition-memorandum}
 ### S63 — OECD AI-system definition memorandum
@@ -640,7 +640,7 @@ Hilton Hotels Corporation. [Form 10-K for the fiscal year ended December 31, 200
 
 **Evidence type:** Company regulatory filing. **Consulted scope:** The business description's statements that the proprietary OnQ system was introduced in 2003 and had been installed at substantially all hotels in the system. Consulted to date the platform before the 2007 buyout; not read for its financial statements.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s65-hilton-2005-annual-filing}
 ### S65 — Hilton 2005 annual filing
@@ -649,7 +649,7 @@ Hilton Hotels Corporation. [Form 10-K for the fiscal year ended December 31, 200
 
 **Evidence type:** Company regulatory filing. **Consulted scope:** The statement that OnQ had been installed at virtually all hotels in the system as of December 31, 2005, and the intention to install it in hotels acquired in the Hilton International transaction. Consulted to establish the inherited platform's reach before the 2007 buyout; not read for its financial statements.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s66-hgcapital-trust-january-2021-teamsystem-announcement}
 ### S66 — HgCapital Trust January 2021 TeamSystem announcement
@@ -658,7 +658,7 @@ HgCapital Trust plc. [Hg invests in TeamSystem](https://www.hgcapitaltrust.com/n
 
 **Evidence type:** Investor transaction announcement. **Consulted scope:** Statements that Hg's Genesis 6 fund would sell its minority holding to a vehicle controlled by Hellman & Friedman Capital Partners IX, that the Trust would invest about GBP 14.3 million through the Hg Genesis 8 fund, that the transaction valued the Trust's existing investment at GBP 21.3 million, and that Hg would remain a minority investor. No completion date or conditions stated; completion is taken from S67. Announced values, not cash received.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s67-hgcapital-trust-2021-annual-report}
 ### S67 — HgCapital Trust 2021 annual report
@@ -667,7 +667,7 @@ HgCapital Trust plc. [Annual Report & Accounts 2021](https://www.hgcapitaltrust.
 
 **Evidence type:** Listed investment trust annual report. **Consulted scope:** PDF pp. 45, 48, 50, 51 and 54: February 2021 completion of the GBP 14.3 million investment through Hg Genesis 8 and of the Genesis 6 sale with GBP 21.4 million returned to the Trust; realisations table (GBP 21.373 million, secondary sale); investments table (GBP 14.250 million); TeamSystem carried at GBP 18.316 million against cost of GBP 14.250 million at 31 December 2021. Gross fund-level figures, not net distributions to the Trust's shareholders.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s68-silver-lake-teamsystem-announcement}
 ### S68 — Silver Lake TeamSystem announcement
@@ -676,7 +676,7 @@ Silver Lake. [Silver Lake to Make €600M Strategic Investment in TeamSystem](ht
 
 **Evidence type:** Buyer's transaction announcement. **Consulted scope:** Definitive agreement to acquire a EUR 600 million minority stake from Hellman & Friedman, which would remain the majority shareholder; closing expected around the end of 2023, subject to customary conditions and regulatory approvals. Hg is not mentioned. Completion not verified; an interested party's description of its own transaction.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s69-hgcapital-trust-2023-annual-report}
 ### S69 — HgCapital Trust 2023 annual report
@@ -685,7 +685,7 @@ HgCapital Trust plc. [Annual Report & Accounts 2023](https://www.hgcapitaltrust.
 
 **Evidence type:** Listed investment trust annual report. **Consulted scope:** PDF pp. 45–46: the August 2023 announced partial sale of the Trust's TeamSystem investment, listed under realisations after the year end with an estimated GBP 8 million to be returned, Hg remaining a minority investor and the holding valued at about GBP 33.3 million; portfolio table carrying TeamSystem (Hg Genesis 8, 2021 investment) at GBP 31.897 million against cost of GBP 10.586 million at 31 December 2023. Estimated and gross figures; completion of the partial sale not stated.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s70-hgcapital-trust-july-2024-teamsystem-announcement}
 ### S70 — HgCapital Trust July 2024 TeamSystem announcement
@@ -694,7 +694,7 @@ HgCapital Trust plc. [Sale of remaining investment in TeamSystem](https://www.hg
 
 **Evidence type:** Investor transaction announcement. **Consulted scope:** Agreed sale of the Trust's remaining investment to funds advised by Hellman & Friedman, valuing it at about GBP 24.3 million against a GBP 22.1 million carrying value at 31 March 2024 (a GBP 2.2 million uplift); completion subject to applicable closing conditions. Agreed value, not cash received.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s71-hgcapital-trust-2024-annual-report}
 ### S71 — HgCapital Trust 2024 annual report
@@ -703,7 +703,7 @@ HgCapital Trust plc. [Annual Report & Accounts 2024](https://www.hgcapitaltrust.
 
 **Evidence type:** Listed investment trust annual report. **Consulted scope:** PDF pp. 9 and 46–47: TeamSystem listed among full realisations made during 2024 with GBP 34.189 million of gross proceeds (secondary sale) and "GBP 34.2m returned to HgT"; the narrative repeats the July 2024 agreed-sale wording; the table footnote states that the figures are gross realisations before performance-fee and facility deductions and timing differences between company realisations and fund distributions, and that a full exit can coexist with a stake retained through another Hg fund. The report does not reconcile the gross figure with the announced GBP 24.3 million or say whether it includes the 2023 partial-sale proceeds; not a net distribution to the Trust's shareholders.
 
-**Used in:** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+**Used in:** [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: bibliography--s72-investor-gov-bonds-page}
 ### S72 — Investor.gov bonds page
@@ -721,7 +721,7 @@ Institutional Limited Partners Association (ILPA). [ILPA Model Limited Partnersh
 
 **Evidence type:** LP industry model document. **Consulted scope:** The distribution waterfall at sections 14.3.3 and 14.3.4, read for a partial general-partner catch-up that keeps the same end condition, and section 14.4.1 on distributions in kind and the treatment of remaining value. A voluntary model drafted under Delaware law from the LP side; it is not the agreement any particular fund signed and not evidence of prevailing market terms.
 
-**Used in:** [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics).
+**Used in:** [Fund Economics: Why the Fund's Clock Shapes Your Requests](#fund-economics).
 
 {id: bibliography--s74-ilpa-deal-by-deal-model-lpa}
 ### S74 — ILPA deal-by-deal model LPA
@@ -730,7 +730,7 @@ Institutional Limited Partners Association (ILPA). [ILPA Model Limited Partnersh
 
 **Evidence type:** LP industry model document. **Consulted scope:** The resource page was consulted to establish that ILPA publishes model agreements for both a whole-of-fund and a deal-by-deal distribution waterfall, which is the point the chapter rests on. The deal-by-deal document itself was not read clause by clause. Publishing two models does not make either the rule for any fund.
 
-**Used in:** [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics).
+**Used in:** [Fund Economics: Why the Fund's Clock Shapes Your Requests](#fund-economics).
 
 {id: bibliography--s75-fastly-fourth-quarter-2020-shareholder-letter}
 ### S75 — Fastly fourth-quarter 2020 shareholder letter
@@ -757,7 +757,7 @@ Council of the European Union. [Council Directive 98/59/EC of 20 July 1998 on th
 
 **Evidence type:** Union legislation. **Consulted scope:** Article 1(1)(a), the definition (dismissals for reasons not related to the individual workers) and the two alternative tests member states choose between (over 30 days: at least 10 dismissals in establishments normally employing more than 20 and fewer than 100 workers, at least 10% in those employing at least 100 and fewer than 300, at least 30 in those employing 300 or more; or over 90 days: at least 20 whatever the establishment’s size); the second subparagraph of Article 1(1), under which other terminations on the employer’s initiative for reasons unrelated to the individual are assimilated to redundancies provided there are at least five redundancies; Article 2(1) and (2), consultation of workers’ representatives in good time with a view to reaching an agreement, covering ways of avoiding or reducing the redundancies and mitigating their consequences; Article 3(1), written notification of the competent public authority; Article 4(1), the 30-day period after notification before the redundancies take effect, without prejudice to individual notice rights; and Article 5, member states’ freedom to apply more favourable provisions. Rechecked September 16, 2026 for the band boundaries. Minimum requirements that member states transpose and may exceed; not the law of any particular country, and the book does not say which law governs the fictional company. Later amendments were not reviewed.
 
-**Used in:** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down).
+**Used in:** [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down).
 
 {id: bibliography--s78-us-warn-act-29-u-s-c-21012102}
 ### S78 — US WARN Act, 29 U.S.C. §§ 2101–2102
@@ -766,7 +766,7 @@ United States Code, Title 29, Chapter 23. [§ 2101, Definitions; exclusions from
 
 **Evidence type:** Federal statute. **Consulted scope:** § 2101(a)(1), employer (100 or more employees excluding part-time employees, or 100 or more who in aggregate work at least 4,000 hours a week exclusive of overtime); (a)(2), plant closing (a shutdown of a single site, or of facilities or operating units within it, causing an employment loss for 50 or more employees excluding part-time employees within any 30-day period); (a)(3), mass layoff (a reduction in force not resulting from a plant closing that causes an employment loss at a single site within any 30-day period for at least 33 percent of the employees and at least 50 employees, or for at least 500, excluding part-time employees); (a)(8), part-time employee; § 2102(a), the 60-day written notice and its recipients (the employees’ representatives or the employees, the state’s rapid-response entity and the chief elected local official); § 2102(b), the reduced-notice exceptions (faltering company, unforeseeable business circumstances, natural disaster); and § 2102(d), aggregation of smaller employment losses within any 90-day period unless they arise from separate and distinct actions and causes. Rechecked September 16, 2026. The implementing regulations at 20 CFR Part 639 and state notice laws were not reviewed.
 
-**Used in:** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down).
+**Used in:** [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down).
 
 {id: bibliography--s79-korn-ferry-on-technology-operating-partners}
 ### S79 — Korn Ferry on technology operating partners
@@ -775,7 +775,7 @@ Korn Ferry. [Tech Titans in Private Equity](https://www.kornferry.com/institute/
 
 **Evidence type:** Executive-search practitioner commentary. **Consulted scope:** Web article on role scope, team models and cost allocation. The linked full report was not reviewed. Commercial perspective; no market-wide hiring series or causal return estimate established.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s80-ee-solutions-operating-partner-model}
 ### S80 — EE Solutions operating-partner model
@@ -784,7 +784,7 @@ EE Solutions Editorial Team. [What a Technology Operating Partner Does for Priva
 
 **Evidence type:** Technology-services provider commentary. **Consulted scope:** Definition, lifecycle, diligence continuity, post-close work, AI and shared portfolio capabilities. Describes a commercial service model; client examples and claimed benefits were not independently verified.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s81-redgrave-on-the-technology-operating-partner}
 ### S81 — Redgrave on the technology operating partner
@@ -793,7 +793,7 @@ Rind Bajwa, Redgrave. [Why Technology Operating Partners Are Becoming Essential 
 
 **Evidence type:** Executive-search practitioner commentary. **Consulted scope:** Role scope, company support, recruitment guidance, staff development, organizational design and matching leadership backgrounds to assignments. Talent-management section rechecked 2026-09-20. Commercial perspective; broad CIO/CTO characterizations are not universal job definitions. No market-wide growth rate inferred.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s82-vertex-cio-outsourced-operating-support}
 ### S82 — Vertex CIO outsourced operating support
@@ -802,7 +802,7 @@ Vertex CIO Advisory. [Technology Operating Partner for Private Equity](https://v
 
 **Evidence type:** Advisory-provider service description. **Consulted scope:** Lifecycle coverage, outsourced arrangements and distinction from a company fractional executive. Comparative performance claims, portfolio-size thresholds and suggested intervention timing were not adopted as evidence.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s83-acertitude-on-ai-and-technology-operating-partners}
 ### S83 — Acertitude on AI and technology operating partners
@@ -811,7 +811,7 @@ Jessica Tvelia, Acertitude. [Tech OPs vs. AI Solutions: The New Dilemma for PE O
 
 **Evidence type:** Executive-search practitioner commentary. **Consulted scope:** AI specialization and separate or blended roles. Commercial perspective. Hiring-growth figures and secondary survey statistics were not independently verified and are not used in the chapter.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s84-vaultinum-on-continuing-technology-review}
 ### S84 — Vaultinum on continuing technology review
@@ -820,7 +820,7 @@ Marine Yborra, Vaultinum. [Operating Partner: how to drive value creation during
 
 **Evidence type:** Technology-diligence provider commentary. **Consulted scope:** Revisiting acquisition assumptions during ownership, technology monitoring and exit preparation. The promoted service is not independently validated here. The asserted average holding period is not used.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s85-kkr-capstone-operating-function}
 ### S85 — KKR Capstone operating function
@@ -829,7 +829,7 @@ KKR. [Capstone](https://www.kkr.com/approach/capstone). Living organizational pa
 
 **Evidence type:** Investment firm description of its own practice. **Consulted scope:** Investment assessment, operating plans, implementation, cross-company programs and the digital/technology remit; recruitment, development and retention in the wider operating function. Talent remit rechecked 2026-09-20. Supports existence and stated scope of a function; no independent outcome or causal performance assessment.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s86-blackstone-on-ai-and-operating-support}
 ### S86 — Blackstone on AI and operating support
@@ -838,7 +838,7 @@ Blackstone; interview with John Stecher and Rodney Zemmel. [AI at Scale: A Conve
 
 **Evidence type:** Investment firm interview about its own practice. **Consulted scope:** Questions 2–4 on software diligence, investment workflows and the dedicated AI team. Firm-reported practice; productivity and financial-result claims and wider forecasts were not independently verified or adopted.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s87-gitlab-chief-product-officer-role}
 ### S87 — GitLab Chief Product Officer role
@@ -847,7 +847,7 @@ GitLab. [Chief Product Officer](https://handbook.gitlab.com/job-description-libr
 
 **Evidence type:** Company-published role description. **Consulted scope:** Role purpose and responsibilities: product direction, prioritization and collaboration with engineering. An example from one company, not a universal CPO charter or evidence about current staffing.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s88-ibm-on-varying-cio-and-cto-remits}
 ### S88 — IBM on varying CIO and CTO remits
@@ -856,7 +856,7 @@ IBM Institute for Business Value. [2021 CIO Study: The CIO Revolution](https://w
 
 **Evidence type:** Vendor-sponsored leadership study. **Consulted scope:** CIO–CTO collaboration discussion and “The 3 CIO Mandates” section on organizational variation. Historical framing only; survey percentages, causal claims and a current role-distribution estimate are not used.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s89-govs-005-technology-accountability-and-architecture}
 ### S89 — GovS 005 technology accountability and architecture
@@ -865,7 +865,7 @@ UK Government Digital Service. [Government Functional Standard — GovS 005: Dig
 
 **Evidence type:** UK government functional standard. **Consulted scope:** Scope and sections 4.5.5–4.5.6, particularly the technology accountable officer and supporting Chief Architect. Illustrates one public-sector allocation of responsibilities; its requirements are not applied to private companies.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners).
 
 {id: bibliography--s90-mackey-on-building-an-operating-partner-track-record}
 ### S90 — Mackey on building an operating-partner track record
@@ -874,7 +874,7 @@ David Mackey, Partner at Albany. [Want to become a tech operating partner at a P
 
 **Evidence type:** Recruiter practitioner commentary on LinkedIn; supplied text copy. **Consulted scope:** Full supplied post text consulted on 2026-09-20: interim, fractional and advisory assignments as a route to portfolio experience; technical diagnosis, versatility, communication and results. Original page, linked graphic, comments and publication date were not independently verified. A recruiter’s practice account, not measured hiring outcomes or a guaranteed route to appointment.
 
-**Used in:** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners).
+**Used in:** consulted for [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners); the passage that drew on it was removed on 2026-10-08, so the chapter no longer cites it.
 
 {id: bibliography--s91-mckinsey-on-operating-group-arrangements}
 ### S91 — McKinsey on operating-group arrangements
@@ -1018,7 +1018,7 @@ Etienne and Beverly Wenger-Trayner. [Communities of practice: a brief introducti
 
 **Evidence type:** My own practitioner method, stated as practice rather than study. **Consulted scope:** The chapter page, covering the data sources it curates (source-code repositories and commit history, public-cloud billing, incident reports, business and finance data) and its stated requirements that analytics be curated, current, credible, actionable and accessible. Documents a described practice for the technology landscape; it does not establish measured outcomes, and its extension to the investor relationship is this book’s proposal. I identify my involvement in the chapter.
 
-**Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready), [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
+**Used in:** [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready), [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio).
 
 {id: bibliography--s107-building-lightweight-architectural-analytics}
 ### S107 — Building Lightweight Architectural Analytics
@@ -1045,7 +1045,7 @@ Melissa Perri and Denise Tilles. *Product Operations: How Successful Companies B
 
 **Evidence type:** Practitioner framework from two product-operations practitioners, drawing on named company examples. **Consulted scope:** The three pillars — business data and insights, customer and market insights, process and governance — as described on the authors' book page and in a published secondary summary; the full book text was not read for this chapter. Documents a described discipline and its stated purpose; it does not establish comparative outcomes, and the mapping onto this book's three evidence areas, and its application to the investor relationship, are this book's own.
 
-**Used in:** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) (formerly the removed appendix on data foundations).
+**Used in:** [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) (formerly the removed appendix on data foundations).
 
 {id: bibliography--s110-grounded-architecture-framework-foundations}
 ### S110 — Grounded Architecture framework foundations
@@ -1108,7 +1108,7 @@ Hilton Worldwide Holdings Inc. [Amendment No. 1 to Form S-1 Registration Stateme
 
 **Evidence type:** Company regulatory filing. **Consulted scope:** Prospectus cover and use-of-proceeds statements consulted for who sold shares in the 2013 initial public offering: Hilton and one selling stockholder, with the statement that no Blackstone-sponsored fund was selling shares or receiving cash in lieu of selling. Not a record of Blackstone's later sales.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s117-hilton-june-2014-secondary-offering}
 ### S117 — Hilton June 2014 secondary offering
@@ -1117,7 +1117,7 @@ Hilton Worldwide Holdings Inc. [Hilton Worldwide Completes $2.3 Billion Secondar
 
 **Evidence type:** Company announcement. **Consulted scope:** Consulted for the sale by Blackstone-affiliated selling stockholders of 103,500,000 shares at $22.50, gross proceeds over $2.3 billion, with Hilton offering no shares and receiving no proceeds. One dated sale; it does not by itself establish the full sequence of Blackstone's disposals.
 
-**Used in:** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype).
+**Used in:** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype).
 
 {id: bibliography--s118-toys-r-us-bankruptcy-financing-note}
 ### S118 — Toys R Us bankruptcy financing note
@@ -1126,7 +1126,7 @@ Toys R Us, Inc. [Debtor-in-Possession Financing: Note to Interim Financial State
 
 **Evidence type:** Company regulatory disclosure. **Consulted scope:** Financing note consulted for the composition of the combined $3,125 million post-petition financing approved by the final order of October 24, 2017: a $1,850 million revolving and $450 million first-in-last-out facility for the US and Canadian trading companies, whose borrowings repaid the pre-petition ABL facility and Tranche A-1 loan in full; a $450 million term facility; and $375 million of notes issued by another group company, with staged releases. Security consisted of superpriority claims and priming liens whose ranking differed by facility and by asset. Consulted for package composition, repayment uses and security priority only; not a review of the loan agreements or court orders themselves.
 
-**Used in:** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us).
+**Used in:** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us).
 
 {id: bibliography--s119-lencioni-s-five-dysfunctions-of-a-team}
 ### S119 — Lencioni's Five Dysfunctions of a Team
@@ -1144,7 +1144,7 @@ Microsoft. [Challenges and solutions for distributed data management](https://le
 
 **Evidence type:** Vendor architecture guidance. **Consulted scope:** The challenges of querying data owned by several services (one screen drawing on several separately owned stores, aggregated through an API gateway or a read-only query table) and of keeping services consistent without shared transactions (eventual consistency). Read for the trade-off it describes, not as evidence about any particular separation.
 
-**Used in:** [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations).
+**Used in:** [Plan Acquisitions and Separations: Account for the Work, Not Just the Value](#plan-acquisitions-separations).
 
 {id: bibliography--supplied-private-inputs}
 ## Supplied Private Inputs

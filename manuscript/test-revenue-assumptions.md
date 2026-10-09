@@ -1,7 +1,7 @@
 {id: test-revenue-assumptions}
-# 21. Test Revenue Assumptions: Do Customers Respond as Expected?
+# 21. Test Revenue Assumptions: The Investor Judges the End of the Chain
 
-![Test Revenue Assumptions: Do Customers Respond as Expected? — logo](private-techuity/posts/18-test-revenue-assumptions/assets/images/18-test-revenue-assumptions/logo.jpeg)
+![Test Revenue Assumptions: The Investor Judges the End of the Chain — logo](private-techuity/posts/18-test-revenue-assumptions/assets/images/18-test-revenue-assumptions/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to trace a product change from customer need through customer behavior to a business result, and let the measured result revise the next commitment.
 
@@ -24,7 +24,7 @@ Product and technology teams are often asked to **justify their work in the inve
 
 Take a simple proposal: making customer setup faster. It sounds useful, but what exactly is the benefit? Customers might start using the product sooner. Staff might serve more customers. The company might collect payment earlier. Each possibility needs a different piece of evidence.
 
-A **product roadmap** sets out intended product changes and their priorities. A roadmap item describes work; its **business case** explains the useful result expected from that work, what it will cost and how uncertain that result is.
+A **product roadmap** sets out intended product changes and their priorities. A roadmap item describes work; its **business case** explains the useful result expected from that work, what it will cost and how uncertain that result is. The useful result is not invented per item: it is a measure already named in the outcome record of [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking), and an item that cannot name one has no business case.
 
 A product leader must normally show that a change is useful. An investor, someone who has put money into the company in return for a share of it, may expect more: evidence that the change supports a particular financial target. Four terms describe those targets:
 
@@ -36,7 +36,7 @@ A product leader must normally show that a change is useful. An investor, someon
 {id: test-revenue-assumptions--setting-up-the-example-one-setup-change-at-rotaline}
 ## Setting Up the Example: One Setup Change at Rotaline
 
-Rotaline is the fictional company this book follows; it sells scheduling software. **Onboarding** is the setup and help a customer needs before using that software successfully, and one customer’s setup is called an **implementation**. In the chapter [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), Rotaline chose a smaller setup change over a full customer portal because customer evidence supported it. This chapter looks at that one change: how could it produce a useful customer and business result, and did it? The outcome record from the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) already names the measures it should move, from staff hours per setup to renewals; this chapter tests whether it moves them and what that is worth.
+Rotaline is the fictional company this book follows; it sells scheduling software. **Onboarding** is the setup and help a customer needs before using that software successfully, and one customer’s setup is called an **implementation**. In the chapter [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities), Rotaline chose a smaller setup change over a full customer portal because customer evidence supported it. This chapter looks at that one change: how could it produce a useful customer and business result, and did it? The outcome record from the chapter [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking) already names the measures it should move, from staff hours per setup to renewals; this chapter tests whether it moves them and what that is worth.
 
 **The people.** Priya leads product and is accountable for the setup change. Alex leads engineering. Sam leads finance. Morgan advises the investor on technology. The **board**, the directors who oversee the company’s major decisions, approves the money. Days are counted from **day zero**: the board meeting, held just after the investment was completed, that adopted the company’s operating plan.
 
@@ -109,7 +109,7 @@ This is a **separate, smaller pilot example**. A **pilot** is a limited trial ru
 
 **The sum.** One hundred implementations at 80 hours is 8,000 hours, worth €600,000 a year at the planning rate. On this basis that is the work of four full-time people. It is a model of total team effort, not a count of Rotaline’s staff. The proposal assumes the step reduces effort to 50 hours, which brings the requirement down to €375,000. The difference is 3,000 hours, or €225,000.
 
-That figure is an estimate of **capacity**: staff time available for work. It is not cash. That is why the chapter [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) labels it a forecast. If the same staff are employed and the same suppliers are paid, Rotaline has not spent €225,000 less. The company could use the time to serve more customers, reduce overtime, improve quality or, eventually, avoid hiring. Each of these has a different financial meaning.
+That figure is an estimate of **capacity**: staff time available for work. It is not cash. That is why the chapter [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) labels it a forecast. If the same staff are employed and the same suppliers are paid, Rotaline has not spent €225,000 less. The company could use the time to serve more customers, reduce overtime, improve quality or, eventually, avoid hiring. Each of these has a different financial meaning.
 
 The pilot has costs of its own. Building it is a commitment of €180,000 and twelve engineer-weeks. Maintaining it costs €30,000 a year, starting in the **financial year**, the company’s twelve-month accounting period, after it ships. Reporting €225,000 of yearly profit without showing those costs, and without showing whether the freed time produced anything, would mislead. So would dismissing the work because the **payroll**, the money paid to employees, didn’t immediately fall. Serving more paying customers can be the more valuable use of the freed time.
 
@@ -156,7 +156,7 @@ For each major change, choose a few measures that could reveal damage. This chap
 {id: test-revenue-assumptions--what-the-pilot-showed-and-what-changed}
 ## What the Pilot Showed, and What Changed
 
-The same pilot is the funded first-hundred-days commitment ONB-1 in the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days). Priya measured the first cohort at day 90; the board decided at its day-100 review. All figures are fictional.
+The same pilot is the funded first-hundred-days commitment ONB-1 in the chapter [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days). Priya measured the first cohort at day 90; the board decided at its day-100 review. All figures are fictional.
 
 **Observed.** The cohort was eight customers. Average effort per implementation fell from 80 hours to 62, not to the 50 the proposal assumed. About 40% of the remaining hours traced to poor customer data rather than to the product, which partly supports Alex’s explanation of where the effort goes. The guardrail indicators did not move: error rates and requests for help were not up.
 
@@ -188,7 +188,7 @@ That does not tip the day-100 choice, because the engagement runs to month twelv
 
 Sixty-two hours is the middle band.
 
-**Chosen.** Fund a data-quality step: checking and correcting each customer’s data before setup begins. It costs €40,000 and four engineer-weeks, drawn from the **reserve**. The reserve is the part of the board’s **envelope** that was held back for later decisions. The envelope is the overall limit the board set at day zero for the first hundred days: €500,000 of additional cash and 24 engineer-weeks (see the chapter [Set Priorities: You Cannot Fund Everything at Once](#set-priorities)). Before this decision the reserve held €200,000 and four engineer-weeks, so the step uses the last engineer-weeks available.
+**Chosen.** Fund a data-quality step: checking and correcting each customer’s data before setup begins. It costs €40,000 and four engineer-weeks, drawn from the **reserve**. The reserve is the part of the board’s **envelope** that was held back for later decisions. The envelope is the overall limit the board set at day zero for the first hundred days: €500,000 of additional cash and 24 engineer-weeks (see the chapter [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities)). Before this decision the reserve held €200,000 and four engineer-weeks, so the step uses the last engineer-weeks available.
 
 **Who pays for what.** Each cost in this example has one budget, and none is counted twice:
 
@@ -217,9 +217,9 @@ Both tests must be met. Fifty hours with a median wait of nine weeks fails. So d
 - **Funding and scarce capacity:** after this draw the reserve keeps €160,000 of cash and no uncommitted engineer-weeks. The other scarce resource is the implementation specialist’s time for the next cohort.
 - **Evidence that would change it:** the second cohort’s hours and waiting time against the two tests. If the data-quality step does not move waiting time, Morgan’s structural explanation gains weight: that a process depending on one specialist cannot keep up as sales grow.
 
-The link from setup step to effort held as far as the comparison can show: the reduction can’t be credited to the product change alone, but the evidence supports it. The link from released effort to customers served did not hold. The measurement did its job, because it changed the next commitment instead of decorating the last one. The [Practical Tools for Ownership and Technology Decisions](#toolkit)’s outcome and contribution ledger, [Tool 6](#toolkit--tool-6), is where the baseline, the committed and incurred cost, the observed result, the projection and the open work are recorded so the next review starts from them.
+The link from setup step to effort held as far as the comparison can show: the reduction can’t be credited to the product change alone, but the evidence supports it. The link from released effort to customers served did not hold. The measurement did its job, because it changed the next commitment instead of decorating the last one. The [Toolkit: Records That Make a Decision Concrete](#toolkit)’s outcome and contribution ledger, [Tool 6](#toolkit--tool-6), is where the baseline, the committed and incurred cost, the observed result, the projection and the open work are recorded so the next review starts from them.
 
-The remaining hours sit with customer data and with one specialist’s knowledge, and the plan still assumes onboarding volume grows. The same assumption, that the cost of setting up and supporting each customer falls as the company grows, returns in the next chapter, [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy), bundled with two others into a request for an “AI strategy”. Whether the software and the team can deliver repeatable setup at that volume is the question of the chapter [Assess Capability: Can the Team Deliver?](#assess-capability); the organizational response, the chapter [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), opens Part V.
+The remaining hours sit with customer data and with one specialist’s knowledge, and the plan still assumes onboarding volume grows. The same assumption, that the cost of setting up and supporting each customer falls as the company grows, returns in the next chapter, [Clarify AI Strategy: Separate the Bet, the Saving and the Threat](#clarify-ai-strategy), bundled with two others into a request for an “AI strategy”. Whether the software and the team can deliver repeatable setup at that volume is the question of the chapter [Assess Capability: Can Systems and Team Deliver the Plan?](#assess-capability); the organizational response, the chapter [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), opens Part V.
 
 {id: test-revenue-assumptions--questions-to-consider}
 ## Questions to Consider

@@ -34,6 +34,6 @@ This part covers fund-backed buyouts, in which an investment fund buys control o
 - [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices) weighs the costs, obligations and ownership effects of each kind of money.
 - [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow) subtracts taxes and loan payments, then allows for money customers still owe.
 
-Distributions are a fund’s payouts to its investors; the optional [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) reference covers them.
+Distributions are a fund’s payouts to its investors; the optional [Fund Economics: Why the Fund's Clock Shapes Your Requests](#fund-economics) reference covers them.
 
 By the end, you should be able to ask **what would fund a proposed change** and when announced money will arrive. Begin with [Understand Expectations: Customers, Lenders and Investors](#understand-expectations), which starts before any investor arrives: a small Rotaline that needs €100,000. Part II then asks who can authorize the spending.

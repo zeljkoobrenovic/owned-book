@@ -1,7 +1,7 @@
 {id: use-diligence}
-# 34. Use Diligence: Correct the Plan Before It Is Signed
+# 34. Use Diligence: Your Last Chance to Shape the Plan
 
-![Use Diligence: Correct the Plan Before It Is Signed — logo](private-techuity/posts/31-use-diligence/assets/images/31-use-diligence/logo.jpeg)
+![Use Diligence: Your Last Chance to Shape the Plan — logo](private-techuity/posts/31-use-diligence/assets/images/31-use-diligence/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to help **due diligence**, the investigation an investor makes into a company before investing, test the assumptions behind a proposed investment. You will use the access you actually have and turn one important finding into a recorded decision.
 
@@ -84,7 +84,7 @@ A **sample** cannot establish everything. Record the full group the examples cam
 
 “High confidence” is not an adjective for the assessor’s experience. It should mean the conclusion has strong supporting evidence within a stated scope and that serious alternative explanations were examined.
 
-Skype’s **registration filing**, the document a company files with the US securities regulator before offering shares to the public, describes the settlement of a lawsuit and the acquisition of rights to core technology. [S27: Skype registration filing](https://www.sec.gov/Archives/edgar/data/1498209/000119312511096544/ds1a.htm) As the case in the chapter [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype) explains, a product can depend on a legal and technical boundary that a review of code quality would miss. Diligence should ask whether the company can use and develop what the thesis assumes it owns.
+Skype’s **registration filing**, the document a company files with the US securities regulator before offering shares to the public, describes the settlement of a lawsuit and the acquisition of rights to core technology. [S27: Skype registration filing](https://www.sec.gov/Archives/edgar/data/1498209/000119312511096544/ds1a.htm) As the case in the chapter [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype) explains, a product can depend on a legal and technical boundary that a review of code quality would miss. Diligence should ask whether the company can use and develop what the thesis assumes it owns.
 
 {id: use-diligence--finding-d-3-onboarding-depends-on-one-specialists-manual-configuration}
 ## Finding D-3: Onboarding Depends on One Specialist’s Manual Configuration
@@ -103,7 +103,7 @@ A material finding needs a stable identifier, here **D-3**, so it can be followe
 | Inferred (reviewer’s interpretation) | Morgan: the dependency on one person’s manual configuration is built into how setup work is organized, so it will not ease as sales grow, whatever share of the hours customer data explains. |
 | Not established | Whether the sample represents other customer types and countries; how much of the effort each explanation accounts for. The two explanations are compatible, so the open question is their size, not which one is true. |
 | Business consequence | The thesis assumes onboarding volume doubles with the same implementation team. |
-| Options | (1) Hire two implementation specialists, about €300,000 a year, recurring. (2) Fund one reusable setup step as a pilot: €180,000 to build, €30,000 a year to maintain, 12 engineer-weeks (the pilot costed in [Set Priorities: You Cannot Fund Everything at Once](#set-priorities)). (3) Narrow the first-year target to customers whose data already fits Rotaline’s standard format. |
+| Options | (1) Hire two implementation specialists, about €300,000 a year, recurring. (2) Fund one reusable setup step as a pilot: €180,000 to build, €30,000 a year to maintain, 12 engineer-weeks (the pilot costed in [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities)). (3) Narrow the first-year target to customers whose data already fits Rotaline’s standard format. |
 | Agreed response | The investment proceeds. The first-year onboarding-volume assumption is revised from 2× to 1.5×, a forecast conditional on the pilot’s evidence rather than a result that funding the pilot establishes. Second-country expansion moves out of year one and becomes conditional on that evidence. Option (2) becomes a funded condition of the early operating plan. |
 | Approvers | Investment side: the **investment committee**, the group inside the investment firm authorized to approve its investments, approves the transaction terms only. Company side: the Rotaline board adopts the **operating plan**, the company’s plan of work, people and money, and its funding at the board meeting that follows closing (day 0 of the first hundred days). |
 | Accountable company leader | Priya, because the fix is a change to the product. |
@@ -111,7 +111,7 @@ A material finding needs a stable identifier, here **D-3**, so it can be followe
 | Evidence to resolve it | Priya’s day-90 measurement of the pilot cohort: average effort per implementation and the estimated share of the remaining hours that traces to customer data and to product limitation. The measurement sizes both explanations; it does not declare one person right. |
 | Handoff | Priya records acceptance within ten days of closing. By day 20, a baseline for all twelve implementations of the previous two quarters is built from the time records, by the method below. Priya measures the pilot cohort at day 90, and the board decides on that measurement at day 100. |
 
-**What the 80 hours measure.** Morgan took each implementation’s hours from its time records. The 80 hours are the average of all five sampled implementations, the three with manual work and the two without. They count every recorded hour of staff time from the signed customer contract to go-live: configuration, data cleaning, sessions with the customer and rework together. Eighty hours is the sample’s figure, not yet a baseline for all twelve. It matches the planning model in the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions).
+**What the 80 hours measure.** Morgan took each implementation’s hours from its time records. The 80 hours are the average of all five sampled implementations, the three with manual work and the two without. They count every recorded hour of staff time from the signed customer contract to go-live: configuration, data cleaning, sessions with the customer and rework together. Eighty hours is the sample’s figure, not yet a baseline for all twelve. It matches the planning model in the chapter [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions).
 
 **Why the split is still unknown, and how the baseline will estimate it.** The time records give each implementation’s total hours but do not say what the hours were spent on. Measuring more implementations from the same records cannot add that. The day-20 baseline therefore does two different things:
 
@@ -129,7 +129,7 @@ If the notes cannot support a reliable estimate, the historical split stays unkn
 
 None of this required the deal to fail; it required the plan to match what was observed.
 
-**An illustrative capacity check.** The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) uses a round teaching model, not Rotaline’s measured workload: 100 implementations a year at 80 hours each, or 8,000 hours. Treat those 8,000 hours as the assumed capacity of today’s implementation team, not a measured staffing figure. On that model:
+**An illustrative capacity check.** The chapter [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) uses a round teaching model, not Rotaline’s measured workload: 100 implementations a year at 80 hours each, or 8,000 hours. Treat those 8,000 hours as the assumed capacity of today’s implementation team, not a measured staffing figure. On that model:
 
 - 150 implementations (1.5×) at the pilot’s 50-hour target would use 7,500 hours, within the assumed capacity.
 - 150 implementations at today’s 80 hours would need 12,000 hours.
@@ -147,11 +147,11 @@ Funding the pilot does not establish any of these results; only the cohort measu
 - **Building the step:** €180,000, **committed**, meaning authorized to be spent, not yet paid. It sits inside the **envelope**, the overall spending limit the board authorizes for the first hundred days.
 - **Upkeep:** €30,000 a year from the **operating budget**, the money for the company’s ordinary running costs, starting in the **financial year**, the company’s twelve-month accounting period, after the step ships.
 - **Scarce capacity:** 12 engineer-weeks, and the time of Rotaline’s own implementation specialist, whose knowledge the step needs. Neither can be spent twice.
-- **Temporary cover:** while the specialist works on the pilot, a **contract implementation specialist**, an outside person engaged for a fixed term, works through the customer queue for months 1 to 12. That costs about €150,000, agreed before day 0 and paid from the operating budget, as the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) records. It is not part of the pilot’s €180,000 or the envelope. It is temporary cover, not one of the two permanent hires, which stay deferred.
+- **Temporary cover:** while the specialist works on the pilot, a **contract implementation specialist**, an outside person engaged for a fixed term, works through the customer queue for months 1 to 12. That costs about €150,000, agreed before day 0 and paid from the operating budget, as the chapter [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) records. It is not part of the pilot’s €180,000 or the envelope. It is temporary cover, not one of the two permanent hires, which stay deferred.
 
 **Who decides and who answers for it.** The investment committee approves the transaction terms. The board approves the plan and its funding. Priya is accountable for the result. Alex’s disagreement stays on the record.
 
-**The review rule.** The evidence that would change the decision is Priya’s day-90 cohort measurement: average effort per implementation and the split of the remaining hours. The rule is not “whichever explanation wins”, and it is not “only if most hours trace to customer data”. The next money goes to the largest share of the remaining effort that has a priced step behind it: a data-quality step if customer data is that share, further product work if product limitation is. The board decides at day 100, against thresholds the operating plan in the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) fixes:
+**The review rule.** The evidence that would change the decision is Priya’s day-90 cohort measurement: average effort per implementation and the split of the remaining hours. The rule is not “whichever explanation wins”, and it is not “only if most hours trace to customer data”. The next money goes to the largest share of the remaining effort that has a priced step behind it: a data-quality step if customer data is that share, further product work if product limitation is. The board decides at day 100, against thresholds the operating plan in the chapter [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days) fixes:
 
 | Day-90 average per implementation | What the board may do at day 100 |
 | --- | --- |
@@ -190,7 +190,7 @@ This is a proposed assessment structure, not a tested score that predicts outcom
 {id: use-diligence--the-one-page-thesis-summarizes-the-findings}
 ## The One-Page Thesis Summarizes the Findings
 
-The finding record above holds evidence, options and a response for one important issue. The **Technology Investment Thesis** is a one-page statement of what the investment depends on from product, technology and people: the technology advantage, main constraint, required investment, leadership needs, AI opportunity or threat, expected business outcome and serious uncertainties. It does not repeat the findings; it summarizes and links them. For Rotaline, the constraint line points at D-3, the leadership line at D-5 and the uncertainty line at D-6, each with the agreed response and the evidence still needed. The [Practical Tools for Ownership and Technology Decisions](#toolkit) shows the finding record ([Tool 3](#toolkit--tool-3)), the thesis page ([Tool 2](#toolkit--tool-2)) and the initiative record ([Tool 5](#toolkit--tool-5)) moving through the same stages.
+The finding record above holds evidence, options and a response for one important issue. The **Technology Investment Thesis** is a one-page statement of what the investment depends on from product, technology and people: the technology advantage, main constraint, required investment, leadership needs, AI opportunity or threat, expected business outcome and serious uncertainties. It does not repeat the findings; it summarizes and links them. For Rotaline, the constraint line points at D-3, the leadership line at D-5 and the uncertainty line at D-6, each with the agreed response and the evidence still needed. The [Toolkit: Records That Make a Decision Concrete](#toolkit) shows the finding record ([Tool 3](#toolkit--tool-3)), the thesis page ([Tool 2](#toolkit--tool-2)) and the initiative record ([Tool 5](#toolkit--tool-5)) moving through the same stages.
 
 Conciseness works only when readers can inspect the basis. Keep links to findings, scenario assumptions, source dates and specialist assessments. **Include the downside**: if the pilot takes twice as long, can the company still operate within the money it has? If Alex, the CTO, leaves, which assumptions become invalid?
 
@@ -199,7 +199,7 @@ Conciseness works only when readers can inspect the basis. Keep links to finding
 
 At closing, ask for the material findings to be reviewed with the company leaders who will be accountable for the business plan. Ask each accountable leader to record agreement, disagreement or a need for more evidence. Receiving a report does not mean someone has accepted responsibility or funding for its recommendations. When new evidence changes the interpretation, keep the original reasoning and explain the revision, so company leaders and the investor can later judge whether the investigation asked the right questions.
 
-For Rotaline, the next question is what D-3 costs once it is inside a board-authorized budget, with two other findings competing for the same engineer-weeks. Priya records acceptance within ten days of closing. The finding then becomes a funded priority with its own budget, protected capacity, a baseline by day 20 and a day-90 cohort measurement that the board decides on at day 100: the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days).
+For Rotaline, the next question is what D-3 costs once it is inside a board-authorized budget, with two other findings competing for the same engineer-weeks. Priya records acceptance within ten days of closing. The finding then becomes a funded priority with its own budget, protected capacity, a baseline by day 20 and a day-90 cohort measurement that the board decides on at day 100: the chapter [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days).
 
 {id: use-diligence--questions-to-consider}
 ## Questions to Consider

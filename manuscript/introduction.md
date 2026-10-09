@@ -45,20 +45,20 @@ The [Glossary](#glossary) covers the rest.
 
 | Your immediate need | Start with | Then |
 | --- | --- | --- |
-| A promised investment must become a budget | [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control) | [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays) |
-| A change to how the business works needs a credible case | [Set Priorities: You Cannot Fund Everything at Once](#set-priorities) | [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), [Assess Capability: Can the Team Deliver?](#assess-capability), the Part IV, V or VI chapter for your area, and the [Practical Tools for Ownership and Technology Decisions](#toolkit) records of an initiative and its outcome |
-| The investor has its own technology adviser (a “technology operating partner”) or a specialist in artificial intelligence (AI): software that generates text or makes predictions from patterns in data | [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners) | [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role), [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help) |
+| A promised investment must become a budget | [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control) | [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities), [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays) |
+| A change to how the business works needs a credible case | [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities) | [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions), [Assess Capability: Can Systems and Team Deliver the Plan?](#assess-capability), the Part IV, V or VI chapter for your area, and the [Toolkit: Records That Make a Decision Concrete](#toolkit) records of an initiative and its outcome |
+| The investor has its own technology adviser (a “technology operating partner”) or a specialist in artificial intelligence (AI): software that generates text or makes predictions from patterns in data | [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners) | [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role), [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help) |
 | Agree or reset how we work with the investor | [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support) | [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help) |
 | Investor help is on offer | [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role) | [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help), [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help) |
-| Explore the investor’s network: its events, and the leaders of the other companies it has invested in | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) | the [Practical Tools for Ownership and Technology Decisions](#toolkit) learning brief, then [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help) when a specific need emerges |
-| The investor wants better reporting, or we keep arguing about what a number means | [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) | the [Practical Tools for Ownership and Technology Decisions](#toolkit) measure record, then [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) for the benefit arithmetic |
-| The investor wants to oversee technology across all the companies it has invested in (its portfolio) | [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio) | [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support), [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) |
-| The company is about to be bought, or to take new investment | [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) | [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days), [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover) |
-| Owners want more growth or profit than the team can support | [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices) | [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) |
-| Investor requests compete with customer needs | [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) | [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), [Assess Investor Fit: Behavior Under Pressure](#assess-investor-fit), [Success for Whom, and for How Long?](#success-for-whom) |
-| A business that has invested in us wants to connect its systems to ours, or wants access to our data | [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations) | [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help) |
+| Explore the investor’s network: its events, and the leaders of the other companies it has invested in | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) | the [Toolkit: Records That Make a Decision Concrete](#toolkit) learning brief, then [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help) when a specific need emerges |
+| The investor wants better reporting, or we keep arguing about what a number means | [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) | the [Toolkit: Records That Make a Decision Concrete](#toolkit) measure record, then [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) for the benefit arithmetic |
+| The investor wants to oversee technology across all the companies it has invested in (its portfolio) | [Appendix: Grounded Architecture Across an Investment Portfolio](#grounded-architecture-portfolio) | [Plan Investor Support: Match the Help to Company Priorities](#plan-investor-support), [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) |
+| The company is about to be bought, or to take new investment | [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence) | [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days), [Manage the Handover: What the Next Owner Inherits](#manage-handover) |
+| Owners want more growth or profit than the team can support | [Understand Funding Choices: Match the Money to the Work](#understand-funding-choices) | [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) |
+| Investor requests compete with customer needs | [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) | [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority), [Assess Investor Fit: Behavior Under Pressure](#assess-investor-fit), [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom) |
+| A business that has invested in us wants to connect its systems to ours, or wants access to our data | [Plan Acquisitions and Separations: Account for the Work, Not Just the Value](#plan-acquisitions-separations) | [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience), [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help) |
 | The investor wants a leadership change | [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority) | [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help), [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role) |
-| We must reduce the number of employees | [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays) | [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down), then [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes) on how three different rewards shape what people push for: the managers’ ownership shares, the fund manager’s carry and employees’ jobs; then the [Practical Tools for Ownership and Technology Decisions](#toolkit) workforce-decision record |
+| We must reduce the number of employees | [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays) | [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down), then [Compare Incentives and Stakes: Equity, Carry and Jobs](#compare-incentives-stakes) on how three different rewards shape what people push for: the managers’ ownership shares, the fund manager’s carry and employees’ jobs; then the [Toolkit: Records That Make a Decision Concrete](#toolkit) workforce-decision record |
 
 {id: introduction--owners-rights-funding-and-change}
 ## Owners, Rights, Funding, and Change
@@ -95,7 +95,7 @@ An investment’s practical impact depends on its actual terms, **established ca
 - **Part VII** follows the events around a funding or ownership change: the investigation before an investment, the first hundred days, and the handover to the next owners.
 - **Part VIII** examines historical cases and closes with the book’s standard for success.
 
-Each part introduction explains its chapters and their order. Chapters build on earlier terms: [Understand Valuation: An Estimate, Not a Fact](#understand-valuation) explains how a company’s worth is estimated, and [Plan for Growth: Decide What (Not) to Change in Your Systems](#plan-for-growth) later applies those concepts to a design choice once the product and engineering foundations are in place.
+Each part introduction explains its chapters and their order. Chapters build on earlier terms: [Understand Valuation: An Estimate, Not a Fact](#understand-valuation) explains how a company’s worth is estimated, and [Plan for Growth: Flexibility Needs a Customer and a Date](#plan-for-growth) later applies those concepts to a design choice once the product and engineering foundations are in place.
 
 The eight parts work together around one purpose: **commitments the company can keep**. Funding and obligations (the payments and duties the company must fulfil) set the conditions; authority and incentives shape decisions; the working arrangement with the investor adds capability; those decisions become feasible work, deliberate changes of size and a technology estate kept worth its cost. Funding and ownership events require renewed commitments, and evidence from other companies helps you question the assumptions throughout.
 
@@ -114,16 +114,16 @@ The chapters place Rotaline in alternative situations: learning with limited cas
 
 The main shared example is an exception. It follows one finding—that onboarding depends on one specialist’s manual work—through six stages, ten chapters and the toolkit, using the same identifiers:
 
-1. the investigation before the investment, [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence), in which the buyer examines the business before committing;
-2. the funded early plan: [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking), which agrees what the work is for before the board adopts the plan; [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days), which sets one approved budget and allocation of staff time for the first hundred days; and [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), which chooses within that budget to run a **pilot** (a limited trial of automated onboarding before any larger commitment) and revises the choice when a test fails;
-3. the recovery test funded beside the pilot, [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), which checks that a failed system and its data can be restored;
+1. the investigation before the investment, [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence), in which the buyer examines the business before committing;
+2. the funded early plan: [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking), which agrees what the work is for before the board adopts the plan; [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days), which sets one approved budget and allocation of staff time for the first hundred days; and [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities), which chooses within that budget to run a **pilot** (a limited trial of automated onboarding before any larger commitment) and revises the choice when a test fails;
+3. the recovery test funded beside the pilot, [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience), which checks that a failed system and its data can be restored;
 4. the investor’s support for the pilot, [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help) and [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help);
-5. the pilot’s measured outcome and the decision it supports, [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), and how those numbers are defined, owned and labelled, [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready);
-6. the handover of what was paid, owed and left undone, [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
+5. the pilot’s measured outcome and the decision it supports, [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions), and how those numbers are defined, owned and labelled, [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready);
+6. the handover of what was paid, owed and left undone, [Manage the Handover: What the Next Owner Inherits](#manage-handover).
 
-The [Practical Tools for Ownership and Technology Decisions](#toolkit) shows the record those chapters write, stage by stage.
+The [Toolkit: Records That Make a Decision Concrete](#toolkit) shows the record those chapters write, stage by stage.
 
-The delayed-financing chapter ([Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays)) and the staff-reduction chapter that continues it ([Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down)) form a separate, connected example. They show how a dated **cash forecast**—a month-by-month estimate of money coming in, going out and the balance left—changes commitments when expected money arrives late. They also show when a staff reduction requires payments and when its savings begin. This example has its own cash figures, spending rate, people and dates; its figures do not add to the main example’s. “€m” means millions of euros.
+The delayed-financing chapter ([Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays)) and the staff-reduction chapter that continues it ([Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down)) form a separate, connected example. They show how a dated **cash forecast**—a month-by-month estimate of money coming in, going out and the balance left—changes commitments when expected money arrives late. They also show when a staff reduction requires payments and when its savings begin. This example has its own cash figures, spending rate, people and dates; its figures do not add to the main example’s. “€m” means millions of euros.
 
 {id: introduction--choose-a-reading-format}
 ## Choose a Reading Format
@@ -139,7 +139,7 @@ This manuscript was drafted and revised in September 2026. Its historical cases 
 
 Guides published by regulators and public development banks—publicly backed institutions that support business or economic development—underpin the descriptions of other arrangements. The comparative Rotaline exercises are my illustrations of decisions under stated assumptions. Company filings (documents formally submitted to a regulator or public registry), investors’ own accounts of events and research answer different questions; none establishes an unobserved customer or employee outcome.
 
-The [Bibliography and Evidence Guide](#bibliography) records consultation scope and evidence limits. The chapter-end “To Probe Further” lists offer optional further reading; the bibliography identifies which resources were also used as evidence. A chapter’s argument rests only on the sources cited inline.
+The [Bibliography](#bibliography) records consultation scope and evidence limits. The chapter-end “To Probe Further” lists offer optional further reading; the bibliography identifies which resources were also used as evidence. A chapter’s argument rests only on the sources cited inline.
 
 {id: introduction--contents}
 ## Contents
@@ -174,56 +174,56 @@ The [Bibliography and Evidence Guide](#bibliography) records consultation scope 
 - **12.** [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help)
 - **13.** [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help)
 - **14.** [Clarify the Adviser’s Role: Are They Helping, Assessing or Deciding?](#clarify-adviser-role)
-- **15.** [Understand Technology Operating Partners: How They Work With Your Team](#technology-operating-partners)
+- **15.** [Work With Technology Operating Partners: Get Their Experience, Keep Your Autonomy](#technology-operating-partners)
 
 {id: introduction--part-iv-commit-turn-expectations-into-work-you-can-deliver}
 ### Part IV — COMMIT: Turn Expectations Into Work You Can Deliver
 
 - [COMMIT: Turn Expectations Into Work You Can Deliver](#part-4) — part introduction
-- **16.** [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking)
-- **17.** [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready)
-- **18.** [Set Priorities: You Cannot Fund Everything at Once](#set-priorities)
-- **19.** [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions)
-- **20.** [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy)
-- **21.** [Assess Capability: Can the Team Deliver?](#assess-capability)
-- **22.** [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays)
+- **16.** [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking)
+- **17.** [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready)
+- **18.** [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities)
+- **19.** [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions)
+- **20.** [Clarify AI Strategy: Separate the Bet, the Saving and the Threat](#clarify-ai-strategy)
+- **21.** [Assess Capability: Can Systems and Team Deliver the Plan?](#assess-capability)
+- **22.** [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays)
 
 {id: introduction--part-v-scale-change-the-team-the-systems-and-the-company-deliberately}
 ### Part V — SCALE: Change the Team, the Systems and the Company Deliberately
 
 - [SCALE: Change the Team, the Systems and the Company Deliberately](#part-5) — part introduction
 - **23.** [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up)
-- **24.** [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down)
-- **25.** [Scale the Team With AI: Capacity Claims Need the Same Evidence as Headcount](#scale-the-team-with-ai)
-- **26.** [Plan for Growth: Decide What (Not) to Change in Your Systems](#plan-for-growth)
-- **27.** [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations)
+- **24.** [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down)
+- **25.** [Scale the Team With AI: Seats Are Not Capacity](#scale-the-team-with-ai)
+- **26.** [Plan for Growth: Flexibility Needs a Customer and a Date](#plan-for-growth)
+- **27.** [Plan Acquisitions and Separations: Account for the Work, Not Just the Value](#plan-acquisitions-separations)
 
 {id: introduction--part-vi-sustain-keep-the-technology-you-run-worth-its-cost}
 ### Part VI — SUSTAIN: Keep the Technology You Run Worth Its Cost
 
 - [SUSTAIN: Keep the Technology You Run Worth Its Cost](#part-6) — part introduction
-- **28.** [Manage Technical Debt: Fund the Fix by the Cost, the Risk and the Speed It Buys](#manage-technical-debt)
-- **29.** [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience)
-- **30.** [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs)
-- **31.** [Critically Evaluate AI Costs: Measure the Return per Task and per Period](#evaluate-ai-costs)
+- **28.** [Manage Technical Debt: Present the Fix by What It Buys](#manage-technical-debt)
+- **29.** [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience)
+- **30.** [Evaluate Cloud Costs: What a Lower Bill Can Hide](#evaluate-cloud-costs)
+- **31.** [Evaluate AI Costs: The Price Is Fixed, the Bill Is Not](#evaluate-ai-costs)
 
 {id: introduction--part-vii-lead-manage-funding-and-ownership-changes}
 ### Part VII — LEAD: Manage Funding and Ownership Changes
 
 - [LEAD: Manage Funding and Ownership Changes](#part-7) — part introduction
-- **32.** [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence)
-- **33.** [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)
-- **34.** [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover)
+- **32.** [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence)
+- **33.** [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days)
+- **34.** [Manage the Handover: What the Next Owner Inherits](#manage-handover)
 
 {id: introduction--part-viii-learn-lessons-from-the-field}
 ### Part VIII — LEARN: Lessons From the Field
 
 - [LEARN: Lessons From the Field](#part-8) — part introduction
-- **35.** [Hilton and Skype: A Successful Exit Still Needs Explaining](#hilton-and-skype)
-- **36.** [Visma: Continuity of Manager Is Not Continuity of Money](#visma)
-- **37.** [Toys R Us: Positive Operating Earnings, Too Little Cash](#toys-r-us)
-- **38.** [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem)
-- **39.** [Success for Whom, and for How Long?](#success-for-whom)
+- **35.** [Hilton and Skype: What the Exit Price Does Not Show](#hilton-and-skype)
+- **36.** [Visma: The Manager Stayed, the Owners Changed](#visma)
+- **37.** [Toys R Us: Positive Earnings, No Cash to Invest](#toys-r-us)
+- **38.** [TeamSystem: Four Owners, One Continuing Business](#teamsystem)
+- **39.** [Success for Whom: Follow Outcomes Beyond the First Exit](#success-for-whom)
 
 {id: introduction--appendix}
 ### Appendix
@@ -233,10 +233,10 @@ The [Bibliography and Evidence Guide](#bibliography) records consultation scope 
 {id: introduction--reference-material}
 ### Reference Material
 
-- [Practical Tools for Ownership and Technology Decisions](#toolkit) — practical decision and support records, with one finding followed all the way through.
-- [Fund Economics: Fees, Distributions and Performance Reports](#fund-economics) — optional depth on how an investment fund’s money flows: the fees its manager charges, distributions (money the fund pays out to its own investors, which is not funding for the company) and reports on investment performance.
+- [Toolkit: Records That Make a Decision Concrete](#toolkit) — practical decision and support records, with one finding followed all the way through.
+- [Fund Economics: Why the Fund's Clock Shapes Your Requests](#fund-economics) — optional depth on how an investment fund’s money flows: the fees its manager charges, distributions (money the fund pays out to its own investors, which is not funding for the company) and reports on investment performance.
 - [Glossary](#glossary) — plain-language definitions and an alphabetical index.
-- [Bibliography and Evidence Guide](#bibliography) — sources, consultation dates and evidence limits.
+- [Bibliography](#bibliography) — sources, consultation dates and evidence limits.
 
 {id: introduction--a-note-on-the-writing-process-and-ai-assistance}
 ## A Note on the Writing Process and AI Assistance

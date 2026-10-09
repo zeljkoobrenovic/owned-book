@@ -1,7 +1,7 @@
 {id: have-your-numbers-ready}
-# 19. Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards
+# 19. Have Your Numbers Ready: One Set for Investors, Goals and Teams
 
-![Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards — logo](private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/logo.jpeg)
+![Have Your Numbers Ready: One Set for Investors, Goals and Teams — logo](private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn which measures matter when investors own part of your company, which of them you own and which you must merely understand, how to hold a small set of them ready before anyone asks, and how the same numbers serve the investor conversation, your goals and your dashboards.
 
@@ -28,7 +28,7 @@ This chapter’s argument is not that better numbers produce agreement. It is th
 {id: have-your-numbers-ready--setting-up-the-example-two-requests-in-one-week}
 ## Setting Up the Example: Two Requests in One Week
 
-Rotaline, the fictional scheduling-software company this book follows, has just agreed its outcome record in the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking): the one-page record of the change customers should see, the business result it should produce and the measures that connect the two. In the same week, Rotaline receives two requests.
+Rotaline, the fictional scheduling-software company this book follows, has just agreed its outcome record in the chapter [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking): the one-page record of the change customers should see, the business result it should produce and the measures that connect the two. In the same week, Rotaline receives two requests.
 
 Rotaline’s investor is a fund: a pool of money gathered from many investors and used to buy parts of companies. The fund’s portfolio team, the people who follow the companies it has invested in, sends its standard quarterly reporting template: two pages of financial and operating measures, several of which Rotaline has never calculated. Meanwhile, Morgan, the investor’s technology adviser, asks Priya a simpler question: how long does it take to set up a new customer, and how does she know?
 
@@ -54,7 +54,7 @@ For the technology part of that picture, I have described one lightweight way of
 
 The measures below recur when a company works with investors. They are grouped in six families. The point of the catalogue is not that you report them all. It is that you know what each tells, who normally produces it and where it misleads, so when one is asked for you are not meeting it for the first time.
 
-A **measure** (or metric) is a defined way of counting something. A **key performance indicator (KPI)** is a measure chosen to track a result that matters. A **leading indicator** moves early and gives warning; a **lagging indicator** confirms later that the result happened. The chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) uses the same vocabulary.
+A **measure** (or metric) is a defined way of counting something. A **key performance indicator (KPI)** is a measure chosen to track a result that matters. A **leading indicator** moves early and gives warning; a **lagging indicator** confirms later that the result happened. The chapter [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking) uses the same vocabulary.
 
 {id: have-your-numbers-ready--money-and-runway}
 ### Money and Runway
@@ -97,7 +97,7 @@ Sales, customer success (the team that helps existing customers get value from t
 {id: have-your-numbers-ready--product-and-customer-outcomes}
 ### Product and Customer Outcomes
 
-These are the product leader’s own, and the ones most often missing from the board pack, the set of reports the directors receive before each board meeting. The outcome record from [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) chooses which of them matter for this company.
+These are the product leader’s own, and the ones most often missing from the board pack, the set of reports the directors receive before each board meeting. The outcome record from [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking) chooses which of them matter for this company.
 
 | Measure | What it tells you | Where it misleads |
 | --- | --- | --- |
@@ -131,7 +131,7 @@ DORA’s current guide has five delivery measures. Older sources quote the origi
 - **Failed deployment recovery time:** how long recovery from such a failed deployment takes. It does not cover every outage.
 - **Deployment rework rate:** the share of deployments that are unplanned repairs after an incident.
 
-Deploying puts a version into the live service; releasing makes it available to customers. A change can be deployed behind a switch that stays off, and released later by turning the switch on. The chapter [Assess Capability: Can the Team Deliver?](#assess-capability) covers what delivery measures can and cannot establish.
+Deploying puts a version into the live service; releasing makes it available to customers. A change can be deployed behind a switch that stays off, and released later by turning the switch on. The chapter [Assess Capability: Can Systems and Team Deliver the Plan?](#assess-capability) covers what delivery measures can and cannot establish.
 
 ![Top: a ledger with columns promised and arrived, two rows flagged, recorded when promised. Bottom: a conveyor where five boxes wait before work starts and the rest pass through build, test, release, the only part the delivery measures see, before reaching customers.](private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/delivery-and-execution.jpeg)
 
@@ -145,10 +145,10 @@ The engineering leader owns these outright, and here the absence of a number is 
 | Measure | What it tells you | Where it misleads |
 | --- | --- | --- |
 | **Reliability** against an agreed objective, and **incidents** (failures that reach customers) with their impact | Whether customers can count on the service | Uptime, the share of time a service is available, says nothing about the failure that mattered |
-| **Recovery tested** — the date and result of the last restore test | Whether the company can actually bring the service back | A backup that has never been restored is not evidence ([Build And Test Resilience: Backups Are Not Enough](#build-test-resilience)) |
+| **Recovery tested** — the date and result of the last restore test | Whether the company can actually bring the service back | A backup that has never been restored is not evidence ([Build and Test Resilience: Backups Are Not Enough](#build-test-resilience)) |
 | **Security findings** (known weaknesses) by severity and age | The protections in place and the obligations still open | A count without age hides the finding that has been open for a year |
-| **Technology cost** per customer and as a share of revenue | Whether the cloud bill and software licence fees grow slower than the business | A total not split by product or customer cannot be weighed against the value they bring ([Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs)) |
-| **Technical debt register** | Where past shortcuts now slow specific future work | A general complaint about quality is not a register ([Manage Technical Debt: Fund the Fix by the Cost, the Risk and the Speed It Buys](#manage-technical-debt)) |
+| **Technology cost** per customer and as a share of revenue | Whether the cloud bill and software licence fees grow slower than the business | A total not split by product or customer cannot be weighed against the value they bring ([Evaluate Cloud Costs: What a Lower Bill Can Hide](#evaluate-cloud-costs)) |
+| **Technical debt register** | Where past shortcuts now slow specific future work | A general complaint about quality is not a register ([Manage Technical Debt: Present the Fix by What It Buys](#manage-technical-debt)) |
 | **Key-person concentration** | Which systems only one person can release or recover | Invisible until that person is away; at Rotaline, diligence — the checks the investor made before investing — found that only one specialist could release the scheduling engine, the part of the software that builds the schedules, and recover it after a failure; releasing means making a new version available to customers |
 
 ![A service cabinet in the centre surrounded by six objects: a reliability gauge, a backup box stamped as restore tested, a shield of security findings by age, coins for cost per customer, a technical debt register, and one key on a single hook for the system only one person can release.](private-techuity/posts/16-have-your-numbers-ready/assets/images/16-have-your-numbers-ready/technology-health-and-cost.jpeg)
@@ -176,7 +176,7 @@ Individual performance and pay stay internal; what an investor needs from this f
 Nobody should report all that. Fifteen measures nobody disputes are worth more than ninety nobody trusts.
 
 - **Start from decisions, not from the template.** Ask what the next consequential decision needs. At Rotaline, the next decisions are whether to fund the setup work and, later, whether it worked; the numbers that matter are setup effort, the wait to first schedule and the cost of the work. The investor’s template still gets filled in, but the company’s own set starts from its decisions.
-- **Let the outcome record choose the product numbers.** The customer outcome, the business outcome and the measures between them ([Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking)) are the product and customer numbers worth having ready. The rest of the catalogue is context.
+- **Let the outcome record choose the product numbers.** The customer outcome, the business outcome and the measures between them ([Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking)) are the product and customer numbers worth having ready. The rest of the catalogue is context.
 - **Add a measure only when a decision needs it.** A measure that has never changed a decision should be retired.
 
 A reasonable shape for the investor conversation is a dozen or so numbers: a few from money and runway, a few from customers and growth, the outcome record’s pair and its leading measures, and a few from delivery and technology health, each chosen because someone decides something with it. [Tool 7](#toolkit--tool-7) gives a small scorecard in that shape.
@@ -211,7 +211,7 @@ Define a measure once and change it rarely. When a definition must change, resta
 - **Baseline**: what it was before, on the same definition. Rotaline’s 80 hours is, this week, the average of the five setups Morgan examined during diligence, three of which needed the specialist’s manual configuration. It is provisional. Days in this book count from day 0, the board meeting that adopts the operating plan shortly after the investment. The baseline the company will use is to be reconstructed by day 20 from the time records of all twelve setups of the previous two quarters, and the report says so.
 - **Comparison**: what it was expected to be. The setup proposal aims at an average of 50 hours per setup.
 - **Direction and confidence**: which way it is moving and how much weight it carries. Five observations are a starting point, not a trend.
-- **Decision link**: what the figure is used to decide. The plan the board adopts sets the rule in advance for the average of the first group of eight pilot customers (a small trial of the changed setup). The average is measured at day 90 and goes to the board’s review at day 100. Under 60 hours supports a request for the next stage, which the board must still approve; 60 to 70 hours, including exactly 60 or 70, supports a smaller corrective step; over 70 reopens the plan ([Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)).
+- **Decision link**: what the figure is used to decide. The plan the board adopts sets the rule in advance for the average of the first group of eight pilot customers (a small trial of the changed setup). The average is measured at day 90 and goes to the board’s review at day 100. Under 60 hours supports a request for the next stage, which the board must still approve; 60 to 70 hours, including exactly 60 or 70, supports a smaller corrective step; over 70 reopens the plan ([Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days)).
 
 **Thresholds agreed before the measurement** settle in advance which response each result points to, so the later review is about what to do, not about what counts as good. They guide the decision rather than make it: the board still weighs the evidence. Ines authorizes spending inside the approved plan. A new stage, a draw on the reserve (money the board set aside for needs the plan did not foresee) or any other spending outside the plan needs the board’s approval ([Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority)). The investor and the company disagree about the threshold in advance, which is the right time to disagree, before either side has a number to defend.
 
@@ -230,13 +230,13 @@ Priya’s setup proposal is a page of figures, and they look alike. They are not
 | **Target** | The result the plan sets out to reach, and by when — a desired outcome, not a promise | 50 hours per setup for the first pilot group, measured at day 90 |
 | **Forecast** | A calculation about the future from stated inputs | €225,000 a year of staff time released: 100 setups a year × 30 fewer hours per setup = 3,000 hours a year, valued at €75 an hour |
 | **Assumption** | An input taken as given, which may not hold | About 100 setups a year; €75 an hour, the fully loaded rate finance uses in plans (pay plus the employer’s other employment costs, per working hour); that the 50-hour target is reached and holds for later customers |
-| **Committed** | A resource the board has authorized — an input, not a result | The contract implementation specialist, €150,000 for months 1 to 12, agreed before the plan and paid from the operating budget, the spending plan for running the business. The proposal’s own €180,000 and twelve engineer-weeks (twelve weeks of one engineer’s working time) become committed only when the board funds them ([Set Priorities: You Cannot Fund Everything at Once](#set-priorities)) |
+| **Committed** | A resource the board has authorized — an input, not a result | The contract implementation specialist, €150,000 for months 1 to 12, agreed before the plan and paid from the operating budget, the spending plan for running the business. The proposal’s own €180,000 and twelve engineer-weeks (twelve weeks of one engineer’s working time) become committed only when the board funds them ([Set Priorities: Say No With Evidence, Not Opinion](#set-priorities)) |
 
 The forecast is still worth reporting, but written this way it cannot be mistaken for money the company has. It is 3,000 hours of projected capacity a year, at an assumed volume, valued at an assumed rate, on an assumed result. Each assumption carries weight: if volume and rate hold but setups reach only 65 hours, the saving is 15 hours per setup, 1,500 hours a year, and the forecast halves to €112,500.
 
 **Capacity becomes cash only when a payment is actually avoided or additional customers pay in more than serving them costs**, on a date: a contract not extended, a planned hire whose salaries are never paid, or extra customers set up with the freed time whose payments exceed their costs. Deciding not to hire changes nothing in the bank that day; the benefit arrives month by month, as the salaries are not paid. Until then, finance keeps it out of any calculation of what the company can repay.
 
-The labelling rule is one line, and it is the highest-value habit in this chapter: **every figure in a document that goes to a board or an investor carries its kind.** The cost is a few minutes of preparation. The benefit is that the company never has to explain, six months later, why a result it appeared to report did not arrive. When the first pilot group reports at day 90, the same labels will separate what was measured from what was projected ([Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days)).
+The labelling rule is one line, and it is the highest-value habit in this chapter: **every figure in a document that goes to a board or an investor carries its kind.** The cost is a few minutes of preparation. The benefit is that the company never has to explain, six months later, why a result it appeared to report did not arrive. When the first pilot group reports at day 90, the same labels will separate what was measured from what was projected ([Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions), [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days)).
 
 {id: have-your-numbers-ready--one-set-of-numbers-three-uses}
 ## One Set of Numbers, Three Uses
@@ -259,7 +259,7 @@ Not everything should go to an investor, and not everything an investor asks for
 
 Goals take the same numbers and put a date and a level on them.
 
-- **Set goals on leading measures, report the lagging ones.** A team can move staff hours per setup this quarter; it cannot move renewals until the anniversaries. The outcome record sets which is which ([Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking)).
+- **Set goals on leading measures, report the lagging ones.** A team can move staff hours per setup this quarter; it cannot move renewals until the anniversaries. The outcome record sets which is which ([Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking)).
 - **Pair a target with a counter-measure.** A measure that becomes a target changes behaviour, and not always the way intended. Setup hours can fall because customers are rushed into using a half-configured account; pairing the hours with month-one support requests shows it when it happens.
 - **Keep the goal’s measure and the reported measure identical.** A team goal on a private definition of “setup time” produces a number the board cannot compare with anything.
 
@@ -328,7 +328,7 @@ A measure can be chosen because it flatters, a threshold set where it is easy to
 
 **“What is your €225,000 worth in cash?”** Nothing yet. It is a forecast of staff time, resting on three assumptions: about 100 setups a year, €75 an hour, and setups reaching 50 hours and staying there. It becomes cash only on the date a scheduled payment is actually avoided, or when additional customers pay more than serving them costs.
 
-With the numbers ready and labelled, Rotaline can choose among its requests against the cash and team time the board approves. That is where [Set Priorities: You Cannot Fund Everything at Once](#set-priorities) begins.
+With the numbers ready and labelled, Rotaline can choose among its requests against the cash and team time the board approves. That is where [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities) begins.
 
 {id: have-your-numbers-ready--questions-to-consider}
 ## Questions to Consider

@@ -1,7 +1,7 @@
 {id: toys-r-us}
-# 39. Toys R Us: Positive Operating Earnings, Too Little Cash
+# 39. Toys R Us: Positive Earnings, No Cash to Invest
 
-![Toys R Us: Positive Operating Earnings, Too Little Cash — logo](private-techuity/posts/36-toys-r-us/assets/images/36-toys-r-us/logo.jpeg)
+![Toys R Us: Positive Earnings, No Cash to Invest — logo](private-techuity/posts/36-toys-r-us/assets/images/36-toys-r-us/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Follow Toys R Us from its 2005 purchase by KKR, Bain Capital and Vornado through its technology plans, September 2017 supplier payment crisis and March 2018 plan to close the US stores.
 
@@ -108,7 +108,7 @@ Brandon's declaration listed about $5.265 billion of **funded debt**, borrowing 
 | Proposed technology investment | $90.4 million | One specified program across 2018–2021, in total; not all technology spending |
 | Additional liquidity need if cash-on-delivery terms became widespread | more than $1,000 million | Management's estimate at the filing date of the extra cash needed to keep buying the same stock |
 
-Debt service is an annual cash demand in this account; the technology figure is the total of one proposed program across four years. No ratio of debt to earnings is calculated from these figures: the debt balance and the fiscal 2016 earnings measures come from different dates and definitions, so the result would not be comparable to the ratio reported for Visma in the chapter [Visma: Continuity of Manager Is Not Continuity of Money](#visma).
+Debt service is an annual cash demand in this account; the technology figure is the total of one proposed program across four years. No ratio of debt to earnings is calculated from these figures: the debt balance and the fiscal 2016 earnings measures come from different dates and definitions, so the result would not be comparable to the ratio reported for Visma in the chapter [Visma: The Manager Stayed, the Owners Changed](#visma).
 
 A maturity date tells management when the principal, the amount of borrowing still owed, must be repaid or refinanced. It isn't the only deadline that matters. Interest and operating payments continue before maturity, and borrowing capacity may depend on **collateral**, assets pledged to secure a loan, and on contractual conditions and on which company in the group needs the cash. A group can therefore have assets and a plausible long-term strategy while being unable to finance next month's trading.
 
@@ -173,11 +173,11 @@ This is the history of a retailer bought with borrowed money under one set of lo
 Four practices follow from the mechanism, not from a claim that they would have saved this company.
 
 - **Ask for the cash and financing context before committing to a transformation timetable.** Use the bridge from earnings to available cash in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow): start from operating cash flow, check whether interest paid and working-capital movements are already inside it (here they were), then subtract capital expenditure and the scheduled repayments of principal or other financing payments not already counted. Each payment enters the calculation once. A technically feasible plan may be financially infeasible during its transition.
-- **Test the plan against a change in payment terms.** Suppliers and customers can move cash needs by months without any change in the product. The chapter [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays) works through a dated cash plan when expected money arrives late; the same method applies when cash is demanded early.
+- **Test the plan against a change in payment terms.** Suppliers and customers can move cash needs by months without any change in the product. The chapter [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays) works through a dated cash plan when expected money arrives late; the same method applies when cash is demanded early.
 - **Define the full customer outcome.** Digital sales growth isn't the same as a competitive, profitable business whose stores and online services work together. Measure what the online channel earns after its costs, such as shipping, and what it depends on in stores, warehouses and systems, rather than treating a new sales channel as a sufficient answer.
 - **Distinguish a necessary intervention from a sufficient rescue.** A platform improvement may be worth doing while still unable to make the whole business pay. Leaders should say where that boundary lies, and keep the consequences of failure for employees and suppliers visible in the decision record.
 
-The next case turns from a company that ran out of cash to one that kept changing owners. When a software group is sold from one investor to the next, what does each new owner inherit, and how do reporting periods and adjusted measures change the apparent result? Continue with the chapter [TeamSystem: Each New Owner Inherits Progress and Unfinished Work](#teamsystem).
+The next case turns from a company that ran out of cash to one that kept changing owners. When a software group is sold from one investor to the next, what does each new owner inherit, and how do reporting periods and adjusted measures change the apparent result? Continue with the chapter [TeamSystem: Four Owners, One Continuing Business](#teamsystem).
 
 {id: toys-r-us--questions-to-consider}
 ## Questions to Consider

@@ -1,7 +1,7 @@
 {id: set-priorities}
-# 20. Set Priorities: You Cannot Fund Everything at Once
+# 20. Set Priorities: Say No With Evidence, Not Opinion
 
-![Set Priorities: You Cannot Fund Everything at Once — logo](private-techuity/posts/17-set-priorities/assets/images/17-set-priorities/logo.jpeg)
+![Set Priorities: Say No With Evidence, Not Opinion — logo](private-techuity/posts/17-set-priorities/assets/images/17-set-priorities/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to choose a combination of work that fits both the cash and the team time available, and revise the whole combination when a test fails.
 
@@ -32,7 +32,7 @@ Rotaline is the fictional company this book follows; it sells scheduling softwar
 - Alex, the technology leader, wants to improve **recovery from system failures**.
 - The customer team wants **simpler setup** for new accounts.
 
-Each request has a plausible benefit, the chapter [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking) has agreed which customer and business outcomes the work is for, and [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) has defined the numbers that will test it. But the requests cannot all use the same people at the same time. The next section shows the limits the board has approved and what each request would need.
+Each request has a plausible benefit, the chapter [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking) has agreed which customer and business outcomes the work is for, and [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) has defined the numbers that will test it. But the requests cannot all use the same people at the same time. The next section shows the limits the board has approved and what each request would need.
 
 {id: set-priorities--competing-requests-two-limits}
 ## Competing Requests, Two Limits
@@ -41,11 +41,11 @@ In this **fictional planning exercise**, Rotaline’s board sets one limit for t
 
 The envelope limits what the company may **commit** in those hundred days: the money it agrees to spend and the weeks it assigns to named work. It does not promise that the work is finished, or every invoice paid, by day 100. Some approved work and some payments run past that date, so the record keeps three things apart: committed, spent and finished.
 
-It is the same plan that the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) follows from the **diligence** findings, the results of the checks the investor made before investing, to the day-100 review. This chapter shows how the combination inside it was chosen and then revised. Ines, the chief executive officer (CEO), proposes the combination. The board approves it on day 0, at the meeting that adopts the operating plan: the agreed work for the period, with people and money assigned.
+It is the same plan that the chapter [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days) follows from the **diligence** findings, the results of the checks the investor made before investing, to the day-100 review. This chapter shows how the combination inside it was chosen and then revised. Ines, the chief executive officer (CEO), proposes the combination. The board approves it on day 0, at the meeting that adopts the operating plan: the agreed work for the period, with people and money assigned.
 
 Routine operating work is already budgeted. The envelope is a change budget: it pays for improvements. One of them is not optional, because it serves a requirement the company has already agreed. That **recovery requirement** has two parts. After a failure, dispatch must be working again within four hours; dispatch is the part of the product customers use to assign each day’s jobs. And no more than fifteen minutes of schedule updates may be lost.
 
-The cash estimates concern additional spending, such as specialist help and new services. Existing employees’ pay is already in the ordinary operating budget; their available time is shown separately. The amounts are one-time costs; the one continuing cost this plan creates appears in the decision record below. The identifiers in the table (REC-1, ONB-1, KNW-1) are those the diligence findings and the [Practical Tools for Ownership and Technology Decisions](#toolkit) use for the same work.
+The cash estimates concern additional spending, such as specialist help and new services. Existing employees’ pay is already in the ordinary operating budget; their available time is shown separately. The amounts are one-time costs; the one continuing cost this plan creates appears in the decision record below. The identifiers in the table (REC-1, ONB-1, KNW-1) are those the diligence findings and the [Toolkit: Records That Make a Decision Concrete](#toolkit) use for the same work.
 
 The table has five rows: four proposals that need additional cash, and one training item that needs none.
 
@@ -104,7 +104,7 @@ Suppose the recovery requirement is agreed, the setup problem is supported by cu
 
 The remaining €220,000 and six weeks provide room for uncertainty and for a later decision. They aren’t automatically savings or permission to start another project, and drawing on them is the board’s decision, not Ines’s.
 
-An estimated score can help organize this conversation, but it shouldn’t hide that an agreed obligation, a speculative product opportunity and a learning step answer different questions. **Explain the trade-off in words** as well as numbers.
+An estimated score can help organize this conversation, but it shouldn’t hide that an agreed obligation, a speculative product opportunity and a learning step answer different questions. **Explain the trade-off in words** as well as numbers. This is also how the company says no: the portal is refused with the evidence it lacks and the weeks it would need, not with an argument about whose request matters more.
 
 ![A group of projects must fit both the cash budget and the available team and specialist time.](private-techuity/posts/17-set-priorities/assets/images/17-set-priorities/money-and-capacity-two-limits.jpeg)
 
@@ -130,7 +130,7 @@ Restoration had been approved at €80,000 and four engineer-weeks. By the day-4
 
 The test failed both parts of the requirement. The service came back after eleven hours against the agreed four, for two reasons. The account that could read the backups belonged to an engineer who had left, so nobody held a working **credential**, the information that proves someone may access a system. And the backup could only be loaded by the version of the database software it was made with, which could no longer be installed. (The database stores and organizes the application’s data.)
 
-When the service did come back, its data was from the previous night. The fifteen-minute backups existed, but nobody had written down the step that applies them, so a night of schedule updates was lost against an allowed fifteen minutes. The chapter [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience) walks through the failure.
+When the service did come back, its data was from the previous night. The fifteen-minute backups existed, but nobody had written down the step that applies them, so a night of schedule updates was lost against an allowed fifteen minutes. The chapter [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience) walks through the failure.
 
 The €80,000 and four weeks are **sunk cost**: resources already spent that can’t be recovered. They belong in the record, but they are not a reason to spend more. The next commitment depends on remaining costs and expected benefits, and here the obligation has not gone away.
 
@@ -150,16 +150,16 @@ Rotaline rents its computing from a cloud provider, and a **cloud region** is on
 
 At the day-100 review the board approved another €40,000 and the last four unallocated engineer-weeks for a data-quality step: checking and correcting each customer’s data before setup begins. The first setup cohort had pointed there, because about 40% of the setup hours that remained traced to problems in customers’ data. That took the envelope to €340,000 committed and all 24 engineer-weeks allocated, with €160,000 of cash still uncommitted.
 
-Allocated does not mean finished, and committed does not mean spent. At day 100 the setup change had used about ten of its twelve weeks, and about €90,000 of its €180,000 had been **incurred**, meaning the work or services had been received. The other €90,000 falls due over the next two quarters, and the data-quality step’s four weeks were all still to come. The chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) carries that review, with a table of what was committed and what was incurred.
+Allocated does not mean finished, and committed does not mean spent. At day 100 the setup change had used about ten of its twelve weeks, and about €90,000 of its €180,000 had been **incurred**, meaning the work or services had been received. The other €90,000 falls due over the next two quarters, and the data-quality step’s four weeks were all still to come. The chapter [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days) carries that review, with a table of what was committed and what was incurred.
 
 Review the starting assumptions, actual spending, team burden and observed outcomes together, not project by project. A supplier failure may use the spare capacity. Customer research may invalidate an expected benefit. One completed improvement may remove the need for another. Decide which work continues, which changes and which stops.
 
 {id: set-priorities--keep-the-record}
 ## Keep the Record
 
-The [Practical Tools for Ownership and Technology Decisions](#toolkit)’s record for comparing investment choices and capacity, [Tool 12](#toolkit--tool-12), holds exactly the fields used above: the required commitments, the money and team time available, the options, the combination proposed, the first stages and the review decision. Fill it in before the board conversation, and update it after each review rather than starting a new one; the same shared decision record runs from the diligence findings to the record handed to the company’s next owner.
+The [Toolkit: Records That Make a Decision Concrete](#toolkit)’s record for comparing investment choices and capacity, [Tool 12](#toolkit--tool-12), holds exactly the fields used above: the required commitments, the money and team time available, the options, the combination proposed, the first stages and the review decision. Fill it in before the board conversation, and update it after each review rather than starting a new one; the same shared decision record runs from the diligence findings to the record handed to the company’s next owner.
 
-The setup change was chosen on customer evidence. Whether its benefit is real is a separate question, and the next chapter follows that one change from the work proposed to the measured customer and business result: [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions).
+The setup change was chosen on customer evidence. Whether its benefit is real is a separate question, and the next chapter follows that one change from the work proposed to the measured customer and business result: [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions).
 
 {id: set-priorities--questions-to-consider}
 ## Questions to Consider

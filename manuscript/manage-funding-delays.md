@@ -1,7 +1,7 @@
 {id: manage-funding-delays}
-# 24. Manage Funding Delays: Revise the Cash Plan and Commitments
+# 24. Manage Funding Delays: Expected Money Is Not Cash
 
-![Manage Funding Delays: Revise the Cash Plan and Commitments — logo](private-techuity/posts/21-manage-funding-delays/assets/images/21-manage-funding-delays/logo.jpeg)
+![Manage Funding Delays: Expected Money Is Not Cash — logo](private-techuity/posts/21-manage-funding-delays/assets/images/21-manage-funding-delays/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Follow one fictional company, Rotaline, whose new investment was expected in September and now looks likely in December. Learn to name how far the money has got, put cash and commitments on a calendar, and choose one fallback in time.
 
@@ -31,7 +31,7 @@ The plan for the second half of the year was built on that date. It included two
 
 The work itself is on schedule. The **onboarding pilot**, a trial of a faster way to get new customers set up, continues. So does the **recovery work**, which makes sure the **dispatch service**, the software that sends field staff to their jobs, can be restored quickly after a failure. The funding has slipped, not the work, and the company must change its funding assumption before that assumption turns into a delivery promise it cannot keep.
 
-Every figure here is invented, and this example stands on its own: its cash, spending, hires and dates differ from the Rotaline figures in the chapters [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) and [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
+Every figure here is invented, and this example stands on its own: its cash, spending, hires and dates differ from the Rotaline figures in the chapters [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days) and [Manage the Handover: What the Next Owner Inherits](#manage-handover).
 
 {id: manage-funding-delays--the-funding-slipped-not-the-work}
 ## The Funding Slipped, Not the Work
@@ -67,7 +67,7 @@ The second step sorts spending commitments by whether they can still be changed,
 
 | Group | Items | Status |
 | --- | --- | --- |
-| Protected obligations | Customer contracts; the agreed recovery requirement (dispatch resumes within four hours, see [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience)) | Not optional; every alternative must pay for them |
+| Protected obligations | Customer contracts; the agreed recovery requirement (dispatch resumes within four hours, see [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience)) | Not optional; every alternative must pay for them |
 | Committed and continuing | The onboarding pilot and the recovery work | Already inside the €200,000 monthly burn |
 | Planned, not yet committed | Two hires starting 1 September (€30,000 a month for the two together); the portal contract, €120,000 | Can still be changed until 16 August |
 
@@ -130,7 +130,7 @@ The board does not leave R1 open until the review. It decides on 10 August that 
 
 Without the bridge, R1 buys about three weeks, not a quarter: the €100,000 left above the reserve lasts two-thirds of a month at €150,000. With it, €700,000 above the reserve lasts four and two-thirds months. A reduction list lowers the bridge the company needs; it does not replace it, so **R1 alone is not a complete fallback** if no money arrives.
 
-The deeper step is the spending level at which Rotaline could continue on **collected revenue** alone, meaning money customers have actually paid, not merely been billed. It is not decided in this chapter, and it is not a fallback that can be switched on when money fails. It needs its own board decision, and it costs money before it saves any: people who leave are paid through their notice periods and receive leaving payments first. Alex and Priya cost it for 1 October, and the chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down) follows what the board does with it when the bridge commitment arrives carrying a condition of its own.
+The deeper step is the spending level at which Rotaline could continue on **collected revenue** alone, meaning money customers have actually paid, not merely been billed. It is not decided in this chapter, and it is not a fallback that can be switched on when money fails. It needs its own board decision, and it costs money before it saves any: people who leave are paid through their notice periods and receive leaving payments first. Alex and Priya cost it for 1 October, and the chapter [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down) follows what the board does with it when the bridge commitment arrives carrying a condition of its own.
 
 {id: manage-funding-delays--tell-customers-and-teams-which-plan-is-running}
 ## Tell Customers and Teams Which Plan Is Running
@@ -178,7 +178,7 @@ The restart rule says what the money must reach before Rotaline spends more. The
 
 First, R1’s saving appears in every case only because its notice went out on 1 October, while the money was still uncertain. Had the board waited to see whether the bridge came, a failure found in November or December could not have recovered that month’s saving.
 
-Second, the deeper reduction appears in no row as a remedy. It needs its own board decision, and its notice periods and leaving payments come before its savings, so it must be paid for from cash in hand first. The chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down) shows that, at the terms Rotaline later costs, such a reduction makes the bridge last longer but cannot replace it. What Rotaline does if neither the bridge nor the round arrives, whether it finds another lender, sells the company or something else, is not decided in this chapter. Saying so is part of an honest fallback: on 10 August the board knows that B and R1 carry the company to about 20 January and no further.
+Second, the deeper reduction appears in no row as a remedy. It needs its own board decision, and its notice periods and leaving payments come before its savings, so it must be paid for from cash in hand first. The chapter [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down) shows that, at the terms Rotaline later costs, such a reduction makes the bridge last longer but cannot replace it. What Rotaline does if neither the bridge nor the round arrives, whether it finds another lender, sells the company or something else, is not decided in this chapter. Saying so is part of an honest fallback: on 10 August the board knows that B and R1 carry the company to about 20 January and no further.
 
 {id: manage-funding-delays--two-variations-on-the-same-decision}
 ## Two Variations on the Same Decision
@@ -191,9 +191,9 @@ Second, the deeper reduction appears in no row as a remedy. It needs its own boa
 
 **Figure 1:** *A funding delay sends the operating plan back to a review junction. Further funding, refinancing, continued ownership and a sale are all possible paths, and the company’s service to customers continues through every one of them, so the plan needs a fallback that works on each.*
 
-In every variation, **continued ownership**, the same owners carrying on without the new money, is a real scenario. If the round never closes, the refinancing fails or the parent does not restore the budget, what useful business remains and what can it afford? B answers that question for Rotaline until 31 December. R1, with notice served on 1 October, carries it to about 20 January, and the bridge, once its cash is received, to about 20 May. What Rotaline does if neither arrives is still open. The level at which it could continue on collected revenue alone is costed for 1 October, and the board takes it up with that list in front of it in the chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down).
+In every variation, **continued ownership**, the same owners carrying on without the new money, is a real scenario. If the round never closes, the refinancing fails or the parent does not restore the budget, what useful business remains and what can it afford? B answers that question for Rotaline until 31 December. R1, with notice served on 1 October, carries it to about 20 January, and the bridge, once its cash is received, to about 20 May. What Rotaline does if neither arrives is still open. The level at which it could continue on collected revenue alone is costed for 1 October, and the board takes it up with that list in front of it in the chapter [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down).
 
-The decision leaves a record: the assumption, the trigger, the alternatives, who decided, and the evidence that would change it. The next decision-maker inherits that record, whether the round closes, the existing investors continue, or the company changes hands. The chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down) takes this scenario’s next decision, the reduction, through the people and the work it affects. The chapter [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover) then follows the record through an ownership change: what evidence to keep during the work, who receives cash and who keeps a share of ownership in each type of deal, and how to hand over the unfinished obligations rather than only the company. Part V, [SCALE: Change the Team, the Systems and the Company Deliberately](#part-5), opens with the opposite pressure, when new money makes hiring look like the answer: [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up).
+The decision leaves a record: the assumption, the trigger, the alternatives, who decided, and the evidence that would change it. The next decision-maker inherits that record, whether the round closes, the existing investors continue, or the company changes hands. The chapter [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down) takes this scenario’s next decision, the reduction, through the people and the work it affects. The chapter [Manage the Handover: What the Next Owner Inherits](#manage-handover) then follows the record through an ownership change: what evidence to keep during the work, who receives cash and who keeps a share of ownership in each type of deal, and how to hand over the unfinished obligations rather than only the company. Part V, [SCALE: Change the Team, the Systems and the Company Deliberately](#part-5), opens with the opposite pressure, when new money makes hiring look like the answer: [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up).
 
 {id: manage-funding-delays--questions-to-consider}
 ## Questions to Consider

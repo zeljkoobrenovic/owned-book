@@ -29,23 +29,23 @@ Whatever you commit to, keep three things visible: **the benefit you expect, how
 
 **Agree what the work is for.**
 
-- [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking): which customer and business results does the work move, which investor metric does it feed, and on what timeline?
-- [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready): which numbers should you hold ready for the investor, goals and dashboards, and how do you define, own and label them?
+- [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking): which customer and business results does the work move, which investor metric does it feed, and on what timeline?
+- [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready): which numbers should you hold ready for the investor, goals and dashboards, and how do you define, own and label them?
 
 **Choose and justify the work.**
 
-- [Set Priorities: You Cannot Fund Everything at Once](#set-priorities): which work fits the cash and team time?
-- [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions): does the change bring more sales, and should the trial continue?
-- [Clarify AI Strategy: Three Different Investment Questions](#clarify-ai-strategy): artificial intelligence (AI) is software that predicts or generates content from data. Will customers pay for it, will staff work better with it, or could a rival product replace yours?
+- [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities): which work fits the cash and team time?
+- [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions): does the change bring more sales, and should the trial continue?
+- [Clarify AI Strategy: Separate the Bet, the Saving and the Threat](#clarify-ai-strategy): artificial intelligence (AI) is software that predicts or generates content from data. Will customers pay for it, will staff work better with it, or could a rival product replace yours?
 
 **Assess what delivery requires.**
 
-- [Assess Capability: Can the Team Deliver?](#assess-capability): what can the software and team support, and what would a transition cost?
+- [Assess Capability: Can Systems and Team Deliver the Plan?](#assess-capability): what can the software and team support, and what would a transition cost?
 
 **Revise when the money is late.**
 
-- [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays): when expected money arrives late, which commitments must change, by what date, and which fallback does the board choose?
+- [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays): when expected money arrives late, which commitments must change, by what date, and which fallback does the board choose?
 
 By the end, you should be able to explain which work deserves money and people, what you can responsibly commit to, and what evidence would change the plan. Benefit here includes customer results and capability, not only money.
 
-Begin with [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking). Part V then changes the team, the systems and the company’s boundary, and Part VI keeps the technology you already run worth its cost.
+Begin with [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking). Part V then changes the team, the systems and the company’s boundary, and Part VI keeps the technology you already run worth its cost.

@@ -1,7 +1,7 @@
 {id: assess-capability}
-# 23. Assess Capability: Can the Team Deliver?
+# 23. Assess Capability: Can Systems and Team Deliver the Plan?
 
-![Assess Capability: Can the Team Deliver? — logo](private-techuity/posts/20-assess-capability/assets/images/20-assess-capability/logo.jpeg)
+![Assess Capability: Can Systems and Team Deliver the Plan? — logo](private-techuity/posts/20-assess-capability/assets/images/20-assess-capability/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to assess whether the software and the team can deliver the plan, and produce a finding that names the obstacle that most limits the plan (its **binding constraint**), the evidence, and what a transition would cost in money and time.
 
@@ -24,7 +24,7 @@ Investment plans often **fix a destination and a date** before anyone has looked
 
 This chapter shows how to make that assessment. It starts from what the plan requires, judges the systems and the team by their consequences for that work, and ends with a **finding**: the obstacle that most limits the plan, the evidence for it, and what a transition would cost in money and time. The assessment covers people as well as software, because the people who run the systems are part of what the company can do. It works the same way whether the systems are built in-house, bought from suppliers or assembled from both.
 
-The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) connected a proposed change to customer and business results; this chapter produces the assessment those results depend on. It stops at the finding. The organizational response to that finding is the subject of the chapter [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), and the choice among implementations is the subject of the chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#plan-for-growth).
+The chapter [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) connected a proposed change to customer and business results; this chapter produces the assessment those results depend on. It stops at the finding. The organizational response to that finding is the subject of the chapter [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up), and the choice among implementations is the subject of the chapter [Plan for Growth: Flexibility Needs a Customer and a Date](#plan-for-growth).
 
 {id: assess-capability--setting-up-the-example-a-second-country-for-rotaline}
 ## Setting Up the Example: A Second Country for Rotaline
@@ -136,7 +136,7 @@ Match the commitment to the next funding decision. Suppose demand in the second 
 
 Now suppose funding is already committed to a proven expansion. The temporary interface then becomes a bottleneck, the point that holds everything else up. Rotaline must cost a setup it can reuse for many customers and further countries. Funding uncertainty can justify limiting scope. It doesn’t justify hiding the cost of completing or safely maintaining the result.
 
-Suppose a parent company, one that owns Rotaline along with other businesses, mandates a group standard: a billing platform, a cloud provider (a supplier of rented computing services) or a release toolchain (the tools used to build, test and release software). What constraints does that create for this plan, and who pays for meeting the standard? Which decisions are made once for a whole group and which stay with the business is one of the questions **enterprise architecture** exists to answer. The integration-depth trade-off is developed in the chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations), and its design consequences in the chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#plan-for-growth).
+Suppose a parent company, one that owns Rotaline along with other businesses, mandates a group standard: a billing platform, a cloud provider (a supplier of rented computing services) or a release toolchain (the tools used to build, test and release software). What constraints does that create for this plan, and who pays for meeting the standard? Which decisions are made once for a whole group and which stay with the business is one of the questions **enterprise architecture** exists to answer. The integration-depth trade-off is developed in the chapter [Plan Acquisitions and Separations: Account for the Work, Not Just the Value](#plan-acquisitions-separations), and its design consequences in the chapter [Plan for Growth: Flexibility Needs a Customer and a Date](#plan-for-growth).
 
 {id: assess-capability--the-finding}
 ## The Finding
@@ -154,7 +154,7 @@ The two smaller options named in the last row are these. One is a bought tax-and
 
 The finding tells the board what the plan assumes that is not yet true, and gives the people who choose the response something to choose against. Company engineers must take part in the diagnosis; their knowledge of the system is part of the capability the plan depends on, and an assessment that treats their explanations as resistance loses the information needed to make the investment work.
 
-The next question is why a small country change takes three weeks when commit-to-production takes under two days, and how much of that is approvals, the two specialists’ queue or implementation. The chapter [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) answers it by tracing one of these pricing changes from request to production, and decides whether Rotaline should change roles, hire, or both. Only then should Rotaline choose among configuring a supplier, drawing a boundary it owns around the country rules and replacing the core; the chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#plan-for-growth) makes that choice against this same finding. Before Part V, the last chapter of Part IV, [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays), asks what happens to a plan like this when the money it depends on arrives late.
+The next question is why a small country change takes three weeks when commit-to-production takes under two days, and how much of that is approvals, the two specialists’ queue or implementation. The chapter [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) answers it by tracing one of these pricing changes from request to production, and decides whether Rotaline should change roles, hire, or both. Only then should Rotaline choose among configuring a supplier, drawing a boundary it owns around the country rules and replacing the core; the chapter [Plan for Growth: Flexibility Needs a Customer and a Date](#plan-for-growth) makes that choice against this same finding. Before Part V, the last chapter of Part IV, [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays), asks what happens to a plan like this when the money it depends on arrives late.
 
 {id: assess-capability--questions-to-consider}
 ## Questions to Consider

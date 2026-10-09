@@ -1,7 +1,7 @@
 {id: fund-economics}
-# 44. Fund Economics: Fees, Distributions and Performance Reports
+# 44. Fund Economics: Why the Fund's Clock Shapes Your Requests
 
-![Fund Economics: Fees, Distributions and Performance Reports — logo](private-techuity/posts/fund-economics/assets/images/fund-economics/logo.jpeg)
+![Fund Economics: Why the Fund's Clock Shapes Your Requests — logo](private-techuity/posts/fund-economics/assets/images/fund-economics/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn how a fund’s manager and investors are paid, how a fund performance report separates what has been distributed from estimated value still held, and what that means for the requests a company receives.
 

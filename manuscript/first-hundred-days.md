@@ -1,7 +1,7 @@
 {id: first-hundred-days}
-# 35. Plan the First Hundred Days: Turn Expectations Into Funded Work
+# 35. Plan the First Hundred Days: Where Expectations Become Commitments
 
-![Plan the First Hundred Days: Turn Expectations Into Funded Work — logo](private-techuity/posts/32-first-hundred-days/assets/images/32-first-hundred-days/logo.jpeg)
+![Plan the First Hundred Days: Where Expectations Become Commitments — logo](private-techuity/posts/32-first-hundred-days/assets/images/32-first-hundred-days/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn to turn one finding from **due diligence**, the investigation an investor makes before investing, into a plan with an accountable person, approved money, protected engineering time and decision dates, and let the day-100 review change that plan.
 
@@ -28,7 +28,7 @@ A deal can change the company’s money, its owners’ rights, the expectations 
 {id: first-hundred-days--setting-up-the-example-rotaline-after-its-growth-investment}
 ## Setting Up the Example: Rotaline After Its Growth Investment
 
-**Rotaline**, the fictional company this book follows, sells scheduling software: businesses use it to decide which of their field staff does which job, and when. Every new customer needs **onboarding**, also called **implementation**: Rotaline’s staff set the software up with that customer’s settings and data until it is ready for real use. The chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) followed the investigation before a **growth investment** in Rotaline, an investment meant to pay for the company’s expansion. That investigation produced three important findings.
+**Rotaline**, the fictional company this book follows, sells scheduling software: businesses use it to decide which of their field staff does which job, and when. Every new customer needs **onboarding**, also called **implementation**: Rotaline’s staff set the software up with that customer’s settings and data until it is ready for real use. The chapter [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence) followed the investigation before a **growth investment** in Rotaline, an investment meant to pay for the company’s expansion. That investigation produced three important findings.
 
 Five people and the board carry the example:
 
@@ -39,7 +39,7 @@ Five people and the board carry the example:
 - **Morgan** is the investor’s technology adviser, who ran the technical part of the investigation.
 - The **board** is the group of directors who oversee the company and approve its major decisions and spending.
 
-Every figure is fictional. The same Rotaline figures run through the chapters [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) and [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover). The first step is to establish what the investment actually changed at Rotaline.
+Every figure is fictional. The same Rotaline figures run through the chapters [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities), [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience), [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) and [Manage the Handover: What the Next Owner Inherits](#manage-handover). The first step is to establish what the investment actually changed at Rotaline.
 
 {id: first-hundred-days--what-actually-changed}
 ## What Actually Changed
@@ -105,7 +105,7 @@ The research item concerns a **customer portal**, a website where customers coul
 
 **Capacity.** The plan allocates 18 of the 24 engineer-weeks and keeps 6 in reserve. Two other demands on people sit outside the 24, and each is counted on its own.
 
-ONB-1 needs the implementation specialist for twelve consecutive weeks. That is implementation time, not engineering time, so it is neither part of ONB-1’s twelve engineer-weeks nor added to them. While the specialist works on the pilot, the ordinary setup queue goes to a **contract implementation specialist**, an outside person Rotaline engaged before day 0 to work through the queue for twelve months. That contract costs €150,000, paid from the operating budget, not from the envelope. The chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) explains it.
+ONB-1 needs the implementation specialist for twelve consecutive weeks. That is implementation time, not engineering time, so it is neither part of ONB-1’s twelve engineer-weeks nor added to them. While the specialist works on the pilot, the ordinary setup queue goes to a **contract implementation specialist**, an outside person Rotaline engaged before day 0 to work through the queue for twelve months. That contract costs €150,000, paid from the operating budget, not from the envelope. The chapter [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) explains it.
 
 KNW-1 uses two existing people. The scheduling specialist gives four weeks to teaching. The second engineer, who already works on the engine, spends about the same four weeks alongside the specialist during the first 60 days, on real releases and a recovery rehearsal. That is about eight person-weeks, set aside from the operating team’s ordinary time before the 24 were counted, so no week is counted twice.
 
@@ -115,7 +115,7 @@ Both KNW-1 participants’ salaries are already in the operating budget, which i
 
 **Continuing cost.** Maintaining the setup step will cost €30,000 a year from the next **financial year**, the company’s next annual accounting period. That cost sits in the operating budget, not in the envelope, and it must not disappear from the continuing plan.
 
-**The recovery objective.** REC-1 tests against the objective agreed in the chapter [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience). **Dispatch**, customers’ daily assignment of jobs to their staff, must resume within four hours of a failure, with no more than fifteen minutes of schedule updates lost. It is an agreed fictional objective, not a legal standard.
+**The recovery objective.** REC-1 tests against the objective agreed in the chapter [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience). **Dispatch**, customers’ daily assignment of jobs to their staff, must resume within four hours of a failure, with no more than fifteen minutes of schedule updates lost. It is an agreed fictional objective, not a legal standard.
 
 **The decision rule, agreed before the pilot started.** Priya measures the cohort’s average staff hours per implementation at day 90, and reports customer waiting time beside it. The board will act on the average like this:
 
@@ -125,7 +125,7 @@ Both KNW-1 participants’ salaries are already in the operating budget, which i
 | 60 to 70 hours | Fund the next learning step; keep expansion and hiring postponed |
 | Over 70 hours, or no reduction | Reopen hiring, a narrower target or the question of how the work is financed |
 
-These are decision thresholds, not the target. The plan’s illustrative model, explained in the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), assumed the pilot would bring effort down to 50 hours.
+These are decision thresholds, not the target. The plan’s illustrative model, explained in the chapter [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions), assumed the pilot would bring effort down to 50 hours.
 
 **Unselected work remains visible.** A short priority list is not permission to postpone an important risk without a decision. Rotaline **deferred**, or postponed with a recorded decision, three items: the full customer-portal build (€220,000 and 12 engineer-weeks; only the €20,000 of research is funded); second-country expansion (moved out of year one during diligence and conditional on ONB-1 evidence); and hiring two implementation specialists (about €300,000 a year, every year, pending pilot evidence). Distinguish active priorities, accepted risks, monitored conditions and later opportunities. Each postponed important risk still needs someone authorized to say it is accepted or monitored.
 
@@ -136,7 +136,7 @@ These are decision thresholds, not the target. The plan’s illustrative model, 
 - **Authority:** the board approved the plan; Ines authorizes spending inside it; Priya and Alex are accountable for the results.
 - **Evidence that would change it:** the ONB-1 cohort’s measured effort and its split between customer data quality and product limits, the day-45 restore, and the day-60 demonstration.
 
-This plan does not promise that the second country is open by day 100. It creates the evidence needed to **fund and sequence that expansion**. A short early plan should reduce uncertainty and establish capability, not disguise a multi-year program as a quick win. [Tool 5](#toolkit--tool-5) gives one initiative's record as a template, and the [Practical Tools for Ownership and Technology Decisions](#toolkit)'s worked example follows ONB-1 through it.
+This plan does not promise that the second country is open by day 100. It creates the evidence needed to **fund and sequence that expansion**. A short early plan should reduce uncertainty and establish capability, not disguise a multi-year program as a quick win. [Tool 5](#toolkit--tool-5) gives one initiative's record as a template, and the [Toolkit: Records That Make a Decision Concrete](#toolkit)'s worked example follows ONB-1 through it.
 
 ![Ideas become operating commitments when outcomes, responsibility, funding, capacity and review dates are agreed.](private-techuity/posts/32-first-hundred-days/assets/images/32-first-hundred-days/priorities-become-commitments.jpeg)
 
@@ -173,7 +173,7 @@ At day 100 the board asked what was learned and what the company can now do, not
 
 **REC-1, the restore.**
 
-- *Outcome:* the day-45 restore took eleven hours and missed the four-hour objective. It hit the same two obstacles as in the chapter [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience). First, the **credential**, the access information for the backup store, belonged to an engineer who had left. Second, the backups could only be loaded into one particular release of the **database** software, and that release was no longer available. The database is the program that stores the service’s data.
+- *Outcome:* the day-45 restore took eleven hours and missed the four-hour objective. It hit the same two obstacles as in the chapter [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience). First, the **credential**, the access information for the backup store, belonged to an engineer who had left. Second, the backups could only be loaded into one particular release of the **database** software, and that release was no longer available. The database is the program that stores the service’s data.
 - *Implication:* the €80,000 and four engineer-weeks had gone into the restore environment, access to the backup store, backups every fifteen minutes and the test itself. They could not be recovered, and they were not a reason to spend more; the correction was justified because the objective is still owed to customers. The restore environment is kept on the same database release as the **live service**, the one customers use. Credentials are held in a controlled store, with an emergency procedure that either of two named people can carry out. And the rehearsal is written down. It needed about €20,000 and two engineer-weeks more.
 - *Decision:* money from the reserve needs the board, so Ines took the request to the board, which approved it around day 47 with a retest by day 85. Committed spending rose to €300,000 and 20 engineer-weeks; the reserve fell to €200,000 and 4 engineer-weeks.
 - *Retest:* at day 85 dispatch resumed within four hours, with under fifteen minutes of lost updates. That proves recovery from one kind of failure: loss of the **application environment**, the servers, database and settings the service runs on. The test assumed the surrounding cloud **region** was still working. A region is one geographic group of the cloud provider’s data centres. An outage of the whole region was not tested. REC-1 closed at €100,000. Ines accepted the remaining risk on the board’s behalf, with a quarterly retest: a regional failure, a rehearsal run only on a weekday, and the fact that only two people can carry out the credential procedure. Finding the obstacles at day 45 gave the team time to correct them before a real failure.
@@ -183,7 +183,7 @@ At day 100 the board asked what was learned and what the company can now do, not
 **ONB-1, the pilot.**
 
 - *Outcome:* Priya measured the cohort of eight customers at day 90 against the day-20 baseline. Effort fell from 80 to 62 hours per implementation, short of the 50 hours the illustrative model assumed. About 40% of the remaining hours traced to customer data quality, so Alex’s explanation was partly supported and Morgan’s was not wrong either. Customer waiting time was unchanged, which only the separate measurement showed. Errors and customers’ requests for help did not rise.
-- *Implication:* 62 hours falls in the 60–70 band of the rule. The observed reduction is 8 × 18 = 144 hours; any annual figure built on it is a projection, and the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) shows how far it can be carried. With the same staff hours, 62 hours per implementation covers about 1.3 times as many customers (80 ÷ 62). The revised thesis needs 1.5 times, which would take about 53 hours.
+- *Implication:* 62 hours falls in the 60–70 band of the rule. The observed reduction is 8 × 18 = 144 hours; any annual figure built on it is a projection, and the chapter [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) shows how far it can be carried. With the same staff hours, 62 hours per implementation covers about 1.3 times as many customers (80 ÷ 62). The revised thesis needs 1.5 times, which would take about 53 hours.
 - *Money and time:* by day 100 ONB-1 had incurred about €90,000 of its €180,000 and used about ten of its twelve engineer-weeks.
 
 **Portal research.** Complete by day 100 inside its €20,000 and two engineer-weeks, all incurred. Its findings went to the review, and the build stays postponed.
@@ -242,7 +242,7 @@ The handover record carries D-3 and ONB-1 forward with the baseline, the committ
 
 Completing every planned task is not success if the tasks addressed the wrong constraint. Revising a major assumption is a valuable outcome even when it reduces the original growth forecast, and the review should reward that judgment rather than the preservation of the deal story. The early period should leave a plan whose accountable leaders understand the work, whose funding and capacity are credible, and whose assumptions can be reviewed.
 
-The plan above assumes the money it was built on arrives when expected. The chapter [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays), in Part IV, takes the same kind of dated plan and asks what changes when financing slips. The continuing obligations this plan creates, including D-3 with its baseline and open work, are handed to the next owner in the next chapter, [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
+The plan above assumes the money it was built on arrives when expected. The chapter [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays), in Part IV, takes the same kind of dated plan and asks what changes when financing slips. The continuing obligations this plan creates, including D-3 with its baseline and open work, are handed to the next owner in the next chapter, [Manage the Handover: What the Next Owner Inherits](#manage-handover).
 
 {id: first-hundred-days--questions-to-consider}
 ## Questions to Consider

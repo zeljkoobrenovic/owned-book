@@ -1,7 +1,7 @@
 {id: toolkit}
-# 43. Practical Tools for Ownership and Technology Decisions
+# 43. Toolkit: Records That Make a Decision Concrete
 
-![Practical Tools for Ownership and Technology Decisions — logo](private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg)
+![Toolkit: Records That Make a Decision Concrete — logo](private-techuity/posts/toolkit/assets/images/toolkit/logo.jpeg)
 
 > **IN THIS SECTION, YOU WILL:** Learn which record fits the decision in front of you, and follow one finding through evidence, options, an authorized initiative, an observed result and a handover.
 
@@ -33,18 +33,18 @@ The tools keep their original numbers because chapters and earlier readers cite 
 | Stage | Your immediate question | Record | Teaching chapter |
 | --- | --- | --- | --- |
 | **Map** | Who receives the investment money, and who can approve the work? | Ownership, funding and decision map — [Tool 1](#toolkit--tool-1) | [Understand Funding and Control: An Investment Announcement Is Not a Budget](#understand-funding-control), [Clarify Authority: Decide Who Decides Before You Disagree](#clarify-authority) |
-| **Investigate** | What should we check before an investment, and how do we record what we found? | One-page technology thesis — [Tool 2](#toolkit--tool-2); material finding — [Tool 3](#toolkit--tool-3) | [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) |
-| **Compare options** | Which combination of improvements can we fund and staff at once? | Investment choices and capacity — [Tool 12](#toolkit--tool-12) | [Set Priorities: You Cannot Fund Everything at Once](#set-priorities) |
-| **Compare options** | A financial target is driving a design proposal; which design alternative? | Valuation-to-architecture record — [Tool 11](#toolkit--tool-11) | [Plan for Growth: Decide What (Not) to Change in Your Systems](#plan-for-growth) |
-| **Commit** | Can we fund and deliver this one improvement, and who is accountable? | Funded initiative record — [Tool 5](#toolkit--tool-5) | [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days) |
+| **Investigate** | What should we check before an investment, and how do we record what we found? | One-page technology thesis — [Tool 2](#toolkit--tool-2); material finding — [Tool 3](#toolkit--tool-3) | [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence) |
+| **Compare options** | Which combination of improvements can we fund and staff at once? | Investment choices and capacity — [Tool 12](#toolkit--tool-12) | [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities) |
+| **Compare options** | A financial target is driving a design proposal; which design alternative? | Valuation-to-architecture record — [Tool 11](#toolkit--tool-11) | [Plan for Growth: Flexibility Needs a Customer and a Date](#plan-for-growth) |
+| **Commit** | Can we fund and deliver this one improvement, and who is accountable? | Funded initiative record — [Tool 5](#toolkit--tool-5) | [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days) |
 | **Obtain help** | What exactly will the adviser or specialist help us do, at what cost, for how long? | Support engagement — [Tool 4](#toolkit--tool-4) | [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help), [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help) |
 | **Obtain help** | Should we work with this investor at all? | Investor-fit interview — [Tool 8](#toolkit--tool-8) | [Assess Investor Fit: Behavior Under Pressure](#assess-investor-fit) |
 | **Learn and explore** | What can we learn through the investor’s network, and what should we revisit afterward? | Learning brief — [Tool 14](#toolkit--tool-14) | [Learn Through Your Investor’s Network: Knowledge, Peers and New Perspectives](#learn-through-investors-network) |
-| **Define the evidence** | We keep arguing about what a number means; how do we define, own and label it before it reaches the board? | Measure record — [Tool 15](#toolkit--tool-15) | [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) |
-| **Measure** | Did the work help, and is the benefit capacity or cash? | Outcome and contribution ledger — [Tool 6](#toolkit--tool-6); small scorecard — [Tool 7](#toolkit--tool-7) | [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs), [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) |
-| **Revise or hand over** | We are combining or separating businesses; what must continue? | Integration or separation plan — [Tool 9](#toolkit--tool-9) | [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations) |
-| **Revise or hand over** | Funding or ownership is changing; what evidence and obligations must travel with the work? | Funding or ownership handover — [Tool 10](#toolkit--tool-10) | [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover), [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays) |
-| **Revise or hand over** | The headcount plan must shrink, or an investor proposes an appointment; who decides, what stops, and what are the people owed? | Workforce decision — [Tool 13](#toolkit--tool-13) | [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) |
+| **Define the evidence** | We keep arguing about what a number means; how do we define, own and label it before it reaches the board? | Measure record — [Tool 15](#toolkit--tool-15) | [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) |
+| **Measure** | Did the work help, and is the benefit capacity or cash? | Outcome and contribution ledger — [Tool 6](#toolkit--tool-6); small scorecard — [Tool 7](#toolkit--tool-7) | [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions), [Evaluate Cloud Costs: What a Lower Bill Can Hide](#evaluate-cloud-costs), [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) |
+| **Revise or hand over** | We are combining or separating businesses; what must continue? | Integration or separation plan — [Tool 9](#toolkit--tool-9) | [Plan Acquisitions and Separations: Account for the Work, Not Just the Value](#plan-acquisitions-separations) |
+| **Revise or hand over** | Funding or ownership is changing; what evidence and obligations must travel with the work? | Funding or ownership handover — [Tool 10](#toolkit--tool-10) | [Manage the Handover: What the Next Owner Inherits](#manage-handover), [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays) |
+| **Revise or hand over** | The headcount plan must shrink, or an investor proposes an appointment; who decides, what stops, and what are the people owed? | Workforce decision — [Tool 13](#toolkit--tool-13) | [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down), [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) |
 
 Tool 12 (choose the combination) comes before Tool 5 (commit to one initiative) in this order: each initiative can be feasible on its own while the combination is not.
 
@@ -55,7 +55,7 @@ Restrict distribution according to the engagement and company permissions. A fil
 {id: toolkit--followed-through}
 ## One Finding, Followed Through
 
-Everything in this section is **fictional**. Rotaline, its people and every figure are teaching examples shared with the chapters [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence), [Adopt Outcome Thinking: Balance Customer and Business KPIs](#adopt-outcome-thinking), [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready), [Set Priorities: You Cannot Fund Everything at Once](#set-priorities), [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days), [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience), [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help), [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help), [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions) and [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover); the figures below are the same ledger those chapters use, so a number here should match the number there. The scenario states its own assumptions and does not reconcile with the annual cash bridge in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), and the chapter [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays) is a separate illustration with its own cash and dates. The chain uses the existing tools only. Read it once to see what each stage adds; then use only the stage you need.
+Everything in this section is **fictional**. Rotaline, its people and every figure are teaching examples shared with the chapters [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence), [Adopt Outcome Thinking: Bridge Product Work to Investor's Numbers](#adopt-outcome-thinking), [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready), [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities), [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days), [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience), [Choose the Right Help: Compare Investor Support With Other Options](#choose-right-help), [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help), [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions) and [Manage the Handover: What the Next Owner Inherits](#manage-handover); the figures below are the same ledger those chapters use, so a number here should match the number there. The scenario states its own assumptions and does not reconcile with the annual cash bridge in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), and the chapter [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays) is a separate illustration with its own cash and dates. The chain uses the existing tools only. Read it once to see what each stage adds; then use only the stage you need.
 
 The scenario: a growth investment whose investment thesis is that Rotaline can double onboarding volume without proportional growth in implementation staff. Morgan, the investor’s technology adviser, records the finding below during diligence. On the one-page thesis (Tool 2), the “main constraint” line points at this finding rather than repeating it.
 
@@ -67,7 +67,7 @@ The scenario: a growth investment whose investment thesis is that Rotaline can d
 | Finding ID / dimension | D-3; organization and economics (product is affected) |
 | Claim and scope | New-customer onboarding depends on one implementation specialist’s manual configuration. Scope: one country, the last two quarters; five of the last twelve implementations sampled. |
 | Evidence and access | Morgan’s sample of five implementations, effort records for each, interviews with Alex (CTO) and the implementation specialist. Access limited to one country’s records. |
-| Kind of claim | **Observed:** in three of the five, configuration needed the same specialist’s manual work; average effort ≈ 80 hours per implementation, matching the teaching model in [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions). **Reported (Alex):** roughly 40% of the effort comes from poor customer data rather than product limitations. **Inferred (Morgan):** the dependency is structural and will not scale with more sales. **Not established:** representativeness across customer types; the actual split between data quality and product limitation. |
+| Kind of claim | **Observed:** in three of the five, configuration needed the same specialist’s manual work; average effort ≈ 80 hours per implementation, matching the teaching model in [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions). **Reported (Alex):** roughly 40% of the effort comes from poor customer data rather than product limitations. **Inferred (Morgan):** the dependency is structural and will not scale with more sales. **Not established:** representativeness across customer types; the actual split between data quality and product limitation. |
 | Business consequence | The thesis assumes onboarding volume doubles with the same implementation team. If the dependency holds, additional bookings do not become timely revenue. |
 | Alternatives | Alex’s data-quality explanation and Morgan’s structural explanation. They are not exclusive: a structural manual step can consist largely of correcting poor customer data. The sample established only that the specialist’s manual work recurs; it did not measure how the hours divide between configuration and data cleaning. Distinguishing evidence: the effort split measured in a pilot cohort, and whether effort falls further once a data-quality step exists. |
 | Confidence / importance | Evidence: moderate (small sample, one country, two quarters). Importance: high — it changes the first-year volume assumption. |
@@ -110,7 +110,7 @@ The same initiative record is shown twice. The left column is the state many pla
 | Evidence that would change the decision | Not stated. | Effort not falling in the cohort; waiting time or error rate rising; the measured effort split showing that the largest remaining share of effort lies in customer data rather than in the setup step. |
 | Financial limit | Fewer hours are capacity; count cash savings only when spending is actually reduced or avoided. | Unchanged. |
 
-The pending column is still useful: it is the preparation described in the chapter [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions). It does not demonstrate a funded initiative until the right column exists. The pilot is a smaller alternative to the €1 million onboarding program in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), not additional spending already approved alongside it.
+The pending column is still useful: it is the preparation described in the chapter [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions). It does not demonstrate a funded initiative until the right column exists. The pilot is a smaller alternative to the €1 million onboarding program in the chapter [Understand Cash Flow: Confirm the Cash Before You Commit](#understand-cash-flow), not additional spending already approved alongside it.
 
 The specialist support that helped build the setup step is a separate record ([Tool 4](#toolkit--tool-4)): ten specialist days over six weeks from about day 21, at a fictional cap of €1,500 a day (€15,000 at most, charged to ONB-1’s €180,000 rather than to the reserve), six days of company engineering effort, Priya accountable, an investor-side sponsor named by role, review at week six — see the chapter [Set the Terms of Help: Agree the Work, Authority and Handover](#set-terms-of-help).
 
@@ -131,7 +131,7 @@ The specialist support that helped build the setup step is a separate record ([T
 {id: toolkit--stage-5}
 ### Stage 5 — The Revised Decision
 
-Before the board can fund anything at day 100, the reserve must be reconciled, because ONB-1 was not the only initiative drawing on it. The restore test REC-1 failed at day 45, and around day 47 the board — not Ines, because a reserve draw is the board’s — approved €20,000 and 2 engineer-weeks for the correction and a retest, which passed at day 85 (see the chapters [Build And Test Resilience: Backups Are Not Enough](#build-test-resilience) and [Set Priorities: You Cannot Fund Everything at Once](#set-priorities)). The envelope therefore reads:
+Before the board can fund anything at day 100, the reserve must be reconciled, because ONB-1 was not the only initiative drawing on it. The restore test REC-1 failed at day 45, and around day 47 the board — not Ines, because a reserve draw is the board’s — approved €20,000 and 2 engineer-weeks for the correction and a retest, which passed at day 85 (see the chapters [Build and Test Resilience: Backups Are Not Enough](#build-test-resilience) and [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities)). The envelope therefore reads:
 
 | Point | Committed cash | Engineer-weeks committed of 24 | Reserve | Approver |
 | --- | ---: | ---: | ---: | --- |
@@ -158,7 +158,7 @@ When funding or ownership next changes, the handover record carries D-3/ONB-1 fo
 | Changed authority | None yet; record any new approval thresholds when the event completes. |
 | Receiver and acceptance | The receiving decision-maker is named and the acceptance dated when the event completes; until then Priya remains accountable. |
 
-Beside this entry sit the rows for the other two findings of the same plan: KNW-1, passed at day 60, and REC-1, passed on retest at day 85 with a recorded residual (a regional outage is out of scope; rehearsal is weekday-only; two people hold the credentials) that Ines accepted on the board’s behalf with a quarterly retest. A new shareholder’s reporting format should not erase these entries. The original cost, the shortfall against target and the open work are the operating history the next team inherits — see the chapter [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover).
+Beside this entry sit the rows for the other two findings of the same plan: KNW-1, passed at day 60, and REC-1, passed on retest at day 85 with a recorded residual (a regional outage is out of scope; rehearsal is weekday-only; two people hold the credentials) that Ines accepted on the board’s behalf with a quarterly retest. A new shareholder’s reporting format should not erase these entries. The original cost, the shortfall against target and the open work are the operating history the next team inherits — see the chapter [Manage the Handover: What the Next Owner Inherits](#manage-handover).
 
 {id: toolkit--what-each-stage-added}
 ### What Each Stage Added
@@ -189,7 +189,7 @@ For fictional Rotaline, “hire two engineers after €2m arrives and the board 
 {id: toolkit--tool-2}
 ## 2. Write a One-Page Technology Thesis
 
-Use when investigating a proposed investment, then revise with the company leaders responsible for the plan after the transaction completes. See the chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence). The thesis summarizes and links the findings (Tool 3); it does not repeat them.
+Use when investigating a proposed investment, then revise with the company leaders responsible for the plan after the transaction completes. See the chapter [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence). The thesis summarizes and links the findings (Tool 3); it does not repeat them.
 
 **Company and date:** [fill in]. **Ownership and rights:** [shareholders, control and approvals]. **Funding or transaction:** [new shares, sale, refinancing, separation or continued ownership]. **Decision and accountable company leader:** [fill in].
 
@@ -210,7 +210,7 @@ A thesis is useful if a decision-maker can explain **what would make it fail**. 
 {id: toolkit--tool-3}
 ## 3. Record a Material Diligence Finding
 
-The seven dimensions are a coverage aid: product, architecture, engineering, data and AI, security and resilience, organization, and economics. Don’t average their scores into false precision. See the chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence). The [D-3 record in Stage 1](#toolkit--stage-1) is a completed example.
+The seven dimensions are a coverage aid: product, architecture, engineering, data and AI, security and resilience, organization, and economics. Don’t average their scores into false precision. See the chapter [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence). The [D-3 record in Stage 1](#toolkit--stage-1) is a completed example.
 
 | Field | Record |
 | --- | --- |
@@ -242,7 +242,7 @@ Review service cost and company effort along with satisfaction. Before extending
 {id: toolkit--tool-5}
 ## 5. Build a Funded Initiative Record
 
-Use for an early operating plan or later intervention. See the chapter [Plan the First Hundred Days: Turn Expectations Into Funded Work](#first-hundred-days). The [pending and authorized versions of ONB-1 in Stage 3](#toolkit--stage-3) show the level of detail to start with, and what must be added before the record describes funded work.
+Use for an early operating plan or later intervention. See the chapter [Plan the First Hundred Days: Where Expectations Become Commitments](#first-hundred-days). The [pending and authorized versions of ONB-1 in Stage 3](#toolkit--stage-3) show the level of detail to start with, and what must be added before the record describes funded work.
 
 | Field | Record |
 | --- | --- |
@@ -274,7 +274,7 @@ Distinguish cash received, a contractual commitment with understood conditions, 
 {id: toolkit--tool-6}
 ## 6. Keep an Outcome and Contribution Ledger
 
-Use to prevent an activity, a capacity gain, and a financial result from becoming the same claim. See the chapters [Test Revenue Assumptions: Do Customers Respond as Expected?](#test-revenue-assumptions), [Critically Evaluate Cloud Costs: A Lower Bill Is Not Always Better](#evaluate-cloud-costs), and [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns). The ledger holds one initiative’s result; the scorecard (Tool 7) selects a few measures across initiatives. The [ONB-1 entry in Stage 4](#toolkit--stage-4) is a completed example.
+Use to prevent an activity, a capacity gain, and a financial result from becoming the same claim. See the chapters [Test Revenue Assumptions: The Investor Judges the End of the Chain](#test-revenue-assumptions), [Evaluate Cloud Costs: What a Lower Bill Can Hide](#evaluate-cloud-costs), and [Understand Investor Returns: Same Performance, Different Outcomes](#understand-investor-returns). The ledger holds one initiative’s result; the scorecard (Tool 7) selects a few measures across initiatives. The [ONB-1 entry in Stage 4](#toolkit--stage-4) is a completed example.
 
 Record the original baseline and its definition; the intervention and actual cost; the observed result and period; relevant customer or service quality; demand and mix changes; acquisition effects; and other initiatives. Link the underlying evidence rather than copying uncontrolled numbers around.
 
@@ -289,7 +289,7 @@ Record the original baseline and its definition; the intervention and actual cos
 {id: toolkit--tool-7}
 ## 7. Use a Small Outcome Scorecard
 
-Choose measures around the thesis, each with a named accountable leader and a definition. See the chapter [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready), which chooses the small set. The rows below are examples of questions, not a mandatory portfolio dashboard.
+Choose measures around the thesis, each with a named accountable leader and a definition. See the chapter [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready), which chooses the small set. The rows below are examples of questions, not a mandatory portfolio dashboard.
 
 | Perspective | Outcome question | Possible evidence | Necessary guardrail |
 | --- | --- | --- | --- |
@@ -321,7 +321,7 @@ Compare the answers across participants and permitted references. An absent docu
 {id: toolkit--tool-9}
 ## 9. Plan Acquisition Integration or Separation
 
-Use alongside the transaction timetable, with appropriate legal and financial specialists. See the chapter [Plan Acquisitions and Separations: Account for Extra Work, Not Just Expected Value](#plan-acquisitions-separations).
+Use alongside the transaction timetable, with appropriate legal and financial specialists. See the chapter [Plan Acquisitions and Separations: Account for the Work, Not Just the Value](#plan-acquisitions-separations).
 
 Identify the value mechanism that requires each integration: reporting, commercial collaboration, shared capability, or product convergence. Record the customer impact, permitted data flows, license and intellectual-property rights, identity and access boundaries, product commitments, supplier dependencies, and the people who hold critical knowledge.
 
@@ -332,7 +332,7 @@ Sequence changes around customer continuity and scarce expertise. Show dual-runn
 {id: toolkit--tool-10}
 ## 10. Prepare a Funding or Ownership Handover
 
-Use for another round, a sale, corporate integration or a material change in authority. See the chapter [Manage the Handover: Carry Forward the Evidence and Obligations](#manage-handover) for what must travel with the work, and [Manage Funding Delays: Revise the Cash Plan and Commitments](#manage-funding-delays) for the delayed-event plan; the chapter [Use Diligence: Correct the Plan Before It Is Signed](#use-diligence) shows what the next investor will look for. A new fundraise and an investor selling existing shares need different cash explanations. The [D-3/ONB-1 entry in Stage 6](#toolkit--stage-6) is a completed row.
+Use for another round, a sale, corporate integration or a material change in authority. See the chapter [Manage the Handover: What the Next Owner Inherits](#manage-handover) for what must travel with the work, and [Manage Funding Delays: Expected Money Is Not Cash](#manage-funding-delays) for the delayed-event plan; the chapter [Use Diligence: Your Last Chance to Shape the Plan](#use-diligence) shows what the next investor will look for. A new fundraise and an investor selling existing shares need different cash explanations. The [D-3/ONB-1 entry in Stage 6](#toolkit--stage-6) is a completed row.
 
 | Field | Record |
 | --- | --- |
@@ -350,7 +350,7 @@ Use for another round, a sale, corporate integration or a material change in aut
 {id: toolkit--tool-11}
 ## 11. Connect Valuation to Architecture
 
-Use this companion to the initiative record when a financial target is driving a technology proposal. Its main application is choosing between design alternatives under stated constraints — see the chapter [Plan for Growth: Decide What (Not) to Change in Your Systems](#plan-for-growth). The chapter [Understand Valuation: An Estimate, Not a Fact](#understand-valuation) supplies the financial vocabulary.
+Use this companion to the initiative record when a financial target is driving a technology proposal. Its main application is choosing between design alternatives under stated constraints — see the chapter [Plan for Growth: Flexibility Needs a Customer and a Date](#plan-for-growth). The chapter [Understand Valuation: An Estimate, Not a Fact](#understand-valuation) supplies the financial vocabulary.
 
 | Record | Questions to answer together |
 | --- | --- |
@@ -365,7 +365,7 @@ A valuation ratio is context for this conversation. It doesn’t replace the cus
 {id: toolkit--tool-12}
 ## 12. Compare Investment Choices and Capacity
 
-Use before approving a combination of projects. See the chapter [Set Priorities: You Cannot Fund Everything at Once](#set-priorities). This record complements the individual initiative record in Tool 5: each project can be feasible on its own while the combination is not. The [option rows for D-3 in Stage 2](#toolkit--stage-2) are a completed example.
+Use before approving a combination of projects. See the chapter [Set Priorities: Say No With Evidence, Not Opinion](#set-priorities). This record complements the individual initiative record in Tool 5: each project can be feasible on its own while the combination is not. The [option rows for D-3 in Stage 2](#toolkit--stage-2) are a completed example.
 
 | Field | Record |
 | --- | --- |
@@ -385,7 +385,7 @@ Record the reason for the selected combination in ordinary language. A score can
 {id: toolkit--tool-13}
 ## 13. Record a Workforce Decision
 
-Use when an investor’s request, a funding condition or the company’s own cash forecast means the headcount plan must change: a reduction, a freeze that becomes permanent, or a consolidation after an acquisition. See the chapter [Scale the Team Down: Decide What Work Stops, Not Just Who Leaves](#scale-the-team-down) for the worked reduction and [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) for the knowledge-transfer test and for an investor-proposed appointment, which uses the first three rows and the role-design fields of Tool 5 rather than a separate form. Reuse Tool 1’s Authority row and Tool 12’s option comparison rather than copying them.
+Use when an investor’s request, a funding condition or the company’s own cash forecast means the headcount plan must change: a reduction, a freeze that becomes permanent, or a consolidation after an acquisition. See the chapter [Scale the Team Down: A Cut Is a Number, Not a Plan](#scale-the-team-down) for the worked reduction and [Scale the Team Up: Headcount Is Not Capacity](#scale-the-team-up) for the knowledge-transfer test and for an investor-proposed appointment, which uses the first three rows and the role-design fields of Tool 5 rather than a separate form. Reuse Tool 1’s Authority row and Tool 12’s option comparison rather than copying them.
 
 | Field | Record |
 | --- | --- |
@@ -424,7 +424,7 @@ Better questions and continuing relationships can be worthwhile results. Record 
 {id: toolkit--tool-15}
 ## 15. Define a Measure Before You Report It
 
-Use before a measure enters a board pack, an investor update or a funding decision. [Have Your Numbers Ready: Metrics for Investors, Goals and Dashboards](#have-your-numbers-ready) explains the labelling rule and the internal/shared boundary. One short record per measure; if a measure cannot be given an owner or a decision, it probably should not be reported.
+Use before a measure enters a board pack, an investor update or a funding decision. [Have Your Numbers Ready: One Set for Investors, Goals and Teams](#have-your-numbers-ready) explains the labelling rule and the internal/shared boundary. One short record per measure; if a measure cannot be given an owner or a decision, it probably should not be reported.
 
 | Field | Record |
 | --- | --- |
